@@ -20,4 +20,4 @@ In der Tour werden diese der Reihenfolge nach abgerufen.
 
 ### Karte
 
-Die Karte in `resources/map.svg` wird als Vorlage verwendet.
+Die Karte in `resources/images/map.svg` wird als Vorlage verwendet.
