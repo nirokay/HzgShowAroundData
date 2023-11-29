@@ -23,7 +23,7 @@
         "same": [
             "Werkstatt-Laden im MühlenMarkt"
         ],
-        "coords": [674, 1472, 755, 1545]
+        "coords": [679, 1472, 755, 1545]
     },
     {
         "name": "Werkstatt-Laden im MühlenMarkt",
@@ -38,7 +38,7 @@
         "same": [
             "MühlenMarkt"
         ],
-        "coords": [640, 1506, 674, 1544]
+        "coords": [640, 1511, 677, 1545]
     },
     {
         "name": "Friseur",
@@ -47,7 +47,7 @@
             "Mo - So": "derzeit geschlossen"
         },
         "pics": {},
-        "coords": [640, 1472, 674, 1505],
+        "coords": [640, 1472, 677, 1509],
         "same": []
     },
     {
@@ -58,7 +58,7 @@
             "Di, Do":  "13.15 - 17.00"
         },
         "pics": {},
-        "coords": [657, 1617, 719, 1652],
+        "coords": [660, 1618, 718, 1651],
         "same": []
     },
     {
@@ -66,7 +66,7 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [620, 1067, 966, 1445],
+        "coords": [625, 1103, 959, 1357],
         "same": []
     },
     {
@@ -74,7 +74,7 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [636, 1003, 718, 1044],
+        "coords": [635, 1001, 719, 1046],
         "same": []
     },
     {
@@ -82,7 +82,7 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [684, 711, 719, 766],
+        "coords": [683, 710, 720, 764],
         "same": ["Vereinsheim SV Herzogsägmühle", "Tennisplatz", "Fußballplatz", "Handballfeld", "Sprintstrecke"]
     },
     {
@@ -93,14 +93,14 @@
             "Fr":      "08.00 - 12.00"
         },
         "pics": {},
-        "coords": [258, 1018, 341, 1055]
+        "coords": [257, 1018, 341, 1055]
     },
     {
         "name": "Cafe und Wirtshaus Herzog",
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [532, 828, 580, 911],
+        "coords": [545, 825, 581, 915],
         "same": []
     },
     {
@@ -108,7 +108,7 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [392, 828, 503, 957],
+        "coords": [395, 830, 507, 931],
         "same": []
     },
     {
@@ -116,7 +116,7 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [506, 862, 543, 963],
+        "coords": [509, 860, 543, 915],
         "same": []
     },
     {
@@ -124,7 +124,7 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [430, 959, 474, 1061],
+        "coords": [427, 957, 477, 1063],
         "same": []
     },
     {
@@ -132,7 +132,7 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [119, 472, 263, 647],
+        "coords": [175, 493, 256, 636],
         "same": []
     },
     {
@@ -140,7 +140,7 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [400, 88, 436, 138],
+        "coords": [399, 86, 438, 138],
         "same": ["Tennisplatz", "Fußballplatz", "Handballfeld", "Sprintstrecke", "Beach-Volleyballfeld"]
     },
     {
@@ -148,7 +148,7 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [448, 65, 537, 155],
+        "coords": [447, 63, 538, 158],
         "same": ["Vereinsheim SV Herzogsägmühle", "Fußballplatz", "Handballfeld", "Sprintstrecke", "Beach-Volleyballfeld"]
     },
     {
@@ -156,7 +156,7 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [393, 169, 545, 392],
+        "coords": [396, 166, 550, 396],
         "same": ["Vereinsheim SV Herzogsägmühle", "Tennisplatz", "Handballfeld", "Sprintstrecke", "Beach-Volleyballfeld"]
     },
     {
@@ -164,7 +164,7 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [350, 414, 464, 482],
+        "coords": [350, 412, 465, 484],
         "same": ["Vereinsheim SV Herzogsägmühle", "Tennisplatz", "Fußballplatz", "Sprintstrecke", "Beach-Volleyballfeld"]
     },
     {
@@ -172,7 +172,7 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [547, 74, 567, 392],
+        "coords": [543, 72, 567, 385],
         "same": ["Vereinsheim SV Herzogsägmühle", "Tennisplatz", "Fußballplatz", "Handballfeld", "Beach-Volleyballfeld"]
     }
 ]
