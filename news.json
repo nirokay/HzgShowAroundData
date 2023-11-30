@@ -1,0 +1,22 @@
+[
+    {
+        "from": "2023-11-01",
+        "till": "2023-12-31",
+        "name": "Testing",
+        "details": [
+            "Description bla bla",
+            "ohh this is a new line??",
+            "so much information"
+        ]
+    },
+    {
+        "from": "2023-11-24",
+        "till": "2023-12-20",
+        "name": "Mühlenmarkt Info idk",
+        "id": "mühlenmarkt",
+        "details": [
+            "Hmm bla bla yes yes",
+            "uh huh, much infos"
+        ]
+    }
+]
