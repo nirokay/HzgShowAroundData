@@ -18,5 +18,21 @@
             "Hmm bla bla yes yes",
             "uh huh, much infos"
         ]
+    },
+    {
+        "from": "2022-01-01",
+        "till": "2022-01-31",
+        "name": "Outdated news",
+        "details": [
+            "bla bla"
+        ]
+    },
+    {
+        "from": "2025-01-01",
+        "till": "2025-01-31",
+        "name": "Irrelevant news",
+        "details": [
+            "bla bla bla blaaaaaaaa"
+        ]
     }
 ]
