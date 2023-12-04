@@ -1,8 +1,8 @@
 [
     {
         "name": "Weihnachtsmarkt",
-        "from": "*-12-01",
-        "till": "*-12-04",
+        "from": "2023-12-01",
+        "till": "2023-12-03",
         "details": [
             "Der Weihnachtsmarkt finded in und vor der Deckerhalle statt."
         ]
