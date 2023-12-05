@@ -9,6 +9,18 @@
         ]
     },
     {
+        "name": "Bescherung und Weihnachtsessen",
+        "from": "2023-12-11",
+        "till": "2023-12-11",
+        "level": "info",
+        "details": [
+            "15:00 Bescherung",
+            "17:45 Aufbruch zur Deckerhalle",
+            "18:30 - 20:00 Weihnachtsessen",
+            "Bitte beachte die Aushänge in deinem Haus für Infos"
+        ]
+    },
+    {
         "name": "Weihnachten",
         "from": "*-12-24",
         "till": "*-12-26",
