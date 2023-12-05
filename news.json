@@ -3,6 +3,7 @@
         "name": "Weihnachtsmarkt",
         "from": "2023-12-01",
         "till": "2023-12-03",
+        "level": "info",
         "details": [
             "Der Weihnachtsmarkt finded in und vor der Deckerhalle statt."
         ]
@@ -11,8 +12,29 @@
         "name": "Weihnachten",
         "from": "*-12-24",
         "till": "*-12-26",
+        "level": "info",
         "details": [
             "Frohe Weihnachten!"
+        ]
+    },
+    {
+        "name": "Test Alert",
+        "from": "*-01-01",
+        "till": "*-12-31",
+        "level": "alert",
+        "details": [
+            "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!!!!!!!!",
+            "ACHTUNG ACHTUNG"
+        ]
+    },
+    {
+        "name": "Test Warning",
+        "from": "*-01-01",
+        "till": "*-12-31",
+        "level": "warning",
+        "details": [
+            "aaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!",
+            "WARNUNGGGGGG"
         ]
     }
 ]
