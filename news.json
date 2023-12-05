@@ -5,7 +5,7 @@
         "till": "2023-12-03",
         "level": "info",
         "details": [
-            "Der Weihnachtsmarkt finded in und vor der Deckerhalle statt."
+            "Der Weihnachtsmarkt findet in und vor der Deckerhalle statt."
         ]
     },
     {
@@ -17,6 +17,11 @@
             "Frohe Weihnachten!"
         ]
     },
+
+
+
+
+
     {
         "name": "Test Alert",
         "from": "*-01-01",
