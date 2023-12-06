@@ -31,6 +31,7 @@ Das ist ein Beispielort, du kannst dich daran orientieren, wenn du einen neuen O
 ```json
 {
     "name": "Ortname",
+    "link": "https://link-zu-einer-resource.example.com",
     "desc": {
         "Überschrift 1": [
             "Hier kommt Text rein.",
@@ -77,6 +78,10 @@ Manche Felder sind **notwendig**! Diese wurden mit einem `*` Sternchen versehen.
 Das ist der Ortsname, es ist ein einfacher String.
 
 **Beispiel:** `"Mühlenmarkt"`, `"Deckerhalle"`
+
+##### `link` - Link
+
+`link` ist ein String einer URL. Dies kann z.B. zu der offiziellen HzgSägmühle Website führen.
 
 ##### `desc` - (Description) Beschreibung
 
