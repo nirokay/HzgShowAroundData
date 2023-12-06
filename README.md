@@ -19,16 +19,16 @@ Informationen über Orte befindet sich in `locations.json`.
 Warum nicht einfach HTML? Am Ende wird es doch ehh HTML...
 
 > Alle Orte teilen den selben Aufbau, den jedes Mal zu wiederholen wäre sehr aufwändig, nicht effizient und fehlerreif.
-> 
+>
 > JSON lässt dich das wichtige Schreiben - den Content. Das langweilige HTML-Gedöns wird für dich übernommen. :)
-> 
+>
 > Dazu kommt noch, dass es alle Infos zentral gespeichert sind. Damit hat eine Änderung überall Effekt und muss nicht in 10 verschiedenen Orten geändert werden.
 
 #### Beispiel
 
 Das ist ein Beispielort, du kannst dich daran orientieren, wenn du einen neuen Ort hinzufügst oder updatest!
 
-```json```
+```json
 {
     "name": "Ortname",
     "desc": {
@@ -55,7 +55,7 @@ Das ist ein Beispielort, du kannst dich daran orientieren, wenn du einen neuen O
     ],
     "coords": [
         69,  420,
-        169, 520
+        169, 520
     ]
 }
 ```
@@ -92,14 +92,14 @@ Der Value ist ein Paragraph, jeder String ist eine eigene Zeile.
 
 ```json
 "desc": {
-    "Überschrift": [
-        "Zeile 1",
-        "Zeile 2"
-    ],
-    "Noch eine Überschrift": [
-        "Zeile",
-        "Neue Zeile"
-    ]
+    "Überschrift": [
+        "Zeile 1",
+        "Zeile 2"
+    ],
+    "Noch eine Überschrift": [
+        "Zeile",
+        "Neue Zeile"
+    ]
 }
 ```
 
@@ -120,7 +120,7 @@ Der Value ist ein Paragraph, jeder String ist eine eigene Zeile.
 Die Values sind die Dateinamen im Ordner `resources/images/`.
 
 > Das heißt:
-> 
+>
 > `resources/images/ort_1_eingang.png` -> `ort_1_eingang.png`
 
 ##### `same` - Gleiches / Ähnliches
