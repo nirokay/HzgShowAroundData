@@ -1,6 +1,7 @@
 [
     {
         "name": "MühlenMarkt",
+        "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/herzogsaegmuehler-laeden",
         "desc": {
             "Header": [
                 "This is a paragraph."
@@ -27,6 +28,7 @@
     },
     {
         "name": "Werkstatt-Laden im MühlenMarkt",
+        "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/herzogsaegmuehler-laeden",
         "desc": {},
         "open": {
             "Mo":      "08.30 - 13.00",
@@ -52,6 +54,7 @@
     },
     {
         "name": "Post",
+        "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/herzogsaegmuehler-laeden",
         "desc": {},
         "open": {
             "Mo - Fr": "08.00 - 12.00",
@@ -63,8 +66,13 @@
     },
     {
         "name": "Gärtnerei",
+        "link": "https://www.herzogsaegmuehle.de/handwerk-und-dienstleistung",
         "desc": {},
-        "open": {},
+        "open": {
+            "Mo":      "08.30 - 12.30",
+            "Di - Do": "08.30 - 12.30 & 13.30 - 16.30",
+            "Fr":      "08.30 - 12.30"
+        },
         "pics": {},
         "coords": [625, 1103, 959, 1357],
         "same": []
@@ -87,6 +95,7 @@
     },
     {
         "name": "Wühlkiste",
+        "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/herzogsaegmuehler-laeden",
         "desc": {},
         "open": {
             "Mo - Do": "08.00 - 12.00 & 13.00 - 17.00",
@@ -97,6 +106,7 @@
     },
     {
         "name": "Cafe und Wirtshaus Herzog",
+        "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/cafe-und-wirtshaus-herzog",
         "desc": {},
         "open": {},
         "pics": {},
