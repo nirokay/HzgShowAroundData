@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Test HTML Artikel",
+        "author": "nirokay",
+        "date": "07.12.2023",
+        "remote": "test_html_article.html"
+    },
+    {
+        "title": "Test JSON Artikel",
+        "author": "nirokay",
+        "date": "07.12.2023",
+        "body": [
+            "# Das ist eine h1 Überschrift",
+            "## Das eine h2",
+            "### Und das eine h3",
+            "Dieser Artikel wurde mit JSON generiert!",
+            "## Bilder",
+            "<img>test.png</img>",
+            "<i>test.png</i>",
+            "<img=test.png>",
+            "<i=test.png>"
+        ]
+    }
+]
