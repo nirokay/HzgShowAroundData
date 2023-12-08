@@ -9,7 +9,7 @@
     {
         "title": "Test JSON Artikel",
         "author": "nirokay",
-        "date": "07.12.2023",
+        "date": "08.12.2023",
         "desc": "Testartikel, der in JSON geschrieben worden ist.",
         "body": [
             "# Das ist eine h1 Überschrift",
@@ -19,8 +19,20 @@
             "## Bilder",
             "<img>test.png</img>",
             "<i>test.png</i>",
-            "<img=test.png>",
-            "<i=test.png>"
+            "<img=test.png>"
         ]
+    },
+    {
+        "title": "Test again",
+        "author": "nirokay",
+        "date": "06.12.2023",
+        "body": [
+            "testing"
+        ]
+    },
+    {
+        "title": "Testtttttttt",
+        "author": "nirokay",
+        "body": ["hi"]
     }
 ]
