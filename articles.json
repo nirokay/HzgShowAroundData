@@ -3,12 +3,14 @@
         "title": "Test HTML Artikel",
         "author": "nirokay",
         "date": "07.12.2023",
+        "desc": "Testartikel, der in HTML geschrieben worden ist."
         "remote": "test_html_article.html"
     },
     {
         "title": "Test JSON Artikel",
         "author": "nirokay",
         "date": "07.12.2023",
+        "desc": "Testartikel, der in JSON geschrieben worden ist.",
         "body": [
             "# Das ist eine h1 Überschrift",
             "## Das eine h2",
