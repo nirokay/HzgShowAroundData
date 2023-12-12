@@ -150,6 +150,147 @@ Die Datei `tour_locations.json` beinhaltet ein einfache Array von den Ort-IDs. D
 
 In der Tour werden diese der Reihenfolge nach abgerufen.
 
+### Artikel
+
+Du kannst Artikel in zwei Formen schreiben.
+
+Egal welches der Zwei du wählst, musst du in der `articles.json` Datei deinen Artikel hinzufügen.
+
+**Beispiel:**
+
+```json
+{
+    "title": "Artikel Titel",
+    "author": "Dein Name",
+    "date": "Datum im format 'dd.MM.yyyy'",
+    "desc": "Kurze Beschreibung worum es im Artikel geht (wird in der Artikel-Preview angezeigt).",
+    "body": null,
+    "remote": null
+}
+```
+
+Die Felder `"body"` und `"remote"` werden hier erklärt:
+
+#### HTML
+
+> **Pro:**
+>
+> * volle Kontrolle über HTML (und CSS zu einem gewissen Grad)
+>
+> **Contra:**
+>
+> * komplizierter als JSON -> braucht Kenntnisse über HTML
+
+Alles was geschrieben ist, wird in die `<body> *dein HTML* </body>` Tags gepackt.
+
+**Beispiel:**
+
+```html
+<h1>Größte Überschrift</h1>
+
+<h2>Große Überschrift</h2>
+<p>Paragraph mit Text</p>
+
+<h2>Neue Überschrift</h2>
+<p>Bla bla Text</p>
+<img src="pfad/zur/bild/datei.png" alt="Text, der erscheint, wenn das Bild unverfügbar ist.">
+```
+
+... wird zu:
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        ...
+    </head>
+    <body>
+        <h1>Größte Überschrift</h1>
+
+        <h2>Große Überschrift</h2>
+        <p>Paragraph mit Text</p>
+
+        <h2>Neue Überschrift</h2>
+        <p>Bla bla Text</p>
+        <img src="pfad/zur/bild/datei.png" alt="Text, der erscheint, wenn das Bild unverfügbar ist.">
+    </body>
+</html>
+```
+
+**Verzeichnis in der `articles.json` Datei:**
+
+```json
+{
+    ...,
+    "remote": "name_deines_artikels.html"
+}
+```
+
+**Anmerkung:** Du kannst das CSS für die ganze Website [hier finden](https://github.com/nirokay/HzgShowAround/blob/master/styles.css)!
+
+#### JSON
+
+> **Pro:**
+>
+> * leichter zu verfassen
+>
+> * braucht nur Basiskenntnisse über JSON
+>
+> **Contra:**
+>
+> * eingeschränkteres Styling
+
+**Beispiel:**
+
+```json
+{
+    ...,
+    "body": [
+        "# Größte Überschrift",
+
+        "## Große Überschrift",
+        "Paragraph mit Text",
+
+        "## Neue Überschrift",
+        "Bla bla Text",
+        "<img>pfad/zur/bild/datei.png</img>"
+    ]
+}
+```
+
+*Header Tags (Überschriften):*
+
+Headers sind eins-zu-eins wie in [Markdown](https://en.wikipedia.org/wiki/Markdown).
+
+* `#` *(-> enspricht HTML: h1)*
+* `##` *(-> enspricht HTML: h2)*
+* `###` *(-> enspricht HTML: h3)*
+* `####` *(-> enspricht HTML: h4)*
+* `#####` *(-> enspricht HTML: h5)*
+* `######` *(-> enspricht HTML: h6)*
+
+*Bilder Tags:*
+
+* `<img>...</img>`
+* `<img=...>`
+
+* `<i>...</i>`
+* `<i=...>`
+
+* `<bild>...</bild>`
+* `<bild=...>`
+
+* `<pic>...</pic>`
+* `<pic=...>`
+
+**Anmerkung:** Alle Tags müssen am Anfang einer Zeile sein, wenn sie mitten in einer Zeile auftauchen,
+dann werden sie als normaler Text interpretiert.
+
+* `"Bla bla <img=bild.png>"` wird als normaler Paragraph angezeigt.
+* `"Text # Überschrift?"` ebenfalls als normaler Paragraph.
+
+Es ist theoretisch möglich HTML Tags in einem JSON-Artikel zu verwenden, aber das ist nicht empfehlenswert.
+
 ### Karte
 
 Die Karte in `resources/images/map.svg` wird als Vorlage verwendet.
