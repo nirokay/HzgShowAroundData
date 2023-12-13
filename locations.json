@@ -18,8 +18,8 @@
             "Metzgerei": "keine Bedienung dienstags und samstags ab 13.00"
         },
         "pics": {
-            "header": "mühlenmarkt.png",
-            "footer": ""
+            "header": "temp_mühlenmarkt.jpg",
+            "footer": "temp_mühlenmarkt_footer.jpg"
         },
         "same": [
             "Werkstatt-Laden im MühlenMarkt"

@@ -226,7 +226,7 @@ Alles was geschrieben ist, wird in die `<body> *dein HTML* </body>` Tags gepackt
 }
 ```
 
-**Anmerkung:** Du kannst das CSS für die ganze Website [hier finden](https://github.com/nirokay/HzgShowAround/blob/master/styles.css)!
+**Anmerkung:** Du kannst das CSS für Artikel [hier finden](https://github.com/nirokay/HzgShowAround/blob/master/article/article-styles.css)!
 
 #### JSON
 
