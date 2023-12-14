@@ -65,6 +65,38 @@
         "same": []
     },
     {
+        "name": "gesundheits.punkt",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "coords": [819, 1575, 876, 1619],
+        "same": []
+    },
+    {
+        "name": "Metzgerei und Bäckerei",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "coords": [878, 1574, 967, 1619],
+        "same": []
+    },
+    {
+        "name": "Herzogsägmühler Werkstätten",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "coords": [819, 1621, 967, 1849],
+        "same": []
+    },
+    {
+        "name": "Telezentrum - Digitale Medien",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "coords": [1131, 1750, 1256, 1864],
+        "same": []
+    },
+    {
         "name": "Am Latterbach - Häuser",
         "desc": {
             "Haus 13": [],
