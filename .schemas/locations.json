@@ -1,0 +1,51 @@
+{
+    "title": "Locations Array",
+    "type": "array",
+    "properties": {
+        "title": "Location Object",
+        "description": "The entire location object.",
+        "required": ["name"],
+        "properties": {
+            "name": {
+                "type": "string",
+                "description": "The locations name"
+            },
+            "desc": {
+                "type": "object",
+                "description": "The description of a loation"
+            },
+            "open": {
+                "type": "object",
+                "description": "The opening/closing times of the location"
+            },
+            "pics": {
+                "type": "object",
+                "description": "Pictures",
+                "properties": {
+                    "header": {
+                        "type": "string",
+                        "description": "Header image"
+                    },
+                    "footer": {
+                        "type": "string",
+                        "description": "Footer image"
+                    }
+                }
+            },
+            "same": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            },
+            "coords": {
+                "type": "array",
+                "items": {
+                    "type": "integer",
+                    "minLength": 4,
+                    "maxLength": 4
+                }
+            }
+        }
+    }
+}
