@@ -286,10 +286,39 @@ Headers sind eins-zu-eins wie in [Markdown](https://en.wikipedia.org/wiki/Markdo
 **Anmerkung:** Alle Tags müssen am Anfang einer Zeile sein, wenn sie mitten in einer Zeile auftauchen,
 dann werden sie als normaler Text interpretiert.
 
-* `"Bla bla <img=bild.png>"` wird als normaler Paragraph angezeigt.
+* `"Bla bla, Bild?: <img=bild.png>"` wird als normaler Paragraph angezeigt.
 * `"Text # Überschrift?"` ebenfalls als normaler Paragraph.
+* `#Überscrift?` ist ein normaler Paragraph, Überschrift-Tags müssen mit einem Leerzeichen gefolgt werden!
 
-Es ist theoretisch möglich HTML Tags in einem JSON-Artikel zu verwenden, aber das ist nicht empfehlenswert.
+Es ist möglich HTML Tags in einem JSON-Artikel zu verwenden, aber das ist nicht sonderlich empfehlenswert.
+
+**Beispiel für HTML im JSON-Artikel:**
+
+```json
+[
+    {
+        ...,
+        "body": [
+            "# Thema",
+            "Sehr interessant weil ist halt so!",
+
+            "<small>ACHTUNG: Das ist ein HTML-Tag! Der Text wird klein :)</small>",
+            "<b>Das wird fett,</b> genauso wie <strong>das hier... weil HTML komisch ist.</strong>",
+
+            "Das aber nicht, weil <img>...</img> schon vom Programm interpretiert wird!",
+            "<img>bild/zur/überzeugung.png</img>",
+
+            "Das wiederum ist schon ein HTML-Tag:",
+            "<img src=\"pfad/zu/einer/datei.png\" alt=\"Ups, Bild nicht da...\">"
+        ]
+    }
+]
+```
+
+Bedenke, dass jede Linie im JSON-Artikel in `<p>...</p>` Paragraph-Tags plaziert wird! Das heißt,
+es ist nicht möglich HTML-Tags wie `div` zu verwenden (wenn schon, dann sollte man es trotzdem nicht...)!
+
+Wenn du auf solche Tags zurückgreifen willst, ist es ratsam den kompletten Artikel in HTML zu schreiben. :)
 
 ### Karte
 
