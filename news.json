@@ -29,29 +29,14 @@
             "Frohe Weihnachten!"
         ]
     },
-
-
-
-
-
     {
-        "name": "Test Alert",
-        "from": "*-01-01",
-        "till": "*-12-31",
-        "level": "alert",
+        "name": "Nachhause fahren an Weihnachten",
+        "from": "2023-12-22",
+        "till": "2023-12-26",
+        "level": "info",
         "details": [
-            "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!!!!!!!!",
-            "ACHTUNG ACHTUNG"
-        ]
-    },
-    {
-        "name": "Test Warning",
-        "from": "*-01-01",
-        "till": "*-12-31",
-        "level": "warning",
-        "details": [
-            "aaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!",
-            "WARNUNGGGGGG"
+            "Dieses Jahr darf man von dem 22. bis zum 26. nachhause fahren!",
+            "Die Regelungen mit den Kosten ist kompliziert, also bitte erkundige dich darüber nochmals genauer bei deinen Betreuern."
         ]
     }
 ]
