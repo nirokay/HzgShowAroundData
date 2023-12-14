@@ -20,56 +20,11 @@
             "<img>findus/nose_boop.jpg</img>"
         ]
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
-        "title": "Test HTML Artikel",
-        "author": "nirokay",
-        "date": "07.12.2023",
-        "desc": "Testartikel, der in HTML geschrieben worden ist.",
-        "remote": "test_html_article.html"
-    },
-    {
-        "title": "Test JSON Artikel",
+        "title": "Ankündigung - Artikel Feature",
         "author": "nirokay",
         "date": "08.12.2023",
-        "desc": "Testartikel, der in JSON geschrieben worden ist.",
-        "body": [
-            "# Das ist eine h1 Überschrift",
-            "## Das eine h2",
-            "### Und das eine h3",
-            "Dieser Artikel wurde mit JSON generiert!",
-            "## Bilder",
-            "<img>test.png</img>",
-            "<i>test.png</i>",
-            "<img=test.png>"
-        ]
-    },
-    {
-        "title": "Test again",
-        "author": "nirokay",
-        "date": "06.12.2023",
-        "body": [
-            "testing"
-        ]
-    },
-    {
-        "title": "Testtttttttt",
-        "author": "nirokay",
-        "body": ["hi"]
+        "desc": "Artikel sind nun verfügbar! Jeder kann, und ist herzlich willkommen, einen zu verfassen!",
+        "remote": "announcement_articles_launch.html"
     }
 ]
