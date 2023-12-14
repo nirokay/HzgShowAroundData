@@ -65,8 +65,20 @@
         "same": []
     },
     {
+        "name": "Am Latterbach - Häuser",
+        "desc": {
+            "Haus 13": [],
+            "Haus 14": [],
+            "Haus 16": [],
+            "Haus 18": []
+        },
+        "pics": {},
+        "coords": [1624, 1410, 1806, 1641],
+        "same": []
+    },
+    {
         "name": "Gärtnerei",
-        "link": "https://www.herzogsaegmuehle.de/handwerk-und-dienstleistung",
+        "link": "https://www.gartenwinkel-pfaffenwinkel.de/g%C3%A4rtnereien/g%C3%A4rtnerei-herzogs%C3%A4gm%C3%BChle/",
         "desc": {},
         "open": {
             "Mo":      "08.30 - 12.30",
@@ -108,10 +120,15 @@
         "name": "Cafe und Wirtshaus Herzog",
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/cafe-und-wirtshaus-herzog",
         "desc": {},
-        "open": {},
+        "open": {
+            "Mo - Do": "08.30 - 16.00",
+            "So":      "09.30 - 17.00"
+        },
         "pics": {},
         "coords": [545, 825, 581, 915],
-        "same": []
+        "same": [
+            "Abenteuerspielplatz", "Minigolfanlage"
+        ]
     },
     {
         "name": "Minigolfanlage",
@@ -119,7 +136,9 @@
         "open": {},
         "pics": {},
         "coords": [395, 830, 507, 931],
-        "same": []
+        "same": [
+            "Abenteuerspielplatz", "Cafe und Wirtshaus Herzog"
+        ]
     },
     {
         "name": "Abenteuerspielplatz",
@@ -127,7 +146,9 @@
         "open": {},
         "pics": {},
         "coords": [509, 860, 543, 915],
-        "same": []
+        "same": [
+            "Minigolfanlage", "Cafe und Wirtshaus Herzog"
+        ]
     },
     {
         "name": "Deckerhalle",
@@ -147,6 +168,7 @@
     },
     {
         "name": "Vereinsheim SV Herzogsägmühle",
+        "link": "https://www.herzogsaegmuehle.de/ort-zum-leben/vereine/herzogsaegmuehler-sportverein",
         "desc": {},
         "open": {},
         "pics": {},
