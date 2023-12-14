@@ -10,9 +10,13 @@
                 "type": "string",
                 "description": "The locations name"
             },
+            "link": {
+                "type": "string",
+                "description": "Url to an external resource"
+            },
             "desc": {
                 "type": "object",
-                "description": "The description of a loation"
+                "description": "The description of a location"
             },
             "open": {
                 "type": "object",
@@ -34,12 +38,14 @@
             },
             "same": {
                 "type": "array",
+                "description": "Collection of names of similar locations",
                 "items": {
                     "type": "string"
                 }
             },
             "coords": {
                 "type": "array",
+                "description": "Coords for a rectangle",
                 "items": {
                     "type": "integer",
                     "minLength": 4,
