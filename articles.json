@@ -1,9 +1,9 @@
 [
     {
-        "title": "Katzen von Herzogsägmühle",
+        "title": "Findus - Katzen von Herzogsägmühle",
         "author": "nirokay",
         "date": "13.12.2023",
-        "desc": "Katzen von Herzogsägmühle - heute: Findus",
+        "desc": "Heute wird Findus, der Kater, vorgestellt! :)",
         "body": [
             "<img>findus/bed_eepy.jpg</img>",
             "Ein junger, hungriger und sehr müder Bursche.\nMan kann ihn fast überall antreffen, ob am Am Latterbach, Mühlenmarkt oder sogar auf der Oblandstraße Richtung Obland (wow...)!",
@@ -15,6 +15,8 @@
             "<img>findus/couch_eepy_silly.jpg</img>",
             "<img>findus/couch_eepy_relaxed.jpg</img>",
             "<img>findus/bed_silly_stretch.jpg</img>",
+            "<img>findus/chilling_on_da_floor.jpg</img>",
+            "<img>findus/slurp.jpg</img>",
             "<img>findus/nose_boop.jpg</img>"
         ]
     },
