@@ -3,12 +3,8 @@
         "name": "MühlenMarkt",
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/herzogsaegmuehler-laeden",
         "desc": {
-            "Header": [
-                "This is a paragraph."
-            ],
-            "Second header": [
-                "This is another.",
-                "This will be on a new line!"
+            "Wöchentliche Angebote": [
+                "Jede Woche gibt es neue Angebote. Ein Zettel mit Diesen hängt vor dem MühlenMarkt aus!\nDu kannst ihn auch auf der Website vom MühlenMarkt sehen, klicke einfach auf die Überschrift ganz oben, um dort hinzugelangen."
             ]
         },
         "open": {
@@ -53,9 +49,12 @@
         "same": []
     },
     {
-        "name": "Post",
+        "name": "Post und Treuhand-Kasse",
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/herzogsaegmuehler-laeden",
-        "desc": {},
+        "desc": {
+            "Post": [],
+            "Treuhand-Kasse": []
+        },
         "open": {
             "Mo - Fr": "08.00 - 12.00",
             "Di, Do":  "13.15 - 17.00"
@@ -97,12 +96,22 @@
         "same": []
     },
     {
-        "name": "Am Latterbach - Häuser",
+        "name": "Häuser Am Latterbach",
         "desc": {
-            "Haus 13": [],
+            "Haus 12": [
+                "Die <b>Verwaltung</b> befindet sich im Dachgeschoss (<b>ACHTUNG:</b> die Decke ist niedrig und angewinkelt... ich hab mir schon mehrmals den Kopf gestoßen ._.)"
+            ],
+            "Haus 13": [
+                "Der <b>Festsaal</b> befindet sich im 1. Stock. Dort finden Veranstaltungen und Feiern statt.",
+                "<b>Ergo-Therapien:</b> Dienstleistung (Hr. Trometer) und Gestalten-und-Werken (Fr. Tagscherer und Hr. Mayer)"
+            ],
             "Haus 14": [],
-            "Haus 16": [],
-            "Haus 18": []
+            "Haus 16": [
+                "<b>Spezielles:</b>\nTischkicker im ganz unten im Treppenhaus"
+            ],
+            "Haus 18": [
+                "<b>Spezielles:</b>\nBilliard-Tisch"
+            ]
         },
         "pics": {},
         "coords": [1624, 1410, 1806, 1641],
@@ -119,6 +128,14 @@
         },
         "pics": {},
         "coords": [625, 1103, 959, 1357],
+        "same": []
+    },
+    {
+        "name": "Sinnespfad",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "coords": [890, 730, 977, 1068],
         "same": []
     },
     {
@@ -184,18 +201,40 @@
     },
     {
         "name": "Deckerhalle",
-        "desc": {},
+        "desc": {
+            "Veranstaltungen": [
+                "Hier finden öfters Veranstaltungen statt, z.B. Weihnachtsmarkt, Weihnachtsessen, Kunstaustellungen, ..."
+            ]
+        },
         "open": {},
         "pics": {},
         "coords": [427, 957, 477, 1063],
         "same": []
     },
     {
-        "name": "Alfons-Brandl-Schule",
+        "name": "Skater-Park",
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [175, 493, 256, 636],
+        "coords": [337, 549, 398, 619],
+        "same": []
+    },
+    {
+        "name": "Alfons-Brandl-Schule",
+        "link": "https://www.herzogsaegmuehle.de/ort-der-hilfe/schulbildung/kurzinfo-alfons-brandl-schule-foerderzentrum",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "coords": [190, 380, 327, 626],
+        "same": []
+    },
+    {
+        "name": "Albrecht-Schnitter-Berufsschule",
+        "link": "https://www.herzogsaegmuehle.de/ort-der-hilfe/schulbildung/kurzinfo-berufsschule",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "coords": [280, 628, 582, 790],
         "same": []
     },
     {
@@ -205,7 +244,15 @@
         "open": {},
         "pics": {},
         "coords": [399, 86, 438, 138],
-        "same": ["Tennisplatz", "Fußballplatz", "Handballfeld", "Sprintstrecke", "Beach-Volleyballfeld"]
+        "same": ["Sporthalle", "Tennisplatz", "Fußballplatz", "Handballfeld", "Sprintstrecke", "Beach-Volleyballfeld"]
+    },
+    {
+        "name": "Sporthalle",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "coords": [481, 413, 577, 516],
+        "same": ["Vereinsheim SV Herzogsägmühle", "Tennisplatz", "Fußballplatz", "Handballfeld", "Sprintstrecke", "Beach-Volleyballfeld"]
     },
     {
         "name": "Tennisplatz",
@@ -213,7 +260,7 @@
         "open": {},
         "pics": {},
         "coords": [447, 63, 538, 158],
-        "same": ["Vereinsheim SV Herzogsägmühle", "Fußballplatz", "Handballfeld", "Sprintstrecke", "Beach-Volleyballfeld"]
+        "same": ["Sporthalle", "Vereinsheim SV Herzogsägmühle", "Fußballplatz", "Handballfeld", "Sprintstrecke", "Beach-Volleyballfeld"]
     },
     {
         "name": "Fußballplatz",
@@ -221,7 +268,7 @@
         "open": {},
         "pics": {},
         "coords": [396, 166, 550, 396],
-        "same": ["Vereinsheim SV Herzogsägmühle", "Tennisplatz", "Handballfeld", "Sprintstrecke", "Beach-Volleyballfeld"]
+        "same": ["Sporthalle", "Vereinsheim SV Herzogsägmühle", "Tennisplatz", "Handballfeld", "Sprintstrecke", "Beach-Volleyballfeld"]
     },
     {
         "name": "Handballfeld",
@@ -229,7 +276,7 @@
         "open": {},
         "pics": {},
         "coords": [350, 412, 465, 484],
-        "same": ["Vereinsheim SV Herzogsägmühle", "Tennisplatz", "Fußballplatz", "Sprintstrecke", "Beach-Volleyballfeld"]
+        "same": ["Sporthalle", "Vereinsheim SV Herzogsägmühle", "Tennisplatz", "Fußballplatz", "Sprintstrecke", "Beach-Volleyballfeld"]
     },
     {
         "name": "Sprintstrecke",
@@ -237,6 +284,6 @@
         "open": {},
         "pics": {},
         "coords": [543, 72, 567, 385],
-        "same": ["Vereinsheim SV Herzogsägmühle", "Tennisplatz", "Fußballplatz", "Handballfeld", "Beach-Volleyballfeld"]
+        "same": ["Sporthalle", "Vereinsheim SV Herzogsägmühle", "Tennisplatz", "Fußballplatz", "Handballfeld", "Beach-Volleyballfeld"]
     }
 ]
