@@ -1,2 +1,5 @@
 # Exported png map (used for coordinates): 
 resources/images/map.png
+
+# Project:
+.vscode/
