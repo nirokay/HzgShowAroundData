@@ -3,15 +3,22 @@
         "name": "MühlenMarkt",
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/herzogsaegmuehler-laeden",
         "desc": {
+            "Was gibt es?": [
+                "Um es kurz zu machen: Lebensmittel! Der MühlenMarkt ist ein Edeka, die Auswahl ist nicht allzu riesengroß, aber es ist genug Verschiedenes da."
+            ],
             "Wöchentliche Angebote": [
                 "Jede Woche gibt es neue Angebote. Ein Zettel mit Diesen hängt vor dem MühlenMarkt aus!\nDu kannst ihn auch auf der Website vom MühlenMarkt sehen, klicke einfach auf die Überschrift ganz oben, um dort hinzugelangen."
+            ],
+            "Bäckerei- und Metzgereiverkauf": [
+                "Frisches Gebäck und Fleisch wird an den Theken verkauft.",
+                "<small>Persöhnlicher Tipp an Leute, die Fleisch essen: Die (Pizza-)Leberkäsebrötchen sind echt gut!</small>"
             ]
         },
         "open": {
-            "Mo":        "07.30 - 13.00",
-            "Di - Fr":   "07:30 - 18.00",
-            "Sa":        "08.00 - 12.00",
-            "Metzgerei": "keine Bedienung dienstags und samstags ab 13.00"
+            "Mo": "07.30 - 13.00",
+            "Di - Fr": "07:30 - 18.00",
+            "Sa": "08.00 - 12.00",
+            "Metzgerei": "keine Bedienung dienstags ab 13.00"
         },
         "pics": {
             "header": "temp_mühlenmarkt.jpg",
@@ -20,23 +27,37 @@
         "same": [
             "Werkstatt-Laden im MühlenMarkt"
         ],
-        "coords": [679, 1472, 755, 1545]
+        "coords": [
+            679,
+            1472,
+            755,
+            1545
+        ]
     },
     {
         "name": "Werkstatt-Laden im MühlenMarkt",
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/herzogsaegmuehler-laeden",
-        "desc": {},
+        "desc": {
+            "Was gibt es?": [
+                "Vorallem Gebasteltes/Gewerkeltes wird verkauft, aber auch Spielzeug und Vieles mehr!"
+            ]
+        },
         "open": {
-            "Mo":      "08.30 - 13.00",
+            "Mo": "08.30 - 13.00",
             "Di - Mi": "08.30 - 17.00",
-            "Do":      "08.30 - 18.00",
-            "Fr":      "08.30 - 17.00"
+            "Do": "08.30 - 18.00",
+            "Fr": "08.30 - 17.00"
         },
         "pics": {},
         "same": [
             "MühlenMarkt"
         ],
-        "coords": [640, 1511, 677, 1545]
+        "coords": [
+            640,
+            1511,
+            677,
+            1545
+        ]
     },
     {
         "name": "Friseur im MühlenMarkt",
@@ -45,30 +66,56 @@
             "Mo - So": "derzeit geschlossen"
         },
         "pics": {},
-        "coords": [640, 1472, 677, 1509],
+        "coords": [
+            640,
+            1472,
+            677,
+            1509
+        ],
         "same": []
     },
     {
         "name": "Post und Treuhand-Kasse",
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/herzogsaegmuehler-laeden",
         "desc": {
-            "Post": [],
-            "Treuhand-Kasse": []
+            "Post": [
+                "Hier kannst du Post versenden."
+            ],
+            "Treuhand-Kasse": [
+                "Jeder Rehabilitant hat hier ein Konto, du kannst dir hier dein Geld auszahlen lassen.",
+                "Geld bekommst du für z.B. deine Ergotherapie (\"<i>Motiprämie</i>\") und wenn du in der (Teil-)Selbstversorgung bist, bekommst du auch dein Verpflegungsgeld überwiesen.",
+                "Wenn du ein externes Konto hast, und du in der Verwaltung deine IBAN angegeben hast, solltest du dieses Geld direkt an dein externes Konto zugestellt bekommen."
+            ]
         },
         "open": {
             "Mo - Fr": "08.00 - 12.00",
-            "Di, Do":  "13.15 - 17.00"
+            "Di, Do": "13.15 - 17.00"
         },
         "pics": {},
-        "coords": [660, 1618, 718, 1651],
+        "coords": [
+            660,
+            1618,
+            718,
+            1651
+        ],
         "same": []
     },
     {
         "name": "gesundheits.punkt",
-        "desc": {},
+        "desc": {
+            "Hausarzt": [
+                "Hier befindet sich der Hausarzt für körperliche Beschwerden oder Ähnliches.",
+                "Kurz nach der Anreise wirst du dich hier vorstellen und körperliche Werte erheben (Blutdruck, EKG, Gewicht, ...)."
+            ]
+        },
         "open": {},
         "pics": {},
-        "coords": [819, 1575, 876, 1619],
+        "coords": [
+            819,
+            1575,
+            876,
+            1619
+        ],
         "same": []
     },
     {
@@ -76,23 +123,46 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [878, 1574, 967, 1619],
+        "coords": [
+            878,
+            1574,
+            967,
+            1619
+        ],
         "same": []
     },
     {
         "name": "Herzogsägmühler Werkstätten",
-        "desc": {},
+        "desc": {
+            "Arbeiten": [
+                "Als eine der weiterführende Maßnahme (z.B. AttM, BBM, BVB) kannst du hier in einem geschützten Bereich arbeiten, Praktikum machen oder eine Ausbildung abschließen."
+            ]
+        },
         "open": {},
         "pics": {},
-        "coords": [819, 1621, 967, 1849],
+        "coords": [
+            819,
+            1621,
+            967,
+            1849
+        ],
         "same": []
     },
     {
         "name": "Telezentrum - Digitale Medien",
-        "desc": {},
+        "desc": {
+            "Sonstiges": [
+                "<b>Spezielles:</b>\nHier befindet sich ein Getränkeautomat."
+            ]
+        },
         "open": {},
         "pics": {},
-        "coords": [1131, 1750, 1256, 1864],
+        "coords": [
+            1131,
+            1750,
+            1256,
+            1864
+        ],
         "same": []
     },
     {
@@ -103,7 +173,8 @@
             ],
             "Haus 13": [
                 "Der <b>Festsaal</b> befindet sich im 1. Stock. Dort finden Veranstaltungen und Feiern statt.",
-                "<b>Ergo-Therapien:</b> Dienstleistung (Hr. Trometer) und Gestalten-und-Werken (Fr. Tagscherer und Hr. Mayer)"
+                "<b>Ergo-Therapien:</b> Dienstleistung (Hr. Trometer) und Gestalten-und-Werken (Fr. Tagscherer und Hr. Mayer)\nDie Ergotherapien befinden sich im Erdgeschoss.",
+                "Der <b>Medizinische Dienst</b> befindet sich im 2. Stock am Ende des Flurs.\nHier werden körperliche Werte erhoben und auch unter Umständen Medikamente bestellt/abgeholt."
             ],
             "Haus 14": [],
             "Haus 16": [
@@ -114,36 +185,62 @@
             ]
         },
         "pics": {},
-        "coords": [1624, 1410, 1806, 1641],
+        "coords": [
+            1624,
+            1410,
+            1806,
+            1641
+        ],
         "same": []
     },
     {
         "name": "Gärtnerei",
         "link": "https://www.gartenwinkel-pfaffenwinkel.de/g%C3%A4rtnereien/g%C3%A4rtnerei-herzogs%C3%A4gm%C3%BChle/",
-        "desc": {},
+        "desc": {
+            "Verkauf": [
+                "Frisches Gemüse und Obst wird im <a href='muehlenmarkt.html'>MühlenMarkt</a> an der Gemüse-/Obstabteilung verkauft."
+            ]
+        },
         "open": {
-            "Mo":      "08.30 - 12.30",
+            "Mo": "08.30 - 12.30",
             "Di - Do": "08.30 - 12.30 & 13.30 - 16.30",
-            "Fr":      "08.30 - 12.30"
+            "Fr": "08.30 - 12.30"
         },
         "pics": {},
-        "coords": [625, 1103, 959, 1357],
+        "coords": [
+            625,
+            1103,
+            959,
+            1357
+        ],
         "same": []
     },
     {
         "name": "Sinnespfad",
+        "link": "https://www.herzogsaegmuehle.de/ort-zum-leben/sinnespfad",
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [890, 730, 977, 1068],
+        "coords": [
+            890,
+            730,
+            977,
+            1068
+        ],
         "same": []
     },
     {
         "name": "Martinskirche",
+        "link": "https://www.herzogsaegmuehle.de/ort-zum-leben/martinskirche",
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [635, 1001, 719, 1046],
+        "coords": [
+            635,
+            1001,
+            719,
+            1046
+        ],
         "same": []
     },
     {
@@ -151,42 +248,88 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [683, 710, 720, 764],
-        "same": ["Vereinsheim SV Herzogsägmühle", "Tennisplatz", "Fußballplatz", "Handballfeld", "Sprintstrecke"]
+        "coords": [
+            683,
+            710,
+            720,
+            764
+        ],
+        "same": [
+            "Vereinsheim SV Herzogsägmühle",
+            "Tennisplatz",
+            "Fußballplatz",
+            "Handballfeld",
+            "Sprintstrecke"
+        ]
     },
     {
         "name": "Wühlkiste",
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/herzogsaegmuehler-laeden",
-        "desc": {},
+        "desc": {
+            "Was gibt es?": [
+                "Von Kleidung bis Aschenbecher ist alles mit dabei! Gib den Dingen eine zweite Chance mit dir zu leben."
+            ]
+        },
         "open": {
             "Mo - Do": "08.00 - 12.00 & 13.00 - 17.00",
-            "Fr":      "08.00 - 12.00"
+            "Fr": "08.00 - 12.00"
         },
         "pics": {},
-        "coords": [257, 1018, 341, 1055]
+        "coords": [
+            257,
+            1018,
+            341,
+            1055
+        ]
     },
     {
         "name": "Cafe und Wirtshaus Herzog",
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/cafe-und-wirtshaus-herzog",
-        "desc": {},
+        "desc": {
+            "Speisekarte": [
+                "Du kannst die <a href='https://www.herzogsaegmuehle.de/fileadmin/PDF/webherzogsaegmuehle/Download/Einkaufen_Einkehren/Herzog/2023_01_09_Speisekarte.pdf'>Speisekarte digital aufrufen</a>. Der Link könnte sich ändern, deshalb schau lieber auf der Seite direkt nach.\nDazu klicke einfach auf die oberste Überschrift."
+            ],
+            "Kegelbahn": [
+                "Das Herzog hat zwei Kegelbahnen. Es ist ratsam sie vorher zu reservieren, wenn du sie beim Besuch benutzen willst."
+            ],
+            "Minigolfanlage": [
+                "Die Minigolfanlage im Herzog hat einen eigenen Artikel. Scrolle runter zu den <i>Ähnlichen Orten</i>, um dort hin zu gelangen."
+            ]
+        },
         "open": {
             "Mo - Do": "08.30 - 16.00",
-            "So":      "09.30 - 17.00"
+            "So": "09.30 - 17.00"
         },
         "pics": {},
-        "coords": [545, 825, 581, 915],
+        "coords": [
+            545,
+            825,
+            581,
+            915
+        ],
         "same": [
-            "Abenteuerspielplatz", "Minigolfanlage"
+            "Abenteuerspielplatz",
+            "Minigolfanlage"
         ]
     },
     {
         "name": "Minigolfanlage",
-        "desc": {},
+        "desc": {
+            "Golfschläger und -bälle": [
+                "Diese können im Herzog ausgeliehen werden."
+            ]
+        },
         "open": {},
         "pics": {},
-        "coords": [395, 830, 507, 931],
+        "coords": [
+            395,
+            830,
+            507,
+            931
+        ],
         "same": [
-            "Abenteuerspielplatz", "Cafe und Wirtshaus Herzog"
+            "Abenteuerspielplatz",
+            "Cafe und Wirtshaus Herzog"
         ]
     },
     {
@@ -194,21 +337,41 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [509, 860, 543, 915],
+        "coords": [
+            509,
+            860,
+            543,
+            915
+        ],
         "same": [
-            "Minigolfanlage", "Cafe und Wirtshaus Herzog"
+            "Minigolfanlage",
+            "Cafe und Wirtshaus Herzog"
         ]
     },
     {
         "name": "Deckerhalle",
         "desc": {
             "Veranstaltungen": [
-                "Hier finden öfters Veranstaltungen statt, z.B. Weihnachtsmarkt, Weihnachtsessen, Kunstaustellungen, ..."
+                "Hier finden öfters Veranstaltungen statt."
+            ],
+            "Kunstausstellung": [
+                "Regelmäßig finden hier Kunstausstellungen mit Projekten von Rehabilitanten statt."
+            ],
+            "Weihnachtsmarkt": [
+                "Der Weihnachtsmarkt findet innen und außerhalb in Buden statt."
+            ],
+            "Dorfsfest": [
+                "Das Dorfsfest findet rund um die Deckerhalle statt. Es gibt viele Buden mit Essen und verschiedene Aktivitäten für Groß und Klein werden angeboten."
             ]
         },
         "open": {},
         "pics": {},
-        "coords": [427, 957, 477, 1063],
+        "coords": [
+            427,
+            957,
+            477,
+            1063
+        ],
         "same": []
     },
     {
@@ -216,7 +379,12 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [337, 549, 398, 619],
+        "coords": [
+            337,
+            549,
+            398,
+            619
+        ],
         "same": []
     },
     {
@@ -225,7 +393,12 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [190, 380, 327, 626],
+        "coords": [
+            190,
+            380,
+            327,
+            626
+        ],
         "same": []
     },
     {
@@ -234,7 +407,12 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [280, 628, 582, 790],
+        "coords": [
+            280,
+            628,
+            582,
+            790
+        ],
         "same": []
     },
     {
@@ -243,47 +421,119 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [399, 86, 438, 138],
-        "same": ["Sporthalle", "Tennisplatz", "Fußballplatz", "Handballfeld", "Sprintstrecke", "Beach-Volleyballfeld"]
+        "coords": [
+            399,
+            86,
+            438,
+            138
+        ],
+        "same": [
+            "Sporthalle",
+            "Tennisplatz",
+            "Fußballplatz",
+            "Handballfeld",
+            "Sprintstrecke",
+            "Beach-Volleyballfeld"
+        ]
     },
     {
         "name": "Sporthalle",
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [481, 413, 577, 516],
-        "same": ["Vereinsheim SV Herzogsägmühle", "Tennisplatz", "Fußballplatz", "Handballfeld", "Sprintstrecke", "Beach-Volleyballfeld"]
+        "coords": [
+            481,
+            413,
+            577,
+            516
+        ],
+        "same": [
+            "Vereinsheim SV Herzogsägmühle",
+            "Tennisplatz",
+            "Fußballplatz",
+            "Handballfeld",
+            "Sprintstrecke",
+            "Beach-Volleyballfeld"
+        ]
     },
     {
         "name": "Tennisplatz",
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [447, 63, 538, 158],
-        "same": ["Sporthalle", "Vereinsheim SV Herzogsägmühle", "Fußballplatz", "Handballfeld", "Sprintstrecke", "Beach-Volleyballfeld"]
+        "coords": [
+            447,
+            63,
+            538,
+            158
+        ],
+        "same": [
+            "Sporthalle",
+            "Vereinsheim SV Herzogsägmühle",
+            "Fußballplatz",
+            "Handballfeld",
+            "Sprintstrecke",
+            "Beach-Volleyballfeld"
+        ]
     },
     {
         "name": "Fußballplatz",
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [396, 166, 550, 396],
-        "same": ["Sporthalle", "Vereinsheim SV Herzogsägmühle", "Tennisplatz", "Handballfeld", "Sprintstrecke", "Beach-Volleyballfeld"]
+        "coords": [
+            396,
+            166,
+            550,
+            396
+        ],
+        "same": [
+            "Sporthalle",
+            "Vereinsheim SV Herzogsägmühle",
+            "Tennisplatz",
+            "Handballfeld",
+            "Sprintstrecke",
+            "Beach-Volleyballfeld"
+        ]
     },
     {
         "name": "Handballfeld",
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [350, 412, 465, 484],
-        "same": ["Sporthalle", "Vereinsheim SV Herzogsägmühle", "Tennisplatz", "Fußballplatz", "Sprintstrecke", "Beach-Volleyballfeld"]
+        "coords": [
+            350,
+            412,
+            465,
+            484
+        ],
+        "same": [
+            "Sporthalle",
+            "Vereinsheim SV Herzogsägmühle",
+            "Tennisplatz",
+            "Fußballplatz",
+            "Sprintstrecke",
+            "Beach-Volleyballfeld"
+        ]
     },
     {
         "name": "Sprintstrecke",
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [543, 72, 567, 385],
-        "same": ["Sporthalle", "Vereinsheim SV Herzogsägmühle", "Tennisplatz", "Fußballplatz", "Handballfeld", "Beach-Volleyballfeld"]
+        "coords": [
+            543,
+            72,
+            567,
+            385
+        ],
+        "same": [
+            "Sporthalle",
+            "Vereinsheim SV Herzogsägmühle",
+            "Tennisplatz",
+            "Fußballplatz",
+            "Handballfeld",
+            "Beach-Volleyballfeld"
+        ]
     }
 ]
