@@ -146,7 +146,7 @@ SVGs (Dateiformat der Karte) haben keine Auflösung, deshalb ist es ratsam für 
 
 ### Tourdaten
 
-Die Datei `tour_locations.json` beinhaltet ein einfache Array von den Ort-IDs. Diese IDs sind die Selben, die auch in der Url von einem Ort erscheinen (Mühlenmarkt -> `mühlenmarkt`; Werkstatt-Laden im Mühlenmarkt `werkstatt-laden_im_mühlenmarkt`; ...)
+Die Datei `tour_locations.json` beinhaltet ein einfache Array von den Ortsnamen.
 
 In der Tour werden diese der Reihenfolge nach abgerufen.
 
