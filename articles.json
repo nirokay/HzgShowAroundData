@@ -26,5 +26,30 @@
         "date": "08.12.2023",
         "desc": "Artikel sind nun verfügbar! Jeder kann, und ist herzlich willkommen, einen zu verfassen!",
         "remote": "announcement_articles_launch.html"
+    },
+    {
+        "title": "Beispiel Artikel",
+        "author": "Beispiel",
+        "desc": "Kurze Beschreibung über den Artikel, das wird in der Artikelübersicht angezeigt.",
+        "body": [
+            "Das ist ein Absatz.\nDas wird auf einer neuen Linie.",
+            "# Große Überschrift",
+            "#KEINE Überschrift, weil zwischen dem # und dem Text ein Leerzeichen sein muss!",
+
+            "Hier ein Bild (WICHTIG: es muss auf einer eigenen Linie sein und mit <img> anfangen und </img> enden):",
+            "<img>bild.png</img>",
+
+            "So kann man auch Bilder anzeigen lassen:",
+            "<img=bild.png>",
+            "<img= bild.png >",
+
+            "<bild>bild.png</bild>",
+
+            "## Untergeordnete Überschrift (h2 in HTML)",
+            "### h3",
+            "#### h4",
+            "##### h5",
+            "###### h6"
+        ]
     }
 ]
