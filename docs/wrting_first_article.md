@@ -10,7 +10,7 @@ Hier ein paar gute Fragen, die du dir selbst stellen kannst:
 
 2. Ist er interessant, berichtenswert oder unterhaltsam? Dein Artikel sollte zumindest under einem der Begriffen landen.
 
-3. Ist es okay das im Internet zu veröffentlichen? Manchmal vergessen wir, dass so ziemlich jeder Alles im Internet einsehen kann. Sind Personen, die im Artikel genannt oder gezeigt werden damit einverstanden?
+3. Ist es okay das im Internet zu veröffentlichen? Manchmal vergessen wir, dass so ziemlich jeder Alles im Internet einsehen kann. Sind Personen, die im Artikel genannt oder gezeigt werden, damit einverstanden?
 
 ## Artikel verfassen
 
@@ -99,6 +99,13 @@ Wie du im Bild siehst, musst du ein Leerzeichen zwischen dem `#` und dem Übersc
 ![11_headers.jpg](resources/first_article/11_headers.jpg)
 
 Nun kommen wir zum coolen Teil: BILDER!
+
+Alle Bilder die verwendet werden können müssen hier hochgeladen werden und sich im Unterordner `resources/images/articles/` befinden.
+
+Ein Bild im Pfad...
+
+* ... `resources/images/articles/Artikel-Name/bild.png` wird dann mit `Artikel-Name/bild.png` aufgerufen.
+* ... `resources/images/articles/bild.png` wird dementsprechend mit `bild.png` aufgerufen.
 
 ![12_pictures.jpg](resources/first_article/12_pictures.jpg)
 
