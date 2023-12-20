@@ -6,6 +6,10 @@ This repository is used at compile-time and runtime by [HzgShowAround](https://g
 
 The following paragraphs will be written in German.
 
+## Externe Dokumentationen
+
+* [Deinen ersten Artikel schreiben](docs/wrting_first_article.md)
+
 ## Dateistrukturen
 
 ### Orte
