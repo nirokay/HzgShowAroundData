@@ -274,9 +274,6 @@ Headers sind eins-zu-eins wie in [Markdown](https://en.wikipedia.org/wiki/Markdo
 * `<img>...</img>`
 * `<img=...>`
 
-* `<i>...</i>`
-* `<i=...>`
-
 * `<bild>...</bild>`
 * `<bild=...>`
 
