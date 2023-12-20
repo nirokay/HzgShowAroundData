@@ -198,3 +198,5 @@ Und so sieht es im Browser aus:
 ![result_actual_article.jpg](resources/first_article/result_actual_article.jpg)
 
 Wie zu sehen ist, wenn ein Bild nicht existiert, wird "Bild nicht vorhanden" angezeigt.
+
+Du kannst [diesen Artikel](https://nirokay.github.io/HzgShowAround/article/beispiel_artikel.html) auch für dich selbst online einsehen!
