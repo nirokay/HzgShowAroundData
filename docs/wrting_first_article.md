@@ -200,3 +200,31 @@ Und so sieht es im Browser aus:
 Wie zu sehen ist, wenn ein Bild nicht existiert, wird "Bild nicht vorhanden" angezeigt.
 
 Du kannst [diesen Artikel](https://nirokay.github.io/HzgShowAround/article/beispiel_artikel.html) auch für dich selbst online einsehen!
+
+## Weitere Beispiele
+
+[Ein Artikel den ich in JSON verfasst habe](https://nirokay.github.io/HzgShowAround/article/findus_-_katzen_von_herzogsaegmuehle.html) sieht so aus:
+
+```json
+{
+    "title": "Findus - Katzen von Herzogsägmühle",
+    "author": "nirokay",
+    "date": "13.12.2023",
+    "desc": "Heute wird Findus, der Kater, vorgestellt! :)",
+    "body": [
+        "<img>findus/bed_eepy.jpg</img>",
+        "Ein junger, hungriger und sehr müder Bursche.\nMan kann ihn fast überall antreffen, ob am Am Latterbach, Mühlenmarkt oder sogar auf der Oblandstraße Richtung Obland (wow...)!",
+        "Wenn es regnet oder kalt ist, verkriecht er sich gerne in einem Haus und macht es sich auf der Couch gemütlich.",
+        "<img>findus/door.jpg</img>",
+        "<img>findus/couch_eepy.jpg</img>",
+        "Leider mögen das die Betreuer nicht so gerne, deshalb bitte den Frechdachs gut eindecken und verstecken."  ,
+        "Mir fällt nicht mehr viel Text ein, also hier einfach ein paar Bilder von ihm:",
+        "<img>findus/couch_eepy_silly.jpg</img>",
+        "<img>findus/couch_eepy_relaxed.jpg</img>",
+        "<img>findus/bed_silly_stretch.jpg</img>",
+        "<img>findus/chilling_on_da_floor.jpg</img>",
+        "<img>findus/slurp.jpg</img>",
+        "<img>findus/nose_boop.jpg</img>"
+    ]
+}
+```
