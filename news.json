@@ -38,5 +38,14 @@
             "Dieses Jahr darf man von dem 22. bis zum 26. nachhause fahren!",
             "Die Regelungen mit den Kosten ist kompliziert, also bitte erkundige dich darüber nochmals genauer bei deinen Betreuern."
         ]
+    },
+    {
+        "name": "MühlenMarkt geschlossen",
+        "from": "2023-12-30",
+        "till": "2023-12-30",
+        "level: "warning",
+        "details": [
+            "MühlenMarkt hat heute Inventur"
+        ]
     }
 ]
