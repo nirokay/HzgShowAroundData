@@ -43,7 +43,7 @@
         "name": "MühlenMarkt geschlossen",
         "from": "2023-12-30",
         "till": "2023-12-30",
-        "level: "warning",
+        "level": "warning",
         "details": [
             "MühlenMarkt hat heute Inventur"
         ]
