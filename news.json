@@ -45,7 +45,25 @@
         "till": "2023-12-30",
         "level": "warning",
         "details": [
-            "MühlenMarkt hat heute Inventur"
+            "MühlenMarkt hat heute Inventur."
+        ]
+    },
+    {
+        "name": "MühlenMarkt geschlossen",
+        "from": "2024-01-05",
+        "till": "2024-01-05",
+        "level": "warning",
+        "details": [
+            "MühlenMarkt ist geschlossen."
+        ]
+    },
+    {
+        "name": "Metzgerei im MühlenMarkt geschlossen",
+        "from": "2023-12-23",
+        "till": "2024-01-07",
+        "level": "warning",
+        "details": [
+            "Betriebsurlaub"
         ]
     }
 ]
