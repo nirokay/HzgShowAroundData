@@ -67,13 +67,44 @@
         ]
     },
     {
-        "name": "Einladung zum Hoagart",
+        "name": "Musikantreffen - Einladung zum Hoagart",
         "from": "2024-01-12",
         "till": "2024-01-12",
         "level": "info",
         "details": [
             "von 18 bis 21 Uhr im Café Herzog",
-            "<a href=\"https://www.herzogsaegmuehle.de/fileadmin/PDF/webherzogsaegmuehle/Download/002_Aktuelles_Veranstaltungen/_2023/PL_DINA4_Musikantentreffen_120124.pdf\">mehr Infos</a>"
+            "<a href=\"https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/musikantentreffen\">mehr Infos</a>"
+        ]
+    },
+    {
+        "name": "Gesundheitsbildung: Entspannung",
+        "from": "2024-01-10",
+        "till": "2024-01-10",
+        "level": "info",
+        "details": [
+            "Vortrag zum Thema Entspannung und Spannungsbewältigung",
+            "von 13:00 bis 14:30 im Festsaal"
+        ]
+    },
+    {
+        "name": "Gedenkfeier",
+        "from": "2024-01-23",
+        "till": "2024-01-23",
+        "level": "info",
+        "details": [
+            "Gedenkfeier an die Opfer und Verfolgten im Nationalsozialismus",
+            "<a href=\"https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/schueler-erinnern\">mehr Infos</a>"
+        ]
+    },
+    {
+        "name": "Tag der offenen Tür",
+        "from": "2024-01-11",
+        "till": "2024-01-11",
+        "level": "info",
+        "details": [
+            "Tag der offenen Tür in der Fachschule für Heilerziehungspflege und Heilerziehungspflegehilfe",
+            "von 15 bis 18 Uhr",
+            "<a href=\"https://www.herzogsaegmuehle.de/mitarbeit/fachschule-fuer-heilerziehungspflege-und-heilerziehungspflegehilfe/tag-der-offenen-tuer-2024\">mehr Infos</a>"
         ]
     }
 ]
