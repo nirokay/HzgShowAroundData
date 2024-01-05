@@ -65,5 +65,15 @@
         "details": [
             "Betriebsurlaub"
         ]
+    },
+    {
+        "name": "Einladung zum Hoagart",
+        "from": "2024-01-12",
+        "till": "2024-01-12",
+        "level": "info",
+        "details": [
+            "von 18 bis 21 Uhr im Café Herzog",
+            "<a href=\"https://www.herzogsaegmuehle.de/fileadmin/PDF/webherzogsaegmuehle/Download/002_Aktuelles_Veranstaltungen/_2023/PL_DINA4_Musikantentreffen_120124.pdf\">mehr Infos<a>"
+        ]
     }
 ]
