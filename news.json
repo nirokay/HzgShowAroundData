@@ -10,8 +10,7 @@
     },
     {
         "name": "Bescherung und Weihnachtsessen",
-        "from": "2023-12-11",
-        "till": "2023-12-11",
+        "on": "2023-12-11",
         "level": "info",
         "details": [
             "15:00 Bescherung",
@@ -41,8 +40,7 @@
     },
     {
         "name": "MühlenMarkt geschlossen",
-        "from": "2023-12-30",
-        "till": "2023-12-30",
+        "on": "2023-12-30",
         "level": "warning",
         "details": [
             "MühlenMarkt hat heute Inventur."
@@ -50,8 +48,7 @@
     },
     {
         "name": "MühlenMarkt geschlossen",
-        "from": "2024-01-05",
-        "till": "2024-01-05",
+        "on": "2024-01-05",
         "level": "warning",
         "details": [
             "MühlenMarkt ist geschlossen."
@@ -68,18 +65,16 @@
     },
     {
         "name": "Musikantreffen - Einladung zum Hoagart",
-        "from": "2024-01-12",
-        "till": "2024-01-12",
+        "on": "2024-01-12",
         "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/musikantentreffen",
         "details": [
-            "von 18 bis 21 Uhr im Café Herzog",
-            "<a href=\"https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/musikantentreffen\">mehr Infos</a>"
+            "von 18 bis 21 Uhr im Café Herzog"
         ]
     },
     {
         "name": "Gesundheitsbildung: Entspannung",
-        "from": "2024-01-10",
-        "till": "2024-01-10",
+        "on": "2024-01-10",
         "level": "info",
         "details": [
             "Vortrag zum Thema Entspannung und Spannungsbewältigung",
@@ -88,23 +83,21 @@
     },
     {
         "name": "Gedenkfeier",
-        "from": "2024-01-23",
-        "till": "2024-01-23",
+        "on": "2024-01-23",
         "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/schueler-erinnern",
         "details": [
-            "Gedenkfeier an die Opfer und Verfolgten im Nationalsozialismus",
-            "<a href=\"https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/schueler-erinnern\">mehr Infos</a>"
+            "Gedenkfeier an die Opfer und Verfolgten im Nationalsozialismus"
         ]
     },
     {
         "name": "Tag der offenen Tür",
-        "from": "2024-01-11",
-        "till": "2024-01-11",
+        "on": "2024-01-11",
         "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/mitarbeit/fachschule-fuer-heilerziehungspflege-und-heilerziehungspflegehilfe/tag-der-offenen-tuer-2024",
         "details": [
             "Tag der offenen Tür in der Fachschule für Heilerziehungspflege und Heilerziehungspflegehilfe",
-            "von 15 bis 18 Uhr",
-            "<a href=\"https://www.herzogsaegmuehle.de/mitarbeit/fachschule-fuer-heilerziehungspflege-und-heilerziehungspflegehilfe/tag-der-offenen-tuer-2024\">mehr Infos</a>"
+            "von 15 bis 18 Uhr"
         ]
     }
 ]
