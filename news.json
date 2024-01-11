@@ -108,5 +108,13 @@
             "Theateraufführung von der Theatergruppe",
             "von 16:00 bis 16:30 im Festsaal"
         ]
+    },
+    {
+        "name": "MühlenMarkt geschlossen",
+        "on": "2024-01-13",
+        "level": "warning",
+        "details": [
+            "MühlenMarkt ist heute geschlossen."
+        ]
     }
 ]
