@@ -99,5 +99,14 @@
             "Tag der offenen Tür in der Fachschule für Heilerziehungspflege und Heilerziehungspflegehilfe",
             "von 15 bis 18 Uhr"
         ]
+    },
+    {
+        "name": "Theateraufführung: Es ist ein Hut entsprungen",
+        "on": "2024-01-18",
+        "level": "info",
+        "details": [
+            "Theateraufführung von der Theatergruppe",
+            "von 16:00 bis 16:30 im Festsaal"
+        ]
     }
 ]
