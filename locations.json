@@ -535,5 +535,110 @@
             "Handballfeld",
             "Beach-Volleyballfeld"
         ]
+    },
+    {
+        "name": "KFZ-Werkstatt",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "same": [],
+        "coords": [
+            293,
+            1215,
+            405,
+            1310
+        ]
+    },
+    {
+        "name": "Elektrowerkstatt",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "same": [],
+        "coords": [
+            407,
+            1295,
+            440,
+            1335
+        ]
+    },
+    {
+        "name": "Licht- und Wachsmanifaktur",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "same": [],
+        "coords": [
+            407,
+            1264,
+            429,
+            1249
+        ]
+    },
+    {
+        "name": "Sanitär- und Heizungstechnik",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "same": [],
+        "coords": [
+            407,
+            1210,
+            438,
+            1263
+        ]
+    },
+    {
+        "name": "Schlosserei",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "same": [],
+        "coords": [
+            313,
+            1379,
+            367,
+            1399
+        ]
+    },
+    {
+        "name": "Malerei",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "same": [],
+        "coords": [
+            380,
+            1378,
+            411,
+            1459
+        ]
+    },
+    {
+        "name": "Berufsbildenede Maßnahme (BBM)",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "same": [],
+        "coords": [
+            320,
+            1346,
+            411,
+            1376
+        ]
+    },
+    {
+        "name": "Berufliches Zentrum (BZ)",
+        "link": "",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "same": [],
+        "coords": [
+            362,
+            1096,
+            427,
+            1134
+        ]
     }
 ]
