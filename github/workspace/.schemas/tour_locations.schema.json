@@ -1,0 +1,9 @@
+{
+    "title": "Tour locations array",
+    "type": "array",
+    "properties": {
+        "properties": {
+            "type": "string"
+        }
+    }
+}

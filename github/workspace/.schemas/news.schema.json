@@ -1,0 +1,48 @@
+{
+    "title": "News Array",
+    "type": "array",
+    "required": [
+        "name"
+    ],
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Event title"
+        },
+        "level": {
+            "type": "string",
+            "description": "Event importance (info < warning < alert)"
+        },
+        "info": {
+            "type": "string",
+            "description": "Link to external resource"
+        },
+        "details": {
+            "type": "array",
+            "description": "Event description (joined by '<br />')",
+            "properties": {
+                "properties": {
+                    "type": "string"
+                }
+            }
+        }
+    },
+    "oneOf": [
+        {
+            "from": {
+                "type": "string",
+                "description": "Event starting date (yyyy-MM-dd)"
+            },
+            "till": {
+                "type": "string",
+                "description": "Event ending date (yyyy-MM-dd)"
+            }
+        },
+        {
+            "on": {
+                "type": "string",
+                "description": "Event date (single day) (yyyy-MM-dd)"
+            }
+        }
+    ]
+}
