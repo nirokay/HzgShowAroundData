@@ -21,7 +21,6 @@
         "required": ["title"],
         "oneOf": [
             {
-                "type": "object",
                 "properties": {
                     "remote": {
                         "type": "string"
@@ -30,7 +29,6 @@
                 "required": ["remote"]
             },
             {
-                "type": "object",
                 "properties": {
                     "body": {
                         "type": "array",
@@ -38,7 +36,8 @@
                             "type": "string"
                         }
                     }
-                }
+                },
+                "required": ["body"]
             }
         ]
     }
