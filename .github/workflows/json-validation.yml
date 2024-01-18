@@ -3,10 +3,9 @@ name: Validate JSONs
 on: [pull_request, push]
 
 jobs:
-  verify-json-validation:
+  verify-json-locations:
     runs-on: ubuntu-latest
     steps:
-      # Validate locations json:
       - uses: actions/checkout@v1
       - name: Validate locations
         uses: docker://orrosenblatt/validate-json-action:latest
@@ -14,21 +13,30 @@ jobs:
           INPUT_SCHEMA: /github/workspace/.schemas/locations.schema.json
           INPUT_JSONS: /locations.json
 
-      # Validate news json:
+  verify-json-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
       - name: Validate news
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: /github/workspace/.schemas/news.schema.json
           INPUT_JSONS: /news.json
 
-      # Validate articles json:
+  verify-json-articles:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
       - name: Validate articles
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: /github/workspace/.schemas/articles.schema.json
           INPUT_JSONS: /articles.json
 
-      # Validate tour locations json:
+  verify-json-tour_locations:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
       - name: Validate tour locations
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
