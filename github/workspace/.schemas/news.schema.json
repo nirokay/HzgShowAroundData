@@ -1,30 +1,48 @@
 {
     "title": "News Array",
     "type": "array",
-    "required": [
-        "name"
-    ],
-    "properties": {},
-    "oneOf": [
-        {
-            "properties": {
-                "from": {
-                    "type": "string",
-                    "description": "Event starting date (yyyy-MM-dd)"
-                },
-                "till": {
-                    "type": "string",
-                    "description": "Event ending date (yyyy-MM-dd)"
+    "items": {
+        "type": "object",
+        "properties": {
+            "name": {
+                "type": "string"
+            },
+            "level": {
+                "type": "string",
+                "description": "Level of importance (info < warning < alert)"
+            },
+            "details": {
+                "type": "array",
+                "description": "Array of strings joined by '<br />'",
+                "items": {
+                    "type": "string"
                 }
             }
         },
-        {
-            "properties": {
-                "on": {
-                    "type": "string",
-                    "description": "Event date (single day) (yyyy-MM-dd)"
-                }
+        "required": ["name"],
+        "oneOf": [
+            {
+                "properties": {
+                    "from": {
+                        "type": "string",
+                        "description": "Event starting date (yyyy-MM-dd)"
+                    },
+                    "till": {
+                        "type": "string",
+                        "description": "Event ending date (yyyy-MM-dd)"
+                    }
+                },
+                "required": ["from", "till"]
+            },
+            {
+                "properties": {
+                    "on": {
+                        "type": "string",
+                        "description": "Event date (single day) (yyyy-MM-dd)"
+                    }
+                },
+                "required": ["on"]
             }
-        }
-    ]
+        ]
+    }
 }

@@ -1,40 +1,45 @@
 {
     "title": "Articles array",
     "type": "array",
-    "required": [
-        "title"
-    ],
-    "properties": {
-        "title": {
-            "type": "string",
-            "description": "Article title"
+    "items": {
+        "type": "object",
+        "description": "Article object",
+        "properties": {
+            "title": {
+                "type": "string",
+                "description": "Article title"
+            },
+            "author": {
+                "type": "string",
+                "description": "Article author (optional; default: 'Anonymous')"
+            },
+            "date": {
+                "type": "string",
+                "description": "Article date (optional; default: '0001-01-01')"
+            }
         },
-        "author": {
-            "type": "string",
-            "description": "Article author (optional; default: 'Anonymous')"
-        },
-        "date": {
-            "type": "string",
-            "description": "Article date (optional; default: '0001-01-01')"
-        }
-    },
-    "oneOf": [
-        {
-            "body": {
-                "type": "array",
-                "description": "Embedded html body as JSON",
+        "required": ["title"],
+        "oneOf": [
+            {
+                "type": "object",
                 "properties": {
-                    "properties": {
+                    "remote": {
                         "type": "string"
+                    }
+                },
+                "required": ["remote"]
+            },
+            {
+                "type": "object",
+                "properties": {
+                    "body": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
                     }
                 }
             }
-        },
-        {
-            "remote": {
-                "type": "string",
-                "description": "Path to external html file (in 'resources/articles/')"
-            }
-        }
-    ]
+        ]
+    }
 }
