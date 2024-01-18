@@ -1,0 +1,40 @@
+{
+    "title": "Articles array",
+    "type": "array",
+    "required": [
+        "title"
+    ],
+    "properties": {
+        "title": {
+            "type": "string",
+            "description": "Article title"
+        },
+        "author": {
+            "type": "string",
+            "description": "Article author (optional; default: 'Anonymous')"
+        },
+        "date": {
+            "type": "string",
+            "description": "Article date (optional; default: '0001-01-01')"
+        }
+    },
+    "oneOf": [
+        {
+            "body": {
+                "type": "array",
+                "description": "Embedded html body as JSON",
+                "properties": {
+                    "properties": {
+                        "type": "string"
+                    }
+                }
+            }
+        },
+        {
+            "remote": {
+                "type": "string",
+                "description": "Path to external html file (in 'resources/articles/')"
+            }
+        }
+    ]
+}
