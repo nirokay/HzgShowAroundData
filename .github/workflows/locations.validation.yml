@@ -6,9 +6,16 @@ jobs:
   verify-json-validation:
     runs-on: ubuntu-latest
     steps:
+      # Validate locations json
       - uses: actions/checkout@v1
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: /github/workspace/.schemas/locations.schema.json
           INPUT_JSONS: /locations.json
+      # Validate news json (not yet made) # TODO
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: /github/workspace/.schemas/news.schema.json
+          INPUT_JSONS: /news.json
