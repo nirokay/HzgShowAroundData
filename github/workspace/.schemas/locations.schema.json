@@ -2,9 +2,7 @@
     "title": "Locations Array",
     "type": "array",
     "properties": {
-        "title": "Location Object",
-        "description": "The entire location object.",
-        "required": ["name"],
+        "required": {"name": true},
         "properties": {
             "name": {
                 "type": "string",
