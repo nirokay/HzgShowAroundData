@@ -616,7 +616,24 @@
     },
     {
         "name": "Berufsbildende Maßnahme (BBM)",
-        "desc": {},
+        "desc": {
+            "Werkstätten": [
+                "Diese Werkstätten/Bildungsrichtungen gibt es in-Haus:",
+                "<h3>Kunst und Montage</h3>",
+                "<h3>Holzwerkstatt</h3>",
+                "<h3>Metallwerkstatt</h3>"
+            ],
+            "Außenstellen": [
+                "Diese Werkstätten/Bildungsrichtungen gibt es außerhalb (in Peiting):",
+                "<h3>Montagegruppen</h3>",
+                "<h4>Pneumatik</h4>",
+                "Die Pneumatik-Werkstatt kümmert sich um den Zusammenbau von Ventilen und anderen Luftdruckmechanismen.",
+                "<h3>Töpferei</h3>",
+                "In der Töpferei kann man Geschirr durch Tondrehen herstellen, den Ton bemalen und schließlich den Ton brennen.\nDiese Sachen werden dann im Werkstatt-Laden des Mühlenmarkts oder an Märkten verkauft",
+                "<h3>Buchbinderei</h3>",
+                "Hier werden manche Waren verpackt, Bücher gebunden und Schachteln gefaltet."
+            ]
+        },
         "open": {},
         "pics": {},
         "same": [],
