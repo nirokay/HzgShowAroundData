@@ -51,7 +51,7 @@ Das ist ein Beispielort, du kannst dich daran orientieren, wenn du einen neuen O
         "Sa":      "08.00 - 12.00"
     },
     "pics": {
-        "header": "Großes Bild  -> Name der Datei",
+        "header": "Großes Bild  -> Name der Datei (ohne 'resources/images/')",
         "footer": "Kleines Bild -> Name der Datei (ohne 'resources/images/')"
     },
     "same": [
