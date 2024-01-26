@@ -116,9 +116,5 @@
         "details": [
             "MühlenMarkt ist heute geschlossen."
         ]
-    },
-    {
-        "name": "this should fail"
     }
-
 ]
