@@ -1,5 +1,23 @@
 [
     {
+        "name": "Gesundheitsbildung: Entspannung",
+        "on": "2024-01-10",
+        "level": "info",
+        "details": [
+            "Vortrag zum Thema Entspannung und Spannungsbewältigung",
+            "von 13:00 bis 14:30 im Festsaal"
+        ]
+    },
+    {
+        "name": "Gesundheitsbildung: Schlaf",
+        "on": "2024-02-07",
+        "level": "info",
+        "details": [
+            "Vortrag zum Thema gesunder Schlaf",
+            "von 13:00 bis 14:30 im Festsaal"
+        ]
+    },
+    {
         "name": "Weihnachtsmarkt",
         "from": "2023-12-01",
         "till": "2023-12-03",
@@ -55,6 +73,14 @@
         ]
     },
     {
+        "name": "MühlenMarkt geschlossen",
+        "on": "2024-01-13",
+        "level": "warning",
+        "details": [
+            "MühlenMarkt ist heute geschlossen."
+        ]
+    },
+    {
         "name": "Metzgerei im MühlenMarkt geschlossen",
         "from": "2023-12-23",
         "till": "2024-01-07",
@@ -70,15 +96,6 @@
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/musikantentreffen",
         "details": [
             "von 18 bis 21 Uhr im Café Herzog"
-        ]
-    },
-    {
-        "name": "Gesundheitsbildung: Entspannung",
-        "on": "2024-01-10",
-        "level": "info",
-        "details": [
-            "Vortrag zum Thema Entspannung und Spannungsbewältigung",
-            "von 13:00 bis 14:30 im Festsaal"
         ]
     },
     {
@@ -107,14 +124,6 @@
         "details": [
             "Theateraufführung von der Theatergruppe",
             "von 16:00 bis 16:30 im Festsaal"
-        ]
-    },
-    {
-        "name": "MühlenMarkt geschlossen",
-        "on": "2024-01-13",
-        "level": "warning",
-        "details": [
-            "MühlenMarkt ist heute geschlossen."
         ]
     }
 ]
