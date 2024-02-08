@@ -51,8 +51,12 @@ Das ist ein Beispielort, du kannst dich daran orientieren, wenn du einen neuen O
         "Sa":      "08.00 - 12.00"
     },
     "pics": {
-        "header": "Großes Bild  -> Name der Datei (ohne 'resources/images/')",
-        "footer": "Kleines Bild -> Name der Datei (ohne 'resources/images/')"
+        "header": "Großes Bild -> alle Bilder sind nur Namen der Datei (ohne 'resources/images/')",
+        "footer": [
+            "Kleines Bild 1",
+            "Kleines Bild 2",
+            "..."
+        ]
     },
     "same": [
         "Ähnlicher Ort 1",
@@ -120,11 +124,11 @@ Der Value ist ein Paragraph, jeder String ist eine eigene Zeile.
 
 ##### `pics` - (Pictures) Bilder
 
-`pics` ist ein Table mit String Indexes und String Values:
+`pics` ist ein Table mit String Indexes und String Value für `header` und Array von Strings Value für `footer`:
 
 * `header`: Großes Bild am Anfang des Artikels
 
-* `footer`: Kleineres Bild am Ende des Artikels
+* `footer`: Kleinere Bilder am Ende des Artikels
 
 Die Values sind die Dateinamen im Ordner `resources/images/`.
 
@@ -266,12 +270,12 @@ Alles was geschrieben ist, wird in die `<body> *dein HTML* </body>` Tags gepackt
 
 Headers sind eins-zu-eins wie in [Markdown](https://en.wikipedia.org/wiki/Markdown).
 
-* `#` *(-> enspricht HTML: h1)*
-* `##` *(-> enspricht HTML: h2)*
-* `###` *(-> enspricht HTML: h3)*
-* `####` *(-> enspricht HTML: h4)*
-* `#####` *(-> enspricht HTML: h5)*
-* `######` *(-> enspricht HTML: h6)*
+* `#` *(-> entspricht HTML: h1)*
+* `##` *(-> entspricht HTML: h2)*
+* `###` *(-> entspricht HTML: h3)*
+* `####` *(-> entspricht HTML: h4)*
+* `#####` *(-> entspricht HTML: h5)*
+* `######` *(-> entspricht HTML: h6)*
 
 *Bilder Tags:*
 
