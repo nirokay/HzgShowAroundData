@@ -23,7 +23,10 @@
         "pics": {
             "header": "mühlenmarkt/temp_seite.jpg",
             "footer": [
-                "mühlenmarkt/temp_regal.jpg"
+                "test.png",
+                "mühlenmarkt/temp_regal.jpg",
+                "test.png",
+                "test.png"
             ]
         },
         "same": [
