@@ -28,8 +28,12 @@
                         "description": "Header image"
                     },
                     "footer": {
-                        "type": "string",
-                        "description": "Footer image"
+                        "type": "array",
+                        "description": "Footer images",
+                        "items": {
+                            "type": "string",
+                            "description": "Footer image"
+                        }
                     }
                 }
             },

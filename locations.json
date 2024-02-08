@@ -21,8 +21,10 @@
             "Metzgerei": "keine Bedienung dienstags ab 13.00"
         },
         "pics": {
-            "header": "temp_mühlenmarkt.jpg",
-            "footer": "temp_mühlenmarkt_footer.jpg"
+            "header": "mühlenmarkt/temp_seite.jpg",
+            "footer": [
+                "mühlenmarkt/temp_regal.jpg"
+            ]
         },
         "same": [
             "Werkstatt-Laden im MühlenMarkt"
@@ -626,6 +628,7 @@
             "Außenstellen": [
                 "Diese Werkstätten/Bildungsrichtungen gibt es außerhalb (in Peiting):",
                 "<h3>Montagegruppen</h3>",
+                "Die Montagegruppen bauen kleine Teile zusammen, die z.B. in Autos oder anderen Bereichen eingebaut werden.",
                 "<h4>Pneumatik</h4>",
                 "Die Pneumatik-Werkstatt kümmert sich um den Zusammenbau von Ventilen und anderen Luftdruckmechanismen.",
                 "<h3>Töpferei</h3>",
@@ -636,7 +639,9 @@
         },
         "open": {},
         "pics": {},
-        "same": [],
+        "same": [
+            "Berufliches Zentrum (BZ)"
+        ],
         "coords": [
             320,
             1346,
@@ -647,15 +652,27 @@
     {
         "name": "Berufliches Zentrum (BZ)",
         "link": "",
-        "desc": {},
-        "open": {},
+        "desc": {
+            "Bereiche": [
+                "<h3>Holzwerkstatt</h3>",
+                "<h3>Metallwerkstatt</h3>",
+                "<h3>Hauswirtschaft</h3>",
+                "<h3>Büro</h3>"
+            ]
+        },
+        "open": {
+            "Mo - Do": "08.00 - 16.00",
+            "Fr": "08.00 - 12.00"
+        },
         "pics": {},
-        "same": [],
+        "same": [
+            "Berufsbildende Maßnahme (BBM)"
+        ],
         "coords": [
-            362,
+            279,
             1096,
-            427,
-            1134
+            453,
+            1209
         ]
     }
 ]
