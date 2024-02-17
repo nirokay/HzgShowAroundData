@@ -128,8 +128,8 @@
     },
     {
         "name": "Kunstausstellung",
-        "from": "11.03.2024",
-        "till": "24.03.2024",
+        "from": "11-03-2024",
+        "till": "24-03-2024",
         "level": "info",
         "details": [
             "machArt Kunstausstellung: \"In fremden Gärten\""
@@ -137,13 +137,13 @@
     },
     {
         "name": "Benefizkonzert des Musikvereins Reichling",
-        "on": "06.04.2024",
+        "on": "06-04-2024",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/benefizkonzert-reichling"
     },
     {
         "name": "Maitanz in Peiting",
-        "on": "26.04.2024",
+        "on": "26-04-2024",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/maitanz-am-26-mai-2024",
         "details": [
@@ -153,7 +153,7 @@
     },
     {
         "name": "Sportfest",
-        "on": "04.05.2024",
+        "on": "04-05-2024",
         "level": "info",
         "details": []
     },
@@ -166,15 +166,15 @@
     },
     {
         "name": "Dorffest",
-        "on": "07.07.2024",
+        "on": "07-07-2024",
         "level": "info",
         "info": "",
         "details": []
     },
     {
         "name": "Kunstausstellung",
-        "from": "19.09.2024",
-        "till": "26.09.2024",
+        "from": "19-09-2024",
+        "till": "26-09-2024",
         "level": "info",
         "details": [
             "machArt Kunstausstellung"
@@ -182,21 +182,21 @@
     },
     {
         "name": "Erntedankfest",
-        "on": "07.10.2024",
+        "on": "07-10-2024",
         "level": "info",
         "details": []
     },
     {
         "name": "Herbstflohmarkt",
-        "from": "12.10.2024",
-        "till": "13.10.2024",
+        "from": "12-10-2024",
+        "till": "13-10-2024",
         "level": "info",
         "details": []
     },
     {
         "name": "Weihnachtsmarkt",
-        "from": "29.12.2024",
-        "till": "01.01.2025",
+        "from": "29-12-2024",
+        "till": "01-01-2025",
         "level": "info",
         "details": []
     }
