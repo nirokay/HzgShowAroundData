@@ -128,8 +128,8 @@
     },
     {
         "name": "Kunstausstellung",
-        "from": "11-03-2024",
-        "till": "24-03-2024",
+        "from": "2024-03-11",
+        "till": "2024-03-24",
         "level": "info",
         "details": [
             "machArt Kunstausstellung: \"In fremden Gärten\""
@@ -137,13 +137,13 @@
     },
     {
         "name": "Benefizkonzert des Musikvereins Reichling",
-        "on": "06-04-2024",
+        "on": "2024-04-06",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/benefizkonzert-reichling"
     },
     {
         "name": "Maitanz in Peiting",
-        "on": "26-04-2024",
+        "on": "2024-04-26",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/maitanz-am-26-mai-2024",
         "details": [
@@ -153,28 +153,28 @@
     },
     {
         "name": "Sportfest",
-        "on": "04-05-2024",
+        "on": "2024-05-04",
         "level": "info",
         "details": []
     },
     {
         "name": "Frühlingsflohmarkt",
-        "from": "18.05.2024",
-        "till": "19.05.2024",
+        "from": "2024-05-18",
+        "till": "2024-05-19",
         "level": "info",
         "details": []
     },
     {
         "name": "Dorffest",
-        "on": "07-07-2024",
+        "on": "2024-07-07",
         "level": "info",
         "info": "",
         "details": []
     },
     {
         "name": "Kunstausstellung",
-        "from": "19-09-2024",
-        "till": "26-09-2024",
+        "from": "2024-09-19",
+        "till": "2024-09-26",
         "level": "info",
         "details": [
             "machArt Kunstausstellung"
@@ -182,21 +182,21 @@
     },
     {
         "name": "Erntedankfest",
-        "on": "07-10-2024",
+        "on": "2024-10-07",
         "level": "info",
         "details": []
     },
     {
         "name": "Herbstflohmarkt",
-        "from": "12-10-2024",
-        "till": "13-10-2024",
+        "from": "2024-10-12",
+        "till": "2024-10-13",
         "level": "info",
         "details": []
     },
     {
         "name": "Weihnachtsmarkt",
-        "from": "29-12-2024",
-        "till": "01-01-2025",
+        "from": "2024-12-29",
+        "till": "2025-01-01",
         "level": "info",
         "details": []
     }
