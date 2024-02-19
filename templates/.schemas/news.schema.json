@@ -25,11 +25,13 @@
                 "properties": {
                     "from": {
                         "type": "string",
-                        "description": "Event starting date (yyyy-MM-dd)"
+                        "description": "Event starting date (yyyy-MM-dd)",
+                        "pattern": "(\\d{4}|\\*)-(\\d{1,2}-(\\d{1,2})"
                     },
                     "till": {
                         "type": "string",
-                        "description": "Event ending date (yyyy-MM-dd)"
+                        "description": "Event ending date (yyyy-MM-dd)",
+                        "pattern": "(\\d{4}|\\*)-(\\d{1,2}-(\\d{1,2})"
                     }
                 },
                 "required": ["from", "till"]
@@ -38,7 +40,8 @@
                 "properties": {
                     "on": {
                         "type": "string",
-                        "description": "Event date (single day) (yyyy-MM-dd)"
+                        "description": "Event date (single day) (yyyy-MM-dd)",
+                        "pattern": "(\\d{4}|\\*)-(\\d{1,2}-(\\d{1,2})"
                     }
                 },
                 "required": ["on"]
