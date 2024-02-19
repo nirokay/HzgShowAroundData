@@ -15,7 +15,8 @@
             },
             "date": {
                 "type": "string",
-                "description": "Article date (optional; default: '0001-01-01')"
+                "description": "Article date (optional; default: '0001-01-01')",
+                "pattern": "(\\d{4}|\\*)-(\\d{1,2}-(\\d{1,2})"
             }
         },
         "required": ["title"],

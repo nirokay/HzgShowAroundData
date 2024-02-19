@@ -10,7 +10,7 @@ jobs:
       - name: Validate locations
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: /github/workspace/.schemas/locations.schema.json
+          INPUT_SCHEMA: /templates/.schemas/locations.schema.json
           INPUT_JSONS: /locations.json
 
   verify-json-news:
@@ -20,7 +20,7 @@ jobs:
       - name: Validate news
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: /github/workspace/.schemas/news.schema.json
+          INPUT_SCHEMA: /templates/.schemas/news.schema.json
           INPUT_JSONS: /news.json
 
   verify-json-articles:
@@ -30,7 +30,7 @@ jobs:
       - name: Validate articles
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: /github/workspace/.schemas/articles.schema.json
+          INPUT_SCHEMA: /templates/.schemas/articles.schema.json
           INPUT_JSONS: /articles.json
 
   verify-json-tour_locations:
@@ -40,5 +40,5 @@ jobs:
       - name: Validate tour locations
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: /github/workspace/.schemas/tour_locations.schema.json
+          INPUT_SCHEMA: /templates/.schemas/tour_locations.schema.json
           INPUT_JSONS: /tour_locations.json
