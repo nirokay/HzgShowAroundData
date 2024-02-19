@@ -125,5 +125,79 @@
             "Theateraufführung von der Theatergruppe",
             "von 16:00 bis 16:30 im Festsaal"
         ]
+    },
+    {
+        "name": "Kunstausstellung",
+        "from": "2024-03-11",
+        "till": "2024-03-24",
+        "level": "info",
+        "details": [
+            "machArt Kunstausstellung: \"In fremden Gärten\""
+        ]
+    },
+    {
+        "name": "Benefizkonzert des Musikvereins Reichling",
+        "on": "2024-04-06",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/benefizkonzert-reichling"
+    },
+    {
+        "name": "Maitanz in Peiting",
+        "on": "2024-04-26",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/maitanz-am-26-mai-2024",
+        "details": [
+            "Die Band \"Funk Off\" spielt Musik.",
+            "7€ Eintritt in der Schlossberghalle (Einlass um 18:00, Beginn um 19:00)"
+        ]
+    },
+    {
+        "name": "Sportfest",
+        "on": "2024-05-04",
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "Frühlingsflohmarkt",
+        "from": "2024-05-18",
+        "till": "2024-05-19",
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "Dorffest",
+        "on": "2024-07-07",
+        "level": "info",
+        "info": "",
+        "details": []
+    },
+    {
+        "name": "Kunstausstellung",
+        "from": "2024-09-19",
+        "till": "2024-09-26",
+        "level": "info",
+        "details": [
+            "machArt Kunstausstellung"
+        ]
+    },
+    {
+        "name": "Erntedankfest",
+        "on": "2024-10-07",
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "Herbstflohmarkt",
+        "from": "2024-10-12",
+        "till": "2024-10-13",
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "Weihnachtsmarkt",
+        "from": "2024-12-29",
+        "till": "2025-01-01",
+        "level": "info",
+        "details": []
     }
 ]
