@@ -2,7 +2,7 @@
     {
         "title": "Findus - Katzen von Herzogsägmühle",
         "author": "nirokay",
-        "date": "13.12.2023",
+        "date": "2023-12-13",
         "desc": "Heute wird Findus, der Kater, vorgestellt! :)",
         "body": [
             "<img>findus/bed_eepy.jpg</img>",
@@ -23,7 +23,7 @@
     {
         "title": "Ankündigung - Artikel Feature",
         "author": "nirokay",
-        "date": "08.12.2023",
+        "date": "2023-12-08",
         "desc": "Artikel sind nun verfügbar! Jeder kann, und ist herzlich willkommen, einen zu verfassen!",
         "remote": "announcement_articles_launch.html"
     },
