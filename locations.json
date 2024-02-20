@@ -1,7 +1,7 @@
 [
     {
         "name": "MühlenMarkt",
-        "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/herzogsaegmuehler-laeden",
+        "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/muehlenmarkt",
         "desc": {
             "Was gibt es?": [
                 "Um es kurz zu machen: Lebensmittel! Der MühlenMarkt ist ein Edeka, die Auswahl ist nicht allzu riesengroß, aber es ist genug Verschiedenes da."
@@ -38,7 +38,7 @@
     },
     {
         "name": "Werkstatt-Laden im MühlenMarkt",
-        "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/herzogsaegmuehler-laeden",
+        "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren",
         "desc": {
             "Was gibt es?": [
                 "Vorallem Gebasteltes/Gewerkeltes wird verkauft, aber auch Spielzeug und Vieles mehr!"
@@ -78,7 +78,7 @@
     },
     {
         "name": "Post und Treuhand-Kasse",
-        "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/herzogsaegmuehler-laeden",
+        "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren",
         "desc": {
             "Post": [
                 "Hier kannst du Post versenden."
@@ -180,7 +180,7 @@
             ],
             "Haus 14": [],
             "Haus 16": [
-                "<b>Spezielles:</b>\nTischkicker ganz unten im Treppenhaus"
+                "<b>Spezielles:</b>\nTischkicker ganz unten im Treppenhaus\nNachtdienst im Gruppenleiterbüro"
             ],
             "Haus 18": [
                 "<b>Spezielles:</b>\nBilliard-Tisch"
@@ -219,7 +219,6 @@
     },
     {
         "name": "Sinnespfad",
-        "link": "https://www.herzogsaegmuehle.de/ort-zum-leben/sinnespfad",
         "desc": {},
         "open": {},
         "pics": {},
@@ -233,7 +232,6 @@
     },
     {
         "name": "Martinskirche",
-        "link": "https://www.herzogsaegmuehle.de/ort-zum-leben/martinskirche",
         "desc": {},
         "open": {},
         "pics": {},
@@ -419,7 +417,6 @@
     },
     {
         "name": "Vereinsheim SV Herzogsägmühle",
-        "link": "https://www.herzogsaegmuehle.de/ort-zum-leben/vereine/herzogsaegmuehler-sportverein",
         "desc": {},
         "open": {},
         "pics": {},
