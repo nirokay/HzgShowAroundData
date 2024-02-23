@@ -81,7 +81,7 @@
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren",
         "desc": {
             "Post": [
-                "Hier kannst du Post versenden."
+                "Hier kannst du Post versenden und ggf. empfangen."
             ],
             "Treuhand-Kasse": [
                 "Jeder Rehabilitand hat hier ein Konto, du kannst dir hier dein Geld auszahlen lassen.",
@@ -137,7 +137,7 @@
         "name": "Herzogsägmühler Werkstätten",
         "desc": {
             "Arbeiten": [
-                "Als eine der weiterführende Maßnahme (z.B. AttM, BBM, BVB) kannst du hier in einem geschützten Bereich arbeiten, Praktikum machen oder eine Ausbildung abschließen."
+                "Als eine der weiterführende Maßnahmen kannst du hier in einem geschützten Bereich arbeiten, Praktikum machen oder eine Ausbildung abschließen."
             ]
         },
         "open": {},
@@ -170,20 +170,25 @@
     {
         "name": "Häuser Am Latterbach",
         "desc": {
+            "Haus 11": [
+                "<b>Spezielles:</b>\nBilliard-Tisch"
+            ],
             "Haus 12": [
-                "Die <b>Verwaltung</b> befindet sich im Dachgeschoss (<b>ACHTUNG:</b> die Decke ist niedrig und angewinkelt... ich hab mir schon mehrmals den Kopf gestoßen ._.)"
+                "Die <b>Verwaltung</b> und <b>ein Teil der IT</b> befindet sich im Dachgeschoss (<b>ACHTUNG:</b> die Decke ist niedrig und angewinkelt... ich hab mir schon mehrmals den Kopf gestoßen ._.)"
             ],
             "Haus 13": [
                 "Der <b>Festsaal</b> befindet sich im 1. Stock. Dort finden Veranstaltungen und Feiern statt.",
                 "<b>Ergo-Therapien:</b> Dienstleistung (Hr. Trometer) und Gestalten-und-Werken (Fr. Tagscherer und Hr. Mayer)\nDie Ergotherapien befinden sich im Erdgeschoss.",
                 "Der <b>Medizinische Dienst</b> befindet sich im 2. Stock am Ende des Flurs.\nHier werden körperliche Werte erhoben und auch unter Umständen Medikamente bestellt/abgeholt."
             ],
-            "Haus 14": [],
+            "Haus 14": [
+                "<b>Spezielles:</b>\nTischkicker"
+            ],
             "Haus 16": [
                 "<b>Spezielles:</b>\nTischkicker ganz unten im Treppenhaus\nNachtdienst im Gruppenleiterbüro"
             ],
             "Haus 18": [
-                "<b>Spezielles:</b>\nBilliard-Tisch"
+                "<b>Spezielles:</b>\nTischtennis"
             ]
         },
         "pics": {},
@@ -569,9 +574,9 @@
         "same": [],
         "coords": [
             407,
-            1264,
+            1249,
             429,
-            1249
+            1264
         ]
     },
     {
