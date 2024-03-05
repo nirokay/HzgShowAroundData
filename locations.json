@@ -446,7 +446,9 @@
     {
         "name": "Sporthalle",
         "desc": {
-            "Sport": "Bisschen Sport schadet dir nicht!"
+            "Sport": [
+                "Bisschen Sport schadet dir nicht!"
+            ]
         },
         "open": {},
         "pics": {},
@@ -468,7 +470,9 @@
     {
         "name": "Tennisplatz",
         "desc": {
-            "Tennis": "Hier kannst du Tennis spielen."
+            "Tennis": [
+                "Hier kannst du Tennis spielen."
+            ]
         },
         "open": {},
         "pics": {},
