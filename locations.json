@@ -41,7 +41,7 @@
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren",
         "desc": {
             "Was gibt es?": [
-                "Vorallem Gebasteltes/Gewerkeltes wird verkauft, aber auch Spielzeug und Vieles mehr!"
+                "Vorallem Gebasteltes/Gewerkeltes wird verkauft, aber auch Spielzeug und vieles mehr!"
             ]
         },
         "open": {
@@ -107,7 +107,7 @@
         "desc": {
             "Hausarzt": [
                 "Hier befindet sich der Hausarzt für körperliche Beschwerden oder Ähnliches.",
-                "Kurz nach der Anreise wirst du dich hier vorstellen und körperliche Werte erheben (Blutdruck, EKG, Gewicht, ...)."
+                "Kurz nach der Anreise wirst du dich hier vorstellen beim Aufnahmearzt und körperliche Werte erheben (Blutdruck, EKG, Gewicht, ...)."
             ]
         },
         "open": {},
@@ -182,7 +182,7 @@
                 "Der <b>Medizinische Dienst</b> befindet sich im 2. Stock am Ende des Flurs.\nHier werden körperliche Werte erhoben und auch unter Umständen Medikamente bestellt/abgeholt."
             ],
             "Haus 14": [
-                "<b>Spezielles:</b>\nTischkicker"
+                "<b>Spezielles:</b>\nFitnessraum. Hier kannst du dich austoben!"
             ],
             "Haus 16": [
                 "<b>Spezielles:</b>\nTischkicker ganz unten im Treppenhaus\nNachtdienst im Gruppenleiterbüro"
@@ -442,7 +442,9 @@
     },
     {
         "name": "Sporthalle",
-        "desc": {},
+        "desc": {
+            "Sport": "Bisschen Sport schadet dir nicht!"
+        },
         "open": {},
         "pics": {},
         "coords": [
@@ -462,7 +464,9 @@
     },
     {
         "name": "Tennisplatz",
-        "desc": {},
+        "desc": {
+            "Tennis": "Hier kannst du Tennis spielen."
+        },
         "open": {},
         "pics": {},
         "coords": [
@@ -607,7 +611,9 @@
     },
     {
         "name": "Malerei",
-        "desc": {},
+        "desc": {
+            "": ""
+        },
         "open": {},
         "pics": {},
         "same": [],
