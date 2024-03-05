@@ -179,7 +179,8 @@
             "Haus 13": [
                 "Der <b>Festsaal</b> befindet sich im 1. Stock. Dort finden Veranstaltungen und Feiern statt.",
                 "<b>Ergo-Therapien:</b> Dienstleistung (Hr. Trometer) und Gestalten-und-Werken (Fr. Tagscherer und Hr. Mayer)\nDie Ergotherapien befinden sich im Erdgeschoss.",
-                "Der <b>Medizinische Dienst</b> befindet sich im 2. Stock am Ende des Flurs.\nHier werden körperliche Werte erhoben und auch unter Umständen Medikamente bestellt/abgeholt."
+                "Der <b>Medizinische Dienst</b> befindet sich im 2. Stock am Ende des Flurs.\nHier werden körperliche Werte erhoben und auch unter Umständen Medikamente bestellt/abgeholt.",
+                "<b>Gespräche mit Arzt/Psychologen<b>: Diese finden auch hier statt. Meistens im 2ten, 3ten oder 4ten Stockwerk, je nach dem welchen Psychologen oder Arzt man hat."
             ],
             "Haus 14": [
                 "<b>Spezielles:</b>\nFitnessraum. Hier kannst du dich austoben!"
