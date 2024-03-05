@@ -618,9 +618,7 @@
     },
     {
         "name": "Malerei",
-        "desc": {
-            "": ""
-        },
+        "desc": {},
         "open": {},
         "pics": {},
         "same": [],
