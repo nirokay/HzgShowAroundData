@@ -1,0 +1,29 @@
+{
+    "title": "List of contributors and their contributions",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "description": "Contributor object",
+        "properties": {
+            "name": {
+                "type": "string",
+                "description": "Name of the contributor"
+            },
+            "link": {
+                "type": "string",
+                "description": "Link to social media/contact"
+            },
+            "tasks": {
+                "type": "array",
+                "description": "Contributions",
+                "items": {
+                    "type": "string",
+                    "description": "Contribution"
+                }
+            }
+        },
+        "required": [
+            "name"
+        ]
+    }
+}

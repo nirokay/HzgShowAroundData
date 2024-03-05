@@ -1,0 +1,27 @@
+[
+    {
+        "name": "nirokay",
+        "link": "https://nirokay.github.io/",
+        "tasks": [
+            "Website: HTML, CSS, JavaScript",
+            "Newsfeed",
+            "Orte (und deren Infos)"
+        ]
+    },
+    {
+        "name": "tiersch",
+        "tasks": []
+    },
+    {
+        "name": "Ika",
+        "tasks": [
+            "Website: CSS"
+        ]
+    },
+    {
+        "name": "realDV4",
+        "tasks": [
+            "Orte (und deren Infos)"
+        ]
+    }
+]

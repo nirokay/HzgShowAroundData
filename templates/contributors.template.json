@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Name der Person",
+        "tasks": [
+            "Hab das gemacht",
+            "und das auch"
+        ]
+    },
+    {
+        "name": "",
+        "tasks": [
+            ""
+        ]
+    }
+]
