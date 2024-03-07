@@ -446,7 +446,7 @@
     {
         "name": "Sporthalle",
         "desc": {
-            "Sport": [
+            "": [
                 "Bisschen Sport schadet dir nicht!"
             ]
         },
@@ -470,7 +470,7 @@
     {
         "name": "Tennisplatz",
         "desc": {
-            "Tennis": [
+            "": [
                 "Hier kannst du Tennis spielen."
             ]
         },
