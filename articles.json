@@ -37,7 +37,7 @@
             "# Große Überschrift",
             "#KEINE Überschrift, weil zwischen dem # und dem Text ein Leerzeichen sein muss!",
 
-            "Hier ein Bild (WICHTIG: es muss auf einer eigenen Linie sein und mit <img> anfangen und </img> enden):",
+            "Hier ein Bild (WICHTIG: es muss auf einer eigenen Linie sein und mit <img⁣> anfangen und </img⁣> enden):",
             "<img>bild.png</img>",
 
             "So kann man auch Bilder anzeigen lassen:",
