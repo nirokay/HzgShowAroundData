@@ -89,7 +89,7 @@ Das ist der Ortsname, es ist ein einfacher String.
 
 ##### `link` - Link
 
-`link` ist ein String einer URL. Dies kann z.B. zu der offiziellen HzgSägmühle Website führen.
+`link` ist ein String einer URL. Dies kann z.B. zu der offiziellen Herzogsägmühler Website führen.
 
 ##### `desc` - (Description) Beschreibung
 
@@ -105,6 +105,9 @@ Der Value ist ein Paragraph, jeder String ist eine eigene Zeile.
 
 ```json
 "desc": {
+    "": [
+        "Zeile ohne Überschrift"
+    ],
     "Überschrift": [
         "Zeile 1",
         "Zeile 2"
@@ -172,6 +175,7 @@ Egal welches der Zwei du wählst, musst du in der `articles.json` Datei deinen A
     "author": "Dein Name",
     "date": "Datum im format 'dd.MM.yyyy'",
     "desc": "Kurze Beschreibung worum es im Artikel geht (wird in der Artikel-Preview angezeigt).",
+    "image": "Pfad zum Bild (wird als Vorschau verwendet) im Ordner resources/images/articles/",
     "body": null,
     "remote": null
 }
