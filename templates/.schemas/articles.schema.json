@@ -17,6 +17,10 @@
                 "type": "string",
                 "description": "Article date (yyyy-MM-dd) (optional; default: '0001-01-01')",
                 "pattern": "^((\\d{4}|\\*)-(\\d{1,2})-(\\d{1,2}))"
+            },
+            "image": {
+                "type": "string",
+                "description": "Article preview image (in resources/images/articles/)"
             }
         },
         "required": ["title"],
