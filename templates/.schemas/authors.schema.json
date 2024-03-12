@@ -2,10 +2,10 @@
     "title": "Authors profile picture repository",
     "type": "object",
     "properties": {
-        "anonym": {
+        "Anonym": {
             "type": "string",
             "description": "Default author"
         }
     },
-    "required": ["anonym"]
+    "required": ["Anonym"]
 }

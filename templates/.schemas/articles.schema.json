@@ -11,7 +11,7 @@
             },
             "author": {
                 "type": "string",
-                "description": "Article author (optional; default: 'Anonymous')"
+                "description": "Article author (optional; default: 'Anonym')"
             },
             "date": {
                 "type": "string",
