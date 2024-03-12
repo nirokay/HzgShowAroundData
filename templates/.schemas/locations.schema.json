@@ -13,7 +13,17 @@
             },
             "desc": {
                 "type": "object",
-                "description": "Description of a location"
+                "description": "Description of a location",
+                "patternProperties": {
+                    "^": {
+                        "type": "array",
+                        "description": "Header with paragraphs",
+                        "items": {
+                            "description": "Paragraph",
+                            "type": "string"
+                        }
+                    }
+                }
             },
             "open": {
                 "type": "object",
