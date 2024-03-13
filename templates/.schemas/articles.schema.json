@@ -21,6 +21,10 @@
             "image": {
                 "type": "string",
                 "description": "Article preview image (in resources/images/articles/)"
+            },
+            "hidden": {
+                "type": "boolean",
+                "description": "Flag to toggle, if the article should be generated or not (useful for articles that are work in progress)"
             }
         },
         "required": ["title"],
