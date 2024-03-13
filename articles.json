@@ -22,6 +22,28 @@
         ]
     },
     {
+        "title": "Weiterführene Maßnahmen",
+        "author": "nirokay",
+        "date": "2024-03-13",
+        "desc": "Eine grobe Übersicht für Anschlussmaßnahmen an der medizinischen Rehabilitation.",
+        "image": null,
+        "body": [
+            "## Medizinische Reha",
+            "Die medizinische Reha ist oft die Maßnahme, die zu Beginn bestritten wird.\nHier geht es grundsätzlich um die Stabilisierung der Person. Eins der Ziele ist 4 bis 6 Stunden am Tag die Ergotherapie zu besuchen.",
+            "## Folgemaßnahmen",
+            "### BBM",
+            "Die BBM, berufsbildende Maßnahme, ist, wie der Name schon verrät, eine Maßnahme wo es primär um die Berufsbildung geht.",
+            "Hier gibt es drei verschiedene Werkstätten:\n• Metall\n• Holz\n• Kunst und Montage",
+            "Genaueres über die Bereiche kannst du auf der Ortsseite der BBM erfahren.",
+            "### BVB",
+            "Im berufsvorbereitenden Bereich geht es vorallem um die Vorbereitung auf einen Beruf (langsam komme ich mir dumm vor, diese Maßnahmenamen zu erklären...).",
+            "Genaueres über die Bereiche und die Maßnahme kannst du auf der Ortsseite des BZs (Berufliches Zentrum) erfahren.",
+            "### ATTM",
+            "??? Tagesstrukturerende Maßnahme, auch Soziale Reha, ..."
+        ],
+        "hidden": true
+    },
+    {
         "title": "Ankündigung - Artikel Feature",
         "author": "nirokay",
         "date": "2023-12-08",
