@@ -18,6 +18,15 @@
         ]
     },
     {
+        "name": "Gesundheitsbildung: Sucht",
+        "on": "2024-04-03",
+        "level": "info",
+        "details": [
+            "Vortrag zum Thema Sucht",
+            "von 13:00 bis 14:30 im Festsaal"
+        ]
+    },
+    {
         "name": "Weihnachtsmarkt",
         "from": "2023-12-01",
         "till": "2023-12-03",
