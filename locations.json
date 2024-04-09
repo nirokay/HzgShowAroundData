@@ -707,7 +707,9 @@
         "open": {},
         "pics": {
             "header": "work/malerei/seite.jpg",
-            "footer": "work/malerei/eingang.jpg"
+            "footer": [
+                "work/malerei/eingang.jpg"
+            ]
         },
         "same": [],
         "coords": [
