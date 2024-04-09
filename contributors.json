@@ -27,5 +27,19 @@
         "tasks": [
             "Orte (und deren Infos)"
         ]
+    },
+    {
+        "name": "Kristina Mensch",
+        "link": "http://kristinamensch.com/",
+        "tasks": [
+            "Ortsbilder",
+            "Bildernachbearbeitung"
+        ]
+    },
+    {
+        "name": "Aaron",
+        "tasks": [
+            "Ortsbilder"
+        ]
     }
 ]
