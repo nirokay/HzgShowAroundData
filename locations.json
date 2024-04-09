@@ -21,9 +21,10 @@
             "Metzgerei": "keine Bedienung dienstags ab 13.00"
         },
         "pics": {
-            "header": "mühlenmarkt/temp_seite.jpg",
+            "header": "shopping/mühlenmarkt/eingang.jpg",
             "footer": [
-                "mühlenmarkt/temp_regal.jpg"
+                "shopping/mühlenmarkt/bäckerei.jpg",
+                "shopping/mühlenmarkt/obst.jpg"
             ]
         },
         "same": [
@@ -50,7 +51,12 @@
             "Do": "08.30 - 18.00",
             "Fr": "08.30 - 17.00"
         },
-        "pics": {},
+        "pics": {
+            "header": "shopping/mühlenmarkt/werkstattladen/logo.jpg",
+            "footer": [
+                "shopping/mühlenmarkt/werkstattladen/waren.jpg"
+            ]
+        },
         "same": [
             "MühlenMarkt"
         ],
@@ -93,7 +99,9 @@
             "Mo - Fr": "08.00 - 12.00",
             "Di, Do": "13.15 - 17.00"
         },
-        "pics": {},
+        "pics": {
+            "header": "post.jpg"
+        },
         "coords": [
             660,
             1618,
@@ -111,7 +119,9 @@
             ]
         },
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "health/gesundheitspunkt.jpg"
+        },
         "coords": [
             819,
             1575,
@@ -141,7 +151,12 @@
             ]
         },
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "work/werkstätten/werkstätten.jpg",
+            "footer": [
+                "work/werkstätten/werkstätten-vorgarten.jpg"
+            ]
+        },
         "coords": [
             819,
             1621,
@@ -158,7 +173,9 @@
             ]
         },
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "work/telezentrum.jpg"
+        },
         "coords": [
             1131,
             1750,
@@ -194,7 +211,13 @@
                 "<b>Spezielles:</b>\nTischtennis"
             ]
         },
-        "pics": {},
+        "pics": {
+            "footer": [
+                "latterbach/14.jpg",
+                "latterbach/16.jpg",
+                "latterbach/18.jpg"
+            ]
+        },
         "coords": [
             1624,
             1410,
@@ -216,7 +239,12 @@
             "Di - Do": "08.30 - 12.30 & 13.30 - 16.30",
             "Fr": "08.30 - 12.30"
         },
-        "pics": {},
+        "pics": {
+            "header": "work/gärtnerei/haus-aussen.jpg",
+            "footer": [
+                "work/gärtnerei/beet.jpg"
+            ]
+        },
         "coords": [
             625,
             1103,
@@ -229,7 +257,14 @@
         "name": "Sinnespfad",
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "leisure/sinnespfad/bienen.jpg",
+            "footer": [
+                "leisure/sinnespfad/elephant.jpg",
+                "leisure/sinnespfad/gesicht.jpg",
+                "leisure/sinnespfad/labyrinth.jpg"
+            ]
+        },
         "coords": [
             890,
             730,
@@ -242,7 +277,9 @@
         "name": "Martinskirche",
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "church/martinskirche.jpg"
+        },
         "coords": [
             635,
             1001,
@@ -255,7 +292,9 @@
         "name": "Beach-Volleyballfeld",
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "leisure/sport/volleyball.jpg"
+        },
         "coords": [
             683,
             710,
@@ -282,7 +321,12 @@
             "Mo - Do": "08.00 - 12.00 & 13.00 - 17.00",
             "Fr": "08.00 - 12.00"
         },
-        "pics": {},
+        "pics": {
+            "header": "shopping/wühlkiste/eingang-sicht.jpg",
+            "footer": [
+                "shopping/wühlkiste/eingang.jpg"
+            ]
+        },
         "coords": [
             257,
             1018,
@@ -308,7 +352,9 @@
             "Mo - Do": "08.30 - 16.00",
             "So": "09.30 - 17.00"
         },
-        "pics": {},
+        "pics": {
+            "header": "shopping/cafe/eingang.jpg"
+        },
         "coords": [
             545,
             825,
@@ -328,7 +374,13 @@
             ]
         },
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "shopping/cafe/minigolf/strecke.jpg",
+            "footer": [
+                "shopping/cafe/minigolf/hole.jpg",
+                "shopping/cafe/minigolf/landschaft.jpg"
+            ]
+        },
         "coords": [
             395,
             830,
@@ -344,7 +396,12 @@
         "name": "Abenteuerspielplatz",
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "shopping/cafe/abenteuerspielplatz/schaukel.jpg",
+            "footer": [
+                "shopping/cafe/abenteuerspielplatz/klettern.jpg"
+            ]
+        },
         "coords": [
             509,
             860,
@@ -373,7 +430,9 @@
             ]
         },
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "leisure/deckerhalle/deckerhalle.jpg"
+        },
         "coords": [
             427,
             957,
@@ -386,7 +445,9 @@
         "name": "Skater-Park",
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "leisure/sport/skating.jpg"
+        },
         "coords": [
             337,
             549,
@@ -400,7 +461,9 @@
         "link": "https://www.herzogsaegmuehle.de/ort-der-hilfe/schulbildung/kurzinfo-alfons-brandl-schule-foerderzentrum",
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "schools/Alfons-Brandl-Schule.jpg"
+        },
         "coords": [
             190,
             380,
@@ -411,10 +474,12 @@
     },
     {
         "name": "Albrecht-Schnitter-Berufsschule",
-        "link": "https://www.herzogsaegmuehle.de/ort-der-hilfe/schulbildung/kurzinfo-berufsschule",
+        "link": "https://www.berufsschule-herzogsaegmuehle.de/",
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "Albrecht-Schnitter-Berufsschule.jpg"
+        },
         "coords": [
             280,
             628,
@@ -427,7 +492,9 @@
         "name": "Vereinsheim SV Herzogsägmühle",
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "leisure/sport/verein/vereinsheim.jpg"
+        },
         "coords": [
             399,
             86,
@@ -451,7 +518,9 @@
             ]
         },
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "leisure/sport/verein/sporthalle.jpg"
+        },
         "coords": [
             481,
             413,
@@ -475,7 +544,9 @@
             ]
         },
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "leisure/sport/verein/tennis.jpg"
+        },
         "coords": [
             447,
             63,
@@ -495,7 +566,9 @@
         "name": "Fußballplatz",
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "leisure/sport/verein/fussball.jpg"
+        },
         "coords": [
             396,
             166,
@@ -515,7 +588,9 @@
         "name": "Handballfeld",
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "leisure/sport/verein/handball.jpg"
+        },
         "coords": [
             350,
             412,
@@ -535,7 +610,9 @@
         "name": "Sprintstrecke",
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "leisure/sport/verein/sprintstrecke.jpg"
+        },
         "coords": [
             543,
             72,
@@ -555,7 +632,9 @@
         "name": "KFZ-Werkstatt",
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "work/werkstätten/kfz.jpg"
+        },
         "same": [],
         "coords": [
             293,
@@ -568,7 +647,9 @@
         "name": "Elektrowerkstatt",
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "work/werkstätten/elektrowerkstatt.jpg"
+        },
         "same": [],
         "coords": [
             407,
@@ -594,7 +675,9 @@
         "name": "Sanitär- und Heizungstechnik",
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "work/werkstätten/heizung.jpg"
+        },
         "same": [],
         "coords": [
             407,
@@ -607,7 +690,9 @@
         "name": "Schlosserei",
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "work/werkstätten/schlosserei.jpg"
+        },
         "same": [],
         "coords": [
             313,
@@ -620,7 +705,10 @@
         "name": "Malerei",
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "work/malerei/seite.jpg",
+            "footer": "work/malerei/eingang.jpg"
+        },
         "same": [],
         "coords": [
             380,
@@ -651,7 +739,9 @@
             ]
         },
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "work/BBM.jpg"
+        },
         "same": [
             "Berufliches Zentrum (BZ)"
         ],
@@ -677,7 +767,9 @@
             "Mo - Do": "08.00 - 16.00",
             "Fr": "08.00 - 12.00"
         },
-        "pics": {},
+        "pics": {
+            "header": "work/BZ.jpg"
+        },
         "same": [
             "Berufsbildende Maßnahme (BBM)"
         ],
