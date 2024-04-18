@@ -161,6 +161,15 @@
         ]
     },
     {
+        "name": "Konzert - Meer und Wasser",
+        "on": "2024-04-25",
+        "level": "info",
+        "details": [
+            "Im <b>Festsaal</b> im <b>Am Latterbach 13</b>",
+            "Start ist um <b>16: 30 Uhr</b>"
+        ]
+    },
+    {
         "name": "Sportfest",
         "on": "2024-05-04",
         "level": "info",
