@@ -180,7 +180,9 @@
         "from": "2024-05-18",
         "till": "2024-05-19",
         "level": "info",
-        "details": []
+        "details": [
+            "an beiden Tagen von 7:00 bis 14:00 Uhr"
+        ]
     },
     {
         "name": "Hoagart",
