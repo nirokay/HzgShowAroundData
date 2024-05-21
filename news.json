@@ -4,7 +4,7 @@
         "on": "2024-01-10",
         "level": "info",
         "details": [
-            "Vortrag zum Thema Entspannung und Spannungsbewältigung",
+            "Vortrag zum Thema Entspannung und Spannungsbewältigung (Frau Igelmund)",
             "von 13:00 bis 14:30 im Festsaal"
         ]
     },
@@ -13,7 +13,16 @@
         "on": "2024-02-07",
         "level": "info",
         "details": [
-            "Vortrag zum Thema gesunder Schlaf",
+            "Vortrag zum Thema gesunder Schlaf (Frau Igelmund)",
+            "von 13:00 bis 14:30 im Festsaal"
+        ]
+    },
+    {
+        "name": "Gesundheitsbildung: Ernährung",
+        "on": "2024-02-07",
+        "level": "info",
+        "details": [
+            "Vortrag zum Thema Ernährung (Frau Igelmund)",
             "von 13:00 bis 14:30 im Festsaal"
         ]
     },
@@ -22,7 +31,25 @@
         "on": "2024-04-03",
         "level": "info",
         "details": [
-            "Vortrag zum Thema Sucht",
+            "Vortrag zum Thema Sucht (Herr Dorner)",
+            "von 13:00 bis 14:30 im Festsaal"
+        ]
+    },
+    {
+        "name": "Gesundheitsbildung: Bewegung",
+        "on": "2024-02-07",
+        "level": "info",
+        "details": [
+            "Vortrag zum Thema Bewegung (Frau Igelmund)",
+            "von 13:00 bis 14:30 im Festsaal"
+        ]
+    },
+    {
+        "name": "Gesundheitsbildung: Internetsucht",
+        "on": "2024-05-21",
+        "level": "info",
+        "details": [
+            "Vortrag zum Thema Internetsucht (Herr Dorner)",
             "von 13:00 bis 14:30 im Festsaal"
         ]
     },
