@@ -234,7 +234,7 @@
         "name": "EU-Parliament Wahl",
         "from": "2024-06-06",
         "till": "2024-06-09",
-        "level: "warning",
+        "level": "warning",
         "info": "https://www.europarl.europa.eu/at-your-service/de/be-heard/elections",
         "details": [
             "Alle EU-Angehörige ab 16 Jahren dürfen und sind aufgefordert zu Wählen"
