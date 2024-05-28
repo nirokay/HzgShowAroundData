@@ -221,6 +221,26 @@
         ]
     },
     {
+        "name": "EUropABEND",
+        "on": "2024-05-29",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/europawahl",
+        "details": [
+            "von <b>19:00 - 21:00 Uhr</b> im <b>Rainer-Endisch-Saal</b>",
+            "Informationsabend zur <b>EU-Wahl 06.06. - 09.06.2024</b> und Überblick über das EU-Parliament und das Wahlverfahren"
+        ]
+    },
+    {
+        "name": "EU-Parliament Wahl",
+        "from": "2024-06-06",
+        "till": "2024-06-09",
+        "level": "warning",
+        "info": "https://www.europarl.europa.eu/at-your-service/de/be-heard/elections",
+        "details": [
+            "Alle EU-Angehörige ab 16 Jahren dürfen und sind aufgefordert zu Wählen"
+        ]
+    },
+    {
         "name": "Hoagart",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/hoagart",
         "on": "2024-05-31",
