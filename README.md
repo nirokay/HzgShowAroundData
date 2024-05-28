@@ -6,6 +6,10 @@ This repository is used at compile-time and runtime by [HzgShowAround](https://g
 
 The following paragraphs will be written in German.
 
+## Werbeplakate
+
+Die Werbeplakate sind in [dem Flyer Unterordner zu finden](./flyer). Nebendran ist auch ein Dokument mit Infos zum Druck, etc.
+
 ## Externe Dokumentationen
 
 * [Deinen ersten Artikel schreiben](docs/wrting_first_article.md)
@@ -23,9 +27,9 @@ Informationen über Orte befindet sich in `locations.json`.
 Warum nicht einfach HTML? Am Ende wird es doch ehh HTML...
 
 > Alle Orte teilen den selben Aufbau, den jedes Mal zu wiederholen wäre sehr aufwändig, nicht effizient und fehlerreif.
->
+> 
 > JSON lässt dich das wichtige Schreiben - den Content. Das langweilige HTML-Gedöns wird für dich übernommen. :)
->
+> 
 > Dazu kommt noch, dass es alle Infos zentral gespeichert sind. Damit hat eine Änderung überall Effekt und muss nicht in 10 verschiedenen Orten geändert werden.
 
 #### Beispiel
@@ -136,7 +140,7 @@ Der Value ist ein Paragraph, jeder String ist eine eigene Zeile.
 Die Values sind die Dateinamen im Ordner `resources/images/`.
 
 > Das heißt:
->
+> 
 > `resources/images/ort_1_eingang.png` -> `ort_1_eingang.png`
 
 ##### `same` - Gleiches / Ähnliches
@@ -186,11 +190,11 @@ Die Felder `"body"` und `"remote"` werden hier erklärt:
 #### HTML
 
 > **Pro:**
->
+> 
 > * volle Kontrolle über HTML (und CSS zu einem gewissen Grad)
->
+> 
 > **Contra:**
->
+> 
 > * komplizierter als JSON -> braucht Kenntnisse über HTML
 
 Alles was geschrieben ist, wird in die `<body> *dein HTML* </body>` Tags gepackt.
@@ -243,13 +247,13 @@ Alles was geschrieben ist, wird in die `<body> *dein HTML* </body>` Tags gepackt
 #### JSON
 
 > **Pro:**
->
+> 
 > * leichter zu verfassen
->
+> 
 > * braucht nur Basiskenntnisse über JSON
->
+> 
 > **Contra:**
->
+> 
 > * eingeschränkteres Styling
 
 **Beispiel:**
@@ -284,12 +288,15 @@ Headers sind eins-zu-eins wie in [Markdown](https://en.wikipedia.org/wiki/Markdo
 *Bilder Tags:*
 
 * `<img>...</img>`
+
 * `<img=...>`
 
 * `<bild>...</bild>`
+
 * `<bild=...>`
 
 * `<pic>...</pic>`
+
 * `<pic=...>`
 
 **Anmerkung:** Alle Tags müssen am Anfang einer Zeile sein, wenn sie mitten in einer Zeile auftauchen,
