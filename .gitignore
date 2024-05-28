@@ -4,3 +4,6 @@ resources/images/map*
 
 # Project:
 .vscode/
+
+# Krita backup files:
+*.*~
