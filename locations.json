@@ -505,7 +505,7 @@
             "Sporthalle",
             "Tennisplatz",
             "Fußballplatz",
-            "Handballfeld",
+            "Handball- und Basketballfeld",
             "Sprintstrecke",
             "Beach-Volleyballfeld"
         ]
@@ -531,7 +531,7 @@
             "Vereinsheim SV Herzogsägmühle",
             "Tennisplatz",
             "Fußballplatz",
-            "Handballfeld",
+            "Handball- und Basketballfeld",
             "Sprintstrecke",
             "Beach-Volleyballfeld"
         ]
@@ -557,7 +557,7 @@
             "Sporthalle",
             "Vereinsheim SV Herzogsägmühle",
             "Fußballplatz",
-            "Handballfeld",
+            "Handball- und Basketballfeld",
             "Sprintstrecke",
             "Beach-Volleyballfeld"
         ]
@@ -579,13 +579,13 @@
             "Sporthalle",
             "Vereinsheim SV Herzogsägmühle",
             "Tennisplatz",
-            "Handballfeld",
+            "Handball- und Basketballfeld",
             "Sprintstrecke",
             "Beach-Volleyballfeld"
         ]
     },
     {
-        "name": "Handballfeld",
+        "name": "Handball- und Basketballfeld",
         "desc": {},
         "open": {},
         "pics": {
@@ -624,7 +624,7 @@
             "Vereinsheim SV Herzogsägmühle",
             "Tennisplatz",
             "Fußballplatz",
-            "Handballfeld",
+            "Handball- und Basketballfeld",
             "Beach-Volleyballfeld"
         ]
     },
