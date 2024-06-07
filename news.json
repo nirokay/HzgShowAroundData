@@ -1,7 +1,7 @@
 [
     {
         "name": "Gesundheitsbildung: Entspannung",
-        "on": "2024-01-10",
+        "on": "2024-06-12",
         "level": "info",
         "details": [
             "Vortrag zum Thema Entspannung und Spannungsbewältigung (Frau Igelmund)",
@@ -50,6 +50,15 @@
         "level": "info",
         "details": [
             "Vortrag zum Thema Internetsucht (Herr Dorner)",
+            "von 13:00 bis 14:30 im Festsaal"
+        ]
+    },
+    {
+        "name": "Gesundheitsbildung: Psychopharmaka zur Behandlung von Psychosen",
+        "on": "2024-06-05",
+        "level": "info",
+        "details": [
+            "Vortrag zum Thema Internetsucht (Herr Flatz)",
             "von 13:00 bis 14:30 im Festsaal"
         ]
     },
