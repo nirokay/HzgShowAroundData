@@ -240,6 +240,16 @@
         ]
     },
     {
+        "name": "Hoagart",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/hoagart",
+        "on": "2024-05-31",
+        "level": "info",
+        "details": [
+            "von 18:00 bis 21:00 Uhr im Café Herzog",
+            "Du bist willkommen vorbeizuschauen, mit zu Musizieren oder einfach nur geniesen!"
+        ]
+    },
+    {
         "name": "EU-Parliament Wahl",
         "from": "2024-06-06",
         "till": "2024-06-09",
@@ -250,14 +260,11 @@
         ]
     },
     {
-        "name": "Hoagart",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/hoagart",
-        "on": "2024-05-31",
+        "name": "CSD-Parade München",
+        "on": "2024-06-22",
         "level": "info",
-        "details": [
-            "von 18:00 bis 21:00 Uhr im Café Herzog",
-            "Du bist willkommen vorbeizuschauen, mit zu Musizieren oder einfach nur geniesen!"
-        ]
+        "info": "https://www.csdmuenchen.de/de/pride-24.html?aid=3#politparade",
+        "details": []
     },
     {
         "name": "CSD-Parade Schongau",
