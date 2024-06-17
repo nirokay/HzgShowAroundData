@@ -1,5 +1,8 @@
 [
     {
+        "COMMENT": "- Einträge zur Gesundheitsbildung ------------------------"
+    },
+    {
         "name": "Gesundheitsbildung: Entspannung",
         "on": "2024-06-12",
         "level": "info",
@@ -72,43 +75,7 @@
         ]
     },
     {
-        "name": "Weihnachtsmarkt",
-        "from": "2023-12-01",
-        "till": "2023-12-03",
-        "level": "info",
-        "details": [
-            "Der Weihnachtsmarkt findet in und vor der Deckerhalle statt."
-        ]
-    },
-    {
-        "name": "Bescherung und Weihnachtsessen",
-        "on": "2023-12-11",
-        "level": "info",
-        "details": [
-            "15:00 Bescherung",
-            "17:45 Aufbruch zur Deckerhalle",
-            "18:30 - 20:00 Weihnachtsessen",
-            "Bitte beachte die Aushänge in deinem Haus für Infos"
-        ]
-    },
-    {
-        "name": "Weihnachten",
-        "from": "*-12-24",
-        "till": "*-12-26",
-        "level": "info",
-        "details": [
-            "Frohe Weihnachten!"
-        ]
-    },
-    {
-        "name": "Nachhause fahren an Weihnachten",
-        "from": "2023-12-22",
-        "till": "2023-12-26",
-        "level": "info",
-        "details": [
-            "Dieses Jahr darf man von dem 22. bis zum 26. nachhause fahren!",
-            "Die Regelungen mit den Kosten ist kompliziert, also bitte erkundige dich darüber nochmals genauer bei deinen Betreuern."
-        ]
+        "COMMENT":"- Mühlenmarkt ---------------------------------------------"
     },
     {
         "name": "MühlenMarkt geschlossen",
@@ -144,21 +111,63 @@
         ]
     },
     {
+        "COMMENT": "- Wiederkehrende Termine ---------------------------------"
+    },
+    {
+        "name": "Weihnachten",
+        "from": "*-12-24",
+        "till": "*-12-26",
+        "level": "info",
+        "details": [
+            "Frohe Weihnachten!"
+        ]
+    },
+    {
+        "COMMENT": "- Nicht-Wiederkehrende Termine ---------------------------"
+    },
+    {
+        "COMMENT": "- 2023 ---------------------------------------------------"
+    },
+    {
+        "name": "Weihnachtsmarkt",
+        "from": "2023-12-01",
+        "till": "2023-12-03",
+        "level": "info",
+        "details": [
+            "Der Weihnachtsmarkt findet in und vor der Deckerhalle statt."
+        ]
+    },
+    {
+        "name": "Bescherung und Weihnachtsessen",
+        "on": "2023-12-11",
+        "level": "info",
+        "details": [
+            "15:00 Bescherung",
+            "17:45 Aufbruch zur Deckerhalle",
+            "18:30 - 20:00 Weihnachtsessen",
+            "Bitte beachte die Aushänge in deinem Haus für Infos"
+        ]
+    },
+    {
+        "name": "Nachhause fahren an Weihnachten",
+        "from": "2023-12-22",
+        "till": "2023-12-26",
+        "level": "info",
+        "details": [
+            "Dieses Jahr darf man von dem 22. bis zum 26. nachhause fahren!",
+            "Die Regelungen mit den Kosten ist kompliziert, also bitte erkundige dich darüber nochmals genauer bei deinen Betreuern."
+        ]
+    },
+    {
+        "COMMENT": "- 2024 ---------------------------------------------------"
+    },
+    {
         "name": "Musikantreffen - Einladung zum Hoagart",
         "on": "2024-01-12",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/musikantentreffen",
         "details": [
             "von 18 bis 21 Uhr im Café Herzog"
-        ]
-    },
-    {
-        "name": "Gedenkfeier",
-        "on": "2024-01-23",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/schueler-erinnern",
-        "details": [
-            "Gedenkfeier an die Opfer und Verfolgten im Nationalsozialismus"
         ]
     },
     {
@@ -178,6 +187,15 @@
         "details": [
             "Theateraufführung von der Theatergruppe",
             "von 16:00 bis 16:30 im Festsaal"
+        ]
+    },
+    {
+        "name": "Gedenkfeier",
+        "on": "2024-01-23",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/schueler-erinnern",
+        "details": [
+            "Gedenkfeier an die Opfer und Verfolgten im Nationalsozialismus"
         ]
     },
     {
@@ -267,26 +285,26 @@
         "details": []
     },
     {
-        "name": "CSD-Parade Schongau",
-        "on": "2024-07-13",
-        "level": "info",
-        "info": "https://www.csd-termine.de/deutschland/csd-pride-schongau.html",
-        "details": []
-    },
-    {
         "name": "Dorffest",
         "on": "2024-07-07",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/dorffest",
         "details": [
-        	"<b>Freitag, 05.07.:</b>",
-        	"ab 21:30 Uhr: Jubiläumsfeuerwerk",
-        	"<b>Samstag, 06.07.:</b>",
-        	"19:00 Uhr: Serenade beim Rainer-Endisch-Saal",
-        	"<b>Sonntag, 07.07.:</b>",
-        	"10:00 Uhr: Festgottesdienst mit Liveband bei der Deckerhalle",
-        	"11:00 - 17:00 Uhr: Dorffest Veranstaltung bei der Deckerhalle"
+            "<b>Freitag, 05.07.:</b>",
+            "ab 21:30 Uhr: Jubiläumsfeuerwerk",
+            "<b>Samstag, 06.07.:</b>",
+            "19:00 Uhr: Serenade beim Rainer-Endisch-Saal",
+            "<b>Sonntag, 07.07.:</b>",
+            "10:00 Uhr: Festgottesdienst mit Liveband bei der Deckerhalle",
+            "11:00 - 17:00 Uhr: Dorffest Veranstaltung bei der Deckerhalle"
         ]
+    },
+    {
+        "name": "CSD-Parade Schongau",
+        "on": "2024-07-13",
+        "level": "info",
+        "info": "https://www.csd-termine.de/deutschland/csd-pride-schongau.html",
+        "details": []
     },
     {
         "name": "Kunstausstellung",
@@ -316,5 +334,8 @@
         "till": "2024-12-01",
         "level": "info",
         "details": []
+    },
+    {
+        "COMMENT": "- 2025 ---------------------------------------------------"
     }
 ]
