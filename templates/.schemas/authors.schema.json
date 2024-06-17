@@ -1,7 +1,17 @@
 {
     "title": "Authors profile picture repository",
     "type": "object",
-    "additionalProperties": {
-        "type": "string"
-    }
+    "patternProperties": {
+        "^": {
+            "type": "string",
+            "description": "Image file name"
+        }
+    },
+    "properties": {
+        "Anonym": {
+            "type": "string",
+            "description": "Default author and default profile picture"
+        }
+    },
+    "required": ["Anonym"]
 }
