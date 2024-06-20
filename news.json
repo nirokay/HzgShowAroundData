@@ -58,7 +58,7 @@
     },
     {
         "name": "Gesundheitsbildung: Psychopharmaka zur Behandlung von Psychosen",
-        "on": "2024-06-05",
+        "on": "2024-06-19",
         "level": "info",
         "details": [
             "Vortrag zum Thema Behandlungen von Psychosen mit Psychopharmaka (Herr Flatz)",
@@ -283,6 +283,22 @@
         "level": "info",
         "info": "https://www.csdmuenchen.de/de/pride-24.html?aid=3#politparade",
         "details": []
+    },
+    {
+        "name": "Gartenfest mit Grillen und Musik",
+        "on": "2024-07-04",
+        "level": "info",
+        "details": [
+            "<b>Uhrzeit und Ort:</b>",
+            "von 17:00 bis ~21:00 Uhr",
+            "in den Gärten von den Häusern Am Latterbach 14, 16 und 18",
+            "<b>Essenszeiten:</b>",
+            "17:30 - 18:00: Jugendreha & Übergang Schongau",
+            "18:00 - 18:30: Häuser 9 & 11",
+            "18:30 - 19:00: Häuser 14, 16 & 18",
+            "<b>Musik und Lagerfeuer:</b>",
+            "ab 19:15 Uhr"
+        ]
     },
     {
         "name": "Dorffest",
