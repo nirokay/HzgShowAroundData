@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Billiard",
+        "desc": [],
+        "time": "täglich 15.00 - 20.00 Uhr",
+        "place": {
+            "name": "Haus 11",
+            "id": "Häuser Am Latterbach"
+        }
+    },
+    {
+        "name": "Kicker",
+        "desc": [],
+        "time": "täglich 15.00 - 20.00 Uhr",
+        "place": {
+            "name": "Haus 9",
+            "id": "Häuser Am Latterbach"
+        }
+    },
+    {
+        "name": "Tischtennis",
+        "desc": [],
+        "time": "täglich 15.00 - 20.00 Uhr",
+        "place": {
+            "name": "Haus 12/18",
+            "id": "Häuser Am Latterbach"
+        }
+    },
+    {
+        "name": "Fitnessraum",
+        "desc": [],
+        "times": [
+            "Werktage: 15.00 - 20.30 Uhr",
+            "Wochenende: 10.00 - 12.00 und 14.00 - 19.30 Uhr"
+        ],
+        "place": {
+            "name": "Haus 14",
+            "id": "Häuser Am Latterbach"
+        },
+        "contact": {
+            "email": "",
+            "telephone": ""
+        }
+    },
+    {
+        "name": "",
+        "desc": [],
+        "time": "",
+        "place": {
+            "name": "",
+            "id": ""
+        },
+        "contact": {
+            "email": "",
+            "telephone": ""
+        }
+    },
+    {
+        "name": "",
+        "desc": [],
+        "time": "",
+        "place": {
+            "name": "",
+            "id": ""
+        },
+        "contact": {
+            "email": "",
+            "telephone": ""
+        }
+    },
+    {
+        "name": "",
+        "desc": [],
+        "time": "",
+        "place": {
+            "name": "",
+            "id": ""
+        },
+        "contact": {
+            "email": "",
+            "telephone": ""
+        }
+    },
+    {
+        "name": "",
+        "desc": [],
+        "time": "",
+        "place": {
+            "name": "",
+            "id": ""
+        },
+        "contact": {
+            "email": "",
+            "telephone": ""
+        }
+    },
+    {
+        "name": "",
+        "desc": [],
+        "time": "",
+        "place": {
+            "name": "",
+            "id": ""
+        },
+        "contact": {
+            "email": "",
+            "telephone": ""
+        }
+    },
+    {
+        "name": "",
+        "desc": [],
+        "time": "",
+        "place": {
+            "name": "",
+            "id": ""
+        },
+        "contact": {
+            "email": "",
+            "telephone": ""
+        }
+    },
+    {
+        "name": "",
+        "desc": [],
+        "times": [
+            ""
+        ],
+        "place": {
+            "name": "",
+            "id": ""
+        },
+        "contact": {
+            "email": "",
+            "telephone": ""
+        }
+    }
+]
