@@ -42,3 +42,12 @@ jobs:
         env:
           INPUT_SCHEMA: /templates/.schemas/tour_locations.schema.json
           INPUT_JSONS: /tour_locations.json
+  verify-json-offerings:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate tour locations
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: /templates/.schemas/offerings.schema.json
+          INPUT_JSONS: /offerings.json
