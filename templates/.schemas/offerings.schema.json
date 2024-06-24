@@ -52,7 +52,10 @@
                         "type": "string",
                         "description": "Single time"
                     }
-                }
+                },
+                "required": [
+                    "time"
+                ]
             },
             {
                 "properties": {
@@ -63,7 +66,13 @@
                             "type": "string"
                         }
                     }
-                }
+                },
+                "required": [
+                    "times"
+                ]
+            },
+            {
+                "properties": {}
             }
         ],
         "required": [
