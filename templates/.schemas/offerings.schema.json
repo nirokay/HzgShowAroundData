@@ -1,0 +1,73 @@
+{
+    "title": "Offerings array",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "description": "Offering object",
+        "properties": {
+            "name": {
+                "type": "string",
+                "description": "Offering name"
+            },
+            "desc": {
+                "type": "array",
+                "description": "Description (joined by `<br />`s",
+                "items": {
+                    "type": "string",
+                    "description": "Paragraph"
+                }
+            },
+            "place": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": "string",
+                        "description": "Display name of location"
+                    },
+                    "id": {
+                        "type": "string",
+                        "description": "Location ID (full name)"
+                    }
+                }
+            },
+            "contact": {
+                "type": "object",
+                "properties": {
+                    "email": {
+                        "type": "string",
+                        "description": "Contact email",
+                        "format": "email"
+                    },
+                    "telephone": {
+                        "type": "string",
+                        "description": "Contact telephone number"
+                    }
+                }
+            }
+        },
+        "oneOf": [
+            {
+                "properties": {
+                    "time": {
+                        "type": "string",
+                        "description": "Single time"
+                    }
+                }
+            },
+            {
+                "properties": {
+                    "times": {
+                        "type": "array",
+                        "description": "Multiple times",
+                        "items": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        ],
+        "required": [
+            "name"
+        ]
+    }
+}
