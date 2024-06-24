@@ -1,7 +1,6 @@
 [
     {
         "name": "Billiard",
-        "desc": [],
         "time": "täglich 15.00 - 20.00 Uhr",
         "place": {
             "name": "Haus 11",
@@ -10,7 +9,6 @@
     },
     {
         "name": "Kicker",
-        "desc": [],
         "time": "täglich 15.00 - 20.00 Uhr",
         "place": {
             "name": "Haus 9",
@@ -19,16 +17,14 @@
     },
     {
         "name": "Tischtennis",
-        "desc": [],
         "time": "täglich 15.00 - 20.00 Uhr",
         "place": {
-            "name": "Haus 12/18",
+            "name": "Haus 12 und 18",
             "id": "Häuser Am Latterbach"
         }
     },
     {
         "name": "Fitnessraum",
-        "desc": [],
         "times": [
             "Werktage: 15.00 - 20.30 Uhr",
             "Wochenende: 10.00 - 12.00 und 14.00 - 19.30 Uhr"
@@ -36,103 +32,166 @@
         "place": {
             "name": "Haus 14",
             "id": "Häuser Am Latterbach"
-        },
-        "contact": {
-            "email": "",
-            "telephone": ""
         }
     },
     {
-        "name": "",
-        "desc": [],
-        "time": "",
-        "place": {
-            "name": "",
-            "id": ""
-        },
-        "contact": {
-            "email": "",
-            "telephone": ""
-        }
-    },
-    {
-        "name": "",
-        "desc": [],
-        "time": "",
-        "place": {
-            "name": "",
-            "id": ""
-        },
-        "contact": {
-            "email": "",
-            "telephone": ""
-        }
-    },
-    {
-        "name": "",
-        "desc": [],
-        "time": "",
-        "place": {
-            "name": "",
-            "id": ""
-        },
-        "contact": {
-            "email": "",
-            "telephone": ""
-        }
-    },
-    {
-        "name": "",
-        "desc": [],
-        "time": "",
-        "place": {
-            "name": "",
-            "id": ""
-        },
-        "contact": {
-            "email": "",
-            "telephone": ""
-        }
-    },
-    {
-        "name": "",
-        "desc": [],
-        "time": "",
-        "place": {
-            "name": "",
-            "id": ""
-        },
-        "contact": {
-            "email": "",
-            "telephone": ""
-        }
-    },
-    {
-        "name": "",
-        "desc": [],
-        "time": "",
-        "place": {
-            "name": "",
-            "id": ""
-        },
-        "contact": {
-            "email": "",
-            "telephone": ""
-        }
-    },
-    {
-        "name": "",
-        "desc": [],
+        "name": "Gamer Room",
         "times": [
-            ""
+            "Werktage: 16.00 - 21.00 Uhr",
+            "Wochenende: 13.00 - 21.00 Uhr"
         ],
         "place": {
-            "name": "",
-            "id": ""
+            "name": "Haus 14",
+            "id": "Häuser Am Latterbach"
+        }
+    },
+    {
+        "name": "Basketball",
+        "desc": [
+            "Schlüssel zum Basketballfeld holbar über Haus 18"
+        ],
+        "time": "täglich 15.00 - 21.00 Uhr",
+        "place": {
+            "name": "Basketballfeld",
+            "id": "Handball- und Basketballfeld"
+        }
+    },
+    {
+        "name": "Volleyball",
+        "desc": [
+            "Anmeldung in der Jugendreha erforderlich"
+        ],
+        "time": "An Wochenenden und Feiertagen",
+        "place": {
+            "name": "Jugendreha",
+            "id": "Häuser Am Latterbach"
+        }
+    },
+    {
+        "name": "Beach-Volleyball",
+        "time": "täglich 15.00 - 21.00 Uhr",
+        "place": {
+            "name": "Beach-Volleyballfeld am Kapellenfeld",
+            "id": "Beach-Volleyballfeld"
+        }
+    },
+    {
+        "name": "Bouldern",
+        "time": "täglich 15.00 - 21.00 Uhr",
+        "place": {
+            "name": "Boulderwand am Ortseingang"
+        }
+    },
+    {
+        "name": "Skaten",
+        "time": "täglich 15.00 - 21.00 Uhr",
+        "place": {
+            "name": "Skater-Platz Berufsschule",
+            "id": "Skater-Park"
+        }
+    },
+    {
+        "name": "Boule",
+        "time": "täglich 15.00 - 21.00 Uhr",
+        "place": {
+            "name": "Kapellenfeld",
+            "id": "Kapellenfeld"
+        }
+    },
+    {
+        "name": "Bogenschießen",
+        "time": "siehe Aushänge",
+        "place": {
+            "name": "Deckerhalle (ggf. Waldparkur)",
+            "id": "Deckerhalle"
+        }
+    },
+    {
+        "name": "Fußball",
+        "desc": [
+            "Angegebene Zeiten sind die Trainingszeiten"
+        ],
+        "times": [
+            "Dienstags 19.00 - 21.00 Uhr",
+            "Donnerstags 19.00 - 21.00 Uhr"
+        ],
+        "place": {
+            "name": "Fußballplatz (Unteroblandstation)",
+            "id": "Fußballplatz"
+        }
+    },
+    {
+        "name": "Kegeln",
+        "times": [
+            "Montag bis Donnerstag 08.30 - 16.00 Uhr",
+            "Sonntag 09.30 - 17.00 Uhr"
+        ],
+        "place": {
+            "name": "Herzog",
+            "id": "Cafe und Wirtshaus Herzog"
         },
         "contact": {
-            "email": "",
-            "telephone": ""
+            "telephone": "213"
+        }
+    },
+    {
+        "name": "Minigolf",
+        "times": [
+            "Montag bis Donnerstag 08.30 - 16.00 Uhr",
+            "Sonntag 09.30 - 17.00 Uhr"
+        ],
+        "place": {
+            "name": "Herzog",
+            "id": "Cafe und Wirtshaus Herzog"
+        },
+        "contact": {
+            "telephone": "213"
+        }
+    },
+    {
+        "name": "Tennis",
+        "desc": [
+            "Anmeldung über den Sportverein"
+        ],
+        "place": {
+            "name": "Tennisplatz",
+            "id": "Tennisplatz"
+        },
+        "contact": {
+            "email": "Ingo.Hofschroeer@herzogsaegmuehle.de",
+            "telephone": "4449"
+        }
+    },
+    {
+        "name": "Angeln",
+        "desc": [
+            "Anmeldung über den Fischerverein"
+        ],
+        "contact": {
+            "email": "katrin.poell@herzogsaegmuehle.de",
+            "telephone": "4432"
+        }
+    },
+    {
+        "name": "Schach",
+        "time": "1. Mittwoch des Monats 19.00 - 21.00 Uhr",
+        "place": {
+            "name": "Telezentrum",
+            "id": "Telezentrum - Digitale Medien"
+        }
+    },
+    {
+        "name": "Las Vegas",
+        "desc": [
+            "Billiard, Darts, ..."
+        ],
+        "times": [
+            "Dienstags 17.00 - 20.30 Uhr",
+            "Donnerstags 17.00 - 20.30 Uhr"
+        ],
+        "place": {
+            "name": "Kapellenfeld",
+            "id": "Kapellenfeld"
         }
     }
 ]
