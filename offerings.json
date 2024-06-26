@@ -48,7 +48,7 @@
     {
         "name": "Basketball",
         "desc": [
-            "Schlüssel zum Basketballfeld holbar über Haus 18"
+            "Schlüssel zum Basketballfeld ist holbar über Haus 18."
         ],
         "time": "täglich 15.00 - 21.00 Uhr",
         "place": {
@@ -59,7 +59,7 @@
     {
         "name": "Volleyball",
         "desc": [
-            "Anmeldung in der Jugendreha erforderlich"
+            "Anmeldung in der Jugendreha erforderlich."
         ],
         "time": "An Wochenenden und Feiertagen",
         "place": {
@@ -100,7 +100,7 @@
     },
     {
         "name": "Bogenschießen",
-        "time": "siehe Aushänge",
+        "time": "siehe Aushänge im Haus",
         "place": {
             "name": "Deckerhalle (ggf. Waldparkur)",
             "id": "Deckerhalle"
@@ -109,11 +109,11 @@
     {
         "name": "Fußball",
         "desc": [
-            "Angegebene Zeiten sind die Trainingszeiten"
+            "Die angegebene Zeiten sind die Trainingszeiten."
         ],
         "times": [
-            "Dienstags 19.00 - 21.00 Uhr",
-            "Donnerstags 19.00 - 21.00 Uhr"
+            "Dienstag 19.00 - 21.00 Uhr",
+            "Donnerstag 19.00 - 21.00 Uhr"
         ],
         "place": {
             "name": "Fußballplatz (Unteroblandstation)",
@@ -122,6 +122,9 @@
     },
     {
         "name": "Kegeln",
+        "desc": [
+            "Es ist empfohlen das Kegeln telefonisch zu Reservieren."
+        ],
         "times": [
             "Montag bis Donnerstag 08.30 - 16.00 Uhr",
             "Sonntag 09.30 - 17.00 Uhr"
@@ -136,6 +139,9 @@
     },
     {
         "name": "Minigolf",
+        "desc": [
+            "Es ist empfohlen das Minigolf telefonisch zu Reservieren/Anmelden."
+        ],
         "times": [
             "Montag bis Donnerstag 08.30 - 16.00 Uhr",
             "Sonntag 09.30 - 17.00 Uhr"
@@ -151,7 +157,7 @@
     {
         "name": "Tennis",
         "desc": [
-            "Anmeldung über den Sportverein"
+            "Anmeldung über den Sportverein."
         ],
         "place": {
             "name": "Tennisplatz",
@@ -165,7 +171,7 @@
     {
         "name": "Angeln",
         "desc": [
-            "Anmeldung über den Fischerverein"
+            "Anmeldung über den Fischerverein."
         ],
         "contact": {
             "email": "katrin.poell@herzogsaegmuehle.de",
@@ -186,8 +192,8 @@
             "Billiard, Darts, ..."
         ],
         "times": [
-            "Dienstags 17.00 - 20.30 Uhr",
-            "Donnerstags 17.00 - 20.30 Uhr"
+            "Dienstag 17.00 - 20.30 Uhr",
+            "Donnerstag 17.00 - 20.30 Uhr"
         ],
         "place": {
             "name": "Kapellenfeld",
