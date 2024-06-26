@@ -94,8 +94,8 @@
         "name": "Boule",
         "time": "täglich 15.00 - 21.00 Uhr",
         "place": {
-            "name": "Kapellenfeld",
-            "id": "Kapellenfeld"
+            "name": "Beach-Volleyballfeld am Kapellenfeld",
+            "id": "Beach-Volleyballfeld"
         }
     },
     {
@@ -196,8 +196,8 @@
             "Donnerstag 17.00 - 20.30 Uhr"
         ],
         "place": {
-            "name": "Kapellenfeld",
-            "id": "Kapellenfeld"
+            "name": "Rainer-Endisch-Saal",
+            "id": "Rainer-Endisch-Saal"
         }
     }
 ]
