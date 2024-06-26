@@ -254,6 +254,19 @@
         "same": []
     },
     {
+        "name": "Kapellenfeld",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "coords": [
+            757,
+            596,
+            841,
+            700
+        ],
+        "same": []
+    },
+    {
         "name": "Sinnespfad",
         "desc": {},
         "open": {},
