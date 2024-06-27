@@ -7,6 +7,13 @@
                 "type": "string",
                 "description": "Location name"
             },
+            "alias": {
+                "type": "array",
+                "description": "Location name aliases (used for newsfeed substring replacement)",
+                "items": {
+                    "type": "string"
+                }
+            },
             "link": {
                 "type": "string",
                 "description": "URL to an external resource"

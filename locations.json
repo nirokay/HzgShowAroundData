@@ -1,6 +1,10 @@
 [
     {
         "name": "MühlenMarkt",
+        "alias": [
+            "Mühlen-Markt",
+            "Mühlenmarkt"
+        ],
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/muehlenmarkt",
         "desc": {
             "Was gibt es?": [
@@ -39,6 +43,10 @@
     },
     {
         "name": "Werkstatt-Laden im MühlenMarkt",
+        "alias": [
+            "Werkstatt-Laden im Mühlen-Markt",
+            "Werkstatt-Laden im Mühlenmarkt"
+        ],
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren",
         "desc": {
             "Was gibt es?": [
@@ -84,6 +92,11 @@
     },
     {
         "name": "Post und Treuhand-Kasse",
+        "alias": [
+            "Treuhand-Kasse",
+            "Postgebäude",
+            "Post-Gebäude"
+        ],
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren",
         "desc": {
             "Post": [
@@ -112,6 +125,10 @@
     },
     {
         "name": "gesundheits.punkt",
+        "alias": [
+            "Gesundheitspunkt",
+            "GesundheitsPunkt"
+        ],
         "desc": {
             "Hausarzt": [
                 "Hier befindet sich der Hausarzt für körperliche Beschwerden oder Ähnliches.",
@@ -167,6 +184,9 @@
     },
     {
         "name": "Telezentrum - Digitale Medien",
+        "alias": [
+            "Telezentrum"
+        ],
         "desc": {
             "Sonstiges": [
                 "<b>Spezielles:</b>\nHier befindet sich ein Getränkeautomat."
@@ -186,6 +206,9 @@
     },
     {
         "name": "Häuser Am Latterbach",
+        "alias": [
+            "Häusern Am Latterbach"
+        ],
         "desc": {
             "Haus 11": [
                 "<b>Spezielles:</b>\nBilliard-Tisch"
@@ -255,6 +278,11 @@
     },
     {
         "name": "Rainer-Endisch-Saal",
+        "alias": [
+            "Rainer-Endisch-Saals",
+            "Rainer-Endisch Saals",
+            "Rainer-Endisch Saal"
+        ],
         "desc": {},
         "open": {},
         "pics": {},
@@ -349,6 +377,10 @@
     },
     {
         "name": "Cafe und Wirtshaus Herzog",
+        "alias": [
+            "Cafe Herzog",
+            "Café Herzog"
+        ],
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/cafe-und-wirtshaus-herzog",
         "desc": {
             "Speisekarte": [
@@ -456,6 +488,11 @@
     },
     {
         "name": "Skater-Park",
+        "alias": [
+            "Skater Park",
+            "Skater Anlage",
+            "Skating Anlage"
+        ],
         "desc": {},
         "open": {},
         "pics": {
@@ -471,6 +508,9 @@
     },
     {
         "name": "Alfons-Brandl-Schule",
+        "alias": [
+            "Alfons-Brandl Schule"
+        ],
         "link": "https://www.herzogsaegmuehle.de/ort-der-hilfe/schulbildung/kurzinfo-alfons-brandl-schule-foerderzentrum",
         "desc": {},
         "open": {},
@@ -487,6 +527,9 @@
     },
     {
         "name": "Albrecht-Schnitter-Berufsschule",
+        "alias": [
+            "Albrecht-Schnitter Berufsschule"
+        ],
         "link": "https://www.berufsschule-herzogsaegmuehle.de/",
         "desc": {},
         "open": {},
@@ -599,6 +642,10 @@
     },
     {
         "name": "Handball- und Basketballfeld",
+        "alias": [
+            "Handballfeld",
+            "Basketballfeld"
+        ],
         "desc": {},
         "open": {},
         "pics": {
@@ -643,6 +690,9 @@
     },
     {
         "name": "KFZ-Werkstatt",
+        "alias": [
+            "Autowerkstatt"
+        ],
         "desc": {},
         "open": {},
         "pics": {
@@ -734,6 +784,10 @@
     },
     {
         "name": "Berufsbildende Maßnahme (BBM)",
+        "alias": [
+            "Berufsbildende Maßnahme",
+            "BBM"
+        ],
         "desc": {
             "Werkstätten": [
                 "Diese Werkstätten/Bildungsrichtungen gibt es in-Haus:",
@@ -769,6 +823,12 @@
     },
     {
         "name": "Berufliches Zentrum (BZ)",
+        "alias": [
+            "Berufliches Zentrum",
+            "BZ",
+            "Berufsvorbereitender Bereich",
+            "BVB"
+        ],
         "link": "",
         "desc": {
             "Bereiche": [
