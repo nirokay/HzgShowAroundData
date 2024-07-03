@@ -292,6 +292,12 @@
         ]
     },
     {
+    	"name": "Plantsch-Party",
+    	"on": "2024-07-06",
+    	"level": "info",
+    	"info": "https://www.plantsch.de/"
+    },
+    {
         "name": "Dorffest",
         "on": "2024-07-07",
         "level": "info",
