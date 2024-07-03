@@ -311,10 +311,10 @@
         "on": "2024-07-10",
         "level": "info",
         "details": [
-            "<h4>Ort und Zeit:</h4>",
+            "<b>Ort und Zeit:</b>",
             "von 11.00 bis 15.00 Uhr auf dem Parkplatz vor der AttM",
             "<a href='https://maps.app.goo.gl/amKmwzsse5XZ4HQY9'>Ort auf Google Maps</a>",
-            "<h4>Programm:</h4>",
+            "<b>Programm:</b>",
             "Disc-Golf und Bogenschießen, Grillen (mit verschiedenen Salaten), Kaffee und Süßes"
         ]
     },
