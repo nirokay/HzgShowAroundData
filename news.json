@@ -114,15 +114,6 @@
         "COMMENT": "- Wiederkehrende Termine ---------------------------------"
     },
     {
-        "name": "Weihnachten",
-        "from": "*-12-24",
-        "till": "*-12-26",
-        "level": "info",
-        "details": [
-            "Frohe Weihnachten!"
-        ]
-    },
-    {
         "COMMENT": "- Nicht-Wiederkehrende Termine ---------------------------"
     },
     {
@@ -313,6 +304,26 @@
             "<b>Sonntag, 07.07.:</b>",
             "10:00 Uhr: Festgottesdienst mit Liveband bei der Deckerhalle",
             "11:00 - 17:00 Uhr: Dorffest Veranstaltung bei der Deckerhalle"
+        ]
+    },
+    {
+        "name": "Sommerfest in der AttM",
+        "on": "2024-07-10",
+        "level": "info",
+        "details": [
+            "<h4>Ort und Zeit:</h4>",
+            "von 11.00 bis 15.00 Uhr auf dem Parkplatz vor der AttM",
+            "<a href='https://www.google.com/maps/place/47%C2%B049'09.9%22N+10%C2%B052'58.4%22E/@47.8194053,10.8822396,189m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d47.8194053!4d10.8828847!5m1!1e4?entry=ttu'>Ort auf Google Maps</a>",
+            "<h4>Programm:</h4>",
+            "Disc-Golf und Bogenschießen, Grillen (mit verschiedenen Salaten), Kaffee und Süßes"
+        ]
+    },
+    {
+        "name": "Sommerfest",
+        "on": "2024-07-15",
+        "level": "info",
+        "details": [
+            "Das Sommerfest startet am Dorfplatz vor der Deckerhalle um 15.00 Uhr"
         ]
     },
     {
