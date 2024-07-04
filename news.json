@@ -66,6 +66,15 @@
         ]
     },
     {
+    	"name": "Gesundheitsbildung: Depression",
+    	"on": "2024-07-10",
+    	"level": "info",
+    	"details": [
+    		"Vortrag zum Thema Depression (Herr Thoma)",
+    		"von 13:00 bis 14:30 im Festsaal"
+    	]
+    },
+    {
         "name": "Gesundheitsbildung: Cannabis (Teil-)Legalisierung",
         "on": "2024-05-15",
         "level": "info",
