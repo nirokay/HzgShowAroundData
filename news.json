@@ -349,6 +349,15 @@
         "details": []
     },
     {
+    	"name": "Queerer Treff in Haus 14",
+    	"on": "2024-07-14",
+    	"level": "info",
+    	"details": [
+    		"Gemütliches Beisammensein mit Brettspielen und Snacks.",
+    		"Jedrr ist willkommen, und auch willkommen eigene Spiele mitzubringen!"
+    	]
+    },
+    {
         "name": "Kunstausstellung",
         "from": "2024-09-16",
         "till": "2024-09-29",
