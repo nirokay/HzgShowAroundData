@@ -285,6 +285,17 @@
         "details": []
     },
     {
+        "name": "Großer Büchermarkt",
+        "from": "2024-07-01",
+        "till": "2024-07-05",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/artikel/grosser-buechermarkt-ab-1-juli-2024",
+        "details": [
+            "an allen Tagen von 10.00 - 15.00 Uhr im Weilheimer Gebrauchtwarenladen",
+            "Preise von 0,50€ - 3,00€"
+        ]
+    },
+    {
         "name": "Gartenfest mit Grillen und Musik",
         "on": "2024-07-04",
         "level": "info",
@@ -322,6 +333,16 @@
         ]
     },
     {
+        "name": "Großer Kleider-, Stoff und Kurzwarenverkauf",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/grosser-kleider",
+        "details": [
+            "in der <b>Peitinger Werkstatt, Schachtstraße 1, 86971 Peiting</b>",
+            "Mo - Mi, Fr: 9.30 - 15.30 Uhr",
+            "Do: 9.30 - 18.00 Uhr",
+            "Nur Barzahlung ist möglich"
+        ]
+    },
+    {
         "name": "Sommerfest in der AttM",
         "on": "2024-07-10",
         "level": "info",
@@ -331,14 +352,6 @@
             "<a href='https://maps.app.goo.gl/amKmwzsse5XZ4HQY9'>Ort auf Google Maps</a>",
             "<b>Programm:</b>",
             "Disc-Golf und Bogenschießen, Grillen (mit verschiedenen Salaten), Kaffee und Süßes"
-        ]
-    },
-    {
-        "name": "Sommerfest",
-        "on": "2024-07-15",
-        "level": "info",
-        "details": [
-            "Das Sommerfest startet am Dorfplatz vor der Deckerhalle um 15.00 Uhr"
         ]
     },
     {
@@ -356,6 +369,14 @@
     		"Gemütliches Beisammensein mit Brettspielen und Snacks.",
     		"Jedrr ist willkommen, und auch willkommen eigene Spiele mitzubringen!"
     	]
+    },
+    {
+        "name": "Sommerfest",
+        "on": "2024-07-15",
+        "level": "info",
+        "details": [
+            "Das Sommerfest startet am Dorfplatz vor der Deckerhalle um 15.00 Uhr"
+        ]
     },
     {
         "name": "Kunstausstellung",
