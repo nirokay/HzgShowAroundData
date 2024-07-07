@@ -334,6 +334,9 @@
     },
     {
         "name": "Großer Kleider-, Stoff und Kurzwarenverkauf",
+        "from": "2024-07-08",
+        "till": "2024-07-12",
+        "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/grosser-kleider",
         "details": [
             "in der <b>Peitinger Werkstatt, Schachtstraße 1, 86971 Peiting</b>",
