@@ -66,13 +66,13 @@
         ]
     },
     {
-    	"name": "Gesundheitsbildung: Depression",
-    	"on": "2024-07-10",
-    	"level": "info",
-    	"details": [
-    		"Vortrag zum Thema Depression (Herr Thoma)",
-    		"von 13:00 bis 14:30 im Festsaal"
-    	]
+        "name": "Gesundheitsbildung: Depression",
+        "on": "2024-07-10",
+        "level": "info",
+        "details": [
+            "Vortrag zum Thema Depression (Herr Thoma)",
+            "von 13:00 bis 14:30 im Festsaal"
+        ]
     },
     {
         "name": "Gesundheitsbildung: Cannabis (Teil-)Legalisierung",
@@ -117,6 +117,18 @@
         "level": "warning",
         "details": [
             "Betriebsurlaub"
+        ]
+    },
+    {
+        "name": "MühlenMarkt August - Öffnungszeiten",
+        "from": "2024-08-05",
+        "till": "2024-08-31",
+        "level": "warning",
+        "details": [
+            "Die Öffnungszeiten sind im August sind verändert.",
+            "Mo - Do: <b>07.30 - 13.00 Uhr</b>",
+            "Fr: <b>07.30 - 18.00 Uhr</b>",
+            "Sa: <b>geschlossen</b>"
         ]
     },
     {
