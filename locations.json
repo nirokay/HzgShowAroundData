@@ -22,7 +22,8 @@
             "Mo": "07.30 - 13.00",
             "Di - Fr": "07:30 - 18.00",
             "Sa": "08.00 - 12.00",
-            "Metzgerei": "keine Bedienung dienstags ab 13.00"
+            "Metzgerei": "keine Bedienung dienstags ab 13.00",
+            "⚠️": "<a href='../newsfeed.html'>Öffnungszeiten sind verändert für den August 2024</a>"
         },
         "pics": {
             "header": "shopping/mühlenmarkt/eingang.jpg",
