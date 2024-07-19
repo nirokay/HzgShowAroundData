@@ -126,9 +126,9 @@
         "level": "warning",
         "details": [
             "Die Öffnungszeiten sind im August sind verändert.",
-            "Mo - Do: <b>07.30 - 13.00 Uhr</b>",
-            "Fr: <b>07.30 - 18.00 Uhr</b>",
-            "Sa: <b>geschlossen</b>"
+            "<b>Mo - Do:</b> <i>07.30 - 13.00 Uhr</i>",
+            "<b>Fr:</b> <i>07.30 - 18.00 Uhr</i>",
+            "<b>Sa:</b> <i>geschlossen</i>"
         ]
     },
     {
