@@ -243,10 +243,44 @@
             ]
         },
         "coords": [
-            1624,
-            1410,
-            1806,
-            1641
+            1592,
+            1412,
+            1804,
+            1755
+        ],
+        "same": [
+            "Jugendreha"
+        ]
+    },
+    {
+        "name": "Jugendreha",
+        "desc": {},
+        "pics": {},
+        "coords": [
+            1547,
+            1297,
+            1667,
+            1398
+        ],
+        "same": [
+            "Häuser Am Latterbach"
+        ]
+    },
+    {
+        "name": "Schöneckerhaus",
+        "alias": [
+            "Schönecker-Haus",
+            "Schönecker Haus",
+            "Seniorenheim",
+            "Altenheim"
+        ],
+        "desc": {},
+        "pics": {},
+        "coords" : [
+            1715,
+            1310,
+            1799,
+            1477
         ],
         "same": []
     },
