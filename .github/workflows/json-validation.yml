@@ -23,7 +23,7 @@ jobs:
           INPUT_SCHEMA: /templates/.schemas/news.schema.json
           INPUT_JSONS: /news.json
 
-  verify-json-news:
+  verify-json-news-health:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
