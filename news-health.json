@@ -20,13 +20,18 @@
         "by": "Christina Igelmund"
     },
     {
+        "topic": "Ernährung",
+        "on": "2024-11-13",
+        "by": "Christina Igelmund"
+    },
+    {
         "topic": "Bewegung",
-        "on": "2024-02-07",
+        "on": "2024-09-11",
         "by": "Christina Igelmund"
     },
     {
         "topic": "Sucht",
-        "on": "2024-04-03",
+        "on": "2024-10-16",
         "by": "Matthias Dorner"
     },
     {
@@ -76,5 +81,69 @@
         "topic": "Angst",
         "on": "2024-07-31",
         "by":"Andreas Thoma"
+    },
+    {
+        "topic": "REHA Forum Dialog über Reha/Mühle mit der Leitung",
+        "desc": "REHA Forum",
+        "on": "2024-08-14",
+        "by": "Stefan Rienecker"
+    },
+    {
+        "topic": "Wie kann es nach der Reha weitergehen?",
+        "desc": "Zukunftsplanung",
+        "on": "2024-08-21",
+        "by":"Stefan Rienecker"
+    },
+    {
+        "topic": "Wie kann ich meine Zeiele umsetzen?",
+        "desc": "Zielumsetzung",
+        "on": "2024-09-04",
+        "by": "Christina Igelmund"
+    },
+    {
+        "topic": "ADHS",
+        "on": "2024-09-11",
+        "by": "Sonja Zimmermann"
+    },
+    {
+        "topic": "Körperakzeptanz und Selbstoptimierung",
+        "on": "2024-09-24",
+        "by": "Christina Igelmund"
+    },
+    {
+        "topic": "Selbstfürsorge und Resilienz",
+        "on": "2024-10-04",
+        "by": "Christine Haberler-Carl"
+    },
+    {
+        "topic": "Stress und -bewältigung",
+        "on": "2024-10-09",
+        "by": "Andreas Schmidt"
+    },
+    {
+        "topic": "Persönlichkeitsstörungen",
+        "on": "2024-11-06",
+        "by": "Sonja Zimmermann"
+    },
+    {
+        "topic": "Erwartungen - Hoffnung - der Advent",
+        "on": "2024-11-27",
+        "by": "Stefan Rienecker"
+    },
+    {
+        "topic": "Gesundheitsbezogene Apps - Mental Health",
+        "desc": "Mental-Health-Apps",
+        "on": "2024-12-04",
+        "by": "Andreas Schmidt"
+    },
+    {
+        "topic": "?",
+        "on": "2024-12-11",
+        "by": "Stefan Jenuwein"
+    },
+    {
+        "topic": "?",
+        "on": "2024-12-18",
+        "by": "Stefan Jenuwein"
     }
 ]
