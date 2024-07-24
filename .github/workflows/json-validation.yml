@@ -23,6 +23,16 @@ jobs:
           INPUT_SCHEMA: /templates/.schemas/news.schema.json
           INPUT_JSONS: /news.json
 
+  verify-json-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate news
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: /templates/.schemas/news-health.schema.json
+          INPUT_JSONS: /news-health.json
+
   verify-json-articles:
     runs-on: ubuntu-latest
     steps:
@@ -42,6 +52,7 @@ jobs:
         env:
           INPUT_SCHEMA: /templates/.schemas/tour_locations.schema.json
           INPUT_JSONS: /tour_locations.json
+
   verify-json-offerings:
     runs-on: ubuntu-latest
     steps:
