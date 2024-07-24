@@ -36,7 +36,10 @@
                         "type": "string",
                         "description": "Presenter name"
                     }
-                }
+                },
+                "required": [
+                    "topic", "on"
+                ]
             }
         ]
     }
