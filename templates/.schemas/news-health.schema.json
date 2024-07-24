@@ -1,0 +1,43 @@
+{
+    "title": "Health presentations news array",
+    "type": "array",
+    "items": {
+        "oneOf": [
+            {
+                "type": "object",
+                "description": "Comment object",
+                "properties": {
+                    "COMMENT": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "COMMENT"
+                ]
+            },
+            {
+                "type": "object",
+                "description": "News element",
+                "properties": {
+                    "topic": {
+                        "type": "string",
+                        "description": "Presentation topic"
+                    },
+                    "desc": {
+                        "type": "string",
+                        "description": "Optional override for display text in description"
+                    },
+                    "on": {
+                        "type": "string",
+                        "description": "Date of the event in yyyy-MM-dd",
+                        "pattern": "^((\\d{4}|\\*)-(\\d{1,2})-(\\d{1,2}))"
+                    },
+                    "by": {
+                        "type": "string",
+                        "description": "Presenter name"
+                    }
+                }
+            }
+        ]
+    }
+}
