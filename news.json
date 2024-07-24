@@ -1,89 +1,5 @@
 [
     {
-        "COMMENT": "- Einträge zur Gesundheitsbildung ------------------------"
-    },
-    {
-        "name": "Gesundheitsbildung: Entspannung",
-        "on": "2024-06-12",
-        "level": "info",
-        "details": [
-            "Vortrag zum Thema Entspannung und Spannungsbewältigung (Frau Igelmund)",
-            "von 13:00 bis 14:30 im Festsaal"
-        ]
-    },
-    {
-        "name": "Gesundheitsbildung: Schlaf",
-        "on": "2024-02-07",
-        "level": "info",
-        "details": [
-            "Vortrag zum Thema gesunder Schlaf (Frau Igelmund)",
-            "von 13:00 bis 14:30 im Festsaal"
-        ]
-    },
-    {
-        "name": "Gesundheitsbildung: Ernährung",
-        "on": "2024-02-07",
-        "level": "info",
-        "details": [
-            "Vortrag zum Thema Ernährung (Frau Igelmund)",
-            "von 13:00 bis 14:30 im Festsaal"
-        ]
-    },
-    {
-        "name": "Gesundheitsbildung: Sucht",
-        "on": "2024-04-03",
-        "level": "info",
-        "details": [
-            "Vortrag zum Thema Sucht (Herr Dorner)",
-            "von 13:00 bis 14:30 im Festsaal"
-        ]
-    },
-    {
-        "name": "Gesundheitsbildung: Bewegung",
-        "on": "2024-02-07",
-        "level": "info",
-        "details": [
-            "Vortrag zum Thema Bewegung (Frau Igelmund)",
-            "von 13:00 bis 14:30 im Festsaal"
-        ]
-    },
-    {
-        "name": "Gesundheitsbildung: Internetsucht",
-        "on": "2024-05-22",
-        "level": "info",
-        "details": [
-            "Vortrag zum Thema Internetsucht (Herr Dorner)",
-            "von 13:00 bis 14:30 im Festsaal"
-        ]
-    },
-    {
-        "name": "Gesundheitsbildung: Psychopharmaka zur Behandlung von Psychosen",
-        "on": "2024-06-19",
-        "level": "info",
-        "details": [
-            "Vortrag zum Thema Behandlungen von Psychosen mit Psychopharmaka (Herr Flatz)",
-            "von 13:00 bis 14:30 im Festsaal"
-        ]
-    },
-    {
-        "name": "Gesundheitsbildung: Depression",
-        "on": "2024-07-10",
-        "level": "info",
-        "details": [
-            "Vortrag zum Thema Depression (Herr Thoma)",
-            "von 13:00 bis 14:30 im Festsaal"
-        ]
-    },
-    {
-        "name": "Gesundheitsbildung: Cannabis (Teil-)Legalisierung",
-        "on": "2024-05-15",
-        "level": "info",
-        "details": [
-            "Vortrag zum Thema der Cannabis/THC (Teil-)Legalisierung (Herr Dorner)",
-            "von 13:00 bis 14:30 im Festsaal"
-        ]
-    },
-    {
         "COMMENT":"- Mühlenmarkt ---------------------------------------------"
     },
     {
@@ -324,10 +240,10 @@
         ]
     },
     {
-    	"name": "Plantsch-Party",
-    	"on": "2024-07-06",
-    	"level": "info",
-    	"info": "https://www.plantsch.de/"
+        "name": "Plantsch-Party",
+        "on": "2024-07-06",
+        "level": "info",
+        "info": "https://www.plantsch.de/"
     },
     {
         "name": "Dorffest",
@@ -377,13 +293,13 @@
         "details": []
     },
     {
-    	"name": "Queerer Treff in Haus 14",
-    	"on": "2024-07-14",
-    	"level": "info",
-    	"details": [
-    		"Gemütliches Beisammensein mit Brettspielen und Snacks.",
-    		"Jedrr ist willkommen, und auch willkommen eigene Spiele mitzubringen!"
-    	]
+        "name": "Queerer Treff in Haus 14",
+        "on": "2024-07-14",
+        "level": "info",
+        "details": [
+            "Gemütliches Beisammensein mit Brettspielen und Snacks.",
+            "Jedrr ist willkommen, und auch willkommen eigene Spiele mitzubringen!"
+        ]
     },
     {
         "name": "Sommerfest",

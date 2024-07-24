@@ -1,0 +1,80 @@
+[
+    {
+        "COMMENT": "- Original Topics ----------------------------------------"
+    },
+    {
+        "topic": "Entspannung",
+        "desc": "Entspannung und Spannungsbewältigung",
+        "on": "2024-06-12",
+        "by": "Christina Igelmund"
+    },
+    {
+        "topic": "Schlaf",
+        "desc": "gesunder Schlaf",
+        "on": "2024-07-17",
+        "by": "Christina Igelmund"
+    },
+    {
+        "topic": "Ernährung",
+        "on": "2024-08-07",
+        "by": "Christina Igelmund"
+    },
+    {
+        "topic": "Bewegung",
+        "on": "2024-02-07",
+        "by": "Christina Igelmund"
+    },
+    {
+        "topic": "Sucht",
+        "on": "2024-04-03",
+        "by": "Matthias Dorner"
+    },
+    {
+        "COMMENT": "- Additional topics --------------------------------------"
+    },
+    {
+        "topic": "THC",
+        "on": "2024-05-15",
+        "by":"Matthias Dorner"
+    },
+    {
+        "topic": "Medienkompetenz - Teil 1",
+        "desc": "Medienkompetenz",
+        "on": "2024-05-22",
+        "by":"Matthias Dorner"
+    },
+    {
+        "topic": "Medienkompetenz - Teil 2",
+        "desc": "Medienkompetenz",
+        "on": "2024-07-24",
+        "by":"Matthias Dorner"
+    },
+    {
+        "topic": "Medienkompetenz - Teil 3",
+        "desc": "Medienkompetenz",
+        "on": "2024-08-28",
+        "by":"Matthias Dorner"
+    },
+    {
+        "topic": "Medikamente zur Behandlung von Psychosen - Teil 1",
+        "desc": "Medikamente zur Behandlung von Psychosen",
+        "on": "2024-06-05",
+        "by": "Richard Flatz"
+    },
+    {
+        "topic": "Medikamente zur Behandlung von Psychosen - Teil 2",
+        "desc": "Medikamente zur Behandlung von Psychosen",
+        "on": "2024-06-05",
+        "by": "Richard Flatz"
+    },
+    {
+        "topic": "Depression",
+        "on": "2024-07-10",
+        "by": "Andreas Thoma"
+    },
+    {
+        "topic": "Angst",
+        "on": "2024-07-31",
+        "by":"Andreas Thoma"
+    }
+]
