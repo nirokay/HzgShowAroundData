@@ -26,10 +26,10 @@
             "⚠️": "<a href='../newsfeed.html'>Öffnungszeiten sind verändert für den August 2024</a>"
         },
         "pics": {
-            "header": "shopping/mühlenmarkt/eingang.jpg",
+            "header": "shopping/mühlenmarkt/eingang.webp",
             "footer": [
-                "shopping/mühlenmarkt/bäckerei.jpg",
-                "shopping/mühlenmarkt/obst.jpg"
+                "shopping/mühlenmarkt/bäckerei.webp",
+                "shopping/mühlenmarkt/obst.webp"
             ]
         },
         "same": [
@@ -61,9 +61,9 @@
             "Fr": "08.30 - 17.00"
         },
         "pics": {
-            "header": "shopping/mühlenmarkt/werkstattladen/logo.jpg",
+            "header": "shopping/mühlenmarkt/werkstattladen/logo.webp",
             "footer": [
-                "shopping/mühlenmarkt/werkstattladen/waren.jpg"
+                "shopping/mühlenmarkt/werkstattladen/waren.webp"
             ]
         },
         "same": [
@@ -114,7 +114,7 @@
             "Di, Do": "13.15 - 17.00"
         },
         "pics": {
-            "header": "post.jpg"
+            "header": "post.webp"
         },
         "coords": [
             660,
@@ -138,7 +138,7 @@
         },
         "open": {},
         "pics": {
-            "header": "health/gesundheitspunkt.jpg"
+            "header": "health/gesundheitspunkt.webp"
         },
         "coords": [
             819,
@@ -170,9 +170,9 @@
         },
         "open": {},
         "pics": {
-            "header": "work/werkstätten/werkstätten.jpg",
+            "header": "work/werkstätten/werkstätten.webp",
             "footer": [
-                "work/werkstätten/werkstätten-vorgarten.jpg"
+                "work/werkstätten/werkstätten-vorgarten.webp"
             ]
         },
         "coords": [
@@ -195,7 +195,7 @@
         },
         "open": {},
         "pics": {
-            "header": "work/telezentrum.jpg"
+            "header": "work/telezentrum.webp"
         },
         "coords": [
             1131,
@@ -245,9 +245,9 @@
         },
         "pics": {
             "footer": [
-                "latterbach/14.jpg",
-                "latterbach/16.jpg",
-                "latterbach/18.jpg"
+                "latterbach/14.webp",
+                "latterbach/16.webp",
+                "latterbach/18.webp"
             ]
         },
         "coords": [
@@ -306,9 +306,9 @@
             "Fr": "08.30 - 12.30"
         },
         "pics": {
-            "header": "work/gärtnerei/haus-aussen.jpg",
+            "header": "work/gärtnerei/haus-aussen.webp",
             "footer": [
-                "work/gärtnerei/beet.jpg"
+                "work/gärtnerei/beet.webp"
             ]
         },
         "coords": [
@@ -342,11 +342,11 @@
         "desc": {},
         "open": {},
         "pics": {
-            "header": "leisure/sinnespfad/bienen.jpg",
+            "header": "leisure/sinnespfad/bienen.webp",
             "footer": [
-                "leisure/sinnespfad/elephant.jpg",
-                "leisure/sinnespfad/gesicht.jpg",
-                "leisure/sinnespfad/labyrinth.jpg"
+                "leisure/sinnespfad/elephant.webp",
+                "leisure/sinnespfad/gesicht.webp",
+                "leisure/sinnespfad/labyrinth.webp"
             ]
         },
         "coords": [
@@ -362,7 +362,7 @@
         "desc": {},
         "open": {},
         "pics": {
-            "header": "church/martinskirche.jpg"
+            "header": "church/martinskirche.webp"
         },
         "coords": [
             635,
@@ -377,7 +377,7 @@
         "desc": {},
         "open": {},
         "pics": {
-            "header": "leisure/sport/volleyball.jpg"
+            "header": "leisure/sport/volleyball.webp"
         },
         "coords": [
             683,
@@ -406,9 +406,9 @@
             "Fr": "08.00 - 12.00"
         },
         "pics": {
-            "header": "shopping/wühlkiste/eingang-sicht.jpg",
+            "header": "shopping/wühlkiste/eingang-sicht.webp",
             "footer": [
-                "shopping/wühlkiste/eingang.jpg"
+                "shopping/wühlkiste/eingang.webp"
             ]
         },
         "coords": [
@@ -441,7 +441,7 @@
             "So": "09.30 - 17.00"
         },
         "pics": {
-            "header": "shopping/cafe/eingang.jpg"
+            "header": "shopping/cafe/eingang.webp"
         },
         "coords": [
             545,
@@ -463,10 +463,10 @@
         },
         "open": {},
         "pics": {
-            "header": "shopping/cafe/minigolf/strecke.jpg",
+            "header": "shopping/cafe/minigolf/strecke.webp",
             "footer": [
-                "shopping/cafe/minigolf/hole.jpg",
-                "shopping/cafe/minigolf/landschaft.jpg"
+                "shopping/cafe/minigolf/hole.webp",
+                "shopping/cafe/minigolf/landschaft.webp"
             ]
         },
         "coords": [
@@ -485,9 +485,9 @@
         "desc": {},
         "open": {},
         "pics": {
-            "header": "shopping/cafe/abenteuerspielplatz/schaukel.jpg",
+            "header": "shopping/cafe/abenteuerspielplatz/schaukel.webp",
             "footer": [
-                "shopping/cafe/abenteuerspielplatz/klettern.jpg"
+                "shopping/cafe/abenteuerspielplatz/klettern.webp"
             ]
         },
         "coords": [
@@ -519,7 +519,7 @@
         },
         "open": {},
         "pics": {
-            "header": "leisure/deckerhalle/deckerhalle.jpg"
+            "header": "leisure/deckerhalle/deckerhalle.webp"
         },
         "coords": [
             427,
@@ -539,7 +539,7 @@
         "desc": {},
         "open": {},
         "pics": {
-            "header": "leisure/sport/skating.jpg"
+            "header": "leisure/sport/skating.webp"
         },
         "coords": [
             337,
@@ -558,7 +558,7 @@
         "desc": {},
         "open": {},
         "pics": {
-            "header": "schools/Alfons-Brandl-Schule.jpg"
+            "header": "schools/Alfons-Brandl-Schule.webp"
         },
         "coords": [
             190,
@@ -577,7 +577,7 @@
         "desc": {},
         "open": {},
         "pics": {
-            "header": "Albrecht-Schnitter-Berufsschule.jpg"
+            "header": "Albrecht-Schnitter-Berufsschule.webp"
         },
         "coords": [
             280,
@@ -592,7 +592,7 @@
         "desc": {},
         "open": {},
         "pics": {
-            "header": "leisure/sport/verein/vereinsheim.jpg"
+            "header": "leisure/sport/verein/vereinsheim.webp"
         },
         "coords": [
             399,
@@ -618,7 +618,7 @@
         },
         "open": {},
         "pics": {
-            "header": "leisure/sport/verein/sporthalle.jpg"
+            "header": "leisure/sport/verein/sporthalle.webp"
         },
         "coords": [
             481,
@@ -644,7 +644,7 @@
         },
         "open": {},
         "pics": {
-            "header": "leisure/sport/verein/tennis.jpg"
+            "header": "leisure/sport/verein/tennis.webp"
         },
         "coords": [
             447,
@@ -666,7 +666,7 @@
         "desc": {},
         "open": {},
         "pics": {
-            "header": "leisure/sport/verein/fussball.jpg"
+            "header": "leisure/sport/verein/fussball.webp"
         },
         "coords": [
             396,
@@ -692,7 +692,7 @@
         "desc": {},
         "open": {},
         "pics": {
-            "header": "leisure/sport/verein/handball.jpg"
+            "header": "leisure/sport/verein/handball.webp"
         },
         "coords": [
             350,
@@ -714,7 +714,7 @@
         "desc": {},
         "open": {},
         "pics": {
-            "header": "leisure/sport/verein/sprintstrecke.jpg"
+            "header": "leisure/sport/verein/sprintstrecke.webp"
         },
         "coords": [
             543,
@@ -739,7 +739,7 @@
         "desc": {},
         "open": {},
         "pics": {
-            "header": "work/werkstätten/kfz.jpg"
+            "header": "work/werkstätten/kfz.webp"
         },
         "same": [],
         "coords": [
@@ -754,7 +754,7 @@
         "desc": {},
         "open": {},
         "pics": {
-            "header": "work/werkstätten/elektrowerkstatt.jpg"
+            "header": "work/werkstätten/elektrowerkstatt.webp"
         },
         "same": [],
         "coords": [
@@ -782,7 +782,7 @@
         "desc": {},
         "open": {},
         "pics": {
-            "header": "work/werkstätten/heizung.jpg"
+            "header": "work/werkstätten/heizung.webp"
         },
         "same": [],
         "coords": [
@@ -797,7 +797,7 @@
         "desc": {},
         "open": {},
         "pics": {
-            "header": "work/werkstätten/schlosserei.jpg"
+            "header": "work/werkstätten/schlosserei.webp"
         },
         "same": [],
         "coords": [
@@ -812,9 +812,9 @@
         "desc": {},
         "open": {},
         "pics": {
-            "header": "work/malerei/seite.jpg",
+            "header": "work/malerei/seite.webp",
             "footer": [
-                "work/malerei/eingang.jpg"
+                "work/malerei/eingang.webp"
             ]
         },
         "same": [],
@@ -852,7 +852,7 @@
         },
         "open": {},
         "pics": {
-            "header": "work/BBM.jpg"
+            "header": "work/BBM.webp"
         },
         "same": [
             "Berufliches Zentrum (BZ)"
@@ -886,7 +886,7 @@
             "Fr": "08.00 - 12.00"
         },
         "pics": {
-            "header": "work/BZ.jpg"
+            "header": "work/BZ.webp"
         },
         "same": [
             "Berufsbildende Maßnahme (BBM)"
