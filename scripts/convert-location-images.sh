@@ -31,7 +31,7 @@ function convert_subdirectory() {
             if [[ "$ITEM" == *.$CONVERT_EXTENTION ]]; then
                 TARGET=${ITEM//.$CONVERT_EXTENTION/.$CONVERT_TARGET}
                 echo -e "Converting: $ITEM -> $TARGET"
-                # ffmpeg -i "$ITEM" "$TARGET"
+                ffmpeg -i "$ITEM" "$TARGET"
             fi
         fi
     done
