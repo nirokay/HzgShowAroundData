@@ -32,6 +32,7 @@ function convert_subdirectory() {
                 TARGET=${ITEM//.$CONVERT_EXTENTION/.$CONVERT_TARGET}
                 echo -e "Converting: $ITEM -> $TARGET"
                 ffmpeg -i "$ITEM" "$TARGET"
+                rm "$ITEM"
             fi
         fi
     done
