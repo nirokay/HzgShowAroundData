@@ -132,7 +132,8 @@
         "till": "2024-03-24",
         "level": "info",
         "details": [
-            "machArt Kunstausstellung: \"In fremden Gärten\""
+            "in der Deckerhalle",
+            "machArt Kunstausstellung: <i>\"In fremden Gärten\"</i>"
         ]
     },
     {
@@ -310,12 +311,23 @@
         ]
     },
     {
+        "name": "Generalprobe im Rainer-Endisch-Saal",
+        "on": "2024-07-28",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/generalprobe-240728",
+        "details": [
+            "Es spielt das <i>Bayrische Staatsorchester</i> unter der Leitung von <i>Christian Fröhlich</i>: <i><b>Sinfonie Nr. 6 F-Dur</b></i> von <i>Ludwig van Beethoven</i>",
+            "Der Eintritt ist kostenfrei!"
+        ]
+    },
+    {
         "name": "Kunstausstellung",
         "from": "2024-09-16",
         "till": "2024-09-29",
         "level": "info",
         "details": [
-            "machArt Kunstausstellung: Lebendigkeit in Vielfalt"
+            "in der Deckerhalle",
+            "machArt Kunstausstellung: <i>\"Lebendigkeit in Vielfalt\"</i>"
         ]
     },
     {
