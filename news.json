@@ -5,7 +5,7 @@
     {
         "name": "MühlenMarkt geschlossen",
         "locations": [
-            "MühlenMarkt"
+            "MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"
         ],
         "on": "2023-12-30",
         "level": "warning",
@@ -16,7 +16,7 @@
     {
         "name": "MühlenMarkt geschlossen",
         "locations": [
-            "MühlenMarkt"
+            "MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"
         ],
         "on": "2024-01-05",
         "level": "warning",
@@ -27,7 +27,7 @@
     {
         "name": "MühlenMarkt geschlossen",
         "locations": [
-            "MühlenMarkt"
+            "MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"
         ],
         "on": "2024-01-13",
         "level": "warning",
@@ -38,7 +38,7 @@
     {
         "name": "Metzgerei im MühlenMarkt geschlossen",
         "locations": [
-            "MühlenMarkt"
+            "MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"
         ],
         "from": "2023-12-23",
         "till": "2024-01-07",
@@ -50,7 +50,7 @@
     {
         "name": "MühlenMarkt August - Öffnungszeiten",
         "locations": [
-            "MühlenMarkt"
+            "MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"
         ],
         "from": "2024-08-05",
         "till": "2024-08-31",
