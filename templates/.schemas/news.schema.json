@@ -30,6 +30,13 @@
                         "items": {
                             "type": "string"
                         }
+                    },
+                    "locations": {
+                        "type": "array",
+                        "description": "Locations that are affected (their full name)",
+                        "items": {
+                            "type": "string"
+                        }
                     }
                 },
                 "required": [

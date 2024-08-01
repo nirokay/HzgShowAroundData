@@ -4,6 +4,9 @@
     },
     {
         "name": "MühlenMarkt geschlossen",
+        "locations": [
+            "MühlenMarkt"
+        ],
         "on": "2023-12-30",
         "level": "warning",
         "details": [
@@ -12,6 +15,9 @@
     },
     {
         "name": "MühlenMarkt geschlossen",
+        "locations": [
+            "MühlenMarkt"
+        ],
         "on": "2024-01-05",
         "level": "warning",
         "details": [
@@ -20,6 +26,9 @@
     },
     {
         "name": "MühlenMarkt geschlossen",
+        "locations": [
+            "MühlenMarkt"
+        ],
         "on": "2024-01-13",
         "level": "warning",
         "details": [
@@ -28,6 +37,9 @@
     },
     {
         "name": "Metzgerei im MühlenMarkt geschlossen",
+        "locations": [
+            "MühlenMarkt"
+        ],
         "from": "2023-12-23",
         "till": "2024-01-07",
         "level": "warning",
@@ -37,6 +49,9 @@
     },
     {
         "name": "MühlenMarkt August - Öffnungszeiten",
+        "locations": [
+            "MühlenMarkt"
+        ],
         "from": "2024-08-05",
         "till": "2024-08-31",
         "level": "warning",
@@ -59,6 +74,9 @@
     },
     {
         "name": "Weihnachtsmarkt",
+        "locations": [
+            "Deckerhalle"
+        ],
         "from": "2023-12-01",
         "till": "2023-12-03",
         "level": "info",
@@ -68,6 +86,9 @@
     },
     {
         "name": "Bescherung und Weihnachtsessen",
+        "locations": [
+            "Deckerhalle"
+        ],
         "on": "2023-12-11",
         "level": "info",
         "details": [
@@ -92,6 +113,9 @@
     },
     {
         "name": "Musikantreffen - Einladung zum Hoagart",
+        "locations": [
+            "Cafe und Wirtshaus Herzog"
+        ],
         "on": "2024-01-12",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/musikantentreffen",
@@ -111,6 +135,9 @@
     },
     {
         "name": "Theateraufführung: Es ist ein Hut entsprungen",
+        "locations": [
+            "Häuser Am Latterbach"
+        ],
         "on": "2024-01-18",
         "level": "info",
         "details": [
@@ -129,6 +156,9 @@
     },
     {
         "name": "Kunstausstellung",
+        "locations": [
+            "Deckerhalle"
+        ],
         "from": "2024-03-11",
         "till": "2024-03-24",
         "level": "info",
@@ -155,6 +185,9 @@
     },
     {
         "name": "Konzert - Meer und Wasser",
+        "locations": [
+            "Häuser Am Latterbach"
+        ],
         "on": "2024-04-25",
         "level": "info",
         "details": [
@@ -179,6 +212,9 @@
     },
     {
         "name": "EUropABEND",
+        "locations": [
+            "Rainer-Endisch-Saal"
+        ],
         "on": "2024-05-29",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/europawahl",
@@ -189,6 +225,9 @@
     },
     {
         "name": "Hoagart",
+        "locations": [
+            "Cafe und Wirtshaus Herzog"
+        ],
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/hoagart",
         "on": "2024-05-31",
         "level": "info",
@@ -227,6 +266,9 @@
     },
     {
         "name": "Gartenfest mit Grillen und Musik",
+        "locations": [
+            "Häuser Am Latterbach"
+        ],
         "on": "2024-07-04",
         "level": "info",
         "details": [
@@ -296,6 +338,9 @@
     },
     {
         "name": "Queerer Treff in Haus 14",
+        "locations": [
+            "Häuser Am Latterbach"
+        ],
         "on": "2024-07-14",
         "level": "info",
         "details": [
@@ -305,6 +350,9 @@
     },
     {
         "name": "Sommerfest",
+        "locations": [
+            "Deckerhalle"
+        ],
         "on": "2024-07-15",
         "level": "info",
         "details": [
@@ -313,6 +361,9 @@
     },
     {
         "name": "Generalprobe im Rainer-Endisch-Saal",
+        "locations": [
+            "Rainer-Endisch-Saal"
+        ],
         "on": "2024-07-28",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/generalprobe-240728",
@@ -323,6 +374,9 @@
     },
     {
         "name": "Kunstausstellung",
+        "locations": [
+            "Deckerhalle"
+        ],
         "from": "2024-09-16",
         "till": "2024-09-29",
         "level": "info",
@@ -346,6 +400,9 @@
     },
     {
         "name": "Weihnachtsmarkt",
+        "locations": [
+            "Deckerhalle"
+        ],
         "from": "2024-11-29",
         "till": "2024-12-01",
         "level": "info",
