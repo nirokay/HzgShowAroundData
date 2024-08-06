@@ -1,6 +1,6 @@
 [
     {
-        "date": "?",
+        "date": "2024-08-06",
         "text": {
             "Changelog": [
                 "wurde hinzugefügt"
@@ -80,7 +80,7 @@
         "date": "2024-06-27",
         "text": {
             "NewsFeed": [
-                "Orte werden dynamisch verlinkt"
+                "Orte werden dynamisch im NewsFeed verlinkt"
             ]
         }
     },
@@ -88,7 +88,7 @@
         "date": "2024-06-26",
         "text": {
             "Style": [
-                "viele Zentrierungen wurden entfernt für bessere Lesbarkeit"
+                "viele Textzentrierungen wurden entfernt für bessere Lesbarkeit"
             ],
             "Freizeitangebote": [
                 "erweitert",
@@ -103,7 +103,7 @@
         "date": "2024-06-25",
         "text": {
             "Style": [
-                "viele Farben überarbeitet"
+                "Farben überarbeitet"
             ]
         }
     },
@@ -124,14 +124,7 @@
             ]
         }
     },
-    {
-        "date": "2024-06-01",
-        "text": {
-            "Orte": [
-                "Rechtschreibfehler korregiert"
-            ]
-        }
-    },
+
     {
         "date": "2024-05-25",
         "text": {
@@ -152,82 +145,83 @@
         }
     },
     {
-        "date": "2024-03-30",
+        "date": "2024-03-06",
+        "text": {
+            "Credits/Mitwirkende": [
+                "hinzugefügt"
+            ]
+        }
+    },
+    {
+        "date": "2024-02-20",
+        "text": {
+            "Terms of Service": [
+                "neu geschrieben"
+            ],
+            "Style": [
+                "alle Seiten vertikal zentriert"
+            ]
+        }
+    },
+    {
+        "date": "2023-12-17",
+        "text": {
+            "Tracking und Analytics": [
+                "client-side Cloudflare Web-Analytics hinzugefügt"
+            ],
+            "Orte": [
+                "neue Orte"
+            ],
+            "404-Seite": [
+                "hinzugefügt"
+            ]
+        }
+    },
+    {
+        "date": "2023-12-14",
+        "text": {
+            "Artikel": [
+                "neuer Artikel: <i>\"Katzen von Herzogsägmühle - Findus\"</i>"
+            ]
+        }
+    },
+    {
+        "date": "2023-12-08",
+        "text": {
+            "Artikel": [
+                "hinzugefügt"
+            ]
+        }
+    },
+    {
+        "date": "2023-12-04",
         "text": {
             "NewsFeed": [
-                "mehrere Fehler behoben"
+                "hinzugefügt"
             ]
         }
     },
     {
-        "date": "2024-03-08",
+        "date": "2023-11-17",
         "text": {
-            "": [
-                "Automatisierungen"
+            "Tour": [
+                "hinzugefügt"
             ]
         }
     },
     {
-        "date": "",
+        "date": "2023-11-16",
         "text": {
-            "": [
-                ""
+            "Orte": [
+                "hinzugefügt"
             ]
         }
     },
     {
-        "date": "",
+        "date": "2023-11-13",
         "text": {
             "": [
-                ""
-            ]
-        }
-    },
-    {
-        "date": "",
-        "text": {
-            "": [
-                ""
-            ]
-        }
-    },
-    {
-        "date": "",
-        "text": {
-            "": [
-                ""
-            ]
-        }
-    },
-    {
-        "date": "",
-        "text": {
-            "": [
-                ""
-            ]
-        }
-    },
-    {
-        "date": "",
-        "text": {
-            "": [
-                ""
-            ]
-        }
-    },
-    {
-        "date": "",
-        "text": {
-            "": [
-                ""
-            ]
-        }
-    },
-    {
-        "date": "",
-        "text": {
-            "": [
-                ""
+                "Projekt gestartet"
             ]
         }
     }
