@@ -7,3 +7,7 @@ resources/images/map*
 
 # Krita backup files:
 *.*~
+
+# Libraries:
+scripts/lib/*
+!scripts/lib/.info
