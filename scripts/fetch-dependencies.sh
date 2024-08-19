@@ -22,4 +22,4 @@ function fetch() {
     curl "$URL" > "$DIRECTORY/$FILE"
 }
 
-fetch "xml2lua.lua" "https://github.com/manoelcampos/xml2lua/blob/master/xml2lua.lua"
+fetch "xml2lua.lua" "https://raw.githubusercontent.com/manoelcampos/xml2lua/master/xml2lua.lua"
