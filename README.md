@@ -34,13 +34,13 @@ Die Karte in `resources/images/map.svg` wird als Vorlage verwendet.
 
 ## Begriffserklärung für Dokumentation
 
-* `Array`: Liste
+* `Array`: Liste `[...]`
 
-* `Integer / Int`: ganze Zahl ohne Kommas ( 1, 2, 3, ... )
+* `Integer / Int`: ganze Zahl ohne Kommas ( 1; 2; 3; ... )
 
-* `String`: Text
+* `String`: Text `"..."`
 
-* `Object / Table`: Objekt
+* `Object / Table`: Objekt `{...}`
 
 * `Index`: Index / Verzeichnis
 
