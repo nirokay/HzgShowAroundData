@@ -112,10 +112,10 @@ Headers sind eins-zu-eins wie in [Markdown](https://en.wikipedia.org/wiki/Markdo
 
 * `#` *(-> entspricht HTML: h1)*
 * `##` *(-> entspricht HTML: h2)*
-* `#` *(-> entspricht HTML: h3)*
-* `##` *(-> entspricht HTML: h4)*
-* `###` *(-> entspricht HTML: h5)*
-* `##` *(-> entspricht HTML: h6)*
+* `###` *(-> entspricht HTML: h3)*
+* `####` *(-> entspricht HTML: h4)*
+* `#####` *(-> entspricht HTML: h5)*
+* `######` *(-> entspricht HTML: h6)*
 
 *Bilder Tags:*
 
