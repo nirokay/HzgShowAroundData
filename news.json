@@ -397,6 +397,19 @@
         ]
     },
     {
+        "name": "Klavierkonzert",
+        "locations": [
+            "Rainer-Endisch-Saal"
+        ],
+        "on": "2024-09-25",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/dimitrieva",
+        "details": [
+            "freier Eintritt um 19 Uhr im Rainer-Endisch-Saal",
+            "<b><i>Masha Dimitrieva</i></b> spielt <q>Etüden</q> von <i>Alexander Skrjabin</i>, <q>Satyre und Nymphen op.8</q> von <i>Paul Juon</i>, und Werke von <i>Gordon Sherwood</i>"
+        ]
+    },
+    {
         "name": "Erntedankfest",
         "on": "2024-10-07",
         "level": "info",
@@ -414,6 +427,19 @@
         "details": [
             "An beiden Tagen von 7.00 - 14.00 Uhr am Dorfplatz (vor der Deckerhalle)",
             "Alle Rehabilitanden können kostenlos ihre Ware anbieten. Ab dem <time datetime='2024-05-13'>13.05.2024</time> kann dafür eine Berechtigungskarte bei <i>Frau Müller</i> im Gebäude der Wühlkiste, im 2. Stock, abgeholt werden."
+        ]
+    },
+    {
+        "name": "Gedenkveranstaltung: <q>Die Opfer der NS-Gesundheitspolitik</q>",
+        "on": "2024-11-20",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/soziale-medien/09-2024/gedenkveranstaltung-opfer-ns-politik",
+        "details": [
+            "um 15 Uhr",
+            "",
+            "<b>(Unverbindliches) Treffen zum Ideensammeln:</b>",
+            "<time datetime='2024-09-25 15:00'>25.09.2024 15:00 - 17:00 Uhr</time> im Seminarraum im Lernort, Werkstraße 2 in Herzogsägmühle",
+            "Wer was beitragen will ohne sich persönlich zu treffen, kann auch eine <a href='mailto:ns-unrecht@herzogsaegmuehle.de'>E-Mail senden</a>."
         ]
     },
     {
