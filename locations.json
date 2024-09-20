@@ -70,25 +70,10 @@
         ],
         "coords": [
             640,
-            1511,
+            1472,
             677,
             1545
         ]
-    },
-    {
-        "name": "Friseur im MühlenMarkt",
-        "desc": {},
-        "open": {
-            "Mo - So": "derzeit geschlossen"
-        },
-        "pics": {},
-        "coords": [
-            640,
-            1472,
-            677,
-            1509
-        ],
-        "same": []
     },
     {
         "name": "Post und Treuhand-Kasse",
