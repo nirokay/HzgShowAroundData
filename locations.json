@@ -313,9 +313,7 @@
             ]
         },
         "pics": {
-            "header": [
-                "latterbach/14.webp"
-            ]
+            "header": "latterbach/14.webp"
         },
         "coords": [
             1668,
