@@ -190,49 +190,164 @@
         "same": []
     },
     {
-        "name": "Häuser Am Latterbach",
+        "name": "Am Latterbach Haus 9 und 11",
         "alias": [
-            "Häusern Am Latterbach",
             "Am Latterbach 9",
             "Am Latterbach 11",
-            "Am Latterbach 12",
-            "Am Latterbach 13",
-            "Am Latterbach 14",
-            "Am Latterbach 16",
-            "Am Latterbach 18"
+            "Am Latterbach Haus 9",
+            "Am Latterbach Haus 11",
+            "Haus 9 Am Latterbach",
+            "Haus 11 Am Latterbach"
         ],
         "desc": {
-            "Haus 11": [
-                "<b>Spezielles:</b>\nBilliard-Tisch"
+            "Spezielles": [
+                "<b>Haus 11:</b> Billiardtisch"
+            ]
+        },
+        "pics": {
+            "footer": []
+        },
+        "coords": [],
+        "same": [
+            "Häuser Am Latterbach",
+            "Am Latterbach Haus 10 und 12",
+            "Am Latterbach Haus 13",
+            "Am Latterbach Haus 14",
+            "Am Latterbach Haus 16 und 18"
+        ]
+    },
+    {
+        "name": "Am Latterbach Haus 10 und 12",
+        "alias": [
+            "Am Latterbach 10",
+            "Am Latterbach 12",
+            "Am Latterbach Haus 10",
+            "Am Latterbach Haus 12",
+            "Haus 10 Am Latterbach",
+            "Haus 12 Am Latterbach"
+        ],
+        "desc": {
+            "Spezielles": [
+                "<b>Haus 12:</b> Verwaltung und ein Teil der IT im Dachgeschoss\n<small><b>ACHTUNG:</b> die Decke ist niedrig und angewinkelt... ich hab mir schon mehrmals den Kopf gestoßen... ;-;</small>"
+            ]
+        },
+        "pics": {
+            "footer": []
+        },
+        "coords": [],
+        "same": [
+            "Häuser Am Latterbach",
+            "Am Latterbach Haus 9 und 11",
+            "Am Latterbach Haus 13",
+            "Am Latterbach Haus 14",
+            "Am Latterbach Haus 16 und 18"
+        ]
+    },
+    {
+        "name": "Am Latterbach Haus 13",
+        "alias": [
+            "Am Latterbach 13",
+            "Am Latterbach Haus 13",
+            "Haus 13 Am Latterbach"
+        ],
+        "desc": {
+            "Festsaal": [
+                "Dieser befindet sich im 1. Stock. Dort finden die Gesundheitsbildungen, Veranstaltungen und Feiern statt.",
+                "Erreichbar ist dieser durch das Haus oder durch die Treppe außen auf der Nord-seite des Hauses."
             ],
-            "Haus 12": [
-                "Die <b>Verwaltung</b> und <b>ein Teil der IT</b> befindet sich im Dachgeschoss (<b>ACHTUNG:</b> die Decke ist niedrig und angewinkelt... ich hab mir schon mehrmals den Kopf gestoßen ._.)"
+            "Ergo-Therapie": [
+                "<q>Dienstleistung</q> (Leitung: <i>Hr. Trometer</i>) und <q>Gestalten-und-Werken</q> (Leitungen: <i>Fr. Tagscherer</i> und <i>Hr. Mayer</i>) im Erdgeschoss.",
+                "Ebenfalls hier zu Finden ist die Hauswirtschaft."
             ],
-            "Haus 13": [
-                "Der <b>Festsaal</b> befindet sich im 1. Stock. Dort finden Veranstaltungen und Feiern statt.",
-                "<b>Ergo-Therapien:</b> Dienstleistung (Hr. Trometer) und Gestalten-und-Werken (Fr. Tagscherer und Hr. Mayer)\nDie Ergotherapien befinden sich im Erdgeschoss.",
-                "Der <b>Medizinische Dienst</b> befindet sich im 2. Stock am Ende des Flurs.\nHier werden körperliche Werte erhoben und auch unter Umständen Medikamente bestellt/abgeholt.",
-                "<b>Gespräche mit Arzt/Psychologen:</b> Diese finden auch hier statt. Meistens im 2ten, 3ten oder 4ten Stockwerk, je nach dem welchen Psychologen oder Arzt man hat.",
-                "Herr Schmidt befindet sich ganz oben im 4ten, Herr Flatz im 2ten, Frau Glas im 3ten Stock.",
-                "<b>Reha-Verwaltung:</b> Hier befindet sich ebenso die Reha-Verwaltung. Diese ist im 2ten Stock."
+            "Medizinischer Dienst": [
+                "Dieser befindet sich im 2. Stockwerk am Ende des Flurs.\nHier werden körperliche Werte erhoben und unter Umständen Medikamente bestellt/abgeholt."
             ],
-            "Haus 14": [
-                "<b>Spezielles:</b>\nFitnessraum. Hier kannst du dich austoben!"
+            "Ärzte": [
+                "Diese befinden sich ebenfalls im 2. Stock kurz vor dem medizinischen Dienst. Die Ärzte sind <i>Hr. Flatz</i>, <i>Hr. Thoma</i> und <i>Fr. Seemann</i>."
             ],
-            "Haus 16": [
-                "<b>Spezielles:</b>\nTischkicker ganz unten im Treppenhaus\nNachtdienst im Gruppenleiterbüro"
+            "Psychologen/Psychotherapie": [
+                "Die Psychologen <i>Fr. Glas</i> befinden sich im 3. Stock.",
+                "Die Psychologen <i>Hr. Schmidt</i> und <i>Hr. Dorner</i> (Suchtberater) befinden sich im 4. Stock (Dachgeschoss)."
             ],
-            "Haus 18": [
-                "<b>Spezielles:</b>\nTischtennis"
+            "Aufnahme und Verwaltung": [
+                "Die Aufnahme befindet sich im 3. Stockwerk und die Verwaltung im 2. Stockwerk, dort wo auch der Raum mit dem Aquarium ist."
+            ]
+        },
+        "pics": {
+            "footer": []
+        },
+        "coords": [],
+        "same": [
+            "Häuser Am Latterbach",
+            "Am Latterbach Haus 9 und 11",
+            "Am Latterbach Haus 10 und 12",
+            "Am Latterbach Haus 14",
+            "Am Latterbach Haus 16 und 18"
+        ]
+    },
+    {
+        "name": "Am Latterbach Haus 14",
+        "alias": [
+            "Am Latterbach 14",
+            "Am Latterbach Haus 14",
+            "Haus 14 Am Latterbach"
+        ],
+        "desc": {
+            "Spezielles": [
+                "Fitnessraum und Volleyballfeld im Garten geteilt mit <a href='./am_latterbach_haus_16_und_18.html'>Haus 16</a>"
+            ]
+        },
+        "pics": {
+            "header": [
+                "latterbach/14.webp"
+            ]
+        },
+        "coords": [],
+        "same": [
+            "Häuser Am Latterbach",
+            "Am Latterbach Haus 9 und 11",
+            "Am Latterbach Haus 10 und 12",
+            "Am Latterbach Haus 13",
+            "Am Latterbach Haus 16 und 18"
+        ]
+    },
+    {
+        "name": "Am Latterbach Haus 16 und 18",
+        "alias": [
+            "Am Latterbach 16",
+            "Am Latterbach 18",
+            "Am Latterbach Haus 16",
+            "Am Latterbach Haus 18",
+            "Haus 16 Am Latterbach",
+            "Haus 18 Am Latterbach"
+        ],
+        "desc": {
+            "Spezielles": [
+                "<b>Haus 16:</b> Tischkicker ganz unten im Treppenhaus, Nachtdienst im Gruppenleiterbüro und Volleyballfeld im Garten geteilt mit <a href='./am_latterbach_haus_14.html'>Haus 14</a>",
+                "<b>Haus 18:</b> Tischtennis"
             ]
         },
         "pics": {
             "footer": [
-                "latterbach/14.webp",
                 "latterbach/16.webp",
                 "latterbach/18.webp"
             ]
         },
+        "coords": [],
+        "same": [
+            "Häuser Am Latterbach",
+            "Am Latterbach Haus 9 und 11",
+            "Am Latterbach Haus 10 und 12",
+            "Am Latterbach Haus 13",
+            "Am Latterbach Haus 14"
+        ]
+    },
+    {
+        "name": "Häuser Am Latterbach",
+        "alias": [
+            "Häusern Am Latterbach"
+        ],
+        "desc": {},
         "coords": [
             1592,
             1412,
@@ -240,12 +355,21 @@
             1755
         ],
         "same": [
-            "Jugendreha"
+            "Jugendreha",
+            "Am Latterbach Haus 9 und 11",
+            "Am Latterbach Haus 10 und 12",
+            "Am Latterbach Haus 13",
+            "Am Latterbach Haus 14",
+            "Am Latterbach Haus 16 und 18"
         ]
     },
     {
         "name": "Jugendreha",
-        "desc": {},
+        "desc": {
+            "Spezielles": [
+                "Volleyballfeld, bitte erst nach dem Klären mit den Mitarbeitern benutzen."
+            ]
+        },
         "pics": {},
         "coords": [
             1547,
