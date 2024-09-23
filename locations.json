@@ -207,7 +207,12 @@
         "pics": {
             "footer": []
         },
-        "coords": [],
+        "coords": [
+            1704,
+            1641,
+            1805,
+            1745
+        ],
         "same": [
             "Häuser Am Latterbach",
             "Am Latterbach Haus 10 und 12",
@@ -228,13 +233,18 @@
         ],
         "desc": {
             "Spezielles": [
-                "<b>Haus 12:</b> Verwaltung und ein Teil der IT im Dachgeschoss\n<small><b>ACHTUNG:</b> die Decke ist niedrig und angewinkelt... ich hab mir schon mehrmals den Kopf gestoßen... ;-;</small>"
+                "<b>Haus 12:</b> Verwaltung und ein Teil der IT im Dachgeschoss <small><b>ACHTUNG:</b> die Decke ist niedrig und angewinkelt... ich hab mir schon mehrmals den Kopf gestoßen... ;-;</small>"
             ]
         },
         "pics": {
             "footer": []
         },
-        "coords": [],
+        "coords": [
+            1591,
+            1650,
+            1693,
+            1743
+        ],
         "same": [
             "Häuser Am Latterbach",
             "Am Latterbach Haus 9 und 11",
@@ -276,7 +286,12 @@
         "pics": {
             "footer": []
         },
-        "coords": [],
+        "coords": [
+            1723,
+            1587,
+            1807,
+            1620
+        ],
         "same": [
             "Häuser Am Latterbach",
             "Am Latterbach Haus 9 und 11",
@@ -302,7 +317,12 @@
                 "latterbach/14.webp"
             ]
         },
-        "coords": [],
+        "coords": [
+            1668,
+            1576,
+            1721,
+            1634
+        ],
         "same": [
             "Häuser Am Latterbach",
             "Am Latterbach Haus 9 und 11",
@@ -333,7 +353,12 @@
                 "latterbach/18.webp"
             ]
         },
-        "coords": [],
+        "coords": [
+            1635,
+            1409,
+            1717,
+            1539
+        ],
         "same": [
             "Häuser Am Latterbach",
             "Am Latterbach Haus 9 und 11",
@@ -348,12 +373,6 @@
             "Häusern Am Latterbach"
         ],
         "desc": {},
-        "coords": [
-            1592,
-            1412,
-            1804,
-            1755
-        ],
         "same": [
             "Jugendreha",
             "Am Latterbach Haus 9 und 11",
