@@ -1,5 +1,13 @@
 [
     {
+        "date": "2024-09-20",
+        "text": {
+            "Orte": [
+                "Beim Besichtigen von veralteten Seiten über umbenannte oder gelöschten Seiten wird nun eine Warnung angezeigt, dass es sich um eine veraltete Seite geht. Damit funtionieren alte Links immernoch, ohne dass eine ungenaue 404 Meldung angezeigt wird."
+            ]
+        }
+    },
+    {
         "date": "2024-09-19",
         "text": {
             "": [
