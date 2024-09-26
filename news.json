@@ -410,6 +410,22 @@
         ]
     },
     {
+        "name": "Legionellenkontaminierung",
+        "locations": [
+            "Am Latterbach Haus 9 und 11",
+            "Am Latterbach Haus 10 und 12"
+        ],
+        "from": "2024-09-25",
+        "till": "2024-10-25",
+        "level": "alert",
+        "details": [
+            "Legionellen wurden in den Leitungen der Häuser am Latterbach 9, 10, 11 und 12 festgestellt.",
+            "Die Wassertemperatur wurde erhöht, und es wird gebeten täglich 3 Minuten lang heißes Wasser in den Duschen und Waschbecken laufen zu Lassen. Dabei bitte gut Lüften!",
+            "Es besteht keine Gefahr bei Hautkontakt oder Konsumietung des Wassers, die Gefahr kommt vom Gelangen in Atemwege durch Wasserdampf.",
+            "Es ist Vorsicht geboten vor Verbrühungsgefahr durch die erhöhte Wassertemperatur."
+        ]
+    },
+    {
         "name": "Erntedankfest",
         "on": "2024-10-07",
         "level": "info",
