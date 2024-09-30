@@ -190,7 +190,7 @@
         "same": []
     },
     {
-        "name": "Am Latterbach Haus 9 und 11",
+        "name": "Am Latterbach Häuser 9 und 11",
         "alias": [
             "Am Latterbach 9",
             "Am Latterbach 11",
@@ -215,14 +215,14 @@
         ],
         "same": [
             "Häuser Am Latterbach",
-            "Am Latterbach Haus 10 und 12",
+            "Am Latterbach Häuser 10 und 12",
             "Am Latterbach Haus 13",
             "Am Latterbach Haus 14",
-            "Am Latterbach Haus 16 und 18"
+            "Am Latterbach Häuser 16 und 18"
         ]
     },
     {
-        "name": "Am Latterbach Haus 10 und 12",
+        "name": "Am Latterbach Häuser 10 und 12",
         "alias": [
             "Am Latterbach 10",
             "Am Latterbach 12",
@@ -247,10 +247,10 @@
         ],
         "same": [
             "Häuser Am Latterbach",
-            "Am Latterbach Haus 9 und 11",
+            "Am Latterbach Häuser 9 und 11",
             "Am Latterbach Haus 13",
             "Am Latterbach Haus 14",
-            "Am Latterbach Haus 16 und 18"
+            "Am Latterbach Häuser 16 und 18"
         ]
     },
     {
@@ -294,10 +294,10 @@
         ],
         "same": [
             "Häuser Am Latterbach",
-            "Am Latterbach Haus 9 und 11",
-            "Am Latterbach Haus 10 und 12",
+            "Am Latterbach Häuser 9 und 11",
+            "Am Latterbach Häuser 10 und 12",
             "Am Latterbach Haus 14",
-            "Am Latterbach Haus 16 und 18"
+            "Am Latterbach Häuser 16 und 18"
         ]
     },
     {
@@ -323,14 +323,14 @@
         ],
         "same": [
             "Häuser Am Latterbach",
-            "Am Latterbach Haus 9 und 11",
-            "Am Latterbach Haus 10 und 12",
+            "Am Latterbach Häuser 9 und 11",
+            "Am Latterbach Häuser 10 und 12",
             "Am Latterbach Haus 13",
-            "Am Latterbach Haus 16 und 18"
+            "Am Latterbach Häuser 16 und 18"
         ]
     },
     {
-        "name": "Am Latterbach Haus 16 und 18",
+        "name": "Am Latterbach Häuser 16 und 18",
         "alias": [
             "Am Latterbach 16",
             "Am Latterbach 18",
@@ -359,8 +359,8 @@
         ],
         "same": [
             "Häuser Am Latterbach",
-            "Am Latterbach Haus 9 und 11",
-            "Am Latterbach Haus 10 und 12",
+            "Am Latterbach Häuser 9 und 11",
+            "Am Latterbach Häuser 10 und 12",
             "Am Latterbach Haus 13",
             "Am Latterbach Haus 14"
         ]
@@ -373,11 +373,11 @@
         "desc": {},
         "same": [
             "Jugendreha",
-            "Am Latterbach Haus 9 und 11",
-            "Am Latterbach Haus 10 und 12",
+            "Am Latterbach Häuser 9 und 11",
+            "Am Latterbach Häuser 10 und 12",
             "Am Latterbach Haus 13",
             "Am Latterbach Haus 14",
-            "Am Latterbach Haus 16 und 18"
+            "Am Latterbach Häuser 16 und 18"
         ]
     },
     {
