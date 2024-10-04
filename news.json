@@ -427,9 +427,18 @@
     },
     {
         "name": "Erntedankfest",
+        "locations": [
+            "Landwirtschaft in Oblandstraße 20e",
+            "Martinskirche"
+        ],
         "on": "2024-10-07",
         "level": "info",
-        "details": []
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/erntedankfest",
+        "details": [
+            "Bustransfer ab <time datetime='2024-10-07 9:30'>9.30 Uhr</time> von der Martinskirche zum Gelände der Landwirtschaft",
+            "<time datetime='2024-10-07 10:30>10.30 Uhr</time>: Familienfreundlicher Festgottesdienst",
+            "Anschließend bis <time datetime='2024-10-07 15:00'>15.00 Uhr</time> das Erntedankfest, mit einem gemeinsamen Mittagessen, Kaffee und Kuchen, und Live-Musik"
+        ]
     },
     {
         "name": "Herbstflohmarkt",
