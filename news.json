@@ -470,12 +470,19 @@
     {
         "name": "Weihnachtsmarkt",
         "locations": [
-            "Deckerhalle"
+            "Deckerhalle",
+            "Dorfplatz",
+            "Martinskirche"
         ],
         "from": "2024-11-29",
         "till": "2024-12-01",
         "level": "info",
-        "details": []
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/weihnachtsmarkt",
+        "details": [
+            "<b>Freitag:</b> <time datetime='2024-11-29'>11:00 - 18:00 Uhr</time>",
+            "<b>Samstag:</b> <time datetime='2024-11-30'>12:00 - 19:00 Uhr</time>",
+            "<b>Sonntag:</b> <time datetime='2024-12-01'>12:00 - 19:00 Uhr</time>"
+        ]
     },
     {
         "COMMENT": "- 2025 ---------------------------------------------------"
