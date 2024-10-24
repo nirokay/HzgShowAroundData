@@ -4,7 +4,7 @@
         "time": "täglich 15.00 - 20.00 Uhr",
         "place": {
             "name": "Haus 11",
-            "id": "Häuser Am Latterbach"
+            "id": "Am Latterbach Häuser 9 und 11"
         }
     },
     {
@@ -12,7 +12,7 @@
         "time": "täglich 15.00 - 20.00 Uhr",
         "place": {
             "name": "Haus 9",
-            "id": "Häuser Am Latterbach"
+            "id": "Am Latterbach Häuser 9 und 11"
         }
     },
     {
@@ -31,7 +31,7 @@
         ],
         "place": {
             "name": "Haus 14",
-            "id": "Häuser Am Latterbach"
+            "id": "Am Latterbach Haus 14"
         }
     },
     {
@@ -42,7 +42,7 @@
         ],
         "place": {
             "name": "Haus 14",
-            "id": "Häuser Am Latterbach"
+            "id": "Am Latterbach Haus 14"
         }
     },
     {
@@ -64,7 +64,7 @@
         "time": "An Wochenenden und Feiertagen",
         "place": {
             "name": "Jugendreha",
-            "id": "Häuser Am Latterbach"
+            "id": "Jugendreha"
         }
     },
     {
