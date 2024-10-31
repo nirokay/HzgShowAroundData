@@ -8,7 +8,7 @@ CONVERT_TARGET=$2
 
 echo -e "Converting $CONVERT_EXTENTION to $CONVERT_TARGET!"
 
-printf "Is this correct? [y/n] "
+printf "Is this correct? [y/N] "
 read -r CONSENT
 if [ "$CONSENT" != "y" ] && [ "$CONSENT" != "Y" ]; then
     echo -e "Aborting..."
