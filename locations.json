@@ -955,6 +955,7 @@
             "Berufsbildende Maßnahme",
             "BBM"
         ],
+        "link": "https://www.herzogsaegmuehle.de/arbeit-und-qualifizierung/berufliche-orientierung",
         "desc": {
             "Werkstätten": [
                 "Diese Werkstätten/Bildungsrichtungen gibt es in-Haus:",
@@ -979,7 +980,8 @@
             "header": "work/BBM.webp"
         },
         "same": [
-            "Berufliches Zentrum (BZ)"
+            "Berufliches Zentrum (BZ)",
+            "Arbeits-tagesstrukturierende Maßnahme (AttM)"
         ],
         "coords": [
             320,
@@ -996,7 +998,7 @@
             "Berufsvorbereitender Bereich",
             "BVB"
         ],
-        "link": "",
+        "link": "https://www.herzogsaegmuehle.de/hilfeangebote/sozialpsychiatrie-sucht-und-gesundheit/rehabilitation#c5107",
         "desc": {
             "Bereiche": [
                 "<h3>Holzwerkstatt</h3>",
@@ -1013,13 +1015,34 @@
             "header": "work/BZ.webp"
         },
         "same": [
-            "Berufsbildende Maßnahme (BBM)"
+            "Berufsbildende Maßnahme (BBM)",
+            "Arbeits-tagesstrukturierende Maßnahme (AttM)"
         ],
         "coords": [
             279,
             1096,
             453,
             1209
+        ]
+    },
+    {
+        "name": "Arbeits-tagesstrukturierende Maßnahme (AttM)",
+        "alias": [
+            "AttM",
+            "Arbeits-tagesstrukturierende Massnahme",
+            "Arbeitstagesstrukturierende Massnahme",
+            "Arbeitstagesstrukturierende Maßnahme"
+        ],
+        "link": "https://www.herzogsaegmuehle.de/hilfeangebote/sozialpsychiatrie-sucht-und-gesundheit/rehabilitation#c5184",
+        "desc": {},
+        "open": {
+            "Mo - Do": "8.00 - 15.30",
+            "Fr": "8.00 - 12.00"
+        },
+        "pics": {},
+        "same": [
+            "Berufsbildende Maßnahme (BBM)",
+            "Berufliches Zentrum (BZ)"
         ]
     }
 ]
