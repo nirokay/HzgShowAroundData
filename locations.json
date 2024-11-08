@@ -233,7 +233,9 @@
         ],
         "desc": {
             "Spezielles": [
-                "<b>Haus 12:</b> Verwaltung und ein Teil der IT im Dachgeschoss <small><b>ACHTUNG:</b> die Decke ist niedrig und angewinkelt... ich hab mir schon mehrmals den Kopf gestoßen... ;-;</small>"
+                "<b>Haus 12:</b>",
+                "Verwaltung und ein Teil der IT im Dachgeschoss <small><b>ACHTUNG:</b> die Decke ist niedrig und angewinkelt... ich hab mir schon mehrmals den Kopf gestoßen... ;-;</small>",
+                "Tischtennis"
             ]
         },
         "pics": {
@@ -309,7 +311,8 @@
         ],
         "desc": {
             "Spezielles": [
-                "Fitnessraum und Volleyballfeld im Garten geteilt mit <a href='./am_latterbach_haeuser_16_und_18.html'>Haus 16</a>"
+                "Fitnessraum und Volleyballfeld im Garten geteilt mit <a href='./am_latterbach_haeuser_16_und_18.html'>Haus 16</a>",
+                "Gamer Room"
             ]
         },
         "pics": {
@@ -452,7 +455,12 @@
         ],
         "desc": {},
         "open": {},
-        "pics": {},
+        "pics": {
+            "header": "leisure/rainer-endisch-saal/nah.webp",
+            "footer": [
+                "leisure/rainer-endisch-saal/über-wasser.webp"
+            ]
+        },
         "coords": [
             757,
             596,
@@ -551,13 +559,13 @@
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/cafe-und-wirtshaus-herzog",
         "desc": {
             "Speisekarte": [
-                "Du kannst die <a href='https://www.herzogsaegmuehle.de/fileadmin/PDF/webherzogsaegmuehle/Download/Einkaufen_Einkehren/Herzog/2023_01_09_Speisekarte.pdf'>Speisekarte digital aufrufen</a>. Der Link könnte sich ändern, deshalb schau lieber auf der Seite direkt nach.\nDazu klicke einfach auf die oberste Überschrift."
+                "Du kannst die <a href='https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/cafe-und-wirtshaus-herzog#c641'>Speisekarte digital aufrufen</a>."
             ],
             "Kegelbahn": [
                 "Das Herzog hat zwei Kegelbahnen. Es ist ratsam sie vorher zu reservieren, wenn du sie beim Besuch benutzen willst."
             ],
             "Minigolfanlage": [
-                "Die Minigolfanlage im Herzog hat einen eigenen Artikel. Scrolle runter zu den <i>Ähnlichen Orten</i>, um dort hin zu gelangen."
+                "Die Minigolfanlage im Herzog hat einen eigenen Artikel. Scrolle runter zu den <q>Ähnlichen Orten</q>, um dort hin zu gelangen."
             ]
         },
         "open": {
