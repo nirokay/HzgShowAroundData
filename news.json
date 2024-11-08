@@ -485,6 +485,17 @@
         ]
     },
     {
+        "name": "Silvesterabend",
+        "locations": [
+            "Rainer-Endisch-Saal"
+        ],
+        "on": "2024-12-31",
+        "level": "info",
+        "details": [
+            "Von <time datetime='2024-12-31 20:00'>20:00</time> - <time datetime='2025-01-01 01:00'>01:00</time> Uhr mit Essen und alkoholfreien Cocktails."
+        ]
+    },
+    {
         "COMMENT": "- 2025 ---------------------------------------------------"
     }
 ]
