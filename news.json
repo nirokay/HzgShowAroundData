@@ -468,6 +468,15 @@
         ]
     },
     {
+        "name": "Lechbrückenwiedereröffnung",
+        "on": "2024-11-22",
+        "level": "info",
+        "info": "https://www.schongau.de/de/Aktuelles/Neuigkeiten/Neuigkeit?view=publish&item=article&id=1736",
+        "details": [
+            "Ab <time datetime='2024-11-22 10:00'> dem 22.11.2024 um ca. 10:00 Uhr</time> ist die Lechbrücke wiedereröffnet und für PKWs befahrbar."
+        ]
+    },
+    {
         "name": "Weihnachtsmarkt",
         "locations": [
             "Deckerhalle",
