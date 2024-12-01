@@ -494,6 +494,19 @@
         ]
     },
     {
+        "name": "Benefizkonzert Regenbogen und Farbenklang: <q>Wünsche - Sehnsüchte - Zufriedenheit</q>",
+        "locations": [
+            "Rainer-Endisch-Saal"
+        ],
+        "from": "2024-12-07",
+        "till": "2024-12-08",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/benefizkonzert-regenbogen",
+        "details": [
+            "an beiden Tagen jeweils <time datetime='2024-12-07 19:00'>um 19:00 Uhr</time>"
+        ]
+    },
+    {
         "name": "Silvesterabend",
         "locations": [
             "Rainer-Endisch-Saal"
@@ -506,5 +519,40 @@
     },
     {
         "COMMENT": "- 2025 ---------------------------------------------------"
+    },
+    {
+        "name": "Frühlingsflohmarkt",
+        "from": "2025-05-10",
+        "till": "2025-05-11"
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "Serenade zum Dorffest",
+        "on": "2025-07-05",
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "Dorffest",
+        "locations": [
+            "Deckerhalle"
+        ],
+        "on": "2025-07-06",
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "Erntedankfest",
+        "on": "2025-10-06",
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "Herbstflohmarkt",
+        "from": "2025-10-11",
+        "till": "2025-10-12",
+        "level": "info",
+        "details": []
     }
 ]
