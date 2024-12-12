@@ -507,6 +507,18 @@
         ]
     },
     {
+        "name": "Betriebsurlaub",
+        "locations": [
+            "Cafe und Wirtshaus Herzog"
+        ],
+        "from": "2024-12-20",
+        "till": "2025-01-07",
+        "level": "warning",
+        "details": [
+            "Restaurant- und Kantinenbetrieb geschlossen"
+        ]
+    },
+    {
         "name": "Silvesterabend",
         "locations": [
             "Rainer-Endisch-Saal"
