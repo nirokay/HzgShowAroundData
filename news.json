@@ -507,7 +507,7 @@
         ]
     },
     {
-        "name": "Betriebsurlaub",
+        "name": "Betriebsurlaub - Herzog",
         "locations": [
             "Cafe und Wirtshaus Herzog"
         ],
@@ -515,7 +515,32 @@
         "till": "2025-01-07",
         "level": "warning",
         "details": [
-            "Restaurant- und Kantinenbetrieb geschlossen"
+            "Restaurant- und Kantinenbetrieb ist geschlossen."
+        ]
+    },
+    {
+        "name": "Betriebsurlaub - Tiergestützte Therapie",
+        "from": "2024-12-23",
+        "till": "2025-01-06",
+        "level": "warning",
+        "details": [
+            "Therapiestunden finden in diesem Zeitraum nicht statt."
+        ]
+    },
+    {
+        "name": "Busverbindung entfällt",
+        "on": "2024-12-24",
+        "level": "warning",
+        "details": [
+            "Herzogsägmühler Buslinie Peiting-Schongau entfällt"
+        ]
+    },
+    {
+        "name": "Busverbindung entfällt",
+        "on": "2024-12-31",
+        "level": "warning",
+        "details": [
+            "Herzogsägmühler Buslinie Peiting-Schongau entfällt"
         ]
     },
     {
