@@ -5,7 +5,7 @@
     {
         "topic": "Entspannung",
         "desc": "Entspannung und Spannungsbewältigung",
-        "on": "2024-06-12",
+        "on": "2024-01-08",
         "by": "Christina Igelmund"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
         "topic": "ADHS",
-        "on": "2024-09-11",
+        "on": "2025-01-22",
         "by": "Sonja Zimmermann"
     },
     {
@@ -112,12 +112,12 @@
     },
     {
         "topic": "Selbstfürsorge und Resilienz",
-        "on": "2024-10-04",
+        "on": "2025-02-28",
         "by": "Christine Haberler-Carl"
     },
     {
         "topic": "Stress und -bewältigung",
-        "on": "2024-10-09",
+        "on": "2025-02-05",
         "by": "Andreas Schmidt"
     },
     {
@@ -145,5 +145,20 @@
         "topic": "Klettern - macht stärkere Persönlichkeiten",
         "on": "2024-12-18",
         "by": "Stefan Jenuwein"
+    },
+    {
+        "topic": "Umsetzung und Veränderungsmotivation",
+        "on": "2025-01-15",
+        "by": "Christina Igelmund"
+    },
+    {
+        "topic": "Schizophrene Psychosen",
+        "on": "2025-01-29",
+        "by": "Ute Seemann"
+    },
+    {
+        "topic": "Emotional-instabile Persönlichkeitsstörung",
+        "on": "2025-02-19",
+        "by": "Alexandra Glas"
     }
 ]
