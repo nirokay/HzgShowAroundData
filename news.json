@@ -558,6 +558,17 @@
         "COMMENT": "- 2025 ---------------------------------------------------"
     },
     {
+        "name": "Herzogsägmühler Schafkopfturnier",
+        "locations": [
+            "Cafe und Wirtshaus Herzog"
+        ],
+        "on": "2025-01-03",
+        "level": "info",
+        "details": [
+            "Beginn ist um <time datetime='2025-01-03 14:00'>14:00 Uhr</time>.\nAlle Rehabilitanden und Mitarbeiter sind herzlichst eingeladen."
+        ]
+    },
+    {
         "name": "Frühlingsflohmarkt",
         "from": "2025-05-10",
         "till": "2025-05-11",
