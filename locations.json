@@ -561,7 +561,7 @@
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/cafe-und-wirtshaus-herzog",
         "desc": {
             "Speisekarte": [
-                "Du kannst die <a href='https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/cafe-und-wirtshaus-herzog#c641'>Speisekarte digital aufrufen</a>."
+                "Du kannst die <a target='_blank' href='https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/cafe-und-wirtshaus-herzog#c641'>Speisekarte digital aufrufen</a>."
             ],
             "Kegelbahn": [
                 "Das Herzog hat zwei Kegelbahnen. Es ist ratsam sie vorher zu reservieren, wenn du sie beim Besuch benutzen willst."
