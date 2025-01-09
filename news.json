@@ -360,7 +360,8 @@
     {
         "name": "Sommerfest",
         "locations": [
-            "Deckerhalle"
+            "Deckerhalle",
+            "Dorfplatz"
         ],
         "on": "2024-07-15",
         "level": "info",
@@ -443,7 +444,8 @@
     {
         "name": "Herbstflohmarkt",
         "locations": [
-            "Deckerhalle"
+            "Deckerhalle",
+            "Dorfplatz"
         ],
         "from": "2024-10-12",
         "till": "2024-10-13",
@@ -570,6 +572,10 @@
     },
     {
         "name": "Frühlingsflohmarkt",
+        "locations": [
+            "Deckerhalle",
+            "Dorfplatz"
+        ],
         "from": "2025-05-10",
         "till": "2025-05-11",
         "level": "info",
@@ -584,7 +590,8 @@
     {
         "name": "Dorffest",
         "locations": [
-            "Deckerhalle"
+            "Deckerhalle",
+            "Dorfplatz"
         ],
         "on": "2025-07-06",
         "level": "info",
@@ -592,12 +599,20 @@
     },
     {
         "name": "Erntedankfest",
+        "locations": [
+            "Deckerhalle",
+            "Dorfplatz"
+        ],
         "on": "2025-10-06",
         "level": "info",
         "details": []
     },
     {
         "name": "Herbstflohmarkt",
+        "locations": [
+            "Deckerhalle",
+            "Dorfplatz"
+        ],
         "from": "2025-10-11",
         "till": "2025-10-12",
         "level": "info",
