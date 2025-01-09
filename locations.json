@@ -1075,5 +1075,53 @@
             "Berufsbildende Maßnahme (BBM)",
             "Berufliches Zentrum (BZ)"
         ]
+    },
+    {
+        "name": "Von-Kahl Denkmal",
+        "alias": [
+            "Von Kahl Denkmal",
+            "Von-Kahl-Denkmal"
+        ],
+        "desc": {},
+        "pics": {},
+        "same": [],
+        "coords": [
+            1973,
+            2412,
+            2049,
+            2483
+        ]
+    },
+    {
+        "name": "Reithalle Sternenstunde",
+        "alias": [
+            "Reithalle",
+            "Tiergestützte Therapie",
+            "Tiergestützte-Therapie",
+            "Pferdetherapie"
+        ],
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "same": [],
+        "coords": [
+            1891,
+            608,
+            2038,
+            756
+        ]
+    },
+    {
+        "name": "Landwirtschaft",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "same": [],
+        "coords": [
+            2074,
+            707,
+            2351,
+            1089
+        ]
     }
 ]

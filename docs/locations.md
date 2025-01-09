@@ -133,10 +133,10 @@ Die Values sind die Dateinamen im Ordner `resources/images/`.
 
 ### `coords` - (Coordinates) Koordinaten
 
-Zur Einfachheit, wird angenommen, dass die Karte 2000x2000 Pixel groß ist.
+Zur Einfachheit, wird angenommen, dass die Karte 4000x4000 Pixel groß ist.
 
 SVGs (Dateiformat der Karte) haben keine Auflösung, deshalb ist es ratsam für Koordinaten das Bild als PNG zu exportieren und dort die Koordinaten abzuschauen.
 
-`coords` ist ein Array von Integers im Format `x1, y1, x2, y2` für ein Rechteck.
+`coords` ist ein Array von Integers im Format `x1, y1, x2, y2` für ein Rechteck (1 ist die Ecke links-oben, 2 die Ecke rechts-unten).
 
 **Beispiel:** `[10, 10, 30, 30]`, `[100, 150, 300, 500]`
