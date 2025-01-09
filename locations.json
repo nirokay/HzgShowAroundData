@@ -662,7 +662,27 @@
             477,
             1063
         ],
-        "same": []
+        "same": [
+            "Dorfplatz"
+        ]
+    },
+    {
+        "name": "Dorfplatz",
+        "alias": [
+            "Dorfplatzes"
+        ],
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "coords": [
+            481,
+            946,
+            590,
+            1067
+        ],
+        "same": [
+            "Deckerhalle"
+        ]
     },
     {
         "name": "Skater-Park",
