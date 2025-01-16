@@ -763,7 +763,12 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [],
+        "coords": [
+            660,
+            2889,
+            724,
+            2976
+        ],
         "same": [
             "Alfons-Brandl-Schule",
             "Albrecht-Schnitter-Berufsschule"
