@@ -20,20 +20,28 @@
                     "name": {
                         "type": "string"
                     },
-                    "level": {
-                        "type": "string",
-                        "description": "Level of importance (info < warning < alert)"
-                    },
-                    "details": {
+                    "locations": {
                         "type": "array",
-                        "description": "Array of strings joined by '<br />'",
+                        "description": "Locations that are affected (their full name)",
                         "items": {
                             "type": "string"
                         }
                     },
-                    "locations": {
+                    "level": {
+                        "type": "string",
+                        "description": "Level of importance (info < warning < alert)"
+                    },
+                    "info": {
+                        "type": "string",
+                        "description": "Link to external resource"
+                    },
+                    "image": {
+                        "type": "string",
+                        "description": "Link or path to image"
+                    },
+                    "details": {
                         "type": "array",
-                        "description": "Locations that are affected (their full name)",
+                        "description": "Array of strings joined by '<br />'",
                         "items": {
                             "type": "string"
                         }
