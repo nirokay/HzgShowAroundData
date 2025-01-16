@@ -571,6 +571,45 @@
         ]
     },
     {
+        "name": "Kriminalkomödie: <q>8 Frauen</q>",
+        "locations": [
+            "Rainer-Endisch-Saal"
+        ],
+        "from": "2025-01-24",
+        "till": "2025-01-26",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/fileadmin/PDF/Aktuelles/Veranstaltungen/2024/8_Frauen/Plakat_8_Frauen.pdf",
+        "details": [
+            "Eintritt: Erwachsene 18€ | Ermäßigt 15€",
+            "<br /><u>Startzeiten:</u>",
+            "<b>Freitag:</b> <time datetime='2025-01-24 19:00'>19.00 Uhr</time>",
+            "<b>Samstag:</b> <time datetime='2025-01-25 14:00'>14.00 Uhr</time> und <time datetime='2025-01-25 20:00'>20.00 Uhr</time>",
+            "<b>Sonntag:</b> <time datetime='2025-01-26 18:00'>18.00 Uhr</time>"
+        ]
+    },
+    {
+        "name": "Modenschau im Gebrauchtmöbelhaus Weilheim",
+        "on": "2025-01-25",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/modenschau",
+        "details": [
+            "Show startet um <time datetime='2025-01-25 :00'>17.00 Uhr</time>, Einlass ab <time datetime='2025-01-25 16:30'>16.30 Uhr</time>"
+        ]
+    },
+    {
+        "name": "Infoabend: <q>Heilerziehungspflege</q>",
+        "locations": [
+            "Liselotte-von-Lepel-Gnitz-Schule"
+        ],
+        "on": "2025-02-25",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/infoabend-hep-schule",
+        "details": [
+            "Alle Infos zum Beruf/zur Ausbildung in der Heilerziehungspflege und Heilerziehungspflegehilfe!",
+            "Startet um <time datetime='2025-02-25 19:00'>19.00 Uhr</time>"
+        ]
+    },
+    {
         "name": "Frühlingsflohmarkt",
         "locations": [
             "Deckerhalle",
@@ -615,6 +654,17 @@
         ],
         "from": "2025-10-11",
         "till": "2025-10-12",
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "Weihnachtsmarkt",
+        "locations": [
+            "Deckerhalle",
+            "Dorfplatz"
+        ],
+        "from": "2025-11-28",
+        "till": "2025-11-30",
         "level": "info",
         "details": []
     }
