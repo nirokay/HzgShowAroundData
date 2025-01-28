@@ -35,6 +35,10 @@
                     "by": {
                         "type": "string",
                         "description": "Presenter name"
+                    },
+                    "required": {
+                        "type": "boolean",
+                        "description": "Required attendance for homes 14, 16 & 18"
                     }
                 },
                 "required": [

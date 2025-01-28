@@ -6,28 +6,33 @@
         "topic": "Entspannung",
         "desc": "Entspannung und Spannungsbewältigung",
         "on": "2024-01-08",
-        "by": "Christina Igelmund"
+        "by": "Christina Igelmund",
+        "required": true
     },
     {
         "topic": "Schlaf",
         "desc": "gesunder Schlaf",
-        "on": "2024-07-17",
-        "by": "Christina Igelmund"
+        "on": "2025-04-09",
+        "by": "Christina Igelmund",
+        "required": true
     },
     {
         "topic": "Ernährung",
-        "on": "2024-11-13",
-        "by": "Christina Igelmund"
+        "on": "2025-05-28",
+        "by": "Christina Igelmund",
+        "required": true
     },
     {
         "topic": "Bewegung",
-        "on": "2024-12-11",
-        "by": "Christina Igelmund"
+        "on": "2024-03-05",
+        "by": "Christina Igelmund",
+        "required": true
     },
     {
-        "topic": "Sucht",
-        "on": "2024-10-16",
-        "by": "Matthias Dorner"
+        "topic": "Sucht: Umgang mit legalen und illegalen Suchtmitteln",
+        "on": "2025-01-29",
+        "by": "Matthias Dorner",
+        "required": true
     },
     {
         "COMMENT": "- Additional topics --------------------------------------"
@@ -38,39 +43,28 @@
         "by":"Matthias Dorner"
     },
     {
-        "topic": "Medienkompetenz - Teil 1",
-        "desc": "Medienkompetenz",
+        "topic": "Medienkompetenz: Vorsicht Internet! (K.I., Fake News, ...)",
+        "desc": "Medienkompetenz und Internet",
         "on": "2024-05-22",
         "by":"Matthias Dorner"
     },
     {
-        "topic": "Medienkompetenz - Teil 2",
-        "desc": "Medienkompetenz",
-        "on": "2024-07-24",
+        "topic": "Medienkompetenz: Zocken und Streamen",
+        "desc": "Medienkompetenz und Internet",
+        "on": "2024-06-04",
         "by":"Matthias Dorner"
     },
     {
-        "topic": "Medienkompetenz - Teil 3",
-        "desc": "Medienkompetenz",
-        "on": "2024-08-28",
-        "by":"Matthias Dorner"
-    },
-    {
-        "topic": "Medikamente zur Behandlung von Psychosen - Teil 1",
-        "desc": "Medikamente zur Behandlung von Psychosen",
-        "on": "2024-06-05",
-        "by": "Richard Flatz"
-    },
-    {
-        "topic": "Medikamente zur Behandlung von Psychosen - Teil 2",
-        "desc": "Medikamente zur Behandlung von Psychosen",
-        "on": "2024-06-05",
-        "by": "Richard Flatz"
+        "topic": "Medikamente",
+        "desc": "Medikamente in der Psychiatrie",
+        "on": "2024-04-02",
+        "by": "Richard Flatz",
+        "required": true
     },
     {
         "topic": "Depression",
-        "on": "2024-07-10",
-        "by": "Andreas Thoma"
+        "on": "2025-06-11",
+        "by": "Ute Seemann"
     },
     {
         "topic": "Angst",
@@ -91,8 +85,9 @@
     {
         "topic": "Wie kann es nach der Reha weitergehen?",
         "desc": "Zukunftsplanung",
-        "on": "2024-08-21",
-        "by":"Stefan Rienecker"
+        "on": "2025-04-06",
+        "by":"Stefan Rienecker",
+        "required": true
     },
     {
         "topic": "Wie kann ich meine Ziele umsetzen?",
@@ -106,8 +101,8 @@
         "by": "Sonja Zimmermann"
     },
     {
-        "topic": "Körperakzeptanz und Selbstoptimierung",
-        "on": "2024-09-25",
+        "topic": "Selbstoptimierung und Körperakzeptanz",
+        "on": "2025-05-07",
         "by": "Christina Igelmund"
     },
     {
@@ -122,8 +117,9 @@
     },
     {
         "topic": "Sexualität und Verhütung",
-        "on": "2024-11-06",
-        "by": "Christina Igelmund"
+        "on": "2025-06-25",
+        "by": "Christina Igelmund",
+        "required": true
     },
     {
         "topic": "Persönlichkeitsstörungen",
@@ -137,7 +133,7 @@
     },
     {
         "topic": "Gesundheitsbezogene Apps - Mental Health",
-        "desc": "Mental-Health-Apps",
+        "desc": "Mental-Health-Apps für psychische Gesundheit",
         "on": "2024-12-04",
         "by": "Andreas Schmidt"
     },
@@ -153,12 +149,33 @@
     },
     {
         "topic": "Schizophrene Psychosen",
-        "on": "2025-01-29",
+        "on": "2025-03-26",
         "by": "Ute Seemann"
     },
     {
         "topic": "Emotional-instabile Persönlichkeitsstörung",
         "on": "2025-02-19",
         "by": "Alexandra Glas"
+    },
+    {
+        "topic": "Grundlagen psychischer Erkrankung",
+        "on": "2025-03-12",
+        "by": "Sonja Zimmermann",
+        "required": true
+    },
+    {
+        "topic": "Waldboden und Naturtherapie",
+        "on": "2025-03-19",
+        "by": "Christina Igelmund"
+    },
+    {
+        "topic": "Hochbegabung",
+        "on": "2025-05-14",
+        "by": "Sonja Zimmermann"
+    },
+    {
+        "topic": "Rauchen",
+        "on": "2025-06-18",
+        "by": "Matthias Dorner"
     }
 ]
