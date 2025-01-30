@@ -613,6 +613,23 @@
         ]
     },
     {
+        "name": "Maitanz",
+        "locations": [
+            "Schlossberghalle Peiting"
+        ],
+        "on": "2025-05-09",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/maitanz",
+        "image": "https://www.herzogsaegmuehle.de/fileadmin/_processed_/0/1/csm_Teaser_Maitanz_web_90f66ebf8b.jpg",
+        "details": [
+            "Eintritt: 7€",
+            "Es spielt die Band <q><a href='https://www.funk-off.de/'>FUNK Off</a></q> und die <q><a href='https://www.vfl-denklingen.de/index.php/14-tanzen'>Tanzgruppe VfL Denklingen</a></q> gibt einen Auftritt.",
+            "<br /><u>Zeiten:</u>",
+            "Einlass: ",
+            "Beginn: "
+        ]
+    },
+    {
         "name": "Frühlingsflohmarkt",
         "locations": [
             "Deckerhalle",
