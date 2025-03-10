@@ -706,6 +706,15 @@
         "details": []
     },
     {
+        "name": "Bundesweiter Warntag",
+        "on": "2025-09-11",
+        "level": "warning",
+        "info": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Bundesweiter-Warntag/bundesweiter-warntag_node.html",
+        "details": [
+            "Um <time datetime='2025-09-11 11:00'>11.00 Uhr</time> nicht erschrecken, wenn alle Handys klingeln - es ist bundesweiter WWarntag."
+        ]
+    },
+    {
         "name": "Erntedankfest",
         "locations": [
             "Deckerhalle",
