@@ -638,6 +638,15 @@
         ]
     },
     {
+        "name": "Bayernweiter Warntag",
+        "on": "2025-03-13",
+        "level": "warning",
+        "info": "https://www.innenministerium.bayern.de/sus/katastrophenschutz/warnungundinformation/sirenenundlautsprecher/",
+        "details": [
+            "Um <time datetime='2025-03-13 11:00'>11.00 Uhr</time> nicht erschrecken, wenn alle Handys klingeln - es ist landesweiter Warntag."
+        ]
+    },
+    {
         "name": "Alternative F**kten - Kabarettabend zur Frage: <q>Was ist Wahrheit?</q>",
         "locations": [
             "Rainer-Endisch-Saal"
@@ -711,7 +720,7 @@
         "level": "warning",
         "info": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Bundesweiter-Warntag/bundesweiter-warntag_node.html",
         "details": [
-            "Um <time datetime='2025-09-11 11:00'>11.00 Uhr</time> nicht erschrecken, wenn alle Handys klingeln - es ist bundesweiter WWarntag."
+            "Um <time datetime='2025-09-11 11:00'>11.00 Uhr</time> nicht erschrecken, wenn alle Handys klingeln - es ist bundesweiter Warntag."
         ]
     },
     {
