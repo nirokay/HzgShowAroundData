@@ -1,10 +1,7 @@
 [
     {
         "name": "MühlenMarkt",
-        "alias": [
-            "Mühlen-Markt",
-            "Mühlenmarkt"
-        ],
+        "alias": ["Mühlen-Markt", "Mühlenmarkt"],
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/muehlenmarkt",
         "desc": {
             "Was gibt es?": [
@@ -31,15 +28,8 @@
                 "shopping/mühlenmarkt/obst.webp"
             ]
         },
-        "same": [
-            "Werkstatt-Laden im MühlenMarkt"
-        ],
-        "coords": [
-            679,
-            3472,
-            755,
-            3545
-        ]
+        "same": ["Werkstatt-Laden im MühlenMarkt"],
+        "coords": [679, 3472, 755, 3545]
     },
     {
         "name": "Werkstatt-Laden im MühlenMarkt",
@@ -62,27 +52,14 @@
         },
         "pics": {
             "header": "shopping/mühlenmarkt/werkstattladen/logo.webp",
-            "footer": [
-                "shopping/mühlenmarkt/werkstattladen/waren.webp"
-            ]
+            "footer": ["shopping/mühlenmarkt/werkstattladen/waren.webp"]
         },
-        "same": [
-            "MühlenMarkt"
-        ],
-        "coords": [
-            640,
-            3472,
-            677,
-            3545
-        ]
+        "same": ["MühlenMarkt"],
+        "coords": [640, 3472, 677, 3545]
     },
     {
         "name": "Post und Treuhand-Kasse",
-        "alias": [
-            "Treuhand-Kasse",
-            "Postgebäude",
-            "Post-Gebäude"
-        ],
+        "alias": ["Treuhand-Kasse", "Postgebäude", "Post-Gebäude"],
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren",
         "desc": {
             "Post": [
@@ -101,20 +78,12 @@
         "pics": {
             "header": "post.webp"
         },
-        "coords": [
-            660,
-            3618,
-            718,
-            3651
-        ],
+        "coords": [660, 3618, 718, 3651],
         "same": []
     },
     {
         "name": "gesundheits.punkt",
-        "alias": [
-            "Gesundheitspunkt",
-            "GesundheitsPunkt"
-        ],
+        "alias": ["Gesundheitspunkt", "GesundheitsPunkt"],
         "desc": {
             "Hausarzt": [
                 "Hier befindet sich der Hausarzt für körperliche Beschwerden oder Ähnliches.",
@@ -125,12 +94,7 @@
         "pics": {
             "header": "health/gesundheitspunkt.webp"
         },
-        "coords": [
-            819,
-            3575,
-            876,
-            3619
-        ],
+        "coords": [819, 3575, 876, 3619],
         "same": []
     },
     {
@@ -138,12 +102,7 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [
-            878,
-            3574,
-            967,
-            3619
-        ],
+        "coords": [878, 3574, 967, 3619],
         "same": []
     },
     {
@@ -156,23 +115,14 @@
         "open": {},
         "pics": {
             "header": "work/werkstätten/werkstätten.webp",
-            "footer": [
-                "work/werkstätten/werkstätten-vorgarten.webp"
-            ]
+            "footer": ["work/werkstätten/werkstätten-vorgarten.webp"]
         },
-        "coords": [
-            819,
-            3621,
-            967,
-            3849
-        ],
+        "coords": [819, 3621, 967, 3849],
         "same": []
     },
     {
         "name": "Telezentrum - Digitale Medien",
-        "alias": [
-            "Telezentrum"
-        ],
+        "alias": ["Telezentrum"],
         "desc": {
             "Sonstiges": [
                 "<b>Spezielles:</b>\nHier befindet sich ein Getränkeautomat."
@@ -182,12 +132,7 @@
         "pics": {
             "header": "work/telezentrum.webp"
         },
-        "coords": [
-            1131,
-            3750,
-            1256,
-            3864
-        ],
+        "coords": [1131, 3750, 1256, 3864],
         "same": []
     },
     {
@@ -201,19 +146,12 @@
             "Haus 11 Am Latterbach"
         ],
         "desc": {
-            "Spezielles": [
-                "<b>Haus 11:</b> Billiardtisch"
-            ]
+            "Spezielles": ["<b>Haus 11:</b> Billiardtisch"]
         },
         "pics": {
             "footer": []
         },
-        "coords": [
-            1704,
-            3641,
-            1805,
-            3745
-        ],
+        "coords": [1704, 3641, 1805, 3745],
         "same": [
             "Häuser Am Latterbach",
             "Am Latterbach Häuser 10 und 12",
@@ -242,12 +180,7 @@
         "pics": {
             "footer": []
         },
-        "coords": [
-            1591,
-            3650,
-            1693,
-            3743
-        ],
+        "coords": [1591, 3650, 1693, 3743],
         "same": [
             "Häuser Am Latterbach",
             "Am Latterbach Häuser 9 und 11",
@@ -289,12 +222,7 @@
         "pics": {
             "footer": []
         },
-        "coords": [
-            1723,
-            3487,
-            1807,
-            3620
-        ],
+        "coords": [1723, 3487, 1807, 3620],
         "same": [
             "Häuser Am Latterbach",
             "Am Latterbach Häuser 9 und 11",
@@ -319,12 +247,7 @@
         "pics": {
             "header": "latterbach/14.webp"
         },
-        "coords": [
-            1668,
-            3576,
-            1721,
-            3634
-        ],
+        "coords": [1668, 3576, 1721, 3634],
         "same": [
             "Häuser Am Latterbach",
             "Am Latterbach Häuser 9 und 11",
@@ -350,17 +273,9 @@
             ]
         },
         "pics": {
-            "footer": [
-                "latterbach/16.webp",
-                "latterbach/18.webp"
-            ]
+            "footer": ["latterbach/16.webp", "latterbach/18.webp"]
         },
-        "coords": [
-            1635,
-            3409,
-            1717,
-            3539
-        ],
+        "coords": [1635, 3409, 1717, 3539],
         "same": [
             "Häuser Am Latterbach",
             "Am Latterbach Häuser 9 und 11",
@@ -371,9 +286,7 @@
     },
     {
         "name": "Häuser Am Latterbach",
-        "alias": [
-            "Häusern Am Latterbach"
-        ],
+        "alias": ["Häusern Am Latterbach"],
         "desc": {},
         "same": [
             "Jugendreha",
@@ -392,15 +305,8 @@
             ]
         },
         "pics": {},
-        "coords": [
-            1547,
-            3297,
-            1667,
-            3398
-        ],
-        "same": [
-            "Häuser Am Latterbach"
-        ]
+        "coords": [1547, 3297, 1667, 3398],
+        "same": ["Häuser Am Latterbach"]
     },
     {
         "name": "Schöneckerhaus",
@@ -412,12 +318,7 @@
         ],
         "desc": {},
         "pics": {},
-        "coords" : [
-            1715,
-            3310,
-            1799,
-            3477
-        ],
+        "coords": [1715, 3310, 1799, 3477],
         "same": []
     },
     {
@@ -435,16 +336,9 @@
         },
         "pics": {
             "header": "work/gärtnerei/haus-aussen.webp",
-            "footer": [
-                "work/gärtnerei/beet.webp"
-            ]
+            "footer": ["work/gärtnerei/beet.webp"]
         },
-        "coords": [
-            625,
-            3103,
-            959,
-            3357
-        ],
+        "coords": [625, 3103, 959, 3357],
         "same": []
     },
     {
@@ -458,16 +352,9 @@
         "open": {},
         "pics": {
             "header": "leisure/rainer-endisch-saal/nah.webp",
-            "footer": [
-                "leisure/rainer-endisch-saal/über-wasser.webp"
-            ]
+            "footer": ["leisure/rainer-endisch-saal/über-wasser.webp"]
         },
-        "coords": [
-            757,
-            2596,
-            841,
-            2700
-        ],
+        "coords": [757, 2596, 841, 2700],
         "same": []
     },
     {
@@ -483,12 +370,7 @@
                 "leisure/sinnespfad/labyrinth.webp"
             ]
         },
-        "coords": [
-            890,
-            2730,
-            977,
-            3068
-        ],
+        "coords": [890, 2730, 977, 3068],
         "same": []
     },
     {
@@ -499,12 +381,7 @@
         "pics": {
             "header": "church/martinskirche.webp"
         },
-        "coords": [
-            635,
-            3001,
-            719,
-            3046
-        ],
+        "coords": [635, 3001, 719, 3046],
         "same": []
     },
     {
@@ -514,12 +391,7 @@
         "pics": {
             "header": "leisure/sport/volleyball.webp"
         },
-        "coords": [
-            683,
-            2710,
-            720,
-            2764
-        ],
+        "coords": [683, 2710, 720, 2764],
         "same": [
             "Vereinsheim SV Herzogsägmühle",
             "Tennisplatz",
@@ -542,23 +414,13 @@
         },
         "pics": {
             "header": "shopping/wühlkiste/eingang-sicht.webp",
-            "footer": [
-                "shopping/wühlkiste/eingang.webp"
-            ]
+            "footer": ["shopping/wühlkiste/eingang.webp"]
         },
-        "coords": [
-            257,
-            3018,
-            341,
-            3055
-        ]
+        "coords": [257, 3018, 341, 3055]
     },
     {
         "name": "Cafe und Wirtshaus Herzog",
-        "alias": [
-            "Cafe Herzog",
-            "Café Herzog"
-        ],
+        "alias": ["Cafe Herzog", "Café Herzog"],
         "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/cafe-und-wirtshaus-herzog",
         "desc": {
             "Speisekarte": [
@@ -574,21 +436,13 @@
         "open": {
             "Mo - Do": "10.00 - 16.00",
             "1. Fr im Monat": "18.00 - 21.00",
-            "So": "09.00 - 17.00"
+            "So und Feiertage": "09.00 - 17.00"
         },
         "pics": {
             "header": "shopping/cafe/eingang.webp"
         },
-        "coords": [
-            545,
-            2825,
-            581,
-            2915
-        ],
-        "same": [
-            "Abenteuerspielplatz",
-            "Minigolfanlage"
-        ]
+        "coords": [545, 2825, 581, 2915],
+        "same": ["Abenteuerspielplatz", "Minigolfanlage"]
     },
     {
         "name": "Minigolfanlage",
@@ -605,16 +459,8 @@
                 "shopping/cafe/minigolf/landschaft.webp"
             ]
         },
-        "coords": [
-            395,
-            2830,
-            507,
-            2931
-        ],
-        "same": [
-            "Abenteuerspielplatz",
-            "Cafe und Wirtshaus Herzog"
-        ]
+        "coords": [395, 2830, 507, 2931],
+        "same": ["Abenteuerspielplatz", "Cafe und Wirtshaus Herzog"]
     },
     {
         "name": "Abenteuerspielplatz",
@@ -622,27 +468,15 @@
         "open": {},
         "pics": {
             "header": "shopping/cafe/abenteuerspielplatz/schaukel.webp",
-            "footer": [
-                "shopping/cafe/abenteuerspielplatz/klettern.webp"
-            ]
+            "footer": ["shopping/cafe/abenteuerspielplatz/klettern.webp"]
         },
-        "coords": [
-            509,
-            2860,
-            543,
-            2915
-        ],
-        "same": [
-            "Minigolfanlage",
-            "Cafe und Wirtshaus Herzog"
-        ]
+        "coords": [509, 2860, 543, 2915],
+        "same": ["Minigolfanlage", "Cafe und Wirtshaus Herzog"]
     },
     {
         "name": "Deckerhalle",
         "desc": {
-            "Veranstaltungen": [
-                "Hier finden öfters Veranstaltungen statt."
-            ],
+            "Veranstaltungen": ["Hier finden öfters Veranstaltungen statt."],
             "Kunstausstellung": [
                 "Regelmäßig finden hier Kunstausstellungen mit Projekten von Rehabilitanden statt."
             ],
@@ -657,71 +491,39 @@
         "pics": {
             "header": "leisure/deckerhalle/deckerhalle.webp"
         },
-        "coords": [
-            427,
-            2957,
-            477,
-            3063
-        ],
-        "same": [
-            "Dorfplatz"
-        ]
+        "coords": [427, 2957, 477, 3063],
+        "same": ["Dorfplatz"]
     },
     {
         "name": "Dorfplatz",
-        "alias": [
-            "Dorfplatzes"
-        ],
+        "alias": ["Dorfplatzes"],
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [
-            481,
-            2946,
-            590,
-            3067
-        ],
-        "same": [
-            "Deckerhalle"
-        ]
+        "coords": [481, 2946, 590, 3067],
+        "same": ["Deckerhalle"]
     },
     {
         "name": "Skater-Park",
-        "alias": [
-            "Skater Park",
-            "Skater Anlage",
-            "Skating Anlage"
-        ],
+        "alias": ["Skater Park", "Skater Anlage", "Skating Anlage"],
         "desc": {},
         "open": {},
         "pics": {
             "header": "leisure/sport/skating.webp"
         },
-        "coords": [
-            337,
-            2549,
-            398,
-            2619
-        ],
+        "coords": [337, 2549, 398, 2619],
         "same": []
     },
     {
         "name": "Alfons-Brandl-Schule",
-        "alias": [
-            "Alfons-Brandl Schule"
-        ],
+        "alias": ["Alfons-Brandl Schule"],
         "link": "https://www.herzogsaegmuehle.de/ort-der-hilfe/schulbildung/kurzinfo-alfons-brandl-schule-foerderzentrum",
         "desc": {},
         "open": {},
         "pics": {
             "header": "schools/Alfons-Brandl-Schule.webp"
         },
-        "coords": [
-            190,
-            2380,
-            327,
-            2626
-        ],
+        "coords": [190, 2380, 327, 2626],
         "same": [
             "Albrecht-Schnitter-Berufsschule",
             "Liselotte-von-Lepel-Gnitz-Schule"
@@ -729,25 +531,15 @@
     },
     {
         "name": "Albrecht-Schnitter-Berufsschule",
-        "alias": [
-            "Albrecht-Schnitter Berufsschule"
-        ],
+        "alias": ["Albrecht-Schnitter Berufsschule"],
         "link": "https://www.berufsschule-herzogsaegmuehle.de/",
         "desc": {},
         "open": {},
         "pics": {
             "header": "Albrecht-Schnitter-Berufsschule.webp"
         },
-        "coords": [
-            280,
-            2628,
-            582,
-            2790
-        ],
-        "same": [
-            "Alfons-Brandl-Schule",
-            "Liselotte-von-Lepel-Gnitz-Schule"
-        ]
+        "coords": [280, 2628, 582, 2790],
+        "same": ["Alfons-Brandl-Schule", "Liselotte-von-Lepel-Gnitz-Schule"]
     },
     {
         "name": "Liselotte-von-Lepel-Gnitz-Schule",
@@ -764,16 +556,8 @@
         "desc": {},
         "open": {},
         "pics": {},
-        "coords": [
-            660,
-            2889,
-            724,
-            2976
-        ],
-        "same": [
-            "Alfons-Brandl-Schule",
-            "Albrecht-Schnitter-Berufsschule"
-        ]
+        "coords": [660, 2889, 724, 2976],
+        "same": ["Alfons-Brandl-Schule", "Albrecht-Schnitter-Berufsschule"]
     },
     {
         "name": "Vereinsheim SV Herzogsägmühle",
@@ -782,12 +566,7 @@
         "pics": {
             "header": "leisure/sport/verein/vereinsheim.webp"
         },
-        "coords": [
-            399,
-            2086,
-            438,
-            2138
-        ],
+        "coords": [399, 2086, 438, 2138],
         "same": [
             "Sporthalle",
             "Tennisplatz",
@@ -800,20 +579,13 @@
     {
         "name": "Sporthalle",
         "desc": {
-            "": [
-                "Bisschen Sport schadet dir nicht!"
-            ]
+            "": ["Bisschen Sport schadet dir nicht!"]
         },
         "open": {},
         "pics": {
             "header": "leisure/sport/verein/sporthalle.webp"
         },
-        "coords": [
-            481,
-            2413,
-            577,
-            2516
-        ],
+        "coords": [481, 2413, 577, 2516],
         "same": [
             "Vereinsheim SV Herzogsägmühle",
             "Tennisplatz",
@@ -826,20 +598,13 @@
     {
         "name": "Tennisplatz",
         "desc": {
-            "": [
-                "Hier kannst du Tennis spielen."
-            ]
+            "": ["Hier kannst du Tennis spielen."]
         },
         "open": {},
         "pics": {
             "header": "leisure/sport/verein/tennis.webp"
         },
-        "coords": [
-            447,
-            2063,
-            538,
-            2158
-        ],
+        "coords": [447, 2063, 538, 2158],
         "same": [
             "Sporthalle",
             "Vereinsheim SV Herzogsägmühle",
@@ -856,12 +621,7 @@
         "pics": {
             "header": "leisure/sport/verein/fussball.webp"
         },
-        "coords": [
-            396,
-            2166,
-            550,
-            2396
-        ],
+        "coords": [396, 2166, 550, 2396],
         "same": [
             "Sporthalle",
             "Vereinsheim SV Herzogsägmühle",
@@ -873,21 +633,13 @@
     },
     {
         "name": "Handball- und Basketballfeld",
-        "alias": [
-            "Handballfeld",
-            "Basketballfeld"
-        ],
+        "alias": ["Handballfeld", "Basketballfeld"],
         "desc": {},
         "open": {},
         "pics": {
             "header": "leisure/sport/verein/handball.webp"
         },
-        "coords": [
-            350,
-            2412,
-            465,
-            2484
-        ],
+        "coords": [350, 2412, 465, 2484],
         "same": [
             "Sporthalle",
             "Vereinsheim SV Herzogsägmühle",
@@ -904,12 +656,7 @@
         "pics": {
             "header": "leisure/sport/verein/sprintstrecke.webp"
         },
-        "coords": [
-            543,
-            2072,
-            567,
-            2385
-        ],
+        "coords": [543, 2072, 567, 2385],
         "same": [
             "Sporthalle",
             "Vereinsheim SV Herzogsägmühle",
@@ -921,21 +668,14 @@
     },
     {
         "name": "KFZ-Werkstatt",
-        "alias": [
-            "Autowerkstatt"
-        ],
+        "alias": ["Autowerkstatt"],
         "desc": {},
         "open": {},
         "pics": {
             "header": "work/werkstätten/kfz.webp"
         },
         "same": [],
-        "coords": [
-            293,
-            3215,
-            405,
-            3310
-        ]
+        "coords": [293, 3215, 405, 3310]
     },
     {
         "name": "Elektrowerkstatt",
@@ -945,12 +685,7 @@
             "header": "work/werkstätten/elektrowerkstatt.webp"
         },
         "same": [],
-        "coords": [
-            407,
-            3295,
-            440,
-            3335
-        ]
+        "coords": [407, 3295, 440, 3335]
     },
     {
         "name": "Licht- und Wachsmanifaktur",
@@ -958,12 +693,7 @@
         "open": {},
         "pics": {},
         "same": [],
-        "coords": [
-            407,
-            3265,
-            429,
-            3294
-        ]
+        "coords": [407, 3265, 429, 3294]
     },
     {
         "name": "Sanitär- und Heizungstechnik",
@@ -973,12 +703,7 @@
             "header": "work/werkstätten/heizung.webp"
         },
         "same": [],
-        "coords": [
-            407,
-            3210,
-            438,
-            3263
-        ]
+        "coords": [407, 3210, 438, 3263]
     },
     {
         "name": "Schlosserei",
@@ -988,12 +713,7 @@
             "header": "work/werkstätten/schlosserei.webp"
         },
         "same": [],
-        "coords": [
-            313,
-            3379,
-            367,
-            3399
-        ]
+        "coords": [313, 3379, 367, 3399]
     },
     {
         "name": "Malerei",
@@ -1001,24 +721,14 @@
         "open": {},
         "pics": {
             "header": "work/malerei/seite.webp",
-            "footer": [
-                "work/malerei/eingang.webp"
-            ]
+            "footer": ["work/malerei/eingang.webp"]
         },
         "same": [],
-        "coords": [
-            380,
-            3378,
-            411,
-            3459
-        ]
+        "coords": [380, 3378, 411, 3459]
     },
     {
         "name": "Berufsbildende Maßnahme (BBM)",
-        "alias": [
-            "Berufsbildende Maßnahme",
-            "BBM"
-        ],
+        "alias": ["Berufsbildende Maßnahme", "BBM"],
         "link": "https://www.herzogsaegmuehle.de/arbeit-und-qualifizierung/berufliche-orientierung",
         "desc": {
             "Werkstätten": [
@@ -1047,12 +757,7 @@
             "Berufliches Zentrum (BZ)",
             "Arbeits-tagesstrukturierende Maßnahme (AttM)"
         ],
-        "coords": [
-            320,
-            3346,
-            411,
-            3376
-        ]
+        "coords": [320, 3346, 411, 3376]
     },
     {
         "name": "Berufliches Zentrum (BZ)",
@@ -1082,12 +787,7 @@
             "Berufsbildende Maßnahme (BBM)",
             "Arbeits-tagesstrukturierende Maßnahme (AttM)"
         ],
-        "coords": [
-            279,
-            3096,
-            453,
-            3209
-        ]
+        "coords": [279, 3096, 453, 3209]
     },
     {
         "name": "Arbeits-tagesstrukturierende Maßnahme (AttM)",
@@ -1104,26 +804,15 @@
             "Fr": "8.00 - 12.00"
         },
         "pics": {},
-        "same": [
-            "Berufsbildende Maßnahme (BBM)",
-            "Berufliches Zentrum (BZ)"
-        ]
+        "same": ["Berufsbildende Maßnahme (BBM)", "Berufliches Zentrum (BZ)"]
     },
     {
         "name": "Von-Kahl Denkmal",
-        "alias": [
-            "Von Kahl Denkmal",
-            "Von-Kahl-Denkmal"
-        ],
+        "alias": ["Von Kahl Denkmal", "Von-Kahl-Denkmal"],
         "desc": {},
         "pics": {},
         "same": [],
-        "coords": [
-            1973,
-            2412,
-            2049,
-            2483
-        ]
+        "coords": [1973, 2412, 2049, 2483]
     },
     {
         "name": "Sternenstunden-Reithalle",
@@ -1140,12 +829,7 @@
         "open": {},
         "pics": {},
         "same": [],
-        "coords": [
-            1891,
-            608,
-            2038,
-            756
-        ]
+        "coords": [1891, 608, 2038, 756]
     },
     {
         "name": "Landwirtschaft",
@@ -1153,11 +837,6 @@
         "open": {},
         "pics": {},
         "same": [],
-        "coords": [
-            2074,
-            707,
-            2351,
-            1089
-        ]
+        "coords": [2074, 707, 2351, 1089]
     }
 ]

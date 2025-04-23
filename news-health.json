@@ -40,19 +40,19 @@
     {
         "topic": "THC",
         "on": "2024-05-15",
-        "by":"Matthias Dorner"
+        "by": "Matthias Dorner"
     },
     {
         "topic": "Medienkompetenz: Vorsicht Internet! (K.I., Fake News, ...)",
         "desc": "Medienkompetenz und Internet",
-        "on": "2024-05-22",
-        "by":"Matthias Dorner"
+        "on": "2024-04-23",
+        "by": "Matthias Dorner"
     },
     {
         "topic": "Medienkompetenz: Zocken und Streamen",
         "desc": "Medienkompetenz und Internet",
         "on": "2024-06-04",
-        "by":"Matthias Dorner"
+        "by": "Matthias Dorner"
     },
     {
         "topic": "Medikamente",
@@ -69,7 +69,7 @@
     {
         "topic": "Angst",
         "on": "2024-07-31",
-        "by":"Andreas Thoma"
+        "by": "Andreas Thoma"
     },
     {
         "topic": "Achtsamkeit und Meditation",
@@ -86,7 +86,7 @@
         "topic": "Wie kann es nach der Reha weitergehen?",
         "desc": "Zukunftsplanung",
         "on": "2025-04-06",
-        "by":"Stefan Rienecker",
+        "by": "Stefan Rienecker",
         "required": true
     },
     {
