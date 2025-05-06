@@ -1,57 +1,39 @@
 [
     {
-        "COMMENT":"- Mühlenmarkt ---------------------------------------------"
+        "COMMENT": "- Mühlenmarkt ---------------------------------------------"
     },
     {
         "name": "MühlenMarkt geschlossen",
-        "locations": [
-            "MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"
-        ],
+        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
         "on": "2023-12-30",
         "level": "warning",
-        "details": [
-            "MühlenMarkt hat heute Inventur."
-        ]
+        "details": ["MühlenMarkt hat heute Inventur."]
     },
     {
         "name": "MühlenMarkt geschlossen",
-        "locations": [
-            "MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"
-        ],
+        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
         "on": "2024-01-05",
         "level": "warning",
-        "details": [
-            "MühlenMarkt ist geschlossen."
-        ]
+        "details": ["MühlenMarkt ist geschlossen."]
     },
     {
         "name": "MühlenMarkt geschlossen",
-        "locations": [
-            "MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"
-        ],
+        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
         "on": "2024-01-13",
         "level": "warning",
-        "details": [
-            "MühlenMarkt ist heute geschlossen."
-        ]
+        "details": ["MühlenMarkt ist heute geschlossen."]
     },
     {
         "name": "Metzgerei im MühlenMarkt geschlossen",
-        "locations": [
-            "MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"
-        ],
+        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
         "from": "2023-12-23",
         "till": "2024-01-07",
         "level": "warning",
-        "details": [
-            "Betriebsurlaub"
-        ]
+        "details": ["Betriebsurlaub"]
     },
     {
         "name": "MühlenMarkt August - Öffnungszeiten",
-        "locations": [
-            "MühlenMarkt"
-        ],
+        "locations": ["MühlenMarkt"],
         "from": "2024-08-05",
         "till": "2024-08-31",
         "level": "warning",
@@ -65,12 +47,17 @@
     },
     {
         "name": "Werkstatt-Laden im MühlenMarkt geschlossen",
-        "locations": [
-            "Werkstatt-Laden im MühlenMarkt"
-        ],
+        "locations": ["Werkstatt-Laden im MühlenMarkt"],
         "from": "2024-08-12",
         "till": "2024-08-16",
         "level": "warning"
+    },
+    {
+        "name": "MühlenMarkt geschlossen",
+        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
+        "on": "2025-05-10",
+        "level": "warning",
+        "details": ["Betriebsausflug"]
     },
     {
         "COMMENT": "- Wiederkehrende Termine ---------------------------------"
@@ -83,9 +70,7 @@
     },
     {
         "name": "Weihnachtsmarkt",
-        "locations": [
-            "Deckerhalle"
-        ],
+        "locations": ["Deckerhalle"],
         "from": "2023-12-01",
         "till": "2023-12-03",
         "level": "info",
@@ -95,9 +80,7 @@
     },
     {
         "name": "Bescherung und Weihnachtsessen",
-        "locations": [
-            "Deckerhalle"
-        ],
+        "locations": ["Deckerhalle"],
         "on": "2023-12-11",
         "level": "info",
         "details": [
@@ -122,15 +105,11 @@
     },
     {
         "name": "Musikantreffen - Einladung zum Hoagart",
-        "locations": [
-            "Cafe und Wirtshaus Herzog"
-        ],
+        "locations": ["Cafe und Wirtshaus Herzog"],
         "on": "2024-01-12",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/musikantentreffen",
-        "details": [
-            "von 18 bis 21 Uhr im Café Herzog"
-        ]
+        "details": ["von 18 bis 21 Uhr im Café Herzog"]
     },
     {
         "name": "Tag der offenen Tür",
@@ -144,9 +123,7 @@
     },
     {
         "name": "Theateraufführung: Es ist ein Hut entsprungen",
-        "locations": [
-            "Häuser Am Latterbach"
-        ],
+        "locations": ["Häuser Am Latterbach"],
         "on": "2024-01-18",
         "level": "info",
         "details": [
@@ -165,9 +142,7 @@
     },
     {
         "name": "Kunstausstellung",
-        "locations": [
-            "Deckerhalle"
-        ],
+        "locations": ["Deckerhalle"],
         "from": "2024-03-11",
         "till": "2024-03-24",
         "level": "info",
@@ -194,9 +169,7 @@
     },
     {
         "name": "Konzert - Meer und Wasser",
-        "locations": [
-            "Häuser Am Latterbach"
-        ],
+        "locations": ["Häuser Am Latterbach"],
         "on": "2024-04-25",
         "level": "info",
         "details": [
@@ -215,15 +188,11 @@
         "from": "2024-05-18",
         "till": "2024-05-19",
         "level": "info",
-        "details": [
-            "an beiden Tagen von 7:00 bis 14:00 Uhr"
-        ]
+        "details": ["an beiden Tagen von 7:00 bis 14:00 Uhr"]
     },
     {
         "name": "EUropABEND",
-        "locations": [
-            "Rainer-Endisch-Saal"
-        ],
+        "locations": ["Rainer-Endisch-Saal"],
         "on": "2024-05-29",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/europawahl",
@@ -234,9 +203,7 @@
     },
     {
         "name": "Hoagart",
-        "locations": [
-            "Cafe und Wirtshaus Herzog"
-        ],
+        "locations": ["Cafe und Wirtshaus Herzog"],
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/hoagart",
         "on": "2024-05-31",
         "level": "info",
@@ -275,9 +242,7 @@
     },
     {
         "name": "Gartenfest mit Grillen und Musik",
-        "locations": [
-            "Häuser Am Latterbach"
-        ],
+        "locations": ["Häuser Am Latterbach"],
         "on": "2024-07-04",
         "level": "info",
         "details": [
@@ -347,9 +312,7 @@
     },
     {
         "name": "Queerer Treff in Haus 14",
-        "locations": [
-            "Häuser Am Latterbach"
-        ],
+        "locations": ["Häuser Am Latterbach"],
         "on": "2024-07-14",
         "level": "info",
         "details": [
@@ -359,10 +322,7 @@
     },
     {
         "name": "Sommerfest",
-        "locations": [
-            "Deckerhalle",
-            "Dorfplatz"
-        ],
+        "locations": ["Deckerhalle", "Dorfplatz"],
         "on": "2024-07-15",
         "level": "info",
         "details": [
@@ -371,9 +331,7 @@
     },
     {
         "name": "Generalprobe im Rainer-Endisch-Saal",
-        "locations": [
-            "Rainer-Endisch-Saal"
-        ],
+        "locations": ["Rainer-Endisch-Saal"],
         "on": "2024-07-28",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/generalprobe-240728",
@@ -384,9 +342,7 @@
     },
     {
         "name": "Kunstausstellung",
-        "locations": [
-            "Deckerhalle"
-        ],
+        "locations": ["Deckerhalle"],
         "from": "2024-09-16",
         "till": "2024-09-29",
         "level": "info",
@@ -399,9 +355,7 @@
     },
     {
         "name": "Klavierkonzert",
-        "locations": [
-            "Rainer-Endisch-Saal"
-        ],
+        "locations": ["Rainer-Endisch-Saal"],
         "on": "2024-09-25",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/dimitrieva",
@@ -428,10 +382,7 @@
     },
     {
         "name": "Erntedankfest",
-        "locations": [
-            "Landwirtschaft in Oblandstraße 20e",
-            "Martinskirche"
-        ],
+        "locations": ["Landwirtschaft in Oblandstraße 20e", "Martinskirche"],
         "on": "2024-10-07",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/erntedankfest",
@@ -443,10 +394,7 @@
     },
     {
         "name": "Herbstflohmarkt",
-        "locations": [
-            "Deckerhalle",
-            "Dorfplatz"
-        ],
+        "locations": ["Deckerhalle", "Dorfplatz"],
         "from": "2024-10-12",
         "till": "2024-10-13",
         "level": "info",
@@ -480,11 +428,7 @@
     },
     {
         "name": "Weihnachtsmarkt",
-        "locations": [
-            "Deckerhalle",
-            "Dorfplatz",
-            "Martinskirche"
-        ],
+        "locations": ["Deckerhalle", "Dorfplatz", "Martinskirche"],
         "from": "2024-11-29",
         "till": "2024-12-01",
         "level": "info",
@@ -497,9 +441,7 @@
     },
     {
         "name": "Benefizkonzert Regenbogen und Farbenklang: <q>Wünsche - Sehnsüchte - Zufriedenheit</q>",
-        "locations": [
-            "Rainer-Endisch-Saal"
-        ],
+        "locations": ["Rainer-Endisch-Saal"],
         "from": "2024-12-07",
         "till": "2024-12-08",
         "level": "info",
@@ -510,46 +452,34 @@
     },
     {
         "name": "Betriebsurlaub - Herzog",
-        "locations": [
-            "Cafe und Wirtshaus Herzog"
-        ],
+        "locations": ["Cafe und Wirtshaus Herzog"],
         "from": "2024-12-20",
         "till": "2025-01-07",
         "level": "warning",
-        "details": [
-            "Restaurant- und Kantinenbetrieb ist geschlossen."
-        ]
+        "details": ["Restaurant- und Kantinenbetrieb ist geschlossen."]
     },
     {
         "name": "Betriebsurlaub - Tiergestützte Therapie",
         "from": "2024-12-23",
         "till": "2025-01-06",
         "level": "warning",
-        "details": [
-            "Therapiestunden finden in diesem Zeitraum nicht statt."
-        ]
+        "details": ["Therapiestunden finden in diesem Zeitraum nicht statt."]
     },
     {
         "name": "Busverbindung entfällt",
         "on": "2024-12-24",
         "level": "warning",
-        "details": [
-            "Herzogsägmühler Buslinie Peiting-Schongau entfällt"
-        ]
+        "details": ["Herzogsägmühler Buslinie Peiting-Schongau entfällt"]
     },
     {
         "name": "Busverbindung entfällt",
         "on": "2024-12-31",
         "level": "warning",
-        "details": [
-            "Herzogsägmühler Buslinie Peiting-Schongau entfällt"
-        ]
+        "details": ["Herzogsägmühler Buslinie Peiting-Schongau entfällt"]
     },
     {
         "name": "Silvesterabend",
-        "locations": [
-            "Rainer-Endisch-Saal"
-        ],
+        "locations": ["Rainer-Endisch-Saal"],
         "on": "2024-12-31",
         "level": "info",
         "details": [
@@ -561,9 +491,7 @@
     },
     {
         "name": "Herzogsägmühler Schafkopfturnier",
-        "locations": [
-            "Cafe und Wirtshaus Herzog"
-        ],
+        "locations": ["Cafe und Wirtshaus Herzog"],
         "on": "2025-01-03",
         "level": "info",
         "details": [
@@ -572,9 +500,7 @@
     },
     {
         "name": "Kriminalkomödie: <q>8 Frauen</q>",
-        "locations": [
-            "Rainer-Endisch-Saal"
-        ],
+        "locations": ["Rainer-Endisch-Saal"],
         "from": "2025-01-24",
         "till": "2025-01-26",
         "level": "info",
@@ -611,9 +537,7 @@
     },
     {
         "name": "Infoabend: <q>Heilerziehungspflege</q>",
-        "locations": [
-            "Liselotte-von-Lepel-Gnitz-Schule"
-        ],
+        "locations": ["Liselotte-von-Lepel-Gnitz-Schule"],
         "on": "2025-02-25",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/infoabend-hep-schule",
@@ -625,9 +549,7 @@
     },
     {
         "name": "MachArt bittet zu Tisch - Kunstausstellung",
-        "locations": [
-            "Deckerhalle"
-        ],
+        "locations": ["Deckerhalle"],
         "from": "2025-03-10",
         "till": "2025-03-23",
         "level": "info",
@@ -648,9 +570,7 @@
     },
     {
         "name": "Alternative F**kten - Kabarettabend zur Frage: <q>Was ist Wahrheit?</q>",
-        "locations": [
-            "Rainer-Endisch-Saal"
-        ],
+        "locations": ["Rainer-Endisch-Saal"],
         "from": "2025-03-21",
         "till": "2025-03-22",
         "level": "info",
@@ -671,10 +591,26 @@
         "details": []
     },
     {
+        "name": "Lagerfeuer am Kapellenfeld",
+        "locations": ["Kapellendeld"],
+        "on": "2025-04-26",
+        "level": "info",
+        "details": [
+            "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
+        ]
+    },
+    {
+        "name": "AttM: Tag der Offenen Tür",
+        "locations": ["AttM"],
+        "on": "2025-05-07",
+        "level": "info",
+        "details": [
+            "Ab 10.00 Uhr ist jeder zum Tag der Offenen Tür der AttM eingeladen!"
+        ]
+    },
+    {
         "name": "Maitanz",
-        "locations": [
-            "Schlossberghalle Peiting"
-        ],
+        "locations": ["Schlossberghalle Peiting"],
         "on": "2025-05-09",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/maitanz",
@@ -689,14 +625,50 @@
     },
     {
         "name": "Frühlingsflohmarkt",
-        "locations": [
-            "Deckerhalle",
-            "Dorfplatz"
-        ],
+        "locations": ["Deckerhalle", "Dorfplatz"],
         "from": "2025-05-10",
         "till": "2025-05-11",
         "level": "info",
         "details": []
+    },
+    {
+        "name": "Lagerfeuer am Kapellenfeld",
+        "locations": ["Kapellendeld"],
+        "on": "2025-05-24",
+        "level": "info",
+        "details": [
+            "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
+        ]
+    },
+    {
+        "name": "Sommerfest",
+        "locations": ["Am Latterbach Haus 16", "Am Latterbach Haus 14"],
+        "on": "2025-06-05",
+        "level": "info",
+        "details": [
+            "Von <time datetime='2025-06-05 16:00'>16.00 Uhr</time> bis <time datetime='2025-06-05 21:00'>21.00 Uhr</time>.",
+            "Es werden Spiele gespielt, gegrillt und Musik gespielt."
+        ]
+    },
+    {
+        "name": "Lagerfeuer am Kapellenfeld",
+        "locations": ["Kapellendeld"],
+        "on": "2025-06-14",
+        "level": "info",
+        "details": [
+            "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen.",
+            "Termin evtl. am 21.06."
+        ]
+    },
+    {
+        "name": "Lagerfeuer am Kapellenfeld",
+        "locations": ["Kapellendeld"],
+        "on": "2025-06-21",
+        "level": "info",
+        "details": [
+            "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen.",
+            "Termin evtl. am 14.06."
+        ]
     },
     {
         "name": "Serenade zum Dorffest",
@@ -706,13 +678,28 @@
     },
     {
         "name": "Dorffest",
-        "locations": [
-            "Deckerhalle",
-            "Dorfplatz"
-        ],
+        "locations": ["Deckerhalle", "Dorfplatz"],
         "on": "2025-07-06",
         "level": "info",
         "details": []
+    },
+    {
+        "name": "Lagerfeuer am Kapellenfeld",
+        "locations": ["Kapellendeld"],
+        "on": "2025-07-19",
+        "level": "info",
+        "details": [
+            "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
+        ]
+    },
+    {
+        "name": "Lagerfeuer am Kapellenfeld",
+        "locations": ["Kapellendeld"],
+        "on": "2025-08-23",
+        "level": "info",
+        "details": [
+            "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
+        ]
     },
     {
         "name": "Bundesweiter Warntag",
@@ -724,21 +711,24 @@
         ]
     },
     {
+        "name": "Lagerfeuer am Kapellenfeld",
+        "locations": ["Kapellendeld"],
+        "on": "2025-09-20",
+        "level": "info",
+        "details": [
+            "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
+        ]
+    },
+    {
         "name": "Erntedankfest",
-        "locations": [
-            "Deckerhalle",
-            "Dorfplatz"
-        ],
+        "locations": ["Deckerhalle", "Dorfplatz"],
         "on": "2025-10-06",
         "level": "info",
         "details": []
     },
     {
         "name": "Herbstflohmarkt",
-        "locations": [
-            "Deckerhalle",
-            "Dorfplatz"
-        ],
+        "locations": ["Deckerhalle", "Dorfplatz"],
         "from": "2025-10-11",
         "till": "2025-10-12",
         "level": "info",
@@ -752,10 +742,7 @@
     },
     {
         "name": "Weihnachtsmarkt",
-        "locations": [
-            "Deckerhalle",
-            "Dorfplatz"
-        ],
+        "locations": ["Deckerhalle", "Dorfplatz"],
         "from": "2025-11-28",
         "till": "2025-11-30",
         "level": "info",
