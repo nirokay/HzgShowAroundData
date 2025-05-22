@@ -632,12 +632,35 @@
         "details": []
     },
     {
+        "name": "Gärtnerei geöffnet mit verkausoffenem Sonntag",
+        "locations": ["Gärtnerei"],
+        "on": "2025-05-24",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/gaertnerei-geoeffnet",
+        "details": [
+            "Die Gärtnerei hat zwischen <time datetime='2025-05-24 13:00'>13.00 Uhr</time> und <time datetime='2025-05-24 18:00'>18.00 Uhr</time> geöffnet.",
+            "Um <time datetime='2025-05-24 14:00'>14.00 Uhr</time> und um <time datetime='2025-05-24 16:00'>16.00 Uhr</time> gibt es Einen Vortrag: <q>Obstbäume und Beerensträucher im Garten</q>",
+            "Um <time datetime='2025-05-24 15:30'>15.30 Uhr</time> findet eine Betriebsführung statt.",
+            "Natürlich gibt es auch Kaffee und Kuchen! :)"
+        ]
+    },
+    {
         "name": "Lagerfeuer am Kapellenfeld",
         "locations": ["Kapellendeld"],
         "on": "2025-05-24",
         "level": "info",
         "details": [
             "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
+        ]
+    },
+    {
+        "name": "Himmelfahrtsgottesdienst am Wasserrad",
+        "locations": ["Vor der Martinskirche"],
+        "on": "2025-05-29",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/himmelfahrtsgottesdienst",
+        "details": [
+            "Beginn ist um <time datetime='2025-05-29 10:00'>10.00 Uhr</time>"
         ]
     },
     {
