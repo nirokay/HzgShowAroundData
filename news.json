@@ -637,6 +637,7 @@
         "on": "2025-05-24",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/gaertnerei-geoeffnet",
+        "image": "https://raw.githubusercontent.com/nirokay/HzgShowAroundData/master/resources/images/locations/work/g%C3%A4rtnerei/haus-aussen.webp",
         "details": [
             "Die Gärtnerei hat zwischen <time datetime='2025-05-24 13:00'>13.00 Uhr</time> und <time datetime='2025-05-24 18:00'>18.00 Uhr</time> geöffnet.",
             "Um <time datetime='2025-05-24 14:00'>14.00 Uhr</time> und um <time datetime='2025-05-24 16:00'>16.00 Uhr</time> gibt es Einen Vortrag: <q>Obstbäume und Beerensträucher im Garten</q>",
@@ -659,6 +660,7 @@
         "on": "2025-05-29",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/himmelfahrtsgottesdienst",
+        "image": "https://raw.githubusercontent.com/nirokay/HzgShowAroundData/master/resources/images/locations/church/martinskirche.webp",
         "details": [
             "Beginn ist um <time datetime='2025-05-29 10:00'>10.00 Uhr</time>"
         ]
