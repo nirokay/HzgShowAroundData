@@ -592,7 +592,7 @@
     },
     {
         "name": "Lagerfeuer am Kapellenfeld",
-        "locations": ["Kapellendeld"],
+        "locations": ["Kapellenfeld"],
         "on": "2025-04-26",
         "level": "info",
         "details": [
@@ -646,7 +646,7 @@
     },
     {
         "name": "Lagerfeuer am Kapellenfeld",
-        "locations": ["Kapellendeld"],
+        "locations": ["Kapellenfeld"],
         "on": "2025-05-24",
         "level": "info",
         "details": [
@@ -675,7 +675,7 @@
     },
     {
         "name": "Lagerfeuer am Kapellenfeld",
-        "locations": ["Kapellendeld"],
+        "locations": ["Kapellenfeld"],
         "on": "2025-06-14",
         "level": "info",
         "details": [
@@ -685,7 +685,7 @@
     },
     {
         "name": "Lagerfeuer am Kapellenfeld",
-        "locations": ["Kapellendeld"],
+        "locations": ["Kapellenfeld"],
         "on": "2025-06-21",
         "level": "info",
         "details": [
@@ -708,7 +708,7 @@
     },
     {
         "name": "Lagerfeuer am Kapellenfeld",
-        "locations": ["Kapellendeld"],
+        "locations": ["Kapellenfeld"],
         "on": "2025-07-19",
         "level": "info",
         "details": [
@@ -717,7 +717,7 @@
     },
     {
         "name": "Lagerfeuer am Kapellenfeld",
-        "locations": ["Kapellendeld"],
+        "locations": ["Kapellenfeld"],
         "on": "2025-08-23",
         "level": "info",
         "details": [
@@ -735,7 +735,7 @@
     },
     {
         "name": "Lagerfeuer am Kapellenfeld",
-        "locations": ["Kapellendeld"],
+        "locations": ["Kapellenfeld"],
         "on": "2025-09-20",
         "level": "info",
         "details": [
