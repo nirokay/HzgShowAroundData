@@ -666,13 +666,12 @@
         ]
     },
     {
-        "name": "Sommerfest",
+        "name": "Sommerfest verschoben",
         "locations": ["Am Latterbach Haus 16", "Am Latterbach Haus 14"],
         "on": "2025-06-05",
-        "level": "info",
+        "level": "warning",
         "details": [
-            "Von <time datetime='2025-06-05 16:00'>16.00 Uhr</time> bis <time datetime='2025-06-05 21:00'>21.00 Uhr</time>.",
-            "Es werden Spiele gespielt, gegrillt und Musik gespielt."
+            "Das Sommerfest wurde aufgrund schlechten Wetters auf den <time datetime='2025-07-17'>17.07.</time> verschoben!"
         ]
     },
     {
@@ -707,6 +706,16 @@
         "on": "2025-07-06",
         "level": "info",
         "details": []
+    },
+    {
+        "name": "Sommerfest",
+        "locations": ["Am Latterbach Haus 16", "Am Latterbach Haus 14"],
+        "on": "2025-07-17",
+        "level": "info",
+        "details": [
+            "Von <time datetime='2025-06-05 16:00'>16.00 Uhr</time> bis <time datetime='2025-06-05 21:00'>21.00 Uhr</time>.",
+            "Es werden Spiele gespielt, gegrillt und Musik gespielt."
+        ]
     },
     {
         "name": "Lagerfeuer am Kapellenfeld",
