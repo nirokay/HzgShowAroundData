@@ -1,5 +1,13 @@
 [
     {
+        "date": "2025-06-06",
+        "text": {
+            "NewsFeed": [
+                "Events können als ICal Datei abgespeichert und im Kalendar hinzugefügt werden."
+            ]
+        }
+    },
+    {
         "date": "2025-01-17",
         "text": {
             "NewsFeed": [
@@ -18,9 +26,7 @@
     {
         "date": "2024-10-28",
         "text": {
-            "NewsFeed": [
-                "Schulferien werden nun angezeigt."
-            ]
+            "NewsFeed": ["Schulferien werden nun angezeigt."]
         }
     },
     {
@@ -34,9 +40,7 @@
     {
         "date": "2024-09-19",
         "text": {
-            "": [
-                "Website Host wurde verändert"
-            ]
+            "": ["Website Host wurde verändert"]
         }
     },
     {
@@ -50,25 +54,19 @@
     {
         "date": "2024-08-20",
         "text": {
-            "Kontakt": [
-                "wurde hinzugefügt"
-            ]
+            "Kontakt": ["wurde hinzugefügt"]
         }
     },
     {
         "date": "2024-08-06",
         "text": {
-            "Changelog": [
-                "wurde hinzugefügt"
-            ]
+            "Changelog": ["wurde hinzugefügt"]
         }
     },
     {
         "date": "2024-08-04",
         "text": {
-            "NewsFeed": [
-                "neu geschrieben in TypeScript"
-            ]
+            "NewsFeed": ["neu geschrieben in TypeScript"]
         }
     },
     {
@@ -90,38 +88,26 @@
     {
         "date": "2024-07-25",
         "text": {
-            "Gesundheitsbildungsvorträge": [
-                "wurden überartbeitet"
-            ],
-            "Orte": [
-                "Bilder von jpeg zu webp konvertiert",
-                "neue Orte"
-            ]
+            "Gesundheitsbildungsvorträge": ["wurden überartbeitet"],
+            "Orte": ["Bilder von jpeg zu webp konvertiert", "neue Orte"]
         }
     },
     {
         "date": "2024-07-12",
         "text": {
-            "Freizeitangebote": [
-                "nun übersichtlicher formatiert"
-            ]
+            "Freizeitangebote": ["nun übersichtlicher formatiert"]
         }
     },
     {
         "date": "2024-07-04",
         "text": {
-            "Style": [
-                "Header-Balken hinzugefügt",
-                "Footer-Balken überarbeitet"
-            ]
+            "Style": ["Header-Balken hinzugefügt", "Footer-Balken überarbeitet"]
         }
     },
     {
         "date": "2024-07-03",
         "text": {
-            "NewsFeed": [
-                "Feiertage werden nun angezeigt."
-            ],
+            "NewsFeed": ["Feiertage werden nun angezeigt."],
             "Credits/Mitwirkende": [
                 "Verwendete Technologies sind unter den Autoren hinzugefügt."
             ]
@@ -130,9 +116,7 @@
     {
         "date": "2024-06-27",
         "text": {
-            "NewsFeed": [
-                "Orte werden dynamisch im NewsFeed verlinkt"
-            ],
+            "NewsFeed": ["Orte werden dynamisch im NewsFeed verlinkt"],
             "Freizeitangebote": [
                 "erweitert",
                 "Kontaktmöglichkeiten hinzugefügt"
@@ -145,20 +129,14 @@
             "Style": [
                 "viele Textzentrierungen wurden entfernt für bessere Lesbarkeit"
             ],
-            "Freizeitangebote": [
-                "hinzugefügt"
-            ],
-            "Orte": [
-                "neue Orte"
-            ]
+            "Freizeitangebote": ["hinzugefügt"],
+            "Orte": ["neue Orte"]
         }
     },
     {
         "date": "2024-06-25",
         "text": {
-            "Style": [
-                "Farben überarbeitet"
-            ]
+            "Style": ["Farben überarbeitet"]
         }
     },
     {
@@ -182,47 +160,33 @@
     {
         "date": "2024-05-25",
         "text": {
-            "Style": [
-                "Logo hinzugefügt"
-            ]
+            "Style": ["Logo hinzugefügt"]
         }
     },
     {
         "date": "2024-04-26",
         "text": {
-            "": [
-                "mehrere Fehler behoben"
-            ],
-            "NewsFeed": [
-                "komplett neu geschrieben"
-            ]
+            "": ["mehrere Fehler behoben"],
+            "NewsFeed": ["komplett neu geschrieben"]
         }
     },
     {
         "date": "2024-04-09",
         "text": {
-            "Orte": [
-                "Bilder hinzugefügt"
-            ]
+            "Orte": ["Bilder hinzugefügt"]
         }
     },
     {
         "date": "2024-03-06",
         "text": {
-            "Credits/Mitwirkende": [
-                "hinzugefügt"
-            ]
+            "Credits/Mitwirkende": ["hinzugefügt"]
         }
     },
     {
         "date": "2024-02-20",
         "text": {
-            "Terms of Service": [
-                "neu geschrieben"
-            ],
-            "Style": [
-                "alle Seiten vertikal zentriert"
-            ]
+            "Terms of Service": ["neu geschrieben"],
+            "Style": ["alle Seiten vertikal zentriert"]
         }
     },
     {
@@ -231,12 +195,8 @@
             "Tracking und Analytics": [
                 "client-side Cloudflare Web-Analytics hinzugefügt"
             ],
-            "Orte": [
-                "neue Orte"
-            ],
-            "404-Seite": [
-                "hinzugefügt"
-            ]
+            "Orte": ["neue Orte"],
+            "404-Seite": ["hinzugefügt"]
         }
     },
     {
@@ -250,44 +210,32 @@
     {
         "date": "2023-12-08",
         "text": {
-            "Artikel": [
-                "hinzugefügt"
-            ]
+            "Artikel": ["hinzugefügt"]
         }
     },
     {
         "date": "2023-12-04",
         "text": {
-            "NewsFeed": [
-                "hinzugefügt"
-            ]
+            "NewsFeed": ["hinzugefügt"]
         }
     },
     {
         "date": "2023-11-17",
         "text": {
-            "Tour": [
-                "hinzugefügt"
-            ],
-            "Karte": [
-                "hinzugefügt"
-            ]
+            "Tour": ["hinzugefügt"],
+            "Karte": ["hinzugefügt"]
         }
     },
     {
         "date": "2023-11-16",
         "text": {
-            "Orte": [
-                "hinzugefügt"
-            ]
+            "Orte": ["hinzugefügt"]
         }
     },
     {
         "date": "2023-11-13",
         "text": {
-            "": [
-                "Projekt gestartet"
-            ]
+            "": ["Projekt gestartet"]
         }
     }
 ]
