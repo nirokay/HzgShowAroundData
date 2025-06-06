@@ -10,9 +10,7 @@
                         "type": "string"
                     }
                 },
-                "required": [
-                    "COMMENT"
-                ]
+                "required": ["COMMENT"]
             },
             {
                 "type": "object",
@@ -47,27 +45,22 @@
                         }
                     }
                 },
-                "required": [
-                    "name"
-                ],
+                "required": ["name"],
                 "oneOf": [
                     {
                         "properties": {
                             "from": {
                                 "type": "string",
                                 "description": "Event starting date (yyyy-MM-dd)",
-                                "pattern": "^((\\d{4}|\\*)-(\\d{1,2})-(\\d{1,2}))"
+                                "pattern": "^((\\d{4}|\\*)-(\\d{1,2})-(\\d{1,2})((\\s)(\\d{1,2})(:(\\d{1,2}))?)?)"
                             },
                             "till": {
                                 "type": "string",
                                 "description": "Event ending date (yyyy-MM-dd)",
-                                "pattern": "^((\\d{4}|\\*)-(\\d{1,2})-(\\d{1,2}))"
+                                "pattern": "^((\\d{4}|\\*)-(\\d{1,2})-(\\d{1,2})((\\s)(\\d{1,2})(:(\\d{1,2}))?)?)"
                             }
                         },
-                        "required": [
-                            "from",
-                            "till"
-                        ]
+                        "required": ["from", "till"]
                     },
                     {
                         "properties": {
@@ -77,9 +70,7 @@
                                 "pattern": "^((\\d{4}|\\*)-(\\d{1,2})-(\\d{1,2}))"
                             }
                         },
-                        "required": [
-                            "on"
-                        ]
+                        "required": ["on"]
                     }
                 ]
             }
