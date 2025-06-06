@@ -17,7 +17,7 @@ könnte.
 Alle Neuigkeiten/Events sind in `news.json` als JSON gespeichert. Wie es aufgebaut ist, wird jetzt
 erklärt!
 
-> **Beispiel zur Orientierung:**
+> **Beispiele zur Orientierung:**
 >
 > ```json
 > {
@@ -27,6 +27,28 @@ erklärt!
 >     "level": "info",
 >     "details": [
 >         "Frohe Weihnachten!"
+>     ]
+> }
+> ```
+> ```json
+> {
+>     "name": "Weihnachtsmarkt",
+>     "locations": ["Deckerhalle", "Dorfplatz"],
+>     "from": "2025-11-28",
+>     "till": "2025-11-30",
+>     "level": "info",
+>     "details": []
+> }
+> ```
+> ```json
+> {
+>     "name": "Lagerfeuer am Kapellenfeld",
+>     "locations": ["Kapellenfeld"],
+>     "from": "2025-09-20 18:30",
+>     "till": "2025-09-20 21:00",
+>     "level": "info",
+>     "details": [
+>         "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
 >     ]
 > }
 > ```
@@ -47,10 +69,12 @@ jährlichen Events, kann man das Jahr durch ein `*` Sternchen ersetzen.
 Bei einem Zeitfenster, wie oben im Beispiel, gibt es ein Start-Tag (`from`) und ein End-Tag (`till`).
 Im obigen Beispiel heißt das, dass Weihnachten jedes Jahr vom *24.12.* bis zum *26.12.* stattfindet.
 
+Zusätzlich kann eine Uhrzeit hinzugefügt werden, die in so fortmatiert ist:
+`hh:mm` (deutsch: `SS:MM`, Stunde und Minute). Die Uhrzeit muss vom Datum durch ein Leerzeichen getrennt sein.
+
 ##### Tagesevent
 
-Ein Tagesevent ist, im Gegensatz zum Zeitfenster, ein Event, welches nur an einem Tag stattfindet.
-Dies ist der größte Teil der Events.
+Ein Tagesevent ist, im Gegensatz zum Zeitfenster, ein Event, welches den **ganzen** Tag stattfindet.
 
 Bei einem solchen Event werden die Felder `from` und `till` durch ein einziges Feld `on` ersetzt:
 > **Beispiel:**
@@ -70,14 +94,20 @@ Bei einem solchen Event werden die Felder `from` und `till` durch ein einziges F
 
 #### Feld `level`
 
-Das Feld `level` ist die Wichtigkeit des Events. Standartmäßig ist `level` zu `info` gesetzt und
+Das Feld `level` ist die Wichtigkeit des Events. Standartmäßig wird `level` zu `info` gesetzt und
 kann weggelassen werden.
 
 > **Alle levels in steigender Wichtigkeit:**
 >
-> * `info`: Standart-Level - für Veranstaltungen und Feste (weiß eingezeichnet)
-> * `warn`/`warning`/`warnung`: Warnung - für wichtige Infos (gelb eingezeichnet)
-> * `alert`/`alarm`/`achtung`: !!Achtung!! - spezielle (Not-)Fälle, die sehr wichtig sind (rot eingezeichnet)
+> * `info`: Standart-Level (Normale Events)
+> * `warn`/`warning`/`warnung`: Warnung (Wichtige Events/Neuigkeiten)
+>   * geänderte Öffnungszeiten
+>   * Terminverschiebungen
+>   * ...
+> * `alert`/`alarm`/`achtung`: !!Achtung!! (Sehr wichtige Neuigkeiten)
+>   * Katastrophen
+>   * Starkes Umwetter
+>   * ...
 
 #### Feld `info`
 
@@ -87,7 +117,7 @@ Hier kann ein optionaler Link eingefügt werden, der dem Leser mehr Informatione
 
 #### Feld `details`
 
-Dieses Feld ist eine Liste mit Text, die den größten Teil des Events ausmacht.
+Dieses Feld ist eine Liste mit Textzeilen, die den größten Teil des Events ausmacht.
 
 > **Beispiel mit mehr Text in `details`:**
 >
@@ -110,6 +140,7 @@ Die zwei Linien werden auf eigenen Zeilen gezeigt.
 Dies ist ein optionales Feld, wo man die Orte vermerken kann, die betroffen sind.
 
 Diese Meldungen werden dann nicht nur im Newsfeed, sondern auf den jeweiligen Orten angezeigt.
+
 > **Beispiel:**
 >
 > ```json
