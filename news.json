@@ -593,7 +593,8 @@
     {
         "name": "Lagerfeuer am Kapellenfeld",
         "locations": ["Kapellenfeld"],
-        "on": "2025-04-26",
+        "from": "2025-04-26 18:30",
+        "till": "2025-04-26 21:00",
         "level": "info",
         "details": [
             "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
@@ -648,7 +649,8 @@
     {
         "name": "Lagerfeuer am Kapellenfeld",
         "locations": ["Kapellenfeld"],
-        "on": "2025-05-24",
+        "from": "2025-05-24 18:30",
+        "till": "2025-05-24 21:00",
         "level": "info",
         "details": [
             "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
@@ -657,7 +659,8 @@
     {
         "name": "Himmelfahrtsgottesdienst am Wasserrad",
         "locations": ["Vor der Martinskirche"],
-        "on": "2025-05-29",
+        "from": "2025-05-29 10:00",
+        "till": "2025-05-29 11:00",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/himmelfahrtsgottesdienst",
         "image": "https://raw.githubusercontent.com/nirokay/HzgShowAroundData/master/resources/images/locations/church/martinskirche.webp",
@@ -677,7 +680,8 @@
     {
         "name": "Lagerfeuer am Kapellenfeld",
         "locations": ["Kapellenfeld"],
-        "on": "2025-06-14",
+        "from": "2025-06-14 18:30",
+        "till": "2025-06-14 21:00",
         "level": "info",
         "details": [
             "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen.",
@@ -687,7 +691,8 @@
     {
         "name": "Lagerfeuer am Kapellenfeld",
         "locations": ["Kapellenfeld"],
-        "on": "2025-06-21",
+        "from": "2025-06-21 18:30",
+        "till": "2025-06-21 21:00",
         "level": "info",
         "details": [
             "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen.",
@@ -710,7 +715,8 @@
     {
         "name": "Sommerfest",
         "locations": ["Am Latterbach Haus 16", "Am Latterbach Haus 14"],
-        "on": "2025-07-17",
+        "from": "2025-07-17 16:00",
+        "till": "2025-07-17 21:00",
         "level": "info",
         "details": [
             "Von <time datetime='2025-07-17 16:00'>16.00 Uhr</time> bis <time datetime='2025-07-17 21:00'>21.00 Uhr</time>.",
@@ -720,8 +726,8 @@
     {
         "name": "Lagerfeuer am Kapellenfeld",
         "locations": ["Kapellenfeld"],
-        "on": "2025-07-19",
-        "level": "info",
+        "from": "2025-07-19 18:30",
+        "till": "2025-07-19 21:00",
         "details": [
             "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
         ]
@@ -729,15 +735,16 @@
     {
         "name": "Lagerfeuer am Kapellenfeld",
         "locations": ["Kapellenfeld"],
-        "on": "2025-08-23",
-        "level": "info",
+        "from": "2025-08-23 18:30",
+        "till": "2025-08-23 21:00",
         "details": [
             "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
         ]
     },
     {
         "name": "Bundesweiter Warntag",
-        "on": "2025-09-11",
+        "from": "2025-09-11 11:00",
+        "till": "2025-09-11 11:30",
         "level": "warning",
         "info": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Bundesweiter-Warntag/bundesweiter-warntag_node.html",
         "details": [
@@ -747,7 +754,8 @@
     {
         "name": "Lagerfeuer am Kapellenfeld",
         "locations": ["Kapellenfeld"],
-        "on": "2025-09-20",
+        "from": "2025-09-20 18:30",
+        "till": "2025-09-20 21:00",
         "level": "info",
         "details": [
             "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
