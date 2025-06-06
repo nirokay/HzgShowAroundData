@@ -12,6 +12,11 @@ Die Werbeplakate sind in [dem Flyer Unterordner zu finden](./flyers). Nebendran 
 
 ## Dokumentationen
 
+Alle JSON-Dateien haben ein [JSON Schema](https://json-schema.org/), welche sich [in diesem Unterordner](./templates/.schemas/) befinden.
+
+Die JSON-Dateien werden bei einem Push nach Integrität und Syntax überprüft. Es ist aber auch möglich diese lokal mit dem
+[`./scripts/validate-jsons.sh`](./scripts/validate-jsons.sh) Script zu überprüfen.
+
 **Dateistrukturen:**
 
 * [Artikel](docs/articles.md)
