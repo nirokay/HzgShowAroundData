@@ -480,7 +480,8 @@
     {
         "name": "Silvesterabend",
         "locations": ["Rainer-Endisch-Saal"],
-        "on": "2024-12-31",
+        "from": "2024-12-31 20:00",
+        "till": "2025-01-01 01:00",
         "level": "info",
         "details": [
             "Von <time datetime='2024-12-31 20:00'>20:00</time> - <time datetime='2025-01-01 01:00'>01:00</time> Uhr mit Essen und alkoholfreien Cocktails."
@@ -492,7 +493,8 @@
     {
         "name": "Herzogsägmühler Schafkopfturnier",
         "locations": ["Cafe und Wirtshaus Herzog"],
-        "on": "2025-01-03",
+        "from": "2025-01-03 14:00",
+        "till": "2025-01-03 16:00",
         "level": "info",
         "details": [
             "Beginn ist um <time datetime='2025-01-03 14:00'>14:00 Uhr</time>.\nAlle Rehabilitanden und Mitarbeiter sind herzlichst eingeladen."
@@ -516,7 +518,8 @@
     },
     {
         "name": "Modenschau im Gebrauchtmöbelhaus Weilheim",
-        "on": "2025-01-25",
+        "from": "2025-01-25 17:00",
+        "till": "2025-01-25 19:00",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/modenschau",
         "image": "https://www.herzogsaegmuehle.de/fileadmin/Bilder/Aktuelles/Veranstaltungen/Modenschau/Plakat_Modenschau_1-2025.png",
@@ -526,7 +529,8 @@
     },
     {
         "name": "Bundestagswahl 2025",
-        "on": "2025-02-23",
+        "from": "2025-02-23 09:00",
+        "till": "2025-02-23 19:00",
         "level": "warning",
         "info": "https://nirokay.com/HzgShowAround/article/meinung_-_welche_partei_ist_in_der_bundestagswahl_2025_waehlbar.html",
         "details": [
@@ -538,7 +542,8 @@
     {
         "name": "Infoabend: <q>Heilerziehungspflege</q>",
         "locations": ["Liselotte-von-Lepel-Gnitz-Schule"],
-        "on": "2025-02-25",
+        "from": "2025-02-25 19:00",
+        "till": "2025-02-25 21:00",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/infoabend-hep-schule",
         "image": "https://www.herzogsaegmuehle.de/fileadmin/Bilder/Schulen/Heilerziehungspflegeschule/Aktuelles/Teaserbild_HEP-Schule.jpg",
@@ -561,7 +566,8 @@
     },
     {
         "name": "Bayernweiter Warntag",
-        "on": "2025-03-13",
+        "from": "2025-03-13 11:00",
+        "till": "2025-03-13 11:30",
         "level": "warning",
         "info": "https://www.innenministerium.bayern.de/sus/katastrophenschutz/warnungundinformation/sirenenundlautsprecher/",
         "details": [
@@ -596,9 +602,7 @@
         "from": "2025-04-26 18:30",
         "till": "2025-04-26 21:00",
         "level": "info",
-        "details": [
-            "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
-        ]
+        "details": ["Gerne selbstständig Grillgut und Getränke mitnehmen."]
     },
     {
         "name": "AttM: Tag der Offenen Tür",
@@ -612,7 +616,8 @@
     {
         "name": "Maitanz",
         "locations": ["Schlossberghalle Peiting"],
-        "on": "2025-05-09",
+        "from": "2025-05-09 18:00",
+        "till": "2025-05-09 21:00",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/maitanz",
         "image": "https://www.herzogsaegmuehle.de/fileadmin/_processed_/0/1/csm_Teaser_Maitanz_web_90f66ebf8b.jpg",
@@ -635,7 +640,8 @@
     {
         "name": "Gärtnerei geöffnet mit verkausoffenem Sonntag",
         "locations": ["Gärtnerei"],
-        "on": "2025-05-24",
+        "from": "2025-05-24 13:00",
+        "till": "2025-05-24 18:00",
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/gaertnerei-geoeffnet",
         "image": "https://raw.githubusercontent.com/nirokay/HzgShowAroundData/master/resources/images/locations/work/g%C3%A4rtnerei/haus-aussen.webp",
@@ -652,9 +658,7 @@
         "from": "2025-05-24 18:30",
         "till": "2025-05-24 21:00",
         "level": "info",
-        "details": [
-            "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
-        ]
+        "details": ["Gerne selbstständig Grillgut und Getränke mitnehmen."]
     },
     {
         "name": "Himmelfahrtsgottesdienst am Wasserrad",
@@ -684,7 +688,7 @@
         "till": "2025-06-14 21:00",
         "level": "info",
         "details": [
-            "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen.",
+            "Gerne selbstständig Grillgut und Getränke mitnehmen.",
             "Termin evtl. am 21.06."
         ]
     },
@@ -695,12 +699,13 @@
         "till": "2025-06-21 21:00",
         "level": "info",
         "details": [
-            "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen.",
+            "Gerne selbstständig Grillgut und Getränke mitnehmen.",
             "Termin evtl. am 14.06."
         ]
     },
     {
         "name": "Serenade zum Dorffest",
+        "locations": ["Deckerhalle", "Dorfplatz"],
         "on": "2025-07-05",
         "level": "info",
         "details": []
@@ -714,7 +719,10 @@
     },
     {
         "name": "Sommerfest",
-        "locations": ["Am Latterbach Haus 16", "Am Latterbach Haus 14"],
+        "locations": [
+            "Garten von Am Latterbach Haus 16",
+            "Garten von Am Latterbach Haus 14"
+        ],
         "from": "2025-07-17 16:00",
         "till": "2025-07-17 21:00",
         "level": "info",
@@ -728,18 +736,14 @@
         "locations": ["Kapellenfeld"],
         "from": "2025-07-19 18:30",
         "till": "2025-07-19 21:00",
-        "details": [
-            "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
-        ]
+        "details": ["Gerne selbstständig Grillgut und Getränke mitnehmen."]
     },
     {
         "name": "Lagerfeuer am Kapellenfeld",
         "locations": ["Kapellenfeld"],
         "from": "2025-08-23 18:30",
         "till": "2025-08-23 21:00",
-        "details": [
-            "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
-        ]
+        "details": ["Gerne selbstständig Grillgut und Getränke mitnehmen."]
     },
     {
         "name": "Bundesweiter Warntag",
@@ -757,9 +761,7 @@
         "from": "2025-09-20 18:30",
         "till": "2025-09-20 21:00",
         "level": "info",
-        "details": [
-            "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
-        ]
+        "details": ["Gerne selbstständig Grillgut und Getränke mitnehmen."]
     },
     {
         "name": "Erntedankfest",
