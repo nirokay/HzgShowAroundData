@@ -682,6 +682,16 @@
         ]
     },
     {
+        "name": "Konzert",
+        "locations": ["Rainer-Endisch-Saal"],
+        "from": "2025-06-12 18:00",
+        "till": "2025-06-12 20:00",
+        "level": "info",
+        "details": [
+            "Werkeinführung <q>Krönungsmesse in G-Dur</q> von Luigi Cherubini und <q>Sinfonie Nr. 3 in Es-Dur</q> von Ludwig van Beethoven."
+        ]
+    },
+    {
         "name": "Lagerfeuer am Kapellenfeld",
         "locations": ["Kapellenfeld"],
         "from": "2025-06-14 18:30",
