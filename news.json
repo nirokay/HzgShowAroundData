@@ -725,17 +725,28 @@
     },
     {
         "name": "Serenade zum Dorffest",
-        "locations": ["Deckerhalle", "Dorfplatz"],
-        "on": "2025-07-05",
+        "locations": ["Rainer-Endisch-Saal"],
+        "from": "2025-07-05 19:00",
+        "till": "2025-07-05 20:00",
         "level": "info",
-        "details": []
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/dorffest#c12813",
+        "image": "https://raw.githubusercontent.com/nirokay/HzgShowAroundData/master/resources/images/locations/leisure/rainer-endisch-saal/%C3%BCber-wasser.webp",
+        "details": ["Eintritt ist frei."]
     },
     {
         "name": "Dorffest",
         "locations": ["Deckerhalle", "Dorfplatz"],
-        "on": "2025-07-06",
+        "from": "2025-07-06 10:00",
+        "till": "2025-07-06 17:00",
         "level": "info",
-        "details": []
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/dorffest#c12814",
+        "image": "https://raw.githubusercontent.com/nirokay/HzgShowAroundData/master/resources/images/locations/leisure/deckerhalle/deckerhalle.webp",
+        "details": [
+            "<time datetime='2025-07-06 10:00'>ab 10.00 Uhr</time> Festgottestdienst",
+            "<time datetime='2025-07-06 11:00'>ab 11.00 Uhr</time> Musik, Streetfood, Kaffee und Kuchen, Kreativer Spieleparcours, Second-Hand-Modenschau aus dem Fundus der Wühlkiste, zahlreiche Attraktionen für Kinder und Jugendliche",
+            "Eintritt ist frei, Versorgung mit dem <q>Schlemmerpass</q>!",
+            "Im Anschluss Dämmerschoppen der Werkfeuerwehr auf dem Dorfplatz"
+        ]
     },
     {
         "name": "CSD Schongau",
