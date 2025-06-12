@@ -8,7 +8,7 @@ The following paragraphs will be written in German.
 
 ## Werbeplakate
 
-Die Werbeplakate sind in [dem Flyer Unterordner zu finden](./flyers). Nebendran ist auch ein Dokument mit Infos zum Druck, etc.
+Die Werbeplakate sind in [dem Flyer GitHub-Release](https://github.com/nirokay/HzgShowAroundData/releases/latest).
 
 ## Dokumentationen
 
