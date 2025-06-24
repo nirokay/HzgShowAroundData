@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Weihnachtsmarkt",
+        "locations": ["Deckerhalle"],
+        "from": "2023-12-01",
+        "till": "2023-12-03",
+        "level": "info",
+        "details": [
+            "Der Weihnachtsmarkt findet in und vor der Deckerhalle statt."
+        ]
+    },
+    {
+        "name": "Bescherung und Weihnachtsessen",
+        "locations": ["Deckerhalle"],
+        "on": "2023-12-11",
+        "level": "info",
+        "details": [
+            "15:00 Bescherung",
+            "17:45 Aufbruch zur Deckerhalle",
+            "18:30 - 20:00 Weihnachtsessen",
+            "Bitte beachte die Aushänge in deinem Haus für Infos"
+        ]
+    },
+    {
+        "name": "Nachhause fahren an Weihnachten",
+        "from": "2023-12-22",
+        "till": "2023-12-26",
+        "level": "info",
+        "details": [
+            "Dieses Jahr darf man von dem 22. bis zum 26. nachhause fahren!",
+            "Die Regelungen mit den Kosten ist kompliziert, also bitte erkundige dich darüber nochmals genauer bei deinen Betreuern."
+        ]
+    },
+    {
+        "name": "Metzgerei im MühlenMarkt geschlossen",
+        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
+        "from": "2023-12-23",
+        "till": "2024-01-07",
+        "level": "warning",
+        "details": ["Betriebsurlaub"]
+    },
+    {
+        "name": "MühlenMarkt geschlossen",
+        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
+        "on": "2023-12-30",
+        "level": "warning",
+        "details": ["MühlenMarkt hat heute Inventur."]
+    }
+]
