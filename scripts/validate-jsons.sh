@@ -17,6 +17,9 @@ function validator() {
     if jsonschema version > /dev/null; then
         METHOD="binary"
         jsonschema $*
+    elif docker run ghcr.io/sourcemeta/jsonschema version > /dev/null; then
+        METHOD="docker"
+        docker run ghcr.io/sourcemeta/jsonschema $*
     elif sudo docker run ghcr.io/sourcemeta/jsonschema version > /dev/null; then
         METHOD="docker"
         sudo docker run ghcr.io/sourcemeta/jsonschema $*
@@ -27,11 +30,13 @@ function validator() {
     fi
 }
 
+FAILED_VALIDATIONS=""
 function validate() {
     echo -e "Validating for '$1'..."
     if validator validate $* -d "https://json-schema.org/draft/2020-12/schema"; then
         echo -e "✅ Passed: $*"
     else
+        FAILED_VALIDATIONS="${FAILED_VALIDATIONS}\n    - $*"
         echo -e "❌ Failed: $*"
     fi
 }
@@ -42,12 +47,22 @@ function check() {
     NAME=$1
     validate "${SCHEMA_DIR}/${NAME}.schema.json" "${NAME}.json"
 }
+function checkYearNews() {
+    NAME=$1
+    validate "${SCHEMA_DIR}/${NAME}.schema.json" "${NAME}"-2*.json
+}
 
 check articles
 check authors
 check contributors
 check locations
 check news-health
-check news
+checkYearNews news
 check offerings
 check tour_locations
+
+if [ "$FAILED_VALIDATIONS" == "" ]; then
+    echo -e "\n✅ All checks passed successfully!"
+else
+    echo -e "\n❌ Some errors encountered:\n${FAILED_VALIDATIONS}"
+fi
