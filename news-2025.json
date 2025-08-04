@@ -332,8 +332,8 @@
     {
         "name": "Metzgereiverkauf im Mühlenmarkt geschlossen",
         "locations": ["MühlenMarkt"],
-        "from": "2025-08-08 15:00",
-        "till": "2025-08-09 23:59",
+        "from": "2025-08-08",
+        "till": "2025-08-09",
         "level": "warning",
         "details": []
     },
@@ -383,18 +383,37 @@
     },
     {
         "name": "Erntedankfest",
-        "locations": ["Deckerhalle", "Dorfplatz"],
-        "on": "2025-10-06",
+        "locations": ["Landwirtschaft", "Martinskirche"],
+        "from": "2025-10-06 10:30",
+        "till": "2025-10-06 15:00",
         "level": "info",
-        "details": []
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/erntedankfest",
+        "details": [
+            "Bustransfer, von der Martinskirche zur Landwirtschaft, ab <time datetime='2025-10-06 09:30'>09.30 Uhr</time>.",
+            "Beginnt mit einem familienfreundlichen Festgottestdienst.\nSpäter ein gemeinsames Mittagessen, Kaffee, Kuchen und Live-Musik."
+        ]
     },
     {
         "name": "Herbstflohmarkt",
-        "locations": ["Deckerhalle", "Dorfplatz"],
-        "from": "2025-10-11",
-        "till": "2025-10-12",
+        "locations": ["Dorfplatz"],
+        "from": "2025-10-11 07:00",
+        "till": "2025-10-12 14:00",
         "level": "info",
-        "details": []
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/herbstflohmarkt",
+        "details": [
+            "Jede Person, die verkaufen, kaufen oder bummeln will ist herzlich eingeladen!"
+        ]
+    },
+    {
+        "name": "Fachtag Sucht <q>Versorgung von Frauen* mit einer Suchterkrankung</q>",
+        "locations": ["Rainer-Endisch-Saal"],
+        "from": "2025-10-15 09:30",
+        "till": "2025-10-15 16:30",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/fachtag/sucht",
+        "details": [
+            "Für detailierte Informationen, zu den verschiedenen Vorträgen und Weiteres, auf die <a href='https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/fachtag/sucht'>Überschrift oder hier klicken</a>!"
+        ]
     },
     {
         "name": "Gedenkveranstaltung: <q>Die Opfer der NS-Gesundheitspolitik</q>",
@@ -408,6 +427,7 @@
         "from": "2025-11-28",
         "till": "2025-11-30",
         "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/weihnachtsmarkt",
         "details": []
     }
 ]
