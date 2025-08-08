@@ -364,6 +364,14 @@
         "details": ["Gerne selbstständig Grillgut und Getränke mitnehmen."]
     },
     {
+        "name": "Fußballturnier in Herzogsägmühle",
+        "locations": ["Fußballplatz"],
+        "from": "2025-08-29 13:00",
+        "till": "2025-08-29 14:00",
+        "level": "info",
+        "details": []
+    },
+    {
         "name": "Bundesweiter Warntag",
         "from": "2025-09-11 11:00",
         "till": "2025-09-11 11:30",
