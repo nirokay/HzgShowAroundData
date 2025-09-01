@@ -29,7 +29,15 @@
             ]
         },
         "same": ["Werkstatt-Laden im MühlenMarkt"],
-        "coords": [679, 3472, 755, 3545]
+        "coords": [679, 3472, 755, 3545],
+        "contact": {
+            "address": "Unteroblandstraße 11, 86971 Peiting",
+            "tels": {
+                "Metzgereiverkauf": "08861 219469",
+                "Bäckereiverkauf": "08861 2194233",
+                "Gärtnereiverlkauf": "08861 2194173"
+            }
+        }
     },
     {
         "name": "Werkstatt-Laden im MühlenMarkt",

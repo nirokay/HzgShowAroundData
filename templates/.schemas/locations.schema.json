@@ -69,6 +69,32 @@
                     "minLength": 4,
                     "maxLength": 4
                 }
+            },
+            "contact": {
+                "type": "object",
+                "description": "Contact information",
+                "properties": {
+                    "address": {
+                        "type": "string",
+                        "description": "Physical address"
+                    },
+                    "emails": {
+                        "type": "object",
+                        "description": "Email addresses",
+                        "additionalProperties": {
+                            "type": "string",
+                            "description": "Email address list item"
+                        }
+                    },
+                    "tels": {
+                        "type": "object",
+                        "description": "Telephone numbers",
+                        "additionalProperties": {
+                            "type": "string",
+                            "description": "Telephone number list item"
+                        }
+                    }
+                }
             }
         },
         "required": ["name"]
