@@ -318,7 +318,7 @@
         "details": ["Gerne selbstständig Grillgut und Getränke mitnehmen."]
     },
     {
-        "name": "Geänderte Öffnungszeiten im Mühlenmarkt",
+        "name": "Geänderte Öffnungszeiten im MühlenMarkt",
         "locations": ["MühlenMarkt"],
         "from": "2025-08-11",
         "till": "2025-08-30",
@@ -342,6 +342,14 @@
         "locations": ["Werkstatt-Laden im MühlenMarkt"],
         "from": "2025-08-11",
         "till": "2025-08-14",
+        "level": "warning",
+        "details": []
+    },
+    {
+        "name": "Betriebsurlaub Metzgereiverkauf",
+        "locations": ["MühlenMarkt"],
+        "from": "2025-08-11",
+        "till": "2025-09-09",
         "level": "warning",
         "details": []
     },
@@ -431,6 +439,27 @@
         "details": []
     },
     {
+        "name": "Betriebsurlaub MühlenMarkt",
+        "locations": ["MühlenMarkt"],
+        "on": "2025-11-19",
+        "level": "warning",
+        "details": []
+    },
+    {
+        "name": "Betriebsurlaub Metzgereiverkauf",
+        "locations": ["MühlenMarkt"],
+        "on": "2025-11-19",
+        "level": "warning",
+        "details": []
+    },
+    {
+        "name": "Betriebsurlaub Werkstatt-Laden im MühlenMarkt",
+        "locations": ["Werkstatt-Laden im MühlenMarkt"],
+        "on": "2025-11-19",
+        "level": "warning",
+        "details": []
+    },
+    {
         "name": "Weihnachtsmarkt",
         "locations": ["Deckerhalle", "Dorfplatz"],
         "from": "2025-11-28",
@@ -438,5 +467,57 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/weihnachtsmarkt",
         "details": []
+    },
+    {
+        "name": "Betriebsurlaub im Cafe Herzog",
+        "locations": ["Cafe und Wirtshaus Herzog"],
+        "from": "2025-12-19",
+        "till": "2026-01-06",
+        "level": "warning",
+        "details": []
+    },
+    {
+        "name": "Betriebsurlaub Metzgereiverkauf",
+        "locations": ["MühlenMarkt"],
+        "from": "2025-12-24",
+        "till": "2026-01-13",
+        "level": "warning",
+        "details": []
+    },
+    {
+        "name": "Geänderte Öffnungszeiten im MühlenMarkt",
+        "locations": ["MühlenMarkt"],
+        "from": "2025-12-24 08:00",
+        "till": "2025-12-24 12:00",
+        "level": "warning",
+        "details": [
+            "Der MühlenMarkt hat nur von <time datetime='2025-12-24 08:00'>08.00</time> bis <time datetime='2025-12-24 12:00'>12.00</time> Uhr geöffnet."
+        ]
+    },
+    {
+        "name": "Betriebsurlaub Werkstatt-Laden im MühlenMarkt",
+        "locations": ["Werkstatt-Laden im MühlenMarkt"],
+        "from": "2025-12-24",
+        "till": "2026-01-06",
+        "level": "warning",
+        "details": []
+    },
+    {
+        "name": "Betriebsurlaub Metzgereiverkauf",
+        "locations": ["MühlenMarkt"],
+        "from": "2025-12-24",
+        "till": "2026-01-13",
+        "level": "warning",
+        "details": []
+    },
+    {
+        "name": "Geänderte Öffnungszeiten im MühlenMarkt",
+        "locations": ["MühlenMarkt"],
+        "from": "2025-12-31 08:00",
+        "till": "2025-12-31 12:00",
+        "level": "warning",
+        "details": [
+            "Der MühlenMarkt hat nur von <time datetime='2025-12-31 08:00'>08.00</time> bis <time datetime='2025-12-31 12:00'>12.00</time> Uhr geöffnet."
+        ]
     }
 ]
