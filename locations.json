@@ -31,7 +31,7 @@
         "same": ["Werkstatt-Laden im MühlenMarkt"],
         "coords": [679, 3472, 755, 3545],
         "contact": {
-            "address": "Unteroblandstraße 11, 86971 Peiting",
+            "address": "Unteroblandstraße 11",
             "tels": {
                 "Metzgereiverkauf": "08861 219-469",
                 "Bäckereiverkauf": "08861 219-4233",
@@ -69,7 +69,7 @@
         "same": ["MühlenMarkt"],
         "coords": [640, 3472, 677, 3545],
         "contact": {
-            "address": "Unteroblandstraße 11, 86971 Peiting"
+            "address": "Unteroblandstraße 11"
         }
     },
     {
@@ -96,7 +96,7 @@
         "coords": [660, 3618, 718, 3651],
         "same": [],
         "contact": {
-            "address": "Von-Kahlstraße 4, 86971 Peiting",
+            "address": "Von-Kahlstraße 4",
             "tels": { "": "08861 219-4264" }
         }
     },
@@ -116,7 +116,7 @@
         "coords": [819, 3575, 876, 3619],
         "same": [],
         "contact": {
-            "address": "Am Latterbach 1, 86971 Peiting",
+            "address": "Am Latterbach 1",
             "tels": { "": "08861 7567" }
         }
     },
@@ -158,7 +158,7 @@
         "coords": [1131, 3750, 1256, 3864],
         "same": [],
         "contact": {
-            "address": "Mitterfeld 1, 86971 Peiting"
+            "address": "Mitterfeld 1"
         }
     },
     {
@@ -186,7 +186,7 @@
             "Am Latterbach Häuser 16 und 18"
         ],
         "contact": {
-            "address": "Am Latterbach 9 & 11, 86971 Peiting"
+            "address": "Am Latterbach 9 & 11"
         }
     },
     {
@@ -218,7 +218,7 @@
             "Am Latterbach Häuser 16 und 18"
         ],
         "contact": {
-            "address": "Am Latterbach 10 & 12, 86971 Peiting"
+            "address": "Am Latterbach 10 & 12"
         }
     },
     {
@@ -263,7 +263,7 @@
             "Am Latterbach Häuser 16 und 18"
         ],
         "contact": {
-            "address": "Am Latterbach 13, 86971 Peiting"
+            "address": "Am Latterbach 13"
         }
     },
     {
@@ -291,7 +291,7 @@
             "Am Latterbach Häuser 16 und 18"
         ],
         "contact": {
-            "address": "Am Latterbach 14, 86971 Peiting"
+            "address": "Am Latterbach 14"
         }
     },
     {
@@ -322,7 +322,7 @@
             "Am Latterbach Haus 14"
         ],
         "contact": {
-            "address": "Am Latterbach 16 & 18, 86971 Peiting"
+            "address": "Am Latterbach 16 & 18"
         }
     },
     {
@@ -349,7 +349,7 @@
         "coords": [1547, 3297, 1667, 3398],
         "same": ["Häuser Am Latterbach"],
         "contact": {
-            "address": "Oberes Kirchenwegfeld 6, 86971 Peiting"
+            "address": "Oberes Kirchenwegfeld 6"
         }
     },
     {
@@ -365,7 +365,7 @@
         "coords": [1715, 3310, 1799, 3477],
         "same": [],
         "contact": {
-            "address": "Oberes Kirchenwegfeld 1, 86971 Peiting"
+            "address": "Oberes Kirchenwegfeld 1"
         }
     },
     {
@@ -404,7 +404,7 @@
         "coords": [757, 2596, 841, 2700],
         "same": [],
         "contact": {
-            "address": "Kapellenfeld 5a, 86971 Peiting"
+            "address": "Kapellenfeld 5a"
         }
     },
     {
@@ -434,7 +434,7 @@
         "coords": [635, 3001, 719, 3046],
         "same": [],
         "contact": {
-            "address": "Dorfplatz 1, 86971 Peiting"
+            "address": "Dorfplatz 1"
         }
     },
     {
@@ -471,7 +471,7 @@
         },
         "coords": [257, 3018, 341, 3055],
         "contact": {
-            "address": "Ringstraße 4, 86971 Peiting",
+            "address": "Ringstraße 4",
             "tels": { "": "08861 219-464" },
             "emails": { "": "gebrauchtwarenrecycling@is-pfaffenwinkel.de" }
         }
@@ -502,7 +502,7 @@
         "coords": [545, 2825, 581, 2915],
         "same": ["Abenteuerspielplatz", "Minigolfanlage"],
         "contact": {
-            "address": "Dorfplatz 8, 86971 Peiting",
+            "address": "Dorfplatz 8",
             "tels": { "": "08861 219-213" },
             "emails": { "": "cateringservice.herzog@herzogsaegmuehle.de" }
         }
@@ -557,7 +557,7 @@
         "coords": [427, 2957, 477, 3063],
         "same": ["Dorfplatz"],
         "contact": {
-            "address": "Dorfplatz 6, 86971 Peiting"
+            "address": "Dorfplatz 6"
         }
     },
     {
@@ -595,7 +595,7 @@
             "Liselotte-von-Lepel-Gnitz-Schule"
         ],
         "contact": {
-            "address": "Schulweg 5, 86971 Peiting"
+            "address": "Schulweg 5"
         }
     },
     {
@@ -610,7 +610,7 @@
         "coords": [280, 2628, 582, 2790],
         "same": ["Alfons-Brandl-Schule", "Liselotte-von-Lepel-Gnitz-Schule"],
         "contact": {
-            "address": "Von-Kahlstraße 13, 86971 Peiting"
+            "address": "Von-Kahlstraße 13"
         }
     },
     {
@@ -631,7 +631,7 @@
         "coords": [660, 2889, 724, 2976],
         "same": ["Alfons-Brandl-Schule", "Albrecht-Schnitter-Berufsschule"],
         "contact": {
-            "address": "Dorfplatz 5, 86971 Peiting"
+            "address": "Dorfplatz 5"
         }
     },
     {
@@ -651,7 +651,7 @@
             "Beach-Volleyballfeld"
         ],
         "contact": {
-            "address": "Von-Kahlstraße 21, 86971 Peiting"
+            "address": "Von-Kahlstraße 21"
         }
     },
     {
@@ -673,7 +673,7 @@
             "Beach-Volleyballfeld"
         ],
         "contact": {
-            "address": "Schulweg 11, 86971 Peiting"
+            "address": "Schulweg 11"
         }
     },
     {
@@ -758,7 +758,7 @@
         "same": [],
         "coords": [293, 3215, 405, 3310],
         "contact": {
-            "address": "Werkstraße 9, 86971 Peiting"
+            "address": "Werkstraße 9"
         }
     },
     {
@@ -771,7 +771,7 @@
         "same": [],
         "coords": [407, 3295, 440, 3335],
         "contact": {
-            "address": "Werkstraße 4, 86971 Peiting"
+            "address": "Werkstraße 4"
         }
     },
     {
@@ -782,7 +782,7 @@
         "same": [],
         "coords": [407, 3265, 429, 3294],
         "contact": {
-            "address": "Werkstraße 8, 86971 Peiting"
+            "address": "Werkstraße 8"
         }
     },
     {
@@ -795,7 +795,7 @@
         "same": [],
         "coords": [407, 3210, 438, 3263],
         "contact": {
-            "address": "Werkstraße 6, 86971 Peiting"
+            "address": "Werkstraße 6"
         }
     },
     {
@@ -819,7 +819,7 @@
         "same": [],
         "coords": [380, 3378, 411, 3459],
         "contact": {
-            "address": "Werkstraße 1, 86971 Peiting"
+            "address": "Werkstraße 1"
         }
     },
     {
@@ -855,7 +855,7 @@
         ],
         "coords": [320, 3346, 411, 3376],
         "contact": {
-            "address": "Werkstraße 3, 86971 Peiting"
+            "address": "Werkstraße 3"
         }
     },
     {
@@ -888,7 +888,7 @@
         ],
         "coords": [279, 3096, 453, 3209],
         "contact": {
-            "address": "Werkstraße 1, 86971 Peiting"
+            "address": "Werkstraße 1"
         }
     },
     {
@@ -936,7 +936,7 @@
         "same": [],
         "coords": [1891, 608, 2038, 756],
         "contact": {
-            "address": "Oblandstraße 22, 86971 Peiting"
+            "address": "Oblandstraße 22"
         }
     },
     {
@@ -947,7 +947,7 @@
         "same": [],
         "coords": [2074, 707, 2351, 1089],
         "contact": {
-            "address": "Oblandstraße 20d, 86971 Peiting"
+            "address": "Oblandstraße 20d"
         }
     }
 ]
