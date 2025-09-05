@@ -5,26 +5,26 @@
     {
         "topic": "Entspannung",
         "desc": "Entspannung und Spannungsbewältigung",
-        "on": "2024-01-08",
+        "on": "2024-07-02",
         "by": "Christina Igelmund",
         "required": true
     },
     {
         "topic": "Schlaf",
         "desc": "gesunder Schlaf",
-        "on": "2025-04-09",
+        "on": "2025-09-17",
         "by": "Christina Igelmund",
         "required": true
     },
     {
         "topic": "Ernährung",
-        "on": "2025-05-28",
+        "on": "2025-12-03",
         "by": "Christina Igelmund",
         "required": true
     },
     {
         "topic": "Bewegung",
-        "on": "2025-03-05",
+        "on": "2025-08-27",
         "by": "Christina Igelmund",
         "required": true
     },
@@ -43,21 +43,20 @@
         "by": "Matthias Dorner"
     },
     {
-        "topic": "Medienkompetenz: Vorsicht Internet! (K.I., Fake News, ...)",
+        "topic": "Medienkompetenz: Chancen und Gefahren des Internets, K.I.",
         "desc": "Medienkompetenz und Internet",
-        "on": "2024-04-23",
+        "on": "2024-09-10",
         "by": "Matthias Dorner"
     },
     {
         "topic": "Medienkompetenz: Zocken und Streamen",
         "desc": "Medienkompetenz und Internet",
-        "on": "2024-06-04",
+        "on": "2024-09-24",
         "by": "Matthias Dorner"
     },
     {
-        "topic": "Medikamente",
-        "desc": "Medikamente in der Psychiatrie",
-        "on": "2024-04-02",
+        "topic": "Medikamente in der Psychiatrie",
+        "on": "2025-11-12",
         "by": "Richard Flatz",
         "required": true
     },
@@ -85,7 +84,7 @@
     {
         "topic": "Wie kann es nach der Reha weitergehen?",
         "desc": "Zukunftsplanung",
-        "on": "2025-04-06",
+        "on": "2025-11-26",
         "by": "Stefan Rienecker",
         "required": true
     },
@@ -102,17 +101,17 @@
     },
     {
         "topic": "Selbstoptimierung und Körperakzeptanz",
-        "on": "2025-05-07",
+        "on": "2025-10-01",
         "by": "Christina Igelmund"
     },
     {
         "topic": "Selbstfürsorge und Resilienz",
-        "on": "2025-02-28",
+        "on": "2025-10-24",
         "by": "Christine Haberler-Carl"
     },
     {
         "topic": "Stress und -bewältigung",
-        "on": "2025-02-05",
+        "on": "2025-07-30",
         "by": "Andreas Schmidt"
     },
     {
@@ -127,29 +126,29 @@
         "by": "Sonja Zimmermann"
     },
     {
-        "topic": "Erwartungen - Hoffnung - der Advent",
-        "on": "2024-11-27",
+        "topic": "Hoffnungen, Wünsche, Sehnsüchte - der Advent",
+        "on": "2025-12-17",
         "by": "Stefan Rienecker"
     },
     {
         "topic": "Gesundheitsbezogene Apps - Mental Health",
         "desc": "Mental-Health-Apps für psychische Gesundheit",
-        "on": "2024-12-04",
+        "on": "2025-10-08",
         "by": "Andreas Schmidt"
     },
     {
-        "topic": "Klettern - macht stärkere Persönlichkeiten",
-        "on": "2024-12-18",
+        "topic": "Therapeutisches Klettern",
+        "on": "2025-07-23",
         "by": "Stefan Jenuwein"
     },
     {
-        "topic": "Umsetzung und Veränderungsmotivation",
-        "on": "2025-01-15",
+        "topic": "Umsetzung und Veränderungsmotivation und Selbstwirksamkeit",
+        "on": "2025-07-09",
         "by": "Christina Igelmund"
     },
     {
         "topic": "Schizophrene Psychosen",
-        "on": "2025-03-26",
+        "on": "2025-11-05",
         "by": "Ute Seemann"
     },
     {
@@ -165,17 +164,34 @@
     },
     {
         "topic": "Waldboden und Naturtherapie",
-        "on": "2025-03-19",
+        "on": "2025-08-13",
         "by": "Christina Igelmund"
     },
     {
         "topic": "Hochbegabung",
-        "on": "2025-05-14",
+        "on": "2025-07-16",
         "by": "Sonja Zimmermann"
     },
     {
         "topic": "Rauchen",
-        "on": "2025-06-18",
+        "on": "2025-09-03",
         "by": "Matthias Dorner"
+    },
+    {
+        "topic": "Gehören Krisen zum Leben?",
+        "on": "2025-08-20",
+        "by": "Sonja Zimmermann"
+    },
+    {
+        "topic": "Übergang stellt sich vor",
+        "desc": "Vorstellung des Übergangs(-wohnen)",
+        "on": "2025-10-15",
+        "by": "Martin Steger & Anne Alftmann"
+    },
+    {
+        "topic": "Mobbing und Cybermobbing",
+        "desc": "(Cyber-)Mobbing",
+        "on": "2025-12-10",
+        "by": "Matthias Dorner & Christina Igelmund"
     }
 ]
