@@ -439,22 +439,8 @@
         "details": []
     },
     {
-        "name": "Betriebsurlaub MühlenMarkt",
-        "locations": ["MühlenMarkt"],
-        "on": "2025-11-19",
-        "level": "warning",
-        "details": []
-    },
-    {
-        "name": "Betriebsurlaub Metzgereiverkauf",
-        "locations": ["MühlenMarkt"],
-        "on": "2025-11-19",
-        "level": "warning",
-        "details": []
-    },
-    {
-        "name": "Betriebsurlaub Werkstatt-Laden im MühlenMarkt",
-        "locations": ["Werkstatt-Laden im MühlenMarkt"],
+        "name": "Betriebsurlaub MühlenMarkt und Werkstatt-Laden im MühlenMarkt",
+        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
         "on": "2025-11-19",
         "level": "warning",
         "details": []
