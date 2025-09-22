@@ -433,6 +433,20 @@
         ]
     },
     {
+        "name": "Rockkonzert mit der Band <q>Licca</q>",
+        "locations": ["Rainer-Endisch-Saal"],
+        "from": "2025-10-18 19:00",
+        "till": "2025-10-18 21:00",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/rockkonzert-mit-licca",
+        "image": "https://www.herzogsaegmuehle.de/fileadmin/_processed_/1/c/csm_Teaser_Rockkonzert_Licca_800x530px_e70d5fa60a.jpg",
+        "details": [
+            "Einlass ist ab <time datetime='2025-10-18 18:30'>18.30 Uhr</time> und Beginn um <time datetime='2025-10-18 19:00'>19.00 Uhr</time>.",
+            "Die Band <q>Licca</q> spielen Rockcoversongs aus verschiedenen Jahrzehnten.",
+            "Der Eintritt ist kostenfrei, Getränke kosten 1€."
+        ]
+    },
+    {
         "name": "Gedenkveranstaltung: <q>Die Opfer der NS-Gesundheitspolitik</q>",
         "on": "2025-11-19",
         "level": "info",
