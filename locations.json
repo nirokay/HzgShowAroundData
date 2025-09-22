@@ -96,7 +96,7 @@
         "coords": [660, 3618, 718, 3651],
         "same": [],
         "contact": {
-            "address": "Von-Kahlstraße 4",
+            "address": "Von-Kahl-Straße 4",
             "tels": { "": "08861 219-4264" }
         }
     },
@@ -610,7 +610,7 @@
         "coords": [280, 2628, 582, 2790],
         "same": ["Alfons-Brandl-Schule", "Liselotte-von-Lepel-Gnitz-Schule"],
         "contact": {
-            "address": "Von-Kahlstraße 13"
+            "address": "Von-Kahl-Straße 13"
         }
     },
     {
@@ -651,7 +651,7 @@
             "Beach-Volleyballfeld"
         ],
         "contact": {
-            "address": "Von-Kahlstraße 21"
+            "address": "Von-Kahl-Straße 21"
         }
     },
     {
