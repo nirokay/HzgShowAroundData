@@ -4,6 +4,8 @@ resources/images/map*
 
 # Project:
 .vscode/
+# Symbolic link to ../HzgShowAround/cspell.json (tracked there)
+cspell.json
 
 # Krita backup files:
 *.*~
