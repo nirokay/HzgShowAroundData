@@ -38,7 +38,7 @@ Einen Artikel in JSON zu verfassen ist für die Meisten einfacher, also wird die
 
 Um Artikel hinzuzufügen, arbeiten wir mit der `articles.json` Datei.
 
-![01_relavant_file.jpg](resources/first_article/01_relavant_file.jpg)
+![01_relevant_file.jpg](resources/first_article/01_relavant_file.jpg)
 
 Ungefähr so sieht sie aus. Nicht verschrecken, das was schon geschrieben ist, kann man ignorieren (oder sich daran orientieren).
 
@@ -193,7 +193,6 @@ Der JSON-Artikel wird von einem Programm zu HTML konvertiert. So sieht das Resul
     <hr>
     <p><br /></p>
     <footer class="generic-center-100-width">🄯 by nirokay | <small>Updated at 2023-12-20 - 11:19</small> | <a href="https://github.com/nirokay/HzgShowAround">Source</a> | <a href="../terms-of-service.html">Terms of Service</a></footer>
-    <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "301cf8a5a1c94af5987a04c936a8d670"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
 ```
