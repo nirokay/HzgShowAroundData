@@ -447,6 +447,30 @@
         ]
     },
     {
+        "name": "Briefwahl: Dorfrat",
+        "locations": ["Sekretariat Lebenslagen (Kapellenfeld 5)"],
+        "from": "2025-10-28",
+        "till": "2025-11-03",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/dorfversammlung",
+        "details": [
+            "Die Öffnungszeiten im Sekretariat <q>Menschen in besonderen Lebenslagen</q> am <i>Kapellenfeld 5</i> zur Briefwahl sind <time>Mo - Do: 08.00 - 16.00 Uhr</time> und <time>Fr: 08.00 - 12.00 Uhr</time>.",
+            "Falls du kandidieren willst, musst du dich bis spätestens den <time datetime='2025-10-21'>21. Oktober</time> bei der Telefonnummer <a href='tel:088612194400'>08861 2194400</a> anmelden."
+        ]
+    },
+    {
+        "name": "Einladung zur Dorfversammlung 2025",
+        "locations": ["Rainer-Endisch-Saal"],
+        "from": "2025-11-05 18:30",
+        "till": "2025-11-05 19:30",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/dorfversammlung",
+        "details": [
+            "Im Mittelpunkt stehen Informationen zu den Neubaugebieten und die Neuwahl des Dorfrats.",
+            "Zur Versorgung gibt es Gulaschsuppe und Getränke."
+        ]
+    },
+    {
         "name": "Gedenkveranstaltung: <q>Die Opfer der NS-Gesundheitspolitik</q>",
         "on": "2025-11-19",
         "level": "info",
