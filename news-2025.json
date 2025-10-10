@@ -421,6 +421,18 @@
         ]
     },
     {
+        "name": "Musikantentreffen",
+        "locations": ["Lindenhofsaal"],
+        "from": "2025-10-12 14:30",
+        "till": "2025-10-12 16:30",
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/musikanten-treffen",
+        "image": "https://www.herzogsaegmuehle.de/fileadmin/_processed_/2/4/csm_Musikantentreffen_teaser_834d0cda91.jpg",
+        "details": [
+            "Komme gerne vorbei für einen Nachmittag mit Musik, Gesang und Kaffee und Kuchen"
+        ]
+    },
+    {
         "name": "Fachtag Sucht <q>Versorgung von Frauen* mit einer Suchterkrankung</q>",
         "locations": ["Rainer-Endisch-Saal"],
         "from": "2025-10-15 09:30",
