@@ -402,7 +402,7 @@
             "footer": ["leisure/rainer-endisch-saal/über-wasser.webp"]
         },
         "coords": [757, 2596, 841, 2700],
-        "same": [],
+        "same": ["Deckerhalle", "Lindenhofsaal"],
         "contact": {
             "address": "Kapellenfeld 5a"
         }
@@ -555,7 +555,7 @@
             "header": "leisure/deckerhalle/deckerhalle.webp"
         },
         "coords": [427, 2957, 477, 3063],
-        "same": ["Dorfplatz"],
+        "same": ["Dorfplatz", "Lindenhofsaal", "Rainer-Endisch-Saal"],
         "contact": {
             "address": "Dorfplatz 6"
         }
@@ -568,6 +568,17 @@
         "pics": {},
         "coords": [481, 2946, 590, 3067],
         "same": ["Deckerhalle"]
+    },
+    {
+        "name": "Lindenhofsaal",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "coords": [478, 3202, 519, 3324],
+        "same": ["Deckerhalle", "Rainer-Endisch-Saal"],
+        "contact": {
+            "address": "Von-Kahl-Straße 7"
+        }
     },
     {
         "name": "Skater-Park",
