@@ -2,13 +2,13 @@
     {
         "name": "MühlenMarkt",
         "alias": ["Mühlen-Markt", "Mühlenmarkt"],
-        "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/muehlenmarkt",
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/muehlenmarkt",
         "desc": {
             "Was gibt es?": [
                 "Um es kurz zu machen: Lebensmittel! Der MühlenMarkt ist ein Edeka, die Auswahl ist nicht allzu riesengroß, aber es ist genug Verschiedenes da."
             ],
-            "Wöchentliche Angebote": [
-                "Jede Woche gibt es neue Angebote. Ein Zettel mit Diesen hängt vor dem MühlenMarkt aus!\nDu kannst ihn auch auf der Website vom MühlenMarkt sehen, klicke einfach auf die Überschrift ganz oben, um dort hinzugelangen."
+            "<a href='https://www.herzogsaegmuehle.de/laeden-und-betriebe/muehlenmarkt#c15882'>Wöchentliche Angebote</a>": [
+                "Jede Woche gibt es neue Angebote. Ein Zettel mit Diesen hängt vor dem MühlenMarkt aus!\nDu kannst ihn auch auf der Website vom MühlenMarkt sehen, klicke einfach auf die Überschrift über diesem Paragraphen, um dort hinzugelangen."
             ],
             "Bäckerei- und Metzgereiverkauf": [
                 "Frisches Gebäck und Fleisch wird an den Theken verkauft.",
@@ -50,7 +50,7 @@
             "Werkstattladen im Mühlenmarkt",
             "Werkstattladen"
         ],
-        "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren",
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/muehlenmarkt#c15987",
         "desc": {
             "Was gibt es?": [
                 "Vorallem Gebasteltes/Gewerkeltes wird verkauft, aber auch Spielzeug und vieles mehr!"
@@ -122,14 +122,26 @@
     },
     {
         "name": "Metzgerei und Bäckerei",
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/handwerksbetriebe#c6041",
         "desc": {},
         "open": {},
         "pics": {},
         "coords": [878, 3574, 967, 3619],
-        "same": []
+        "same": [],
+        "contact": {
+            "address": "Am Latterbach 1",
+            "emails": {
+                "Metzgerei (Produktion)": "peter.hofmann@herzogsaegmuehle.de"
+            },
+            "tels": {
+                "Metzgerei (Produktion)": "08861 219-236"
+            }
+        }
     },
     {
         "name": "Herzogsägmühler Werkstätten",
+        "alias": ["Handwerksbetriebe"],
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/handwerksbetriebe",
         "desc": {
             "Arbeiten": [
                 "Als eine der weiterführende Maßnahmen kannst du hier in einem geschützten Bereich arbeiten, Praktikum machen oder eine Ausbildung abschließen."
@@ -146,19 +158,25 @@
     {
         "name": "Telezentrum - Digitale Medien",
         "alias": ["Telezentrum"],
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/handwerksbetriebe#c6099",
         "desc": {
             "Sonstiges": [
                 "<b>Spezielles:</b>\nHier befindet sich ein Getränkeautomat."
             ]
         },
-        "open": {},
+        "open": {
+            "Mo - Do": "08.00 - 12.00 & 13.00 - 17.00",
+            "Fr": "08.00 - 12.00"
+        },
         "pics": {
             "header": "work/telezentrum.webp"
         },
         "coords": [1131, 3750, 1256, 3864],
         "same": [],
         "contact": {
-            "address": "Mitterfeld 1"
+            "address": "Mitterfeld 2",
+            "emails": { "": "telezentrum@herzogsaegmuehle.de" },
+            "tels": { "": "08861 219-4100" }
         }
     },
     {
@@ -370,7 +388,7 @@
     },
     {
         "name": "Gärtnerei",
-        "link": "https://www.gartenwinkel-pfaffenwinkel.de/g%C3%A4rtnereien/g%C3%A4rtnerei-herzogs%C3%A4gm%C3%BChle/",
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/gaertnerei",
         "desc": {
             "Verkauf": [
                 "Frisches Gemüse und Obst wird im <a href='muehlenmarkt.html'>MühlenMarkt</a> an der Gemüse-/Obstabteilung verkauft."
@@ -386,7 +404,16 @@
             "footer": ["work/gärtnerei/beet.webp"]
         },
         "coords": [625, 3103, 959, 3357],
-        "same": []
+        "same": [],
+        "contact": {
+            "address": "Oblandstraße 4",
+            "emails": {
+                "": "gaertnerei.floristik@herzogsaegmuehle.de"
+            },
+            "tels": {
+                "": "08861 219-254"
+            }
+        }
     },
     {
         "name": "Rainer-Endisch-Saal",
@@ -409,7 +436,7 @@
     },
     {
         "name": "Sinnespfad",
-        "link": "https://www.herzogsaegmuehle.de/wir-sind-diakonie/leben-in-herzogsaegmuehle#c1969",
+        "link": "https://www.herzogsaegmuehle.de/erleben/sinnespfad",
         "desc": {},
         "open": {},
         "pics": {
@@ -425,9 +452,16 @@
     },
     {
         "name": "Martinskirche",
-        "link": "https://www.herzogsaegmuehle.de/wir-sind-diakonie/leben-in-herzogsaegmuehle#c1944",
-        "desc": {},
-        "open": {},
+        "link": "https://www.herzogsaegmuehle.de/erleben/martinskirche",
+        "desc": {
+            "Gottesdienst": [
+                "Der Gottesdienst findet jeden <time>Sonntag um 10.45 Uhr</time> statt."
+            ]
+        },
+        "open": {
+            "Mo - Fr": "11.00 - 17.00",
+            "So": "11.00 - 17.00"
+        },
         "pics": {
             "header": "church/martinskirche.webp"
         },
@@ -455,7 +489,7 @@
     },
     {
         "name": "Wühlkiste",
-        "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren/herzogsaegmuehler-laeden",
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/wuehlkiste",
         "desc": {
             "Was gibt es?": [
                 "Von Kleidung bis Aschenbecher ist alles mit dabei! Gib den Dingen eine zweite Chance mit dir zu leben."
@@ -481,6 +515,9 @@
         "alias": ["Cafe Herzog", "Café Herzog"],
         "link": "https://www.herzogsaegmuehle.de/einkehren",
         "desc": {
+            "Wöchentliche Angebote": [
+                "Du kannst die <a target='_blank' href='https://www.herzogsaegmuehle.de/einkehren#c20392'>wöchentlichen Angebote digital abrufen</a>."
+            ],
             "Speisekarte": [
                 "Du kannst die <a target='_blank' href='https://www.herzogsaegmuehle.de/einkehren#c641'>Speisekarte digital aufrufen</a>."
             ],
@@ -612,7 +649,7 @@
     {
         "name": "Albrecht-Schnitter-Berufsschule",
         "alias": ["Albrecht-Schnitter Berufsschule"],
-        "link": "https://www.berufsschule-herzogsaegmuehle.de/",
+        "link": "https://berufsschule-herzogsaegmuehle.de//",
         "desc": {},
         "open": {},
         "pics": {
@@ -621,7 +658,13 @@
         "coords": [280, 2628, 582, 2790],
         "same": ["Alfons-Brandl-Schule", "Liselotte-von-Lepel-Gnitz-Schule"],
         "contact": {
-            "address": "Von-Kahl-Straße 13"
+            "address": "Von-Kahl-Straße 13",
+            "tels": {
+                "": "08861 21 94 000"
+            },
+            "emails": {
+                "": "sekretariat@berufsschule-herzogsaegmuehle.de"
+            }
         }
     },
     {
@@ -635,14 +678,20 @@
             "Fachschule Heilerziehungspflege",
             "Heilerziehungspflegeschule"
         ],
-        "link": "https://www.herzogsaegmuehle.de/hilfeangebote/schulen/heilerziehungspflegeschule",
+        "link": "https://hep-fachschule.de/",
         "desc": {},
         "open": {},
         "pics": {},
         "coords": [660, 2889, 724, 2976],
         "same": ["Alfons-Brandl-Schule", "Albrecht-Schnitter-Berufsschule"],
         "contact": {
-            "address": "Dorfplatz 5"
+            "address": "Dorfplatz 5",
+            "tels": {
+                "": "08861 21 94 091"
+            },
+            "emails": {
+                "": "heilerziehungspflegeschule@herzogsaegmuehle.de"
+            }
         }
     },
     {
@@ -759,68 +808,115 @@
         ]
     },
     {
+        "name": "Bau- und Möbelschreinerei",
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/partner-der-wirtschaft#c16331",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "same": [],
+        "contact": {
+            "address": "Unteroblandstraße 3",
+            "emails": { "": "schreinerei.betriebe@herzogsaegmuehle.de" },
+            "tels": { "": "08861 219-242" }
+        }
+    },
+    {
         "name": "KFZ-Werkstatt",
         "alias": ["Autowerkstatt"],
         "desc": {},
-        "open": {},
+        "open": {
+            "Mo - Do": "07.30 - 12.15 & 13.00 - 17.00",
+            "Fr": "07.30 - 12.30"
+        },
         "pics": {
             "header": "work/werkstätten/kfz.webp"
         },
         "same": [],
         "coords": [293, 3215, 405, 3310],
         "contact": {
-            "address": "Werkstraße 9"
+            "address": "Werkstraße 9",
+            "emails": { "": "kraftfahrzeug.betriebe@herzogsaegmuehle.de" },
+            "tels": { "": "08861 219-246" }
         }
     },
     {
         "name": "Elektrowerkstatt",
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/handwerksbetriebe#c5950",
         "desc": {},
-        "open": {},
+        "open": {
+            "Mo - Do": "07.30 - 08.30 & 13.00 - 13.30 & 16.30 - 17.00",
+            "Fr": "07.30 - 08.30"
+        },
         "pics": {
             "header": "work/werkstätten/elektrowerkstatt.webp"
         },
         "same": [],
         "coords": [407, 3295, 440, 3335],
         "contact": {
-            "address": "Werkstraße 4"
+            "address": "Werkstraße 4",
+            "emails": { "": "kuppe@herzogsaegmuehle.de" },
+            "tels": { "": "08861 219-244" }
         }
     },
     {
         "name": "Licht- und Wachsmanifaktur",
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/licht-und-wachs-manufaktur",
         "desc": {},
         "open": {},
         "pics": {},
         "same": [],
         "coords": [407, 3265, 429, 3294],
         "contact": {
-            "address": "Werkstraße 8"
+            "address": "Werkstraße 7",
+            "emails": {
+                "": "wachsmanufaktur@herzogsaegmuehle.de"
+            },
+            "tels": {
+                "": "08861 219-463"
+            }
         }
     },
     {
         "name": "Sanitär- und Heizungstechnik",
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/handwerksbetriebe#c6082",
         "desc": {},
-        "open": {},
+        "open": {
+            "Mo - Do": "07.30 - 12.00 & 13.00 - 17.30",
+            "Fr": "07.30 - 12.00"
+        },
         "pics": {
             "header": "work/werkstätten/heizung.webp"
         },
         "same": [],
         "coords": [407, 3210, 438, 3263],
         "contact": {
-            "address": "Werkstraße 6"
+            "address": "Werkstraße 6",
+            "emails": { "": "tobias.guffler@herzogsaegmuehle.de" },
+            "tels": { "": "08861 219-245" }
         }
     },
     {
         "name": "Schlosserei",
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/handwerksbetriebe#c6089",
         "desc": {},
-        "open": {},
+        "open": {
+            "Mo - Do": "07.30 - 12.00 & 13.00 - 17.00",
+            "Fr": "07.30 - 12.00"
+        },
         "pics": {
             "header": "work/werkstätten/schlosserei.webp"
         },
         "same": [],
-        "coords": [313, 3379, 367, 3399]
+        "coords": [313, 3379, 367, 3399],
+        "contact": {
+            "address": "Werkstraße 3",
+            "emails": { "": "schlosserei.betriebe@herzogsaegmuehle.de" },
+            "tels": { "": "08861 219-241" }
+        }
     },
     {
         "name": "Malerei",
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/handwerksbetriebe#c6030",
         "desc": {},
         "open": {},
         "pics": {
@@ -830,7 +926,9 @@
         "same": [],
         "coords": [380, 3378, 411, 3459],
         "contact": {
-            "address": "Werkstraße 1"
+            "address": "Werkstraße 1",
+            "emails": { "": "fabian.bohner@herzogsaegmuehle.de" },
+            "tels": { "": "08861 219-247" }
         }
     },
     {
@@ -931,6 +1029,14 @@
         "coords": [1973, 2412, 2049, 2483]
     },
     {
+        "name": "Friedhof",
+        "link": "https://www.herzogsaegmuehle.de/leben-im-dorf/friedhof",
+        "desc": {},
+        "pics": {},
+        "same": [],
+        "coords": [3297, 2171, 3490, 2365]
+    },
+    {
         "name": "Sternenstunden-Reithalle",
         "alias": [
             "Sternenstunde-Reithalle",
@@ -939,26 +1045,36 @@
             "Reithalle",
             "Tiergestützte Therapie",
             "Tiergestützte-Therapie",
-            "Pferdetherapie"
+            "Pferdetherapie",
+            "Reittherapie"
         ],
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/handwerksbetriebe/tiergestuetzte-therapie",
         "desc": {},
         "open": {},
         "pics": {},
         "same": [],
         "coords": [1891, 608, 2038, 756],
         "contact": {
-            "address": "Oblandstraße 22"
+            "address": "Oblandstraße 22",
+            "emails": { "": "reittherapie@herzogsaegmuehle.de" },
+            "tels": {
+                "Festnetz": "08861 219-680",
+                "Mobil": "0162 598 01 85"
+            }
         }
     },
     {
         "name": "Landwirtschaft",
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/handwerksbetriebe#c6011",
         "desc": {},
         "open": {},
         "pics": {},
         "same": [],
         "coords": [2074, 707, 2351, 1089],
         "contact": {
-            "address": "Oblandstraße 20d"
+            "address": "Oblandstraße 20e",
+            "emails": { "": "landwirtschaft@herzogsaegmuehle.de" },
+            "tels": { "": "08861 219-368" }
         }
     }
 ]
