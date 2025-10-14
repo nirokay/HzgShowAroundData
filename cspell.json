@@ -1902,5 +1902,9 @@
     "legales",
     "legaler",
     "illegales"
+  ],
+  "userWords": [
+    "notin",
+    "addattr"
   ]
 }
