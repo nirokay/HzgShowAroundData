@@ -75,7 +75,7 @@
     {
         "name": "Post und Treuhand-Kasse",
         "alias": ["Treuhand-Kasse", "Postgebäude", "Post-Gebäude"],
-        "link": "https://www.herzogsaegmuehle.de/einkaufen-und-einkehren",
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/post",
         "desc": {
             "Post": [
                 "Hier kannst du Post versenden und ggf. empfangen über DHL."
@@ -87,8 +87,8 @@
             ]
         },
         "open": {
-            "Mo - Fr": "08.00 - 12.00",
-            "Di, Do": "13.15 - 17.00"
+            "Mo, Mi, Fr": "08.00 - 12.00",
+            "Di, Do": "08.00 - 12.00 & 13.15 - 16.00"
         },
         "pics": {
             "header": "post.webp"
@@ -416,6 +416,26 @@
         }
     },
     {
+        "name": "Dorfrat",
+        "link": "https://www.herzogsaegmuehle.de/leben-im-dorf/dorfrat",
+        "desc": {
+            "Themen": [
+                "Der Dorfrat berät und entscheidet über Themen der Herzogsägmühler Bewohner. Darunter fallen vorallem Themen wie <i>Mobilität</i> in Form von <abbr title='Öffentlicher Personennahverkehr'>ÖPNV</abbr> und <i>Car Sharing</i>, Veranstaltungen und Arbeit bezüglich Kultur, Sport, Freizeitangebote und Geschichte, Infrastrukturprojekte und Sauberkeit."
+            ],
+            "Öffentliche Sitzungen": [
+                "Im Regelfall finden die öffentlichen Dorfratsitzungen jeden <time>2. Mittwoch im Monat</time> ab <time>13.00 Uhr</time> im Konferenzraum II statt.",
+                "Die Protokolle dieser werden am Roten Berg im Schaukasten und vor dem <a href='./muehlenmarkt.html'>Mühlenmarkt</a> ausgestellt."
+            ]
+        },
+        "open": {},
+        "pics": {},
+        "coords": [620, 2700, 658, 2739],
+        "contact": {
+            "address": "Kapellenfeld 5",
+            "emails": { "": "dorfrat@herzogsaegmuehle.de" }
+        }
+    },
+    {
         "name": "Rainer-Endisch-Saal",
         "alias": [
             "Rainer-Endisch-Saals",
@@ -696,6 +716,7 @@
     },
     {
         "name": "Vereinsheim SV Herzogsägmühle",
+        "link": "https://www.herzogsaegmuehle.de/leben-im-dorf/vereine",
         "desc": {},
         "open": {},
         "pics": {
@@ -757,6 +778,7 @@
     },
     {
         "name": "Fußballplatz",
+        "link": "https://www.herzogsaegmuehle.de/erleben/soziale-medien/sv-herzogsaegmuehle",
         "desc": {},
         "open": {},
         "pics": {

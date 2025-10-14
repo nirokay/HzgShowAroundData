@@ -460,7 +460,7 @@
     },
     {
         "name": "Briefwahl: Dorfrat",
-        "locations": ["Sekretariat Lebenslagen (Kapellenfeld 5)"],
+        "locations": ["Sekretariat Lebenslagen (Kapellenfeld 5)", "Dorfrat"],
         "from": "2025-10-28",
         "till": "2025-11-03",
         "level": "info",
@@ -471,8 +471,8 @@
         ]
     },
     {
-        "name": "Einladung zur Dorfversammlung 2025",
-        "locations": ["Rainer-Endisch-Saal"],
+        "name": "Einladung zur Dorfversammlung 2025 im <i>Rainer-Endisch-Saal</i>",
+        "locations": ["Rainer-Endisch-Saal", "Dorfrat"],
         "from": "2025-11-05 18:30",
         "till": "2025-11-05 19:30",
         "level": "info",
