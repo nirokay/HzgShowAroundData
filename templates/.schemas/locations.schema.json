@@ -36,7 +36,7 @@
                 "type": "object",
                 "description": "(Optionally Multiple) Opening/closing times of the location",
                 "additionalProperties": {
-                    "type": "string",
+                    "type": "object",
                     "description": "Opening times object",
                     "additionalProperties": {
                         "type": "string",
