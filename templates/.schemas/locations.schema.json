@@ -34,7 +34,15 @@
             },
             "open": {
                 "type": "object",
-                "description": "Opening/closing times of the location"
+                "description": "(Optionally Multiple) Opening/closing times of the location",
+                "additionalProperties": {
+                    "type": "string",
+                    "description": "Opening times object",
+                    "additionalProperties": {
+                        "type": "string",
+                        "description": "Opening times list item"
+                    }
+                }
             },
             "pics": {
                 "type": "object",

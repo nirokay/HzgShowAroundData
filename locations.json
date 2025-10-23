@@ -16,10 +16,21 @@
             ]
         },
         "open": {
-            "Mo": "07.30 - 13.00",
-            "Di - Fr": "07:30 - 18.00",
-            "Sa": "08.00 - 12.00",
-            "Metzgerei": "keine Bedienung dienstags ab 13.00"
+            "MühlenMarkt": {
+                "Mo": "07.30 - 13.00",
+                "Di - Fr": "07:30 - 18.00",
+                "Sa": "08.00 - 12.00"
+            },
+            "Metzgereiverkauf": {
+                "Mo - Mi": "7.30 - 13.00",
+                "Do - Fr": "7.30 - 18.00"
+            },
+            "Kaffee-Ecke": {
+                "Mo": "8.30 - 13.00",
+                "Di, Mi": "8.30 - 17.00",
+                "Do": "8.30 - 18.00",
+                "Fr": "8.30 - 17.00"
+            }
         },
         "pics": {
             "header": "shopping/mühlenmarkt/eingang.webp",
@@ -57,10 +68,12 @@
             ]
         },
         "open": {
-            "Mo": "08.30 - 13.00",
-            "Di - Mi": "08.30 - 17.00",
-            "Do": "08.30 - 18.00",
-            "Fr": "08.30 - 17.00"
+            "": {
+                "Mo": "08.30 - 13.00",
+                "Di - Mi": "08.30 - 17.00",
+                "Do": "08.30 - 18.00",
+                "Fr": "08.30 - 17.00"
+            }
         },
         "pics": {
             "header": "shopping/mühlenmarkt/werkstattladen/logo.webp",
@@ -87,8 +100,10 @@
             ]
         },
         "open": {
-            "Mo, Mi, Fr": "08.00 - 12.00",
-            "Di, Do": "08.00 - 12.00 & 13.15 - 16.00"
+            "": {
+                "Mo, Mi, Fr": "08.00 - 12.00",
+                "Di, Do": "08.00 - 12.00 & 13.15 - 16.00"
+            }
         },
         "pics": {
             "header": "post.webp"
@@ -165,8 +180,13 @@
             ]
         },
         "open": {
-            "Mo - Do": "08.00 - 12.00 & 13.00 - 17.00",
-            "Fr": "08.00 - 12.00"
+            "Telezentrum": {
+                "Mo - Do": "08.00 - 12.00 & 13.00 - 17.00",
+                "Fr": "08.00 - 12.00"
+            },
+            "Auftragsannahme": {
+                "Mo - Do": "9.00 - 12.00 & 13.00 - 14.30"
+            }
         },
         "pics": {
             "header": "work/telezentrum.webp"
@@ -395,9 +415,11 @@
             ]
         },
         "open": {
-            "Mo": "08.30 - 12.30",
-            "Di - Do": "08.30 - 12.30 & 13.30 - 16.30",
-            "Fr": "08.30 - 12.30"
+            "": {
+                "Mo": "08.30 - 12.30",
+                "Di - Do": "08.30 - 12.30 & 13.30 - 16.30",
+                "Fr": "08.30 - 12.30"
+            }
         },
         "pics": {
             "header": "work/gärtnerei/haus-aussen.webp",
@@ -479,8 +501,10 @@
             ]
         },
         "open": {
-            "Mo - Fr": "11.00 - 17.00",
-            "So": "11.00 - 17.00"
+            "": {
+                "Mo - Fr": "11.00 - 17.00",
+                "So": "11.00 - 17.00"
+            }
         },
         "pics": {
             "header": "church/martinskirche.webp"
@@ -516,8 +540,10 @@
             ]
         },
         "open": {
-            "Mo - Do": "08.00 - 12.00 & 13.00 - 17.00",
-            "Fr": "08.00 - 12.00"
+            "": {
+                "Mo - Do": "08.00 - 12.00 & 13.00 - 17.00",
+                "Fr": "08.00 - 12.00"
+            }
         },
         "pics": {
             "header": "shopping/wühlkiste/eingang-sicht.webp",
@@ -549,9 +575,11 @@
             ]
         },
         "open": {
-            "Mo - Do": "10.00 - 16.00",
-            "1. Fr im Monat": "18.00 - 21.00",
-            "So und Feiertage": "09.00 - 17.00"
+            "": {
+                "Mo - Do": "10.00 - 16.00",
+                "1. Fr im Monat": "18.00 - 21.00",
+                "So und Feiertage": "09.00 - 17.00"
+            }
         },
         "pics": {
             "header": "shopping/cafe/eingang.webp"
@@ -847,8 +875,10 @@
         "alias": ["Autowerkstatt"],
         "desc": {},
         "open": {
-            "Mo - Do": "07.30 - 12.15 & 13.00 - 17.00",
-            "Fr": "07.30 - 12.30"
+            "": {
+                "Mo - Do": "07.30 - 12.15 & 13.00 - 17.00",
+                "Fr": "07.30 - 12.30"
+            }
         },
         "pics": {
             "header": "work/werkstätten/kfz.webp"
@@ -866,8 +896,10 @@
         "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/handwerksbetriebe#c5950",
         "desc": {},
         "open": {
-            "Mo - Do": "07.30 - 08.30 & 13.00 - 13.30 & 16.30 - 17.00",
-            "Fr": "07.30 - 08.30"
+            "Kontakt": {
+                "Mo - Do": "07.30 - 08.30 & 13.00 - 13.30 & 16.30 - 17.00",
+                "Fr": "07.30 - 08.30"
+            }
         },
         "pics": {
             "header": "work/werkstätten/elektrowerkstatt.webp"
@@ -903,8 +935,10 @@
         "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/handwerksbetriebe#c6082",
         "desc": {},
         "open": {
-            "Mo - Do": "07.30 - 12.00 & 13.00 - 17.30",
-            "Fr": "07.30 - 12.00"
+            "": {
+                "Mo - Do": "07.30 - 12.00 & 13.00 - 17.30",
+                "Fr": "07.30 - 12.00"
+            }
         },
         "pics": {
             "header": "work/werkstätten/heizung.webp"
@@ -922,8 +956,10 @@
         "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/handwerksbetriebe#c6089",
         "desc": {},
         "open": {
-            "Mo - Do": "07.30 - 12.00 & 13.00 - 17.00",
-            "Fr": "07.30 - 12.00"
+            "": {
+                "Mo - Do": "07.30 - 12.00 & 13.00 - 17.00",
+                "Fr": "07.30 - 12.00"
+            }
         },
         "pics": {
             "header": "work/werkstätten/schlosserei.webp"
@@ -1007,8 +1043,10 @@
             ]
         },
         "open": {
-            "Mo - Do": "08.00 - 16.00",
-            "Fr": "08.00 - 12.00"
+            "": {
+                "Mo - Do": "08.00 - 16.00",
+                "Fr": "08.00 - 12.00"
+            }
         },
         "pics": {
             "header": "work/BZ.webp"
@@ -1033,8 +1071,10 @@
         "link": "https://www.herzogsaegmuehle.de/hilfeangebote/sozialpsychiatrie-sucht-und-gesundheit/rehabilitation#c5184",
         "desc": {},
         "open": {
-            "Mo - Do": "8.00 - 15.30",
-            "Fr": "8.00 - 12.00"
+            "": {
+                "Mo - Do": "8.00 - 15.30",
+                "Fr": "8.00 - 12.00"
+            }
         },
         "pics": {},
         "same": ["Berufsbildende Maßnahme (BBM)", "Berufliches Zentrum (BZ)"],
