@@ -484,7 +484,7 @@
     },
     {
         "name": "Gedenkveranstaltung: <q>Geschichte geht uns alle an</q>",
-        "locations": ["Ort der Erinnerung", "Deckerhalle"],
+        "locations": ["Denkmal: Ort der Erinnerung", "Deckerhalle"],
         "from": "2025-11-19 15:00",
         "till": "2025-11-19 17:00",
         "level": "info",
