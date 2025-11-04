@@ -86,6 +86,18 @@
         }
     },
     {
+        "name": "Denkmal: Ort der Erinnerung",
+        "alias": [
+            "Denkmal <q>Ort der Erinnerung</q>",
+            "Denkmal Ort der Erinnerung"
+        ],
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "coords": [520, 3581, 595, 3640],
+        "same": []
+    },
+    {
         "name": "Post und Treuhand-Kasse",
         "alias": ["Treuhand-Kasse", "Postgebäude", "Post-Gebäude"],
         "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/post",

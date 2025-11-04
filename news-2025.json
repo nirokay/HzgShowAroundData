@@ -476,17 +476,22 @@
         "from": "2025-11-05 18:30",
         "till": "2025-11-05 19:30",
         "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/dorfversammlung",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/dorfversammlung",
         "details": [
             "Im Mittelpunkt stehen Informationen zu den Neubaugebieten und die Neuwahl des Dorfrats.",
             "Zur Versorgung gibt es Gulaschsuppe und Getränke."
         ]
     },
     {
-        "name": "Gedenkveranstaltung: <q>Die Opfer der NS-Gesundheitspolitik</q>",
-        "on": "2025-11-19",
+        "name": "Gedenkveranstaltung: <q>Geschichte geht uns alle an</q>",
+        "locations": ["Ort der Erinnerung", "Deckerhalle"],
+        "from": "2025-11-19 15:00",
+        "till": "2025-11-19 17:00",
         "level": "info",
-        "details": []
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/gedenkfeier",
+        "details": [
+            "Beginn am Denkmal <q>Ort der Erinnerung</q> um <time datetime='2025-11-19 15:00'>15.00 Uhr</time>, danach Beiträge und Austausch im Foyer der Deckerhalle."
+        ]
     },
     {
         "name": "Betriebsurlaub MühlenMarkt und Werkstatt-Laden im MühlenMarkt",
