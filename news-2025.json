@@ -498,11 +498,32 @@
     {
         "name": "Weihnachtsmarkt",
         "locations": ["Deckerhalle", "Dorfplatz"],
-        "from": "2025-11-28",
-        "till": "2025-11-30",
+        "from": "2025-11-28 11:00",
+        "till": "2025-11-30 17:00",
         "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/weihnachtsmarkt",
-        "details": []
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/weihnachtsmarkt",
+        "details": [
+            "Eintritt zum Markt und allen Veranstaltungen ist kostenfrei.",
+            "Der MühlenMarkt, der WerkstattLaden, die Gärtnerei und die Licht- und Wachsmanifaktur sind geöffnet.",
+            "<br />",
+            "<b>Freitag</b> von <time datetime='2025-11-28 11:00'>11.00</time> bis <time datetime='2025-11-28 19:00'>19.00</time> Uhr",
+            "<time datetime='2025-11-28 11:00'>11.00 Uhr</time>: Eröffnung in der Deckerhalle mit Livemusik",
+            "<time datetime='2025-11-28 12:00'>12:00</time> bis <time datetime='2025-11-28 17:00'>17:00</time> Uhr: Kinderkaufmannsladen",
+            "<time datetime='2025-11-28 18:00'>18.00 Uhr</time>: Gospelchor",
+            "<br />",
+            "<b>Samstag</b> von <time datetime='2025-11-29 11:00'>11.00</time> bis <time datetime='2025-11-29 19:00'>19.00</time> Uhr",
+            "<time datetime='2025-11-29 12:00'>12.00</time> bis <time datetime='2025-11-29 17:00'>17.00</time> Uhr: Kinderkaufmannsladen und PuBalei",
+            "<time datetime='2025-11-29 15:00'>15.00</time> bis <time datetime='2025-11-29 18:00'>18.00</time> Uhr: Pferdekutschenfahrten",
+            "<time datetime='2025-11-29 14:00'>14.00</time> bis <time datetime='2025-11-29 16:00'>16.00</time> Uhr: Plätzchenbacken im Brotbackhaus",
+            "<time datetime='2025-11-29 15:30'>15.30</time> bis <time datetime='2025-11-29 16:30'>16.30</time> Uhr: Benefizkonzert in der Martinskirche",
+            "<time datetime='2025-11-29 17:00'>17.00</time> bis <time datetime='2025-11-29 18:00'>18.00</time>: Peitinger Alphornbläser auf dem Dorfplatz",
+            "<br />",
+            "<b>Sonntag</b> von <time datetime='2025-11-30 11:00'>11.00</time> bis <time datetime='2025-11-30 17:00'>17.00</time> Uhr",
+            "<time datetime='2025-11-30 11:00'>11.00 Uhr</time>: Adventsgottesdients in der Martinskirche",
+            "<time datetime='2025-11-30 12:00'>12.00</time> bis <time datetime='2025-11-30 17:00'>17.00</time> Uhr: Kinderkaufmannsladen",
+            "<time datetime='2025-11-30 12:00'>12.00</time> bis <time datetime='2025-11-30 14:00'>14.00</time> Uhr: Plätzchenbacken im Brotbackhaus",
+            "<time datetime='2025-11-30 15:00'>15.00 Uhr</time>: Nikolaus mit Pferdekutsche auf dem Dorfplatz, im Anschluss Pferdekutschenfahrten"
+        ]
     },
     {
         "name": "Betriebsurlaub im Cafe Herzog",
