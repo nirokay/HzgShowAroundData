@@ -503,8 +503,11 @@
     {
         "name": "Weihnachtsmarkt",
         "locations": ["Deckerhalle", "Dorfplatz"],
-        "from": "2025-11-28 11:00",
-        "till": "2025-11-30 17:00",
+        "times": [
+            { "from": "2025-11-28 11:00", "till": "2025-11-28 19:00" },
+            { "from": "2025-11-29 11:00", "till": "2025-11-29 19:00" },
+            { "from": "2025-11-30 11:00", "till": "2025-11-30 17:00" }
+        ],
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/weihnachtsmarkt",
         "details": [
