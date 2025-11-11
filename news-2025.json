@@ -542,14 +542,6 @@
         "details": []
     },
     {
-        "name": "Betriebsurlaub Metzgereiverkauf",
-        "locations": ["MühlenMarkt"],
-        "from": "2025-12-24",
-        "till": "2026-01-13",
-        "level": "warning",
-        "details": []
-    },
-    {
         "name": "Geänderte Öffnungszeiten im MühlenMarkt",
         "locations": ["MühlenMarkt"],
         "from": "2025-12-24 08:00",
