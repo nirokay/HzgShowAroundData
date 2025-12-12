@@ -534,6 +534,36 @@
         ]
     },
     {
+        "name": "Weihnachtliche Adventsbude",
+        "locations": ["Am Latterbach Haus 13"],
+        "times": [
+            { "from": "2025-12-08 16:30", "till": "2025-12-08 18:30" },
+            { "from": "2025-12-09 16:30", "till": "2025-12-09 18:30" },
+            { "from": "2025-12-10 16:30", "till": "2025-12-10 18:30" },
+            { "from": "2025-12-11 16:30", "till": "2025-12-11 18:30" },
+            { "from": "2025-12-12 16:30", "till": "2025-12-12 18:30" }
+        ],
+        "level": "info",
+        "details": [
+            "Montag: Grillwürstchen und Grillkäse",
+            "Dienstag: Hotdogs",
+            "Mittwoch: Pommes",
+            "Donnerstag: Leberkäse und Veggie-Bratlinge",
+            "Freitag: Kekse und Punsch"
+        ]
+    },
+    {
+        "name": "Der Weihnachtstruck kommt!",
+        "locations": ["Dorfplatz"],
+        "from": "2025-12-19 15:00",
+        "till": "2025-12-19 17:00",
+        "level": "info",
+        "details": [
+            "Der Truck bringt kleine Geschenke, wie SPielzeug und Lebkuchen, vorbei.",
+            "Für Punsch, Plätzchen und andere Leckereien ist gesorgt."
+        ]
+    },
+    {
         "name": "Betriebsurlaub im Cafe Herzog",
         "locations": ["Cafe und Wirtshaus Herzog"],
         "from": "2025-12-19",
