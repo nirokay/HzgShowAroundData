@@ -5,5 +5,28 @@
         "on": "2026-01-03",
         "level": "warning",
         "details": []
+    },
+    {
+        "name": "Betriebsurlaub Metzgereiverkauf im MühlenMarkt",
+        "locations": ["MühlenMarkt"],
+        "from": "2026-08-10",
+        "till": "2026-09-08",
+        "level": "warning",
+        "details": []
+    },
+    {
+        "name": "Betriebsurlaub MühlenMarkt",
+        "locations": ["MühlenMarkt"],
+        "on": "2026-11-18",
+        "level": "warning",
+        "details": []
+    },
+    {
+        "name": "Betriebsurlaub Metzgereiverkauf im MühlenMarkt",
+        "locations": ["MühlenMarkt"],
+        "from": "2026-12-24",
+        "till": "2027-01-12",
+        "level": "warning",
+        "details": []
     }
 ]
