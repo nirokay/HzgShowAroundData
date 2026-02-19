@@ -28,5 +28,74 @@
         "till": "2027-01-12",
         "level": "warning",
         "details": []
+    },
+    {
+        "name": "Fach- und Infotag Rehazentrum",
+        "locations": [],
+        "on": "2026-05-06",
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "Frühlingsflohmarkt",
+        "locations": ["Dorfplatz", "Deckerhalle"],
+        "times": [{ "on": "2026-05-09" }, { "on": "2026-05-10" }],
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "MachArt Kunstausstellung",
+        "locations": ["Deckerhalle"],
+        "from": "2026-05-11",
+        "till": "2026-06-24",
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "Dorffest",
+        "locations": ["Dorfplatz", "Deckerhalle"],
+        "from": "2026-06-05 11:00",
+        "till": "2026-06-05 17:00",
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "Serenade",
+        "locations": ["Rainer-Endisch-Saal"],
+        "on": "2026-06-25",
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "Erntedankfest",
+        "locations": [],
+        "on": "2026-10-05",
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "Herbstflohmarkt",
+        "locations": ["Dorfplatz", "Deckerhalle"],
+        "times": [{ "on": "2026-10-10" }, { "on": "2026-10-11" }],
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "Reha-Fachgespräche",
+        "locations": [],
+        "on": "2026-10-27",
+        "level": "info",
+        "details": []
+    },
+    {
+        "name": "Weihnachtsmarkt",
+        "locations": ["Dorfplatz", "Deckerhalle", "Rainer-Endisch-Saal"],
+        "times": [
+            { "on": "2026-11-27" },
+            { "on": "2026-11-28" },
+            { "on": "2026-11-29" }
+        ],
+        "level": "info",
+        "details": []
     }
 ]
