@@ -60,6 +60,7 @@ check news-health
 checkYearNews news
 check offerings
 check tour_locations
+check travel
 
 if [ "$FAILED_VALIDATIONS" == "" ]; then
     echo -e "\n✅ All checks passed successfully!"

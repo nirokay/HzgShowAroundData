@@ -1,0 +1,58 @@
+{
+    "title": "Travel object",
+    "type": "object",
+    "properties": {
+        "bus": {
+            "type": "array",
+            "description": "Bus array",
+            "items": {
+                "type": "object",
+                "description": "Bus object",
+                "properties": {
+                    "route": {
+                        "type": "array",
+                        "description": "Route start and destination",
+                        "items": { "type": "string" },
+                        "minItems": 2,
+                        "maxItems": 2
+                    },
+                    "link": {
+                        "type": "string",
+                        "description": "Link to route planning"
+                    }
+                }
+            }
+        },
+        "taxi": {
+            "type": "array",
+            "description": "Taxi array",
+            "items": {
+                "type": "object",
+                "description": "Taxi object",
+                "properties": {
+                    "route": {
+                        "type": "array",
+                        "description": "Route start and destination",
+                        "items": { "type": "string" },
+                        "minItems": 2,
+                        "maxItems": 2
+                    },
+                    "price": { "type": "string" },
+                    "operators": {
+                        "type": "array",
+                        "description": "Operator array",
+                        "items": {
+                            "type": "object",
+                            "description": "Operator object",
+                            "properties": {
+                                "name": { "type": "string" },
+                                "number": { "type": "string" },
+                                "web": { "type": "string" }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

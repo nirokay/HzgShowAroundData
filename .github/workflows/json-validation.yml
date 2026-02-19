@@ -43,6 +43,16 @@ jobs:
                   INPUT_SCHEMA: /templates/.schemas/offerings.schema.json
                   INPUT_JSONS: /offerings.json
 
+    verify-json-travel:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v1
+            - name: Validate travel data
+              uses: docker://orrosenblatt/validate-json-action:latest
+              env:
+                  INPUT_SCHEMA: /templates/.schemas/travel.schema.json
+                  INPUT_JSONS: /travel.json
+
     # News:
 
     verify-json-news-health:
