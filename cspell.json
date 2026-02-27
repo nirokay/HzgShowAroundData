@@ -1980,10 +1980,14 @@
     "untere",
     "Erwarteteter",
     "Preis",
-    "Routen"
+    "Routen",
+    "therapeutisch",
+    "Arbeitstherapeutisch",
+    "Arbeitstherapeutischtagesstrukturierende"
   ],
   "userWords": [
     "notin",
-    "addattr"
+    "addattr",
+    "ical"
   ]
 }

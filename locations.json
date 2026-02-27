@@ -1030,7 +1030,7 @@
         },
         "same": [
             "Berufliches Zentrum (BZ)",
-            "Arbeits-tagesstrukturierende Maßnahme (AttM)"
+            "Arbeitstherapeutisch-tagesstrukturierende Maßnahme (AttM)"
         ],
         "coords": [320, 3346, 411, 3376],
         "contact": {
@@ -1065,7 +1065,7 @@
         },
         "same": [
             "Berufsbildende Maßnahme (BBM)",
-            "Arbeits-tagesstrukturierende Maßnahme (AttM)"
+            "Arbeitstherapeutisch-tagesstrukturierende Maßnahme (AttM)"
         ],
         "coords": [279, 3096, 453, 3209],
         "contact": {
@@ -1073,7 +1073,7 @@
         }
     },
     {
-        "name": "Arbeits-tagesstrukturierende Maßnahme (AttM)",
+        "name": "Arbeitstherapeutisch-tagesstrukturierende Maßnahme (AttM)",
         "alias": [
             "AttM",
             "Arbeits-tagesstrukturierende Massnahme",
@@ -1085,13 +1085,13 @@
         "open": {
             "": {
                 "Mo - Do": "08.00 - 16.00",
-                "Fr": "08.00 - 12.15"
+                "Fr": "08.00 - 12.00"
             }
         },
         "pics": {},
         "same": ["Berufsbildende Maßnahme (BBM)", "Berufliches Zentrum (BZ)"],
         "contact": {
-            "address": "Franz-Rupp-Straße 1a, 86956 Schongau"
+            "address": "Franz-Rupp-Straße 2, 86956 Schongau"
         }
     },
     {
