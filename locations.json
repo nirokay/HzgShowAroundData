@@ -1081,7 +1081,26 @@
             "Arbeitstherapeutischtagesstrukturierende Maßnahme"
         ],
         "link": "https://psychische-gesundheit-muc-obb.de/tagesstruktur#uk-accordion-17",
-        "desc": {},
+        "desc": {
+            "Bereiche": [
+                "<h3>Holzwerkstatt</h3>",
+                "Werken mit Holz.",
+                "<h3>Kreativbereich</h3>",
+                "Kreativ-gestalterisches Arbeiten mit verschiedenen Materialien",
+                "<h3>Papier und Textil</h3>",
+                "Kreativ-gestalterisches Arbeiten mit Papier und Textilien",
+                "<h3>Hauswirtschaft</h3>",
+                "Kochen und Planen für das Mittagsessen.",
+                "<h3>Individuelle Beschäftigung nach Absprache</h3>",
+                "Natürlich kannst du auch nach Absprache an thematisch abweichenden Projekten abweichen."
+            ],
+            "Angebote": [
+                "Montag Nachmittag: <b>Kegeln</b>",
+                "Dienstag Nachmittag: <b>Kreative Küche</b>",
+                "Mittwoch Nachmittag: <b>AttM-Café</b>",
+                "Donnerstag Vor-/Nachmittag: <b>Schwimmen</b>"
+            ]
+        },
         "open": {
             "": {
                 "Mo - Do": "08.00 - 16.00",
@@ -1092,8 +1111,15 @@
         "same": ["Berufsbildende Maßnahme (BBM)", "Berufliches Zentrum (BZ)"],
         "contact": {
             "address": "Franz-Rupp-Straße 2, 86956 Schongau",
-            "tels": { "": "08861 219-7525" },
-            "emails": { "": "sabine.eichberg@herzogsaegmuehle.de" }
+            "tels": {
+                "Angebotsleitung": "08861 219-7520",
+                "Sozialdienst": "08861 219-7525"
+            },
+            "emails": {
+                "Angebotsleitung": "sabine.eichberg@herzogsaegmuehle.de",
+                "Sozialdienst (Fr. Schmidt)": "johanna.schmidt@herzogsaegmuehle.de",
+                "Sozialdienst (Hr. Walther)": "torsten.walther@herzogsaegmuehle.de"
+            }
         }
     },
     {
