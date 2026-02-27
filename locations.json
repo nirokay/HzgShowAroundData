@@ -1076,11 +1076,11 @@
         "name": "Arbeitstherapeutisch-tagesstrukturierende Maßnahme (AttM)",
         "alias": [
             "AttM",
-            "Arbeits-tagesstrukturierende Massnahme",
-            "Arbeitstagesstrukturierende Massnahme",
-            "Arbeitstagesstrukturierende Maßnahme"
+            "Arbeitstherapeutisch-tagesstrukturierende Massnahme",
+            "Arbeitstherapeutischtagesstrukturierende Massnahme",
+            "Arbeitstherapeutischtagesstrukturierende Maßnahme"
         ],
-        "link": "https://www.herzogsaegmuehle.de/hilfeangebote/sozialpsychiatrie-sucht-und-gesundheit/rehabilitation#c5184",
+        "link": "https://psychische-gesundheit-muc-obb.de/tagesstruktur#uk-accordion-17",
         "desc": {},
         "open": {
             "": {
@@ -1091,7 +1091,9 @@
         "pics": {},
         "same": ["Berufsbildende Maßnahme (BBM)", "Berufliches Zentrum (BZ)"],
         "contact": {
-            "address": "Franz-Rupp-Straße 2, 86956 Schongau"
+            "address": "Franz-Rupp-Straße 2, 86956 Schongau",
+            "tels": { "": "08861 219-7525" },
+            "emails": { "": "sabine.eichberg@herzogsaegmuehle.de" }
         }
     },
     {
