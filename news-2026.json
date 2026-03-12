@@ -2,37 +2,25 @@
     {
         "name": "Betriebsurlaub MühlenMarkt",
         "locations": ["MühlenMarkt"],
-        "on": "2026-01-03",
+        "times": [{ "on": "2026-01-03" }],
         "level": "warning",
         "details": []
     },
     {
-        "name": "Betriebsurlaub Metzgereiverkauf im MühlenMarkt",
-        "locations": ["MühlenMarkt"],
-        "from": "2026-08-10",
-        "till": "2026-09-08",
-        "level": "warning",
-        "details": []
-    },
-    {
-        "name": "Betriebsurlaub MühlenMarkt",
-        "locations": ["MühlenMarkt"],
-        "on": "2026-11-18",
-        "level": "warning",
-        "details": []
-    },
-    {
-        "name": "Betriebsurlaub Metzgereiverkauf im MühlenMarkt",
-        "locations": ["MühlenMarkt"],
-        "from": "2026-12-24",
-        "till": "2027-01-12",
-        "level": "warning",
-        "details": []
+        "name": "Tischtennisturnier",
+        "locations": ["Deckerhalle"],
+        "times": [{ "from": "2026-03-14 10:00", "till": "2026-03-14 12:00" }],
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/tischtennisturnier",
+        "details": [
+            "Zuschauer:innen und Spieler:innen willkommen.",
+            "Kleinere Snacks und Getränke sind vorort vorhanden!"
+        ]
     },
     {
         "name": "Fach- und Infotag Rehazentrum",
         "locations": [],
-        "on": "2026-05-06",
+        "times": [{ "on": "2026-05-06" }],
         "level": "info",
         "details": []
     },
@@ -44,32 +32,46 @@
         "details": []
     },
     {
+        "name": "Vernissage: MachArt Kunstausstellung",
+        "locations": ["Deckerhalle"],
+        "times": [{ "from": "2026-05-11 14:00", "till": "2026-06-11 16:00" }],
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/machart",
+        "details": ["Motto: <i>Unter einem Hut</i>"]
+    },
+    {
         "name": "MachArt Kunstausstellung",
         "locations": ["Deckerhalle"],
-        "from": "2026-05-11",
-        "till": "2026-06-24",
+        "times": [{ "from": "2026-05-11", "till": "2026-06-24" }],
         "level": "info",
-        "details": []
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/machart",
+        "details": ["Motto: <i>Unter einem Hut</i>"]
     },
     {
         "name": "Dorffest",
         "locations": ["Dorfplatz", "Deckerhalle"],
-        "from": "2026-06-05 11:00",
-        "till": "2026-06-05 17:00",
+        "times": [{ "from": "2026-06-05 11:00", "till": "2026-06-05 17:00" }],
         "level": "info",
         "details": []
     },
     {
         "name": "Serenade",
         "locations": ["Rainer-Endisch-Saal"],
-        "on": "2026-06-25",
+        "times": [{ "on": "2026-06-25" }],
         "level": "info",
+        "details": []
+    },
+    {
+        "name": "Betriebsurlaub Metzgereiverkauf im MühlenMarkt",
+        "locations": ["MühlenMarkt"],
+        "times": [{ "from": "2026-08-10", "till": "2026-09-08" }],
+        "level": "warning",
         "details": []
     },
     {
         "name": "Erntedankfest",
         "locations": [],
-        "on": "2026-10-05",
+        "times": [{ "on": "2026-10-05" }],
         "level": "info",
         "details": []
     },
@@ -83,8 +85,15 @@
     {
         "name": "Reha-Fachgespräche",
         "locations": [],
-        "on": "2026-10-27",
+        "times": [{ "on": "2026-10-27" }],
         "level": "info",
+        "details": []
+    },
+    {
+        "name": "Betriebsurlaub MühlenMarkt",
+        "locations": ["MühlenMarkt"],
+        "times": [{ "on": "2026-11-18" }],
+        "level": "warning",
         "details": []
     },
     {
@@ -96,6 +105,13 @@
             { "on": "2026-11-29" }
         ],
         "level": "info",
+        "details": []
+    },
+    {
+        "name": "Betriebsurlaub Metzgereiverkauf im MühlenMarkt",
+        "locations": ["MühlenMarkt"],
+        "times": [{ "from": "2026-12-24", "till": "2027-01-12" }],
+        "level": "warning",
         "details": []
     }
 ]
