@@ -34,7 +34,7 @@
     {
         "name": "Vernissage: MachArt Kunstausstellung",
         "locations": ["Deckerhalle"],
-        "times": [{ "from": "2026-05-11 14:00", "till": "2026-06-11 16:00" }],
+        "times": [{ "from": "2026-05-11 14:00", "till": "2026-05-11 16:00" }],
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/machart",
         "details": ["Motto: <i>Unter einem Hut</i>"]
