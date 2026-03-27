@@ -18,6 +18,22 @@
         ]
     },
     {
+        "name": "Baum-pflanz Aktion",
+        "locations": ["Dorfplatz", "Friedhof", "Herzogsägmühler Wald"],
+        "times": [{ "from": "2026-04-18 08:30", "till": "2026-04-18 16:00" }],
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/baum-pflanzaktion",
+        "details": [
+            "Shuttle-Bus von der Martinskirche am Dorfplatz und vom Herzogsägmühler Friedhof um <time datetime='2026-04-18 08:30'>08.30 Uhr</time>.",
+            "Wetterfeste Kleidung und Schuhe mitbringen, falls man einen Spaten hat, wird darum gebeten den auch mitzunehmen.",
+            "Hilfsbereite Freunde, Familie und Bekannte sind herzlichst willkommen.",
+            "Warmes Mittagessen und am Nachmittag Kaffee und Kuchen.",
+            "Eine Anmeldung ist nicht zwingend notwending, aber hilfreich:",
+            "Telefon: <a href='tel:08861 219680'>Tomek Twardowski (08861 219-680)</a>, <a href='08861 219278'>Frank Böttinger (08861 219-278)</a>",
+            "Email: <a href='mailto:arbeitskreis.umwelt@herzogsaegmuehle.de'>arbeitskreis.umwelt@herzogsaegmuehle.de</a>"
+        ]
+    },
+    {
         "name": "Fach- und Infotag Rehazentrum",
         "locations": [],
         "times": [{ "on": "2026-05-06" }],
