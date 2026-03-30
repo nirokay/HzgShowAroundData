@@ -86,6 +86,25 @@
         }
     },
     {
+        "name": "Buri's Imbiss",
+        "alias": ["Dönerstand"],
+        "link": "https://de.restaurantguru.com/Buris-Imbiss-Peiting",
+        "desc": {},
+        "open": {
+            "": {
+                "Mo - Fr": "11.00 - 17.00"
+            }
+        },
+        "coords": [620, 3456, 641, 3478],
+        "same": [],
+        "contact": {
+            "address": "Unteroblandstraße 11",
+            "tels": {
+                "": "0174 4424221"
+            }
+        }
+    },
+    {
         "name": "Denkmal: Ort der Erinnerung",
         "alias": [
             "Denkmal <q>Ort der Erinnerung</q>",
@@ -221,6 +240,7 @@
             "Haus 9 Am Latterbach",
             "Haus 11 Am Latterbach"
         ],
+        "link": "https://psychische-gesundheit-muc-obb.de/wohnen#uk-accordion-5",
         "desc": {
             "Spezielles": ["<b>Haus 11:</b> Billiardtisch"]
         },
@@ -249,6 +269,7 @@
             "Haus 10 Am Latterbach",
             "Haus 12 Am Latterbach"
         ],
+        "link": "https://psychische-gesundheit-muc-obb.de/wohnen#uk-accordion-7",
         "desc": {
             "Spezielles": [
                 "<b>Haus 12:</b>",
@@ -278,6 +299,7 @@
             "Am Latterbach Haus 13",
             "Haus 13 Am Latterbach"
         ],
+        "link": "https://psychische-gesundheit-muc-obb.de/rehabilitation#uk-accordion-3",
         "desc": {
             "Festsaal": [
                 "Dieser befindet sich im 1. Stock. Dort finden die Gesundheitsbildungen, Veranstaltungen und Feiern statt.",
@@ -410,6 +432,7 @@
             "Seniorenheim",
             "Altenheim"
         ],
+        "link": "https://psychische-gesundheit-muc-obb.de/wohnen#uk-accordion-9",
         "desc": {},
         "pics": {},
         "coords": [1715, 3310, 1799, 3477],
