@@ -99,9 +99,7 @@
         "same": [],
         "contact": {
             "address": "Unteroblandstraße 11",
-            "tels": {
-                "": "0174 4424221"
-            }
+            "tels": { "": "0174 4424221" }
         }
     },
     {
@@ -464,12 +462,8 @@
         "same": [],
         "contact": {
             "address": "Oblandstraße 4",
-            "emails": {
-                "": "gaertnerei.floristik@herzogsaegmuehle.de"
-            },
-            "tels": {
-                "": "08861 219-254"
-            }
+            "emails": { "": "gaertnerei.floristik@herzogsaegmuehle.de" },
+            "tels": { "": "08861 219-254" }
         }
     },
     {
@@ -742,12 +736,8 @@
         "same": ["Alfons-Brandl-Schule", "Liselotte-von-Lepel-Gnitz-Schule"],
         "contact": {
             "address": "Von-Kahl-Straße 13",
-            "tels": {
-                "": "08861 21 94 000"
-            },
-            "emails": {
-                "": "sekretariat@berufsschule-herzogsaegmuehle.de"
-            }
+            "tels": { "": "08861 21 94 000" },
+            "emails": { "": "sekretariat@berufsschule-herzogsaegmuehle.de" }
         }
     },
     {
@@ -770,12 +760,10 @@
         "contact": {
             "address": "Dorfplatz 5",
             "tels": {
-                "1": "08861 21 94 091",
-                "2": "08861 21 94 092"
+                "": "08861 21 94 091",
+                " ": "08861 21 94 092"
             },
-            "emails": {
-                "": "heilerziehungspflegeschule@herzogsaegmuehle.de"
-            }
+            "emails": { "": "heilerziehungspflegeschule@herzogsaegmuehle.de" }
         }
     },
     {
@@ -958,12 +946,8 @@
         "coords": [407, 3265, 429, 3294],
         "contact": {
             "address": "Werkstraße 7",
-            "emails": {
-                "": "wachsmanufaktur@herzogsaegmuehle.de"
-            },
-            "tels": {
-                "": "08861 219-463"
-            }
+            "emails": { "": "wachsmanufaktur@herzogsaegmuehle.de" },
+            "tels": { "": "08861 219-463" }
         }
     },
     {
