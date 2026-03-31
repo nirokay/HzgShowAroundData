@@ -17,6 +17,10 @@
                     "description": "Paragraph"
                 }
             },
+            "emoji": {
+                "type": "string",
+                "description": "Emoji"
+            },
             "place": {
                 "type": "object",
                 "properties": {
@@ -53,9 +57,7 @@
                         "description": "Single time"
                     }
                 },
-                "required": [
-                    "time"
-                ]
+                "required": ["time"]
             },
             {
                 "properties": {
@@ -67,16 +69,12 @@
                         }
                     }
                 },
-                "required": [
-                    "times"
-                ]
+                "required": ["times"]
             },
             {
                 "properties": {}
             }
         ],
-        "required": [
-            "name"
-        ]
+        "required": ["name"]
     }
 }

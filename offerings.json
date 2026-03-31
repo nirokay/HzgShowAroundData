@@ -1,6 +1,7 @@
 [
     {
         "name": "Billiard",
+        "emoji": "🎱",
         "time": "täglich 15.00 - 20.00 Uhr",
         "place": {
             "name": "Haus 11",
@@ -9,6 +10,7 @@
     },
     {
         "name": "Kicker",
+        "emoji": "⚽",
         "time": "täglich 15.00 - 20.00 Uhr",
         "place": {
             "name": "Haus 9",
@@ -17,6 +19,7 @@
     },
     {
         "name": "Tischtennis",
+        "emoji": "🏓",
         "time": "täglich 15.00 - 20.00 Uhr",
         "place": {
             "name": "Haus 12 und 18",
@@ -25,6 +28,7 @@
     },
     {
         "name": "Fitnessraum",
+        "emoji": "🏋️",
         "times": [
             "Werktage: 15.00 - 20.30 Uhr",
             "Wochenende: 10.00 - 12.00 und 14.00 - 19.30 Uhr"
@@ -36,6 +40,7 @@
     },
     {
         "name": "Gamer Room",
+        "emoji": "🎮",
         "times": [
             "Werktage: 16.00 - 21.00 Uhr",
             "Wochenende: 13.00 - 21.00 Uhr"
@@ -47,9 +52,8 @@
     },
     {
         "name": "Basketball",
-        "desc": [
-            "Schlüssel zum Basketballfeld ist holbar über Haus 18."
-        ],
+        "emoji": "🏀",
+        "desc": ["Schlüssel zum Basketballfeld ist holbar über Haus 18."],
         "time": "täglich 15.00 - 21.00 Uhr",
         "place": {
             "name": "Basketballfeld",
@@ -58,9 +62,8 @@
     },
     {
         "name": "Volleyball",
-        "desc": [
-            "Anmeldung in der Jugendreha erforderlich."
-        ],
+        "emoji": "🏐",
+        "desc": ["Anmeldung in der Jugendreha erforderlich."],
         "time": "An Wochenenden und Feiertagen",
         "place": {
             "name": "Jugendreha",
@@ -69,6 +72,7 @@
     },
     {
         "name": "Beach-Volleyball",
+        "emoji": "🏖️",
         "time": "täglich 15.00 - 21.00 Uhr",
         "place": {
             "name": "Beach-Volleyballfeld am Kapellenfeld",
@@ -77,6 +81,7 @@
     },
     {
         "name": "Bouldern",
+        "emoji": "🧗",
         "time": "täglich 15.00 - 21.00 Uhr",
         "place": {
             "name": "Boulderwand am Ortseingang"
@@ -84,6 +89,7 @@
     },
     {
         "name": "Skaten",
+        "emoji": "🛹",
         "time": "täglich 15.00 - 21.00 Uhr",
         "place": {
             "name": "Skater-Platz Berufsschule",
@@ -92,6 +98,7 @@
     },
     {
         "name": "Boule",
+        "emoji": "⚾",
         "time": "täglich 15.00 - 21.00 Uhr",
         "place": {
             "name": "Beach-Volleyballfeld am Kapellenfeld",
@@ -100,6 +107,7 @@
     },
     {
         "name": "Bogenschießen",
+        "emoji": "🏹",
         "time": "siehe Aushänge im Haus",
         "place": {
             "name": "Deckerhalle (ggf. Waldparkur)",
@@ -108,13 +116,9 @@
     },
     {
         "name": "Fußball",
-        "desc": [
-            "Die angegebene Zeiten sind die Trainingszeiten."
-        ],
-        "times": [
-            "Dienstag 19.00 - 21.00 Uhr",
-            "Donnerstag 19.00 - 21.00 Uhr"
-        ],
+        "emoji": "⚽",
+        "desc": ["Die angegebene Zeiten sind die Trainingszeiten."],
+        "times": ["Dienstag 19.00 - 21.00 Uhr", "Donnerstag 19.00 - 21.00 Uhr"],
         "place": {
             "name": "Fußballplatz (Unteroblandstation)",
             "id": "Fußballplatz"
@@ -122,9 +126,8 @@
     },
     {
         "name": "Kegeln",
-        "desc": [
-            "Es ist empfohlen das Kegeln telefonisch zu Reservieren."
-        ],
+        "emoji": "🎳",
+        "desc": ["Es ist empfohlen das Kegeln telefonisch zu Reservieren."],
         "times": [
             "Montag bis Donnerstag 08.30 - 16.00 Uhr",
             "Sonntag 09.30 - 17.00 Uhr"
@@ -139,6 +142,7 @@
     },
     {
         "name": "Minigolf",
+        "emoji": "⛳",
         "desc": [
             "Es ist empfohlen das Minigolf telefonisch zu Reservieren/Anmelden."
         ],
@@ -156,9 +160,8 @@
     },
     {
         "name": "Tennis",
-        "desc": [
-            "Anmeldung über den Sportverein."
-        ],
+        "emoji": "🎾",
+        "desc": ["Anmeldung über den Sportverein."],
         "place": {
             "name": "Tennisplatz",
             "id": "Tennisplatz"
@@ -170,9 +173,8 @@
     },
     {
         "name": "Angeln",
-        "desc": [
-            "Anmeldung über den Fischerverein."
-        ],
+        "emoji": "🎣",
+        "desc": ["Anmeldung über den Fischerverein."],
         "contact": {
             "email": "katrin.poell@herzogsaegmuehle.de",
             "telephone": "+49 8861 2194432"
@@ -180,6 +182,7 @@
     },
     {
         "name": "Schach",
+        "emoji": "♟️",
         "time": "1. Mittwoch des Monats 19.00 - 21.00 Uhr",
         "place": {
             "name": "Telezentrum",
@@ -188,13 +191,9 @@
     },
     {
         "name": "Las Vegas",
-        "desc": [
-            "Billiard, Darts, ..."
-        ],
-        "times": [
-            "Dienstag 17.00 - 20.30 Uhr",
-            "Donnerstag 17.00 - 20.30 Uhr"
-        ],
+        "emoji": "🎯 🍸",
+        "desc": ["Billiard, Darts, ..."],
+        "times": ["Dienstag 17.00 - 20.30 Uhr", "Donnerstag 17.00 - 20.30 Uhr"],
         "place": {
             "name": "Rainer-Endisch-Saal",
             "id": "Rainer-Endisch-Saal"
