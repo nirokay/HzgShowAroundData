@@ -19,7 +19,12 @@
     },
     {
         "name": "Baum-pflanz Aktion",
-        "locations": ["Dorfplatz", "Friedhof", "Herzogsägmühler Wald"],
+        "locations": [
+            "Martinskirche",
+            "Dorfplatz",
+            "Friedhof",
+            "Herzogsägmühler Wald"
+        ],
         "times": [{ "from": "2026-04-18 08:30", "till": "2026-04-18 16:00" }],
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/baum-pflanzaktion",
