@@ -35,6 +35,33 @@
         ]
     },
     {
+        "name": "Planung und Gestaltung: <i>Ausstellung zu <b>Willy Zielke</b> (1902-1989)</i>",
+        "locations": [
+            "Seminarraum Jungkolonie (Werkstraße 2, Herzogsägmühle), gegenüber der Malerei",
+            "Malerei"
+        ],
+        "times": [{ "from": "2026-04-22 15:00", "till": "2026-04-22 17:00" }],
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/ausstellung-willy-zielke",
+        "image": "https://www.herzogsaegmuehle.de/fileadmin/Diakoniedorf/Bilder/Erleben/Veranstaltungen/Lernort_Arbeitstreffen_Ausstellung_Willy_Zielke/W_Zielke_PotsdamFilmmuseum_N007_1.jpg",
+        "details": [
+            "Jede Person ist willkommen dazuzukommen; sei es zum Zuhören, Mitwirken oder zum Inspirieren lassen.",
+            "Die Ausstellung soll Werke des Kameramannes und Filmemachers ausstellen, der Opfer der NS-Gesundheitspolitik in der Herzogsägmühle war.",
+            "Kontakt: <a href='mailto:ns-unrecht@herzogsaegmuehle.de'>Email</a>"
+        ]
+    },
+    {
+        "name": "Infoabend HEP",
+        "locations": ["Liselotte-von-Lepel-Gnitz-Schule"],
+        "times": [{ "from": "2026-04-23 18:00", "till": "2026-04-23 20:00" }],
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/infoabend-hep-schule",
+        "image": "presentation.svg",
+        "details": [
+            "Alles Wissenswerte zur Heilerziegungspflegen- und Heilerziegungspflegehilfeausbildung sowie zum Heilerziehungspflegerischen Einführungsjahr (HEJ)."
+        ]
+    },
+    {
         "name": "Fach- und Infotag Rehazentrum",
         "locations": [],
         "times": [{ "on": "2026-05-06" }],
@@ -82,6 +109,15 @@
         "times": [{ "on": "2026-06-25" }],
         "level": "info",
         "image": "celebration.svg",
+        "details": []
+    },
+    {
+        "name": "Eröffnung: <i>Ausstellung zu <b>Willy Zielke</b> (1902-1989)</i>",
+        "locations": ["Deckerhalle"],
+        "times": [{ "from": "2026-06-10 17:00", "till": "2026-06-10 19:00" }],
+        "level": "info",
+        "image": "https://www.herzogsaegmuehle.de/fileadmin/Diakoniedorf/Bilder/Erleben/Veranstaltungen/Lernort_Arbeitstreffen_Ausstellung_Willy_Zielke/W_Zielke_PotsdamFilmmuseum_N007_1.jpg",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/ausstellung-willy-zielke",
         "details": []
     },
     {

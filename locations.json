@@ -770,7 +770,8 @@
         "contact": {
             "address": "Dorfplatz 5",
             "tels": {
-                "": "08861 21 94 091"
+                "1": "08861 21 94 091",
+                "2": "08861 21 94 092"
             },
             "emails": {
                 "": "heilerziehungspflegeschule@herzogsaegmuehle.de"
