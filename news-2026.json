@@ -79,7 +79,7 @@
         "locations": ["Dorfplatz", "Deckerhalle"],
         "times": [{ "on": "2026-05-09" }, { "on": "2026-05-10" }],
         "level": "warning",
-        "image": "warning.svg",
+        "image": "generic-warning.svg",
         "details": [
             "Der diesjährige Frühlingsflohmarkt wurde aufgrund der Baustelle am Roten Berg abgesagt."
         ]
