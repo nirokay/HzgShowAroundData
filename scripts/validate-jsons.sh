@@ -47,9 +47,10 @@ function check() {
     NAME=$1
     validate "${SCHEMA_DIR}/${NAME}.schema.json" "${NAME}.json"
 }
+YEAR_FILES=(news-2*.json)
 function checkYearNews() {
-    NAME=$1
-    validate "${SCHEMA_DIR}/${NAME}.schema.json" "${NAME}"-2*.json
+    FILE=$1
+    validate "${SCHEMA_DIR}/news.schema.json" "$FILE"
 }
 
 check articles
@@ -57,13 +58,15 @@ check authors
 check contributors
 check locations
 check news-health
-checkYearNews news
 check offerings
 check tour_locations
 check travel
+for YEAR in "${YEAR_FILES[@]}"; do
+    checkYearNews $YEAR
+done
 
 if [ "$FAILED_VALIDATIONS" == "" ]; then
     echo -e "\n✅ All checks passed successfully!"
 else
-    echo -e "\n❌ Some errors encountered:\n${FAILED_VALIDATIONS}"
+    echo -e "\n\n❌ Some errors encountered:\n${FAILED_VALIDATIONS}"
 fi
