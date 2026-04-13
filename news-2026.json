@@ -75,12 +75,14 @@
         "details": []
     },
     {
-        "name": "Frühlingsflohmarkt",
+        "name": "Frühlingsflohmarkt ABGESAGT!",
         "locations": ["Dorfplatz", "Deckerhalle"],
         "times": [{ "on": "2026-05-09" }, { "on": "2026-05-10" }],
-        "level": "info",
-        "image": "market.svg",
-        "details": []
+        "level": "warning",
+        "image": "warning.svg",
+        "details": [
+            "Der diesjährige Frühlingsflohmarkt wurde aufgrund der Baustelle am Roten Berg abgesagt."
+        ]
     },
     {
         "name": "Vernissage: MachArt Kunstausstellung",
