@@ -103,18 +103,11 @@
         "details": ["Motto: <i>Unter einem Hut</i>"]
     },
     {
-        "name": "Dorffest",
-        "locations": ["Dorfplatz", "Deckerhalle"],
-        "times": [{ "from": "2026-06-05 11:00", "till": "2026-06-05 17:00" }],
-        "level": "info",
-        "image": "celebration.svg",
-        "details": []
-    },
-    {
         "name": "Serenade",
         "locations": ["Rainer-Endisch-Saal"],
-        "times": [{ "on": "2026-06-25" }],
+        "times": [{ "from": "2026-06-25 19:00", "till": "2026-06-25 22:00" }],
         "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/serenade-in-herzogsaegmuehle",
         "image": "celebration.svg",
         "details": []
     },
@@ -128,6 +121,23 @@
         "details": []
     },
     {
+        "name": "Dorffest",
+        "locations": ["Dorfplatz", "Deckerhalle"],
+        "times": [{ "from": "2026-07-05 11:00", "till": "2026-07-05 17:00" }],
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/dorffest",
+        "image": "celebration.svg",
+        "details": []
+    },
+    {
+        "name": "Neueröffnung des Gebrauchtmöbelhauses in der Herzogsägmühle",
+        "locations": ["Wühlkiste"],
+        "times": [{ "on": "2026-07-05" }],
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/gebrauchtmoebelhaus-herzogsaegmuehle",
+        "details": []
+    },
+    {
         "name": "Betriebsurlaub Metzgereiverkauf im MühlenMarkt",
         "locations": ["MühlenMarkt"],
         "times": [{ "from": "2026-08-10", "till": "2026-09-08" }],
@@ -136,19 +146,31 @@
     },
     {
         "name": "Erntedankfest",
-        "locations": [],
-        "times": [{ "on": "2026-10-05" }],
+        "locations": ["Landwirtschaft", "Martinskirche"],
+        "times": [{ "from": "2026-10-05 10:30", "till": "2026-10-05 15:00" }],
         "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/erntedankfest",
         "image": "celebration.svg",
-        "details": []
+        "details": [
+            "TODO!! Spekulativ (falls du das siehst, upsi lol):",
+            "Bustransfer, von der Martinskirche zur Landwirtschaft, ab <time datetime='2026-10-05 09:30'>09.30 Uhr</time>.",
+            "Beginnt mit einem familienfreundlichen Festgottestdienst.\nSpäter ein gemeinsames Mittagessen, Kaffee, Kuchen und Live-Musik."
+        ]
     },
     {
         "name": "Herbstflohmarkt",
-        "locations": ["Dorfplatz", "Deckerhalle"],
-        "times": [{ "on": "2026-10-10" }, { "on": "2026-10-11" }],
+        "locations": ["Dorfplatz", "Deckerhalle", "Cafe und Wirtshaus Herzog"],
+        "times": [
+            { "from": "2026-10-10 07:00", "till": "2026-10-10 14:00" },
+            { "from": "2026-10-11 07:00", "till": "2026-10-11 14:00" }
+        ],
         "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/herbstflohmarkt",
         "image": "market.svg",
-        "details": []
+        "details": [
+            "Alle Hilfeberechtigten können kostenlos ihre Waren anbieten und verkaufen.",
+            "Zum Essen/Trinken gibt es <b>Kaffee und Kuchen</b> im Cafe und Wirtshaus Herzog und <b>Leberkäse- oder Käsesemmel</b> in der Deckerhalle."
+        ]
     },
     {
         "name": "Reha-Fachgespräche",
@@ -174,6 +196,7 @@
             { "on": "2026-11-29" }
         ],
         "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/weihnachtsmarkt",
         "image": "christmas.svg",
         "details": []
     },
