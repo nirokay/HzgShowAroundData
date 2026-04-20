@@ -1,160 +1,153 @@
 [
+    { "COMMENT": "Converted by script from legacy time system" },
     {
-        "name": "MühlenMarkt geschlossen",
-        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
-        "on": "2024-01-05",
+        "details": ["MühlenMarkt ist geschlossen."],
         "level": "warning",
-        "details": ["MühlenMarkt ist geschlossen."]
+        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
+        "name": "MühlenMarkt geschlossen",
+        "times": [{ "on": "2024-01-05" }]
     },
     {
-        "name": "MühlenMarkt geschlossen",
-        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
-        "on": "2024-01-13",
+        "details": ["MühlenMarkt ist heute geschlossen."],
         "level": "warning",
-        "details": ["MühlenMarkt ist heute geschlossen."]
+        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
+        "name": "MühlenMarkt geschlossen",
+        "times": [{ "on": "2024-01-13" }]
     },
     {
-        "name": "Musikantreffen - Einladung zum Hoagart",
-        "locations": ["Cafe und Wirtshaus Herzog"],
-        "on": "2024-01-12",
-        "level": "info",
+        "details": ["von 18 bis 21 Uhr im Café Herzog"],
         "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/musikantentreffen",
-        "details": ["von 18 bis 21 Uhr im Café Herzog"]
+        "level": "info",
+        "locations": ["Cafe und Wirtshaus Herzog"],
+        "name": "Musikantreffen - Einladung zum Hoagart",
+        "times": [{ "on": "2024-01-12" }]
     },
     {
-        "name": "Tag der offenen Tür",
-        "on": "2024-01-11",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/mitarbeit/fachschule-fuer-heilerziehungspflege-und-heilerziehungspflegehilfe/tag-der-offenen-tuer-2024",
         "details": [
             "Tag der offenen Tür in der Fachschule für Heilerziehungspflege und Heilerziehungspflegehilfe",
             "von 15 bis 18 Uhr"
-        ]
+        ],
+        "info": "https://www.herzogsaegmuehle.de/mitarbeit/fachschule-fuer-heilerziehungspflege-und-heilerziehungspflegehilfe/tag-der-offenen-tuer-2024",
+        "level": "info",
+        "name": "Tag der offenen Tür",
+        "times": [{ "on": "2024-01-11" }]
     },
     {
-        "name": "Theateraufführung: Es ist ein Hut entsprungen",
-        "locations": ["Häuser Am Latterbach"],
-        "on": "2024-01-18",
-        "level": "info",
         "details": [
             "Theateraufführung von der Theatergruppe",
             "von 16:00 bis 16:30 im Festsaal"
-        ]
+        ],
+        "level": "info",
+        "locations": ["Häuser Am Latterbach"],
+        "name": "Theateraufführung: Es ist ein Hut entsprungen",
+        "times": [{ "on": "2024-01-18" }]
     },
     {
-        "name": "Gedenkfeier",
-        "on": "2024-01-23",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/schueler-erinnern",
         "details": [
             "Gedenkfeier an die Opfer und Verfolgten im Nationalsozialismus"
-        ]
+        ],
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/schueler-erinnern",
+        "level": "info",
+        "name": "Gedenkfeier",
+        "times": [{ "on": "2024-01-23" }]
     },
     {
-        "name": "Kunstausstellung",
-        "locations": ["Deckerhalle"],
-        "from": "2024-03-11",
-        "till": "2024-03-24",
-        "level": "info",
         "details": [
             "in der Deckerhalle",
             "machArt Kunstausstellung: <i>\"In fremden Gärten\"</i>"
-        ]
+        ],
+        "level": "info",
+        "locations": ["Deckerhalle"],
+        "name": "Kunstausstellung",
+        "times": [{ "from": "2024-03-11", "till": "2024-03-24" }]
     },
     {
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/benefizkonzert-reichling",
+        "level": "info",
         "name": "Benefizkonzert des Musikvereins Reichling",
-        "on": "2024-04-06",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/benefizkonzert-reichling"
+        "times": [{ "on": "2024-04-06" }]
     },
     {
-        "name": "Maitanz in Peiting",
-        "on": "2024-04-26",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/maitanz-am-26-mai-2024",
         "details": [
             "Die Band \"Funk Off\" spielt Musik.",
             "7€ Eintritt in der Schlossberghalle (Einlass um 18:00, Beginn um 19:00)"
-        ]
+        ],
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/maitanz-am-26-mai-2024",
+        "level": "info",
+        "name": "Maitanz in Peiting",
+        "times": [{ "on": "2024-04-26" }]
     },
     {
-        "name": "Konzert - Meer und Wasser",
-        "locations": ["Häuser Am Latterbach"],
-        "on": "2024-04-25",
-        "level": "info",
         "details": [
             "Im <b>Festsaal</b> im <b>Am Latterbach 13</b>",
             "Start ist um <b>16:30 Uhr</b>"
-        ]
+        ],
+        "level": "info",
+        "locations": ["Häuser Am Latterbach"],
+        "name": "Konzert - Meer und Wasser",
+        "times": [{ "on": "2024-04-25" }]
     },
     {
+        "details": [],
+        "level": "info",
         "name": "Sportfest",
-        "on": "2024-05-04",
-        "level": "info",
-        "details": []
+        "times": [{ "on": "2024-05-04" }]
     },
     {
+        "details": ["an beiden Tagen von 7:00 bis 14:00 Uhr"],
+        "level": "info",
         "name": "Frühlingsflohmarkt",
-        "from": "2024-05-18",
-        "till": "2024-05-19",
-        "level": "info",
-        "details": ["an beiden Tagen von 7:00 bis 14:00 Uhr"]
+        "times": [{ "from": "2024-05-18", "till": "2024-05-19" }]
     },
     {
-        "name": "EUropABEND",
-        "locations": ["Rainer-Endisch-Saal"],
-        "on": "2024-05-29",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/europawahl",
         "details": [
             "von <b>19:00 - 21:00 Uhr</b> im <b>Rainer-Endisch-Saal</b>",
             "Informationsabend zur <b>EU-Wahl 06.06. - 09.06.2024</b> und Überblick über das EU-Parliament und das Wahlverfahren"
-        ]
+        ],
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/europawahl",
+        "level": "info",
+        "locations": ["Rainer-Endisch-Saal"],
+        "name": "EUropABEND",
+        "times": [{ "on": "2024-05-29" }]
     },
     {
-        "name": "Hoagart",
-        "locations": ["Cafe und Wirtshaus Herzog"],
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/hoagart",
-        "on": "2024-05-31",
-        "level": "info",
         "details": [
             "von 18:00 bis 21:00 Uhr im Café Herzog",
             "Du bist willkommen vorbeizuschauen, mit zu Musizieren oder einfach nur geniesen!"
-        ]
+        ],
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/hoagart",
+        "level": "info",
+        "locations": ["Cafe und Wirtshaus Herzog"],
+        "name": "Hoagart",
+        "times": [{ "on": "2024-05-31" }]
     },
     {
-        "name": "EU-Parliament Wahl",
-        "from": "2024-06-06",
-        "till": "2024-06-09",
-        "level": "warning",
-        "info": "https://www.europarl.europa.eu/at-your-service/de/be-heard/elections",
         "details": [
             "Alle EU-Angehörige ab 16 Jahren dürfen und sind aufgefordert zu Wählen"
-        ]
+        ],
+        "info": "https://www.europarl.europa.eu/at-your-service/de/be-heard/elections",
+        "level": "warning",
+        "name": "EU-Parliament Wahl",
+        "times": [{ "from": "2024-06-06", "till": "2024-06-09" }]
     },
     {
-        "name": "CSD-Parade München",
-        "on": "2024-06-22",
-        "level": "info",
+        "details": [],
         "info": "https://www.csdmuenchen.de/de/pride-24.html?aid=3#politparade",
-        "details": []
+        "level": "info",
+        "name": "CSD-Parade München",
+        "times": [{ "on": "2024-06-22" }]
     },
     {
-        "name": "Großer Büchermarkt",
-        "from": "2024-07-01",
-        "till": "2024-07-05",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/artikel/grosser-buechermarkt-ab-1-juli-2024",
         "details": [
             "an allen Tagen von 10.00 - 15.00 Uhr im Weilheimer Gebrauchtwarenladen",
             "Preise von 0,50€ - 3,00€"
-        ]
+        ],
+        "info": "https://www.herzogsaegmuehle.de/artikel/grosser-buechermarkt-ab-1-juli-2024",
+        "level": "info",
+        "name": "Großer Büchermarkt",
+        "times": [{ "from": "2024-07-01", "till": "2024-07-05" }]
     },
     {
-        "name": "Gartenfest mit Grillen und Musik",
-        "locations": ["Häuser Am Latterbach"],
-        "on": "2024-07-04",
-        "level": "info",
         "details": [
             "<b>Uhrzeit und Ort:</b>",
             "von 17:00 bis ~21:00 Uhr",
@@ -165,19 +158,19 @@
             "18:30 - 19:00: Häuser 14, 16 & 18",
             "<b>Musik und Lagerfeuer:</b>",
             "ab 19:15 Uhr"
-        ]
+        ],
+        "level": "info",
+        "locations": ["Häuser Am Latterbach"],
+        "name": "Gartenfest mit Grillen und Musik",
+        "times": [{ "on": "2024-07-04" }]
     },
     {
+        "info": "https://www.plantsch.de/",
+        "level": "info",
         "name": "Plantsch-Party",
-        "on": "2024-07-06",
-        "level": "info",
-        "info": "https://www.plantsch.de/"
+        "times": [{ "on": "2024-07-06" }]
     },
     {
-        "name": "Dorffest",
-        "on": "2024-07-07",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/dorffest",
         "details": [
             "<b>Freitag, 05.07.:</b>",
             "ab 21:30 Uhr: Jubiläumsfeuerwerk",
@@ -186,236 +179,229 @@
             "<b>Sonntag, 07.07.:</b>",
             "10:00 Uhr: Festgottesdienst mit Liveband bei der Deckerhalle",
             "11:00 - 17:00 Uhr: Dorffest Veranstaltung bei der Deckerhalle"
-        ]
+        ],
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/dorffest",
+        "level": "info",
+        "name": "Dorffest",
+        "times": [{ "on": "2024-07-07" }]
     },
     {
-        "name": "Großer Kleider-, Stoff und Kurzwarenverkauf",
-        "from": "2024-07-08",
-        "till": "2024-07-12",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/grosser-kleider",
         "details": [
             "in der <b>Peitinger Werkstatt, Schachtstraße 1, 86971 Peiting</b>",
             "Mo - Mi, Fr: 9.30 - 15.30 Uhr",
             "Do: 9.30 - 18.00 Uhr",
             "Nur Barzahlung ist möglich"
-        ]
+        ],
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/grosser-kleider",
+        "level": "info",
+        "name": "Großer Kleider-, Stoff und Kurzwarenverkauf",
+        "times": [{ "from": "2024-07-08", "till": "2024-07-12" }]
     },
     {
-        "name": "Sommerfest in der AttM",
-        "on": "2024-07-10",
-        "level": "info",
         "details": [
             "<b>Ort und Zeit:</b>",
             "von 11.00 bis 15.00 Uhr auf dem Parkplatz vor der AttM",
             "<a href='https://maps.app.goo.gl/amKmwzsse5XZ4HQY9'>Ort auf Google Maps</a>",
             "<b>Programm:</b>",
             "Disc-Golf und Bogenschießen, Grillen (mit verschiedenen Salaten), Kaffee und Süßes"
-        ]
+        ],
+        "level": "info",
+        "name": "Sommerfest in der AttM",
+        "times": [{ "on": "2024-07-10" }]
     },
     {
-        "name": "CSD-Parade Schongau",
-        "on": "2024-07-13",
-        "level": "info",
+        "details": [],
         "info": "https://www.csd-termine.de/deutschland/csd-pride-schongau.html",
-        "details": []
+        "level": "info",
+        "name": "CSD-Parade Schongau",
+        "times": [{ "on": "2024-07-13" }]
     },
     {
-        "name": "Queerer Treff in Haus 14",
-        "locations": ["Häuser Am Latterbach"],
-        "on": "2024-07-14",
-        "level": "info",
         "details": [
             "Gemütliches Beisammensein mit Brettspielen und Snacks.",
             "Jedrr ist willkommen, und auch willkommen eigene Spiele mitzubringen!"
-        ]
+        ],
+        "level": "info",
+        "locations": ["Häuser Am Latterbach"],
+        "name": "Queerer Treff in Haus 14",
+        "times": [{ "on": "2024-07-14" }]
     },
     {
-        "name": "Sommerfest",
-        "locations": ["Deckerhalle", "Dorfplatz"],
-        "on": "2024-07-15",
-        "level": "info",
         "details": [
             "Das Sommerfest startet am Dorfplatz vor der Deckerhalle um 15.00 Uhr"
-        ]
+        ],
+        "level": "info",
+        "locations": ["Deckerhalle", "Dorfplatz"],
+        "name": "Sommerfest",
+        "times": [{ "on": "2024-07-15" }]
     },
     {
-        "name": "Generalprobe im Rainer-Endisch-Saal",
-        "locations": ["Rainer-Endisch-Saal"],
-        "on": "2024-07-28",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/generalprobe-240728",
         "details": [
             "Es spielt das <i>Bayrische Staatsorchester</i> unter der Leitung von <i>Christian Fröhlich</i>: <i><b>Sinfonie Nr. 6 F-Dur</b></i> von <i>Ludwig van Beethoven</i>",
             "Der Eintritt ist kostenfrei!"
-        ]
+        ],
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/generalprobe-240728",
+        "level": "info",
+        "locations": ["Rainer-Endisch-Saal"],
+        "name": "Generalprobe im Rainer-Endisch-Saal",
+        "times": [{ "on": "2024-07-28" }]
     },
     {
-        "name": "MühlenMarkt August - Öffnungszeiten",
-        "locations": ["MühlenMarkt"],
-        "from": "2024-08-05",
-        "till": "2024-08-31",
-        "level": "warning",
-        "info": "https://www.herzogsaegmuehle.de/fileadmin/PDF/Einkaufen_und_Einkehren/M%C3%BChlenmarkt/M%C3%BChlenMarkt_Betriebsurlaub_Sommer24.pdf",
         "details": [
             "Die Öffnungszeiten sind im August sind verändert.",
             "<b>Mo - Do:</b> <i>07.30 - 13.00 Uhr</i>",
             "<b>Fr:</b> <i>07.30 - 18.00 Uhr</i>",
             "<b>Sa:</b> <i>geschlossen</i>"
-        ]
+        ],
+        "info": "https://www.herzogsaegmuehle.de/fileadmin/PDF/Einkaufen_und_Einkehren/M%C3%BChlenmarkt/M%C3%BChlenMarkt_Betriebsurlaub_Sommer24.pdf",
+        "level": "warning",
+        "locations": ["MühlenMarkt"],
+        "name": "MühlenMarkt August - Öffnungszeiten",
+        "times": [{ "from": "2024-08-05", "till": "2024-08-31" }]
     },
     {
-        "name": "Werkstatt-Laden im MühlenMarkt geschlossen",
+        "level": "warning",
         "locations": ["Werkstatt-Laden im MühlenMarkt"],
-        "from": "2024-08-12",
-        "till": "2024-08-16",
-        "level": "warning"
+        "name": "Werkstatt-Laden im MühlenMarkt geschlossen",
+        "times": [{ "from": "2024-08-12", "till": "2024-08-16" }]
     },
     {
-        "name": "Kunstausstellung",
-        "locations": ["Deckerhalle"],
-        "from": "2024-09-16",
-        "till": "2024-09-29",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/machart",
         "details": [
             "in der Deckerhalle",
             "machArt Kunstausstellung: <i>\"Lebendigkeit durch Vielfalt\"</i>",
             "Die Vernissage ist am Montag, <time datetime='2024-09-16 13:00'>16.09.2024 ab 13 Uhr</time>"
-        ]
+        ],
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/machart",
+        "level": "info",
+        "locations": ["Deckerhalle"],
+        "name": "Kunstausstellung",
+        "times": [{ "from": "2024-09-16", "till": "2024-09-29" }]
     },
     {
-        "name": "Klavierkonzert",
-        "locations": ["Rainer-Endisch-Saal"],
-        "on": "2024-09-25",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/dimitrieva",
         "details": [
             "freier Eintritt um 19 Uhr im Rainer-Endisch-Saal",
             "<b><i>Masha Dimitrieva</i></b> spielt <q>Etüden</q> von <i>Alexander Skrjabin</i>, <q>Satyre und Nymphen op.8</q> von <i>Paul Juon</i>, und Werke von <i>Gordon Sherwood</i>"
-        ]
+        ],
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/dimitrieva",
+        "level": "info",
+        "locations": ["Rainer-Endisch-Saal"],
+        "name": "Klavierkonzert",
+        "times": [{ "on": "2024-09-25" }]
     },
     {
-        "name": "Legionellenkontaminierung",
-        "locations": [
-            "Am Latterbach Häuser 9 und 11",
-            "Am Latterbach Häuser 10 und 12"
-        ],
-        "from": "2024-09-25",
-        "till": "2024-10-16",
-        "level": "alert",
         "details": [
             "Legionellen wurden in den Leitungen der Häuser am Latterbach 9, 10, 11 und 12 festgestellt.",
             "Die Wassertemperatur wurde erhöht, und es wird gebeten täglich 3 Minuten lang heißes Wasser in den Duschen und Waschbecken laufen zu Lassen. Dabei bitte gut Lüften!",
             "Es besteht keine Gefahr bei Hautkontakt oder Konsumietung des Wassers, die Gefahr kommt vom Gelangen in Atemwege durch Wasserdampf.",
             "Es ist Vorsicht geboten vor Verbrühungsgefahr durch die erhöhte Wassertemperatur."
-        ]
+        ],
+        "level": "alert",
+        "locations": [
+            "Am Latterbach Häuser 9 und 11",
+            "Am Latterbach Häuser 10 und 12"
+        ],
+        "name": "Legionellenkontaminierung",
+        "times": [{ "from": "2024-09-25", "till": "2024-10-16" }]
     },
     {
-        "name": "Erntedankfest",
-        "locations": ["Landwirtschaft in Oblandstraße 20e", "Martinskirche"],
-        "on": "2024-10-07",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/erntedankfest",
         "details": [
             "Bustransfer ab <time datetime='2024-10-07 9:30'>9.30 Uhr</time> von der Martinskirche zum Gelände der Landwirtschaft",
             "<time datetime='2024-10-07 10:30>10.30 Uhr</time>: Familienfreundlicher Festgottesdienst",
             "Anschließend bis <time datetime='2024-10-07 15:00'>15.00 Uhr</time> das Erntedankfest, mit einem gemeinsamen Mittagessen, Kaffee und Kuchen, und Live-Musik"
-        ]
+        ],
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/erntedankfest",
+        "level": "info",
+        "locations": ["Landwirtschaft in Oblandstraße 20e", "Martinskirche"],
+        "name": "Erntedankfest",
+        "times": [{ "on": "2024-10-07" }]
     },
     {
-        "name": "Herbstflohmarkt",
-        "locations": ["Deckerhalle", "Dorfplatz"],
-        "from": "2024-10-12",
-        "till": "2024-10-13",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/herbstflohmarkt",
         "details": [
             "An beiden Tagen von 7.00 - 14.00 Uhr am Dorfplatz (vor der Deckerhalle)",
             "Alle Rehabilitanden können kostenlos ihre Ware anbieten. Ab dem <time datetime='2024-05-13'>13.05.2024</time> kann dafür eine Berechtigungskarte bei <i>Frau Müller</i> im Gebäude der Wühlkiste, im 2. Stock, abgeholt werden."
-        ]
+        ],
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/herbstflohmarkt",
+        "level": "info",
+        "locations": ["Deckerhalle", "Dorfplatz"],
+        "name": "Herbstflohmarkt",
+        "times": [{ "from": "2024-10-12", "till": "2024-10-13" }]
     },
     {
-        "name": "Gedenkveranstaltung: <q>Die Opfer der NS-Gesundheitspolitik</q>",
-        "on": "2024-11-20",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/soziale-medien/09-2024/gedenkveranstaltung-opfer-ns-politik",
         "details": [
             "um 15 Uhr",
             "",
             "<b>(Unverbindliches) Treffen zum Ideensammeln:</b>",
             "<time datetime='2024-09-25 15:00'>25.09.2024 15:00 - 17:00 Uhr</time> im Seminarraum im Lernort, Werkstraße 2 in Herzogsägmühle",
             "Wer was beitragen will, ohne sich persönlich zu treffen, kann auch eine <a href='mailto:ns-unrecht@herzogsaegmuehle.de'>E-Mail senden</a>."
-        ]
+        ],
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/soziale-medien/09-2024/gedenkveranstaltung-opfer-ns-politik",
+        "level": "info",
+        "name": "Gedenkveranstaltung: <q>Die Opfer der NS-Gesundheitspolitik</q>",
+        "times": [{ "on": "2024-11-20" }]
     },
     {
-        "name": "Lechbrückenwiedereröffnung",
-        "on": "2024-11-22",
-        "level": "info",
-        "info": "https://www.schongau.de/de/Aktuelles/Neuigkeiten/Neuigkeit?view=publish&item=article&id=1736",
         "details": [
             "Ab <time datetime='2024-11-22 10:00'> dem 22.11.2024 um ca. 10:00 Uhr</time> ist die Lechbrücke wiedereröffnet und für PKWs befahrbar."
-        ]
+        ],
+        "info": "https://www.schongau.de/de/Aktuelles/Neuigkeiten/Neuigkeit?view=publish&item=article&id=1736",
+        "level": "info",
+        "name": "Lechbrückenwiedereröffnung",
+        "times": [{ "on": "2024-11-22" }]
     },
     {
-        "name": "Weihnachtsmarkt",
-        "locations": ["Deckerhalle", "Dorfplatz", "Martinskirche"],
-        "from": "2024-11-29",
-        "till": "2024-12-01",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/weihnachtsmarkt",
         "details": [
             "<b>Freitag:</b> <time datetime='2024-11-29'>11:00 - 18:00 Uhr</time>",
             "<b>Samstag:</b> <time datetime='2024-11-30'>12:00 - 19:00 Uhr</time>",
             "<b>Sonntag:</b> <time datetime='2024-12-01'>12:00 - 19:00 Uhr</time>"
-        ]
+        ],
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/weihnachtsmarkt",
+        "level": "info",
+        "locations": ["Deckerhalle", "Dorfplatz", "Martinskirche"],
+        "name": "Weihnachtsmarkt",
+        "times": [{ "from": "2024-11-29", "till": "2024-12-01" }]
     },
     {
-        "name": "Benefizkonzert Regenbogen und Farbenklang: <q>Wünsche - Sehnsüchte - Zufriedenheit</q>",
-        "locations": ["Rainer-Endisch-Saal"],
-        "from": "2024-12-07",
-        "till": "2024-12-08",
-        "level": "info",
-        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/benefizkonzert-regenbogen",
         "details": [
             "an beiden Tagen jeweils <time datetime='2024-12-07 19:00'>um 19:00 Uhr</time>"
-        ]
-    },
-    {
-        "name": "Betriebsurlaub - Herzog",
-        "locations": ["Cafe und Wirtshaus Herzog"],
-        "from": "2024-12-20",
-        "till": "2025-01-07",
-        "level": "warning",
-        "details": ["Restaurant- und Kantinenbetrieb ist geschlossen."]
-    },
-    {
-        "name": "Betriebsurlaub - Tiergestützte Therapie",
-        "from": "2024-12-23",
-        "till": "2025-01-06",
-        "level": "warning",
-        "details": ["Therapiestunden finden in diesem Zeitraum nicht statt."]
-    },
-    {
-        "name": "Busverbindung entfällt",
-        "on": "2024-12-24",
-        "level": "warning",
-        "details": ["Herzogsägmühler Buslinie Peiting-Schongau entfällt"]
-    },
-    {
-        "name": "Busverbindung entfällt",
-        "on": "2024-12-31",
-        "level": "warning",
-        "details": ["Herzogsägmühler Buslinie Peiting-Schongau entfällt"]
-    },
-    {
-        "name": "Silvesterabend",
-        "locations": ["Rainer-Endisch-Saal"],
-        "from": "2024-12-31 20:00",
-        "till": "2025-01-01 01:00",
+        ],
+        "info": "https://www.herzogsaegmuehle.de/aktuelles/veranstaltungen/benefizkonzert-regenbogen",
         "level": "info",
+        "locations": ["Rainer-Endisch-Saal"],
+        "name": "Benefizkonzert Regenbogen und Farbenklang: <q>Wünsche - Sehnsüchte - Zufriedenheit</q>",
+        "times": [{ "from": "2024-12-07", "till": "2024-12-08" }]
+    },
+    {
+        "details": ["Restaurant- und Kantinenbetrieb ist geschlossen."],
+        "level": "warning",
+        "locations": ["Cafe und Wirtshaus Herzog"],
+        "name": "Betriebsurlaub - Herzog",
+        "times": [{ "from": "2024-12-20", "till": "2025-01-07" }]
+    },
+    {
+        "details": ["Therapiestunden finden in diesem Zeitraum nicht statt."],
+        "level": "warning",
+        "name": "Betriebsurlaub - Tiergestützte Therapie",
+        "times": [{ "from": "2024-12-23", "till": "2025-01-06" }]
+    },
+    {
+        "details": ["Herzogsägmühler Buslinie Peiting-Schongau entfällt"],
+        "level": "warning",
+        "name": "Busverbindung entfällt",
+        "times": [{ "on": "2024-12-24" }]
+    },
+    {
+        "details": ["Herzogsägmühler Buslinie Peiting-Schongau entfällt"],
+        "level": "warning",
+        "name": "Busverbindung entfällt",
+        "times": [{ "on": "2024-12-31" }]
+    },
+    {
         "details": [
             "Von <time datetime='2024-12-31 20:00'>20:00</time> - <time datetime='2025-01-01 01:00'>01:00</time> Uhr mit Essen und alkoholfreien Cocktails."
-        ]
+        ],
+        "level": "info",
+        "locations": ["Rainer-Endisch-Saal"],
+        "name": "Silvesterabend",
+        "times": [{ "from": "2024-12-31 20:00", "till": "2025-01-01 01:00" }]
     }
 ]

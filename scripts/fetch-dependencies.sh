@@ -22,5 +22,6 @@ function fetch() {
     curl "$URL" > "$DIRECTORY/$FILE"
 }
 
-# fetch "xml2lua.lua" "https://raw.githubusercontent.com/manoelcampos/xml2lua/master/xml2lua.lua"
+
+fetch "json.lua" "https://raw.githubusercontent.com/winniehell/json.lua/refs/heads/sorted-table-keys/json.lua" # "https://raw.githubusercontent.com/rxi/json.lua/refs/heads/master/json.lua"
 # Lua-Socket: `sudo zypper install lua54-luasocket`
