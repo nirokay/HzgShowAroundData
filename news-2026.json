@@ -36,7 +36,7 @@
             "Warmes Mittagessen und am Nachmittag Kaffee und Kuchen.",
             "Eine Anmeldung ist nicht zwingend notwending, aber hilfreich:",
             "Telefon: <a href='tel:08861 219680'>Tomek Twardowski (08861 219-680)</a>, <a href='08861 219278'>Frank Böttinger (08861 219-278)</a>",
-            "Email: <a href='mailto:arbeitskreis.umwelt@herzogsaegmuehle.de'>arbeitskreis.umwelt@herzogsaegmuehle.de</a>"
+            "Email: <a href='mailto:arbeitskreis.umwelt@herzogsaegmuehle.de'>arbeits<wbr />kreis.um<wbr />welt@her<wbr />zog<wbr />saeg<wbr />mueh<wbr />le.de</a>"
         ]
     },
     {
@@ -63,7 +63,26 @@
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/infoabend-hep-schule",
         "image": "presentation.svg",
         "details": [
-            "Alles Wissenswerte zur Heilerziegungspflegen- und Heilerziegungspflegehilfeausbildung sowie zum Heilerziehungspflegerischen Einführungsjahr (HEJ)."
+            "Alles Wissenswerte zur Heilerziehungspflegen- und Heil<wbr />erziehungs<wbr />pflege<wbr />hilfe<wbr />aus<wbr />bild<wbr />ung sowie zum Heilerziehungspflegerischen Einführungsjahr (HEJ)."
+        ]
+    },
+    {
+        "name": "Sporttag der Vielfalt",
+        "locations": [
+            "Vereinsheim SV Herzogsägmühle",
+            "Tennisplatz",
+            "Fußballplatz",
+            "Handball- und Basketballfeld",
+            "Sprintstrecke"
+        ],
+        "times": [{ "from": "2026-05-02 13:00", "till": "2026-05-02 18:00" }],
+        "level": "info",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/sportfest",
+        "image": "celebration.svg",
+        "details": [
+            "Teammitglieder werden ausgelost und müssen verschiedene Aufgaben erledigen: <b>Torwand schießen</b>, <b>Kegeln</b>, <b>Dosenwerfen</b>, und weiteres.",
+            "Als besonderes Event gibt es dieses Jahr wieder die <b>Bogenschützen</b>. Neue Aktivitäten sind dieses Jahr <b>Tischtennis</b>, <b>Slackline</b> und <b>Riesen-XXL-Fußball Dart</b>.",
+            "Anmeldung bis <time>29.04.2026</time> per Email an <a href='mailto:veranstaltungen@herzogsaegmuehle.de'>ver<wbr />an<wbr />stal<wbr />tung<wbr />en@her<wbr />zog<wbr />saeg<wbr />mue<wbr />hle.de</a>"
         ]
     },
     {
