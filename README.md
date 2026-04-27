@@ -19,6 +19,8 @@ Die JSON-Dateien werden bei einem Push nach Integrität und Syntax überprüft. 
 
 **Dateistrukturen:**
 
+Die genaue Struktur der Dateien sind in Form von [JSON-Schemas](./templates/.schemas/) festgehalten.
+
 * [Artikel](docs/articles.md)
 * [Newsfeed](docs/news.md)
 * [Orte](docs/locations.md)
@@ -29,7 +31,7 @@ Die JSON-Dateien werden bei einem Push nach Integrität und Syntax überprüft. 
 
 ### Tourdaten
 
-Die Datei `tour_locations.json` beinhaltet ein einfache Array von den Ortsnamen.
+Die Datei `json/locations/tour_locations.json` beinhaltet ein einfaches Array von den Ortsnamen.
 
 In der Tour werden diese der Reihenfolge nach abgerufen.
 

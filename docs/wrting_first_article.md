@@ -18,15 +18,15 @@ Es gibt zwei verschiedene Wege einen Artikel zu schreiben. Entweder du schreibst
 
 Keine Sorge, es wird Alles noch erklärt! :)
 
-Es ist ratsam die [Artikel Sektion](../README.md#artikel) durchzulesen.
+Es ist ratsam die [Artikel Sektion](./articles.md#artikel) durchzulesen.
 
 ### HTML
 
-Wie man einen HTML Artikel schreibt wird [hier erklärt](../README.md#html).
+Wie man einen HTML Artikel schreibt wird [hier erklärt](../articles.md#html).
 
 ### JSON
 
-Wie man einen JSON Artikel schreibt wird [hier erklärt](../README.md#json).
+Wie man einen JSON Artikel schreibt wird [hier erklärt](../articles.md#json).
 
 ### Beispiel
 

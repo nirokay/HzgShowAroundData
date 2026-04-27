@@ -1,6 +1,6 @@
 # Orte
 
-Informationen über Orte befindet sich in `locations.json`.
+Informationen über Orte befindet sich in `json/locations/locations.json`.
 
 ## Warum überhaupt JSON?
 

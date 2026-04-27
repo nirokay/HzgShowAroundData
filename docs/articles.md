@@ -2,7 +2,7 @@
 
 Du kannst Artikel in zwei Formen schreiben.
 
-Egal welches der Zwei du wählst, musst du in der `articles.json` Datei deinen Artikel hinzufügen.
+Egal welches der Zwei du wählst, musst du in der `json/pages/articles.json` Datei deinen Artikel hinzufügen.
 
 **Beispiel:**
 
