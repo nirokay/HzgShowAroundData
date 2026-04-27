@@ -11,7 +11,7 @@ jobs:
               uses: docker://orrosenblatt/validate-json-action:latest
               env:
                   INPUT_SCHEMA: /templates/.schemas/locations.schema.json
-                  INPUT_JSONS: /locations.json
+                  INPUT_JSONS: /json/locations/locations.json
 
     verify-json-articles:
         runs-on: ubuntu-latest
@@ -21,7 +21,7 @@ jobs:
               uses: docker://orrosenblatt/validate-json-action:latest
               env:
                   INPUT_SCHEMA: /templates/.schemas/articles.schema.json
-                  INPUT_JSONS: /articles.json
+                  INPUT_JSONS: /json/pages/articles.json
 
     verify-json-tour_locations:
         runs-on: ubuntu-latest
@@ -31,7 +31,7 @@ jobs:
               uses: docker://orrosenblatt/validate-json-action:latest
               env:
                   INPUT_SCHEMA: /templates/.schemas/tour_locations.schema.json
-                  INPUT_JSONS: /tour_locations.json
+                  INPUT_JSONS: /json/locations/tour_locations.json
 
     verify-json-offerings:
         runs-on: ubuntu-latest
@@ -41,7 +41,7 @@ jobs:
               uses: docker://orrosenblatt/validate-json-action:latest
               env:
                   INPUT_SCHEMA: /templates/.schemas/offerings.schema.json
-                  INPUT_JSONS: /offerings.json
+                  INPUT_JSONS: /json/pages/offerings.json
 
     verify-json-travel:
         runs-on: ubuntu-latest
@@ -51,7 +51,17 @@ jobs:
               uses: docker://orrosenblatt/validate-json-action:latest
               env:
                   INPUT_SCHEMA: /templates/.schemas/travel.schema.json
-                  INPUT_JSONS: /travel.json
+                  INPUT_JSONS: /json/pages/travel.json
+
+    verify-json-changelog:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v1
+            - name: Validate travel data
+              uses: docker://orrosenblatt/validate-json-action:latest
+              env:
+                  INPUT_SCHEMA: /templates/.schemas/changelog.schema.json
+                  INPUT_JSONS: /json/pages/changelog.json
 
     # News:
 
@@ -63,7 +73,7 @@ jobs:
               uses: docker://orrosenblatt/validate-json-action:latest
               env:
                   INPUT_SCHEMA: /templates/.schemas/news-health.schema.json
-                  INPUT_JSONS: /news-health.json
+                  INPUT_JSONS: /json/news/news-health.json
 
     verify-json-news-repeat:
         runs-on: ubuntu-latest
@@ -73,7 +83,7 @@ jobs:
               uses: docker://orrosenblatt/validate-json-action:latest
               env:
                   INPUT_SCHEMA: /templates/.schemas/news.schema.json
-                  INPUT_JSONS: /news-repeat.json
+                  INPUT_JSONS: /json/news/news-repeat.json
 
     # Years: ------------------------------------------------------------------
 
@@ -85,7 +95,7 @@ jobs:
               uses: docker://orrosenblatt/validate-json-action:latest
               env:
                   INPUT_SCHEMA: /templates/.schemas/news.schema.json
-                  INPUT_JSONS: /news-2028.json
+                  INPUT_JSONS: /json/news/news-2028.json
 
     verify-json-news-2027:
         runs-on: ubuntu-latest
@@ -95,7 +105,7 @@ jobs:
               uses: docker://orrosenblatt/validate-json-action:latest
               env:
                   INPUT_SCHEMA: /templates/.schemas/news.schema.json
-                  INPUT_JSONS: /news-2027.json
+                  INPUT_JSONS: /json/news/news-2027.json
 
     verify-json-news-2026:
         runs-on: ubuntu-latest
@@ -105,7 +115,7 @@ jobs:
               uses: docker://orrosenblatt/validate-json-action:latest
               env:
                   INPUT_SCHEMA: /templates/.schemas/news.schema.json
-                  INPUT_JSONS: /news-2026.json
+                  INPUT_JSONS: /json/news/news-2026.json
 
     verify-json-news-2025:
         runs-on: ubuntu-latest
@@ -115,7 +125,7 @@ jobs:
               uses: docker://orrosenblatt/validate-json-action:latest
               env:
                   INPUT_SCHEMA: /templates/.schemas/news.schema.json
-                  INPUT_JSONS: /news-2025.json
+                  INPUT_JSONS: /json/news/news-2025.json
 
     verify-json-news-2024:
         runs-on: ubuntu-latest
@@ -125,7 +135,7 @@ jobs:
               uses: docker://orrosenblatt/validate-json-action:latest
               env:
                   INPUT_SCHEMA: /templates/.schemas/news.schema.json
-                  INPUT_JSONS: /news-2024.json
+                  INPUT_JSONS: /json/news/news-2024.json
 
     verify-json-news-2023:
         runs-on: ubuntu-latest
@@ -135,4 +145,4 @@ jobs:
               uses: docker://orrosenblatt/validate-json-action:latest
               env:
                   INPUT_SCHEMA: /templates/.schemas/news.schema.json
-                  INPUT_JSONS: /news-2023.json
+                  INPUT_JSONS: /json/news/news-2023.json

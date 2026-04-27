@@ -1,0 +1,26 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Changelog list",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "description": "Change object",
+        "properties": {
+            "date": {
+                "type": "string",
+                "description": "Change date",
+                "pattern": "^(\\d{4})-(\\d{1,2})-(\\d{1,2})"
+            },
+            "text": {
+                "type": "object",
+                "description": "'Heading - Lines of text' pairs",
+                "additionalProperties": {
+                    "type": "array",
+                    "description": "Lines of text"
+                },
+                "minProperties": 1
+            }
+        },
+        "required": ["date", "text"]
+    }
+}

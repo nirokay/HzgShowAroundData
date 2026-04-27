@@ -1,0 +1,202 @@
+[
+    {
+        "COMMENT": "- Original Topics ----------------------------------------"
+    },
+    {
+        "topic": "Entspannung",
+        "desc": "Entspannung und Spannungsbewältigung/-regulation",
+        "on": "2026-01-14",
+        "by": "Christina Igelmund",
+        "required": true
+    },
+    {
+        "topic": "Schlaf",
+        "desc": "gesunder Schlaf",
+        "on": "2026-04-15",
+        "by": "Christina Igelmund",
+        "required": true
+    },
+    {
+        "topic": "Ernährung",
+        "on": "2026-06-17",
+        "by": "Christina Igelmund",
+        "required": true
+    },
+    {
+        "topic": "Bewegung",
+        "on": "2026-02-25",
+        "by": "Christina Igelmund",
+        "required": true
+    },
+    {
+        "topic": "Sucht: Umgang mit legalen und illegalen Suchtmitteln",
+        "on": "2025-01-29",
+        "by": "Matthias Dorner",
+        "required": true
+    },
+    {
+        "COMMENT": "- Additional topics --------------------------------------"
+    },
+    {
+        "topic": "THC",
+        "on": "2024-05-15",
+        "by": "Matthias Dorner"
+    },
+    {
+        "topic": "Medienkompetenz: Chancen und Gefahren des Internets, K.I.",
+        "desc": "Medienkompetenz und Internet",
+        "on": "2024-09-10",
+        "by": "Matthias Dorner"
+    },
+    {
+        "topic": "Medienkompetenz: Zocken und Streamen",
+        "desc": "Medienkompetenz und Internet",
+        "on": "2024-09-24",
+        "by": "Matthias Dorner"
+    },
+    {
+        "topic": "Medikamente in der Psychiatrie",
+        "on": "2026-03-11",
+        "by": "Richard Flatz",
+        "required": true
+    },
+    {
+        "topic": "Depression",
+        "on": "2026-01-28",
+        "by": "Ute Seemann"
+    },
+    {
+        "topic": "Angst",
+        "on": "2024-07-31",
+        "by": "Andreas Thoma"
+    },
+    {
+        "topic": "Achtsamkeit und Meditation",
+        "on": "2024-08-14",
+        "by": "Christina Igelmund"
+    },
+    {
+        "topic": "REHA Forum Dialog über Reha/Mühle mit der Leitung",
+        "desc": "REHA Forum",
+        "on": "2030-08-14",
+        "by": "Stefan Rienecker"
+    },
+    {
+        "topic": "Wie kann es nach der Reha weitergehen?",
+        "desc": "Zukunftsplanung",
+        "on": "2026-04-01",
+        "by": "Stefan Rienecker",
+        "required": true
+    },
+    {
+        "topic": "Wie kann ich meine Ziele umsetzen?",
+        "desc": "Zielumsetzung",
+        "on": "2024-09-04",
+        "by": "Christina Igelmund"
+    },
+    {
+        "topic": "ADHS",
+        "on": "2025-01-22",
+        "by": "Sonja Zimmermann"
+    },
+    {
+        "topic": "Selbstoptimierung und Körperakzeptanz",
+        "on": "2026-04-25",
+        "by": "Christina Igelmund"
+    },
+    {
+        "topic": "Selbstfürsorge und Resilienz",
+        "on": "2026-03-27",
+        "by": "Christine Haberler-Carl"
+    },
+    {
+        "topic": "Stress und Stressbewältigung",
+        "on": "2026-04-08",
+        "by": "Andreas Schmidt"
+    },
+    {
+        "topic": "Sexualität und Verhütung",
+        "on": "2026-02-04",
+        "by": "Christina Igelmund",
+        "required": true
+    },
+    {
+        "topic": "Persönlichkeitsstörungen",
+        "on": "2025-11-06",
+        "by": "Sonja Zimmermann"
+    },
+    {
+        "topic": "Hoffnungen, Wünsche, Sehnsüchte - der Advent",
+        "on": "2025-12-17",
+        "by": "Stefan Rienecker"
+    },
+    {
+        "topic": "Gesundheitsbezogene Apps - Mental Health",
+        "desc": "Mental-Health-Apps für psychische Gesundheit",
+        "on": "2026-04-22",
+        "by": "Andreas Schmidt"
+    },
+    {
+        "topic": "Therapeutisches Klettern",
+        "on": "2026-01-21",
+        "by": "Stefan Jenuwein"
+    },
+    {
+        "topic": "Umsetzung und Veränderungsmotivation und Selbstwirksamkeit",
+        "on": "2026-01-07",
+        "by": "Christina Igelmund"
+    },
+    {
+        "topic": "Schizophrene Psychosen",
+        "on": "2026-06-03",
+        "by": "Ute Seemann"
+    },
+    {
+        "topic": "Emotional-instabile Persönlichkeitsstörung",
+        "on": "2025-02-19",
+        "by": "Alexandra Glas"
+    },
+    {
+        "topic": "Grundlagen psychischer Erkrankung",
+        "on": "2026-03-04",
+        "by": "Sonja Zimmermann",
+        "required": true
+    },
+    {
+        "topic": "Waldboden und Naturtherapie",
+        "on": "2025-08-13",
+        "by": "Christina Igelmund"
+    },
+    {
+        "topic": "Hochbegabung",
+        "on": "2025-07-16",
+        "by": "Sonja Zimmermann"
+    },
+    {
+        "topic": "Rauchen",
+        "on": "2025-09-03",
+        "by": "Matthias Dorner"
+    },
+    {
+        "topic": "Gehören Krisen zum Leben?",
+        "on": "2025-08-20",
+        "by": "Sonja Zimmermann"
+    },
+    {
+        "topic": "Der Übergang stellt sich vor",
+        "desc": "Vorstellung des Übergang(-wohnen)",
+        "on": "2026-03-18",
+        "by": "Martin Steger & Anne Alftmann"
+    },
+    {
+        "topic": "Mobbing und Cybermobbing",
+        "desc": "(Cyber-)Mobbing",
+        "on": "2026-06-24",
+        "by": "Christina Igelmund"
+    },
+    {
+        "topic": "Hochsensibilität",
+        "on": "2026-05-20",
+        "by": "Sonja Zimmermann"
+    }
+]

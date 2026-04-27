@@ -14,7 +14,10 @@ SCHEMA_DIR="templates/.schemas"
 
 METHOD=""
 function validator() {
-    if jsonschema version > /dev/null; then
+    if ~/.local/bin/jsonschema version > /dev/null; then # does not find just 'jsonschema' anymore, here a hacky workaround :>
+        METHOD="binary"
+        ~/.local/bin/jsonschema $*
+    elif jsonschema version > /dev/null; then
         METHOD="binary"
         jsonschema $*
     elif docker run ghcr.io/sourcemeta/jsonschema version > /dev/null; then
@@ -45,22 +48,24 @@ validator version && echo -e "'jsonschema' ($METHOD) is installed and in path!"
 
 function check() {
     NAME=$1
-    validate "${SCHEMA_DIR}/${NAME}.schema.json" "${NAME}.json"
+    PATH=$2
+    validate "${SCHEMA_DIR}/${NAME}.schema.json" "${PATH}/${NAME}.json"
 }
-YEAR_FILES=(news-2*.json)
+YEAR_FILES=(json/news/news-2*.json)
 function checkYearNews() {
     FILE=$1
-    validate "${SCHEMA_DIR}/news.schema.json" "$FILE"
+    validate "${SCHEMA_DIR}/news.schema.json" "${FILE}"
 }
 
-check articles
-check authors
-check contributors
-check locations
-check news-health
-check offerings
-check tour_locations
-check travel
+check articles       json/pages
+check authors        json/contributors
+check contributors   json/contributors
+check locations      json/locations
+check news-health    json/news
+check offerings      json/pages
+check tour_locations json/locations
+check travel         json/pages
+check changelog      json/pages
 for YEAR in "${YEAR_FILES[@]}"; do
     checkYearNews $YEAR
 done

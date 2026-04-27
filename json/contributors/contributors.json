@@ -1,0 +1,33 @@
+[
+    {
+        "name": "nirokay",
+        "link": "https://www.nirokay.com/",
+        "tasks": [
+            "Website: HTML, CSS, JavaScript, Automatisierung",
+            "Ortbeschreibungen",
+            "Newsfeed",
+            "Artikel"
+        ]
+    },
+    {
+        "name": "tiersch",
+        "tasks": ["Ortbeschreibungen", "Unterstützung"]
+    },
+    {
+        "name": "Ika",
+        "tasks": ["Website: CSS"]
+    },
+    {
+        "name": "Marc",
+        "tasks": ["Ortbeschreibungen"]
+    },
+    {
+        "name": "Kristina Mensch",
+        "link": "http://kristinamensch.com/",
+        "tasks": ["Ortsbilder", "Bildernachbearbeitung"]
+    },
+    {
+        "name": "Aaron",
+        "tasks": ["Ortsbilder"]
+    }
+]

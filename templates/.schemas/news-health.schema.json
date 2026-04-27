@@ -1,4 +1,5 @@
 {
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
     "title": "Health presentations news array",
     "type": "array",
     "items": {
@@ -11,9 +12,7 @@
                         "type": "string"
                     }
                 },
-                "required": [
-                    "COMMENT"
-                ]
+                "required": ["COMMENT"]
             },
             {
                 "type": "object",
@@ -41,9 +40,7 @@
                         "description": "Required attendance for homes 14, 16 & 18"
                     }
                 },
-                "required": [
-                    "topic", "on"
-                ]
+                "required": ["topic", "on"]
             }
         ]
     }
