@@ -2,12 +2,9 @@
 resources/images/map*
 !resources/images/map.svg
 
-# Project:
-.vscode/
-
 # Krita backup files:
 *.*~
 
 # Libraries:
 scripts/lib/*
-!scripts/lib/.info
+!scripts/lib/.gitkeep

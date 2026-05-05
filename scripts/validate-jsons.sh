@@ -10,7 +10,7 @@
     echo -e "Please run from git root."
 }
 
-SCHEMA_DIR="templates/.schemas"
+SCHEMA_DIR="schemas"
 
 METHOD=""
 function validator() {

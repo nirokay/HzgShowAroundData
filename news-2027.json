@@ -1,9 +1,0 @@
-[
-    {
-        "name": "Betriebsurlaub MühlenMarkt",
-        "locations": ["MühlenMarkt"],
-        "times": [{ "on": "2027-01-02" }],
-        "level": "warning",
-        "details": []
-    }
-]
