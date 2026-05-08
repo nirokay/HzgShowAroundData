@@ -94,6 +94,15 @@
         "details": []
     },
     {
+        "name": "Maibaum Aufstellung",
+        "locations": ["Dorfplatz"],
+        "times": [{ "from": "2026-05-09 10:30", "till": "2026-05-09 11:30" }],
+        "level": "info",
+        "image": "celebration.svg",
+        "details": []
+        
+    },
+    {
         "name": "Frühlingsflohmarkt ABGESAGT!",
         "locations": ["Dorfplatz", "Deckerhalle"],
         "times": [{ "on": "2026-05-09" }, { "on": "2026-05-10" }],
