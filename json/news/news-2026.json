@@ -140,15 +140,6 @@
         "details": []
     },
     {
-        "name": "Eröffnung: <i>Ausstellung zu <b>Willy Zielke</b> (1902-1989)</i>",
-        "locations": ["Deckerhalle"],
-        "times": [{ "from": "2026-06-10 17:00", "till": "2026-06-10 19:00" }],
-        "level": "info",
-        "image": "https://www.herzogsaegmuehle.de/fileadmin/Diakoniedorf/Bilder/Erleben/Veranstaltungen/Lernort_Arbeitstreffen_Ausstellung_Willy_Zielke/W_Zielke_PotsdamFilmmuseum_N007_1.jpg",
-        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/ausstellung-willy-zielke",
-        "details": []
-    },
-    {
         "name": "Dorffest",
         "locations": ["Dorfplatz", "Deckerhalle"],
         "times": [{ "from": "2026-07-05 11:00", "till": "2026-07-05 17:00" }],
@@ -164,6 +155,40 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/gebrauchtmoebelhaus-herzogsaegmuehle",
         "details": []
+    },
+    {
+        "name": "Eröffnung: <i>Ausstellung zu <b>Willy Zielke</b> (1902-1989)</i>",
+        "locations": ["Deckerhalle"],
+        "times": [{ "from": "2026-07-10 17:00", "till": "2026-07-10 19:00" }],
+        "level": "info",
+        "image": "https://www.herzogsaegmuehle.de/fileadmin/Diakoniedorf/Bilder/Erleben/Veranstaltungen/Lernort_Arbeitstreffen_Ausstellung_Willy_Zielke/W_Zielke_PotsdamFilmmuseum_N007_1.jpg",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/ausstellung-willy-zielke",
+        "details": []
+    },
+    {
+        "name": "Ausstellung zu <b>Willy Zielke</b> (1902-1989)",
+        "locations": ["Deckerhalle"],
+        "times": [
+            { "from": "2026-07-11 13:00", "till": "2026-07-11 17:00" },
+            { "from": "2026-07-12 13:00", "till": "2026-07-12 17:00" },
+            { "from": "2026-07-13 13:00", "till": "2026-07-13 17:00" },
+            { "from": "2026-07-14 13:00", "till": "2026-07-14 17:00" },
+            { "from": "2026-07-15 13:00", "till": "2026-07-15 17:00" },
+            { "from": "2026-07-16 13:00", "till": "2026-07-16 17:00" },
+            { "from": "2026-07-17 13:00", "till": "2026-07-17 17:00" },
+            { "from": "2026-07-18 13:00", "till": "2026-07-18 17:00" },
+            { "from": "2026-07-19 13:00", "till": "2026-07-19 17:00" },
+            { "from": "2026-07-20 13:00", "till": "2026-07-20 17:00" },
+            { "from": "2026-07-21 13:00", "till": "2026-07-21 17:00" },
+            { "from": "2026-07-22 13:00", "till": "2026-07-22 17:00" },
+            { "from": "2026-07-23 13:00", "till": "2026-07-23 17:00" }
+        ],
+        "level": "info",
+        "image": "https://www.herzogsaegmuehle.de/fileadmin/Diakoniedorf/Bilder/Erleben/Veranstaltungen/Lernort_Arbeitstreffen_Ausstellung_Willy_Zielke/W_Zielke_PotsdamFilmmuseum_N007_1.jpg",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/ausstellung-willy-zielke",
+        "details": [
+            "Begleitprogramm: <ul> <li>Offene Sonntagsführungen am <time datetime='2026-07-12 15:00'>12.07.</time> und <time datetime='2026-07-19 15:00'>19.07.</time> jeweils um <time>15.00 Uhr</time> </li> <li>Workshop <i>Verachtet – Verfolgt – Vergessen. Die Opfer der NS-Gesundheitspolitik in Herzogsägmühle</i> am <time datetime='2026-07-15 14:00'>Mittwoch den 15.07. von 14.00 bis 16.00 Uhr</time></li> </ul>"
+        ]
     },
     {
         "name": "Betriebsurlaub Metzgereiverkauf im MühlenMarkt",
@@ -217,7 +242,14 @@
     },
     {
         "name": "Weihnachtsmarkt",
-        "locations": ["Dorfplatz", "Deckerhalle", "Rainer-Endisch-Saal"],
+        "locations": [
+            "Dorfplatz",
+            "Deckerhalle",
+            "Rainer-Endisch-Saal",
+            "Werkstatt-Laden im MühlenMarkt",
+            "MühlenMarkt",
+            "Gärtnerei"
+        ],
         "times": [
             { "on": "2026-11-27" },
             { "on": "2026-11-28" },
@@ -226,7 +258,9 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/weihnachtsmarkt",
         "image": "christmas.svg",
-        "details": []
+        "details": [
+            "An den Tagen ist der Werkstatt-Laden, MühlenMarkt und der Gärtnerei geöffnet."
+        ]
     },
     {
         "name": "Betriebsurlaub Metzgereiverkauf im MühlenMarkt",
