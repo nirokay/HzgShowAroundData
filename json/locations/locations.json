@@ -1115,7 +1115,9 @@
                 "Fr": "08.00 - 12.15"
             }
         },
-        "pics": {},
+        "pics": {
+            "header": "work/Attm.webp"
+        },
         "same": ["Berufsbildende Maßnahme (BBM)", "Berufliches Zentrum (BZ)"],
         "contact": {
             "address": "Franz-Rupp-Straße 2, 86956 Schongau",

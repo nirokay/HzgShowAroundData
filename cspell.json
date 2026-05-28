@@ -2224,6 +2224,10 @@
     "webp",
     "jsonschema",
     "JSONS",
-    "orrosenblatt"
+    "orrosenblatt",
+    "magick",
+    "cattag",
+    "lastmod",
+    "urlset"
   ]
 }
