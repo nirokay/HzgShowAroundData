@@ -100,7 +100,6 @@
         "level": "info",
         "image": "celebration.svg",
         "details": []
-        
     },
     {
         "name": "Frühlingsflohmarkt ABGESAGT!",
@@ -138,6 +137,18 @@
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/serenade-in-herzogsaegmuehle",
         "image": "celebration.svg",
         "details": []
+    },
+    {
+        "name": "Mühlenmarkt und WerkstattLaden geschlossen",
+        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
+        "times": [
+            { "from": "2026-06-26 13:00", "till": "2026-06-26 13:15" },
+            { "from": "2026-06-26 17:00", "till": "2026-06-26 17:15" }
+        ],
+        "level": "warning",
+        "details": [
+            "Aufgrund von Stromabschaltungen schließen die Läden kurzzeitig jeweils in diesen Uhrzeiten."
+        ]
     },
     {
         "name": "Dorffest",
