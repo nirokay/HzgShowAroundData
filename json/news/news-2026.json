@@ -130,6 +130,35 @@
         "details": ["Motto: <i>Unter einem Hut</i>"]
     },
     {
+        "name": "MühlenMarkt Öffnungszeiten",
+        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
+        "times": [{ "from": "2026-06-16", "till": "2026-06-19" }],
+        "level": "warning",
+        "details": [
+            "Der MühlenMarkt hat aufgrund Personalmangel an den Tagen nur bis <time>13.00 Uhr</time> geöffnet."
+        ]
+    },
+    {
+        "name": "Feuerwerk",
+        "locations": ["Brotbackhaus", "Dorfplatz"],
+        "times": [{ "from": "2026-06-19 19:00", "till": "2026-06-19 22:00" }],
+        "level": "info",
+        "details": [
+            "Ab <time datetime='2026-06-19 19:00'>19.00 Uhr</time> gibt es ein gemütliches Treffen am Brotbackhaus.",
+            "Die Werkfeuerwehr bietet Bratwurst und Getränke.",
+            "Das Feuerwerk beginnt gegen <time datetime='2026-06-19 21:45'>21.45 Uhr</time>."
+        ]
+    },
+    {
+        "name": "MühlenMarkt geschlossen",
+        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
+        "times": [{ "on": "2026-06-20" }],
+        "level": "warning",
+        "details": [
+            "Der MühlenMarkt hat aufgrund Personalmangel an diesem Tag geschlossen."
+        ]
+    },
+    {
         "name": "Serenade",
         "locations": ["Rainer-Endisch-Saal"],
         "times": [{ "from": "2026-06-25 19:00", "till": "2026-06-25 22:00" }],
@@ -148,6 +177,17 @@
         "level": "warning",
         "details": [
             "Aufgrund von Stromabschaltungen schließen die Läden kurzzeitig jeweils in diesen Uhrzeiten."
+        ]
+    },
+    {
+        "name": "CSD-Parade München 2026",
+        "locations": ["München Mariahilfplatz"],
+        "times": [{ "from": "2026-06-27 11:00", "till": "2026-06-27 15:00" }],
+        "level": "info",
+        "details": [
+            "Die Diakonie ist ein Teil der Parade mit LKW (Platz für ca. 30 Personen) und Fußgruppe als Begleitung.",
+            "Vorort bekommst du ein Diakonie T-Shirt und Getränke.",
+            "Anmeldung: <a href='mailto:vielfalt@diakonie-muc-obb.de'>vielfalt@<wbr />diakonie<wbr />-muc-<wbr />obb.de</a>"
         ]
     },
     {
