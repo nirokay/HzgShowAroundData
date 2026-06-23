@@ -159,6 +159,15 @@
         ]
     },
     {
+        "name": "MühlenMarkt Öffnungszeiten",
+        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
+        "times": [{ "from": "2026-06-22", "till": "2026-06-26" }],
+        "level": "warning",
+        "details": [
+            "Der MühlenMarkt hat aufgrund Personalmangel an den Tagen nur bis <time>13.00 Uhr</time> geöffnet."
+        ]
+    },
+    {
         "name": "Serenade",
         "locations": ["Rainer-Endisch-Saal"],
         "times": [{ "from": "2026-06-25 19:00", "till": "2026-06-25 22:00" }],
