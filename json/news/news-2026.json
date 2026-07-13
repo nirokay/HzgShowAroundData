@@ -217,6 +217,20 @@
         "details": []
     },
     {
+        "name": "<b>Permanent</b> geänderte Öffnungszeiten im Mühlenmarkt",
+        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
+        "times": [{ "from": "2026-07-06", "till": "2026-09-06" }],
+        "level": "warning",
+        "info": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/muehlenmarkt#c23868",
+        "details": [
+            "Neue Öffnungszeiten:",
+            "Montag: <time>07.30 - 13.00 Uhr</time>",
+            "Dienstag - Freitag: <time>07.30 - 17.30 Uhr</time>",
+            "Samstag: <time>geschlossen</time>",
+            "Ein neuer Lebensmittelautomat soll ab dem <time datetime='2026-07-06'>06.07.</time> rund um die Uhr zur Verfügung stehen."
+        ]
+    },
+    {
         "name": "Eröffnung: <i>Ausstellung zu <b>Willy Zielke</b> (1902-1989)</i>",
         "locations": ["Deckerhalle"],
         "times": [{ "from": "2026-07-10 17:00", "till": "2026-07-10 19:00" }],
