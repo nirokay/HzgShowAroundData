@@ -2205,7 +2205,11 @@
     "Fußgruppe",
     "Begleitung",
     "Lebensmittelautomat",
-    "Verfügung"
+    "Verfügung",
+    "Lebensmittelautomaten",
+    "gekauft",
+    "Nähe",
+    "Haupteingang"
   ],
   "userWords": [
     "notin",

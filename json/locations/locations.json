@@ -18,7 +18,7 @@
         "open": {
             "MühlenMarkt": {
                 "Mo": "07.30 - 13.00",
-                "Di - Fr": "07:30 - 17.00"
+                "Di - Fr": "07:30 - 17.30"
             },
             "Metzgereiverkauf": {
                 "Mo - Mi": "07.30 - 13.00",
@@ -36,7 +36,10 @@
                 "shopping/mühlenmarkt/obst.webp"
             ]
         },
-        "same": ["Werkstatt-Laden im MühlenMarkt"],
+        "same": [
+            "Werkstatt-Laden im MühlenMarkt",
+            "Lebensmittelautomat am MühlenMarkt"
+        ],
         "coords": [679, 3472, 755, 3545],
         "contact": {
             "address": "Unteroblandstraße 11",
@@ -67,15 +70,39 @@
         "open": {
             "": {
                 "Mo": "08.30 - 13.00",
-                "Di - Fr": "08.30 - 17.00"
+                "Di - Fr": "08.30 - 17.30"
             }
         },
         "pics": {
             "header": "shopping/mühlenmarkt/werkstattladen/logo.webp",
             "footer": ["shopping/mühlenmarkt/werkstattladen/waren.webp"]
         },
-        "same": ["MühlenMarkt"],
+        "same": ["MühlenMarkt", "Lebensmittelautomat am MühlenMarkt"],
         "coords": [640, 3472, 677, 3545],
+        "contact": {
+            "address": "Unteroblandstraße 11"
+        }
+    },
+    {
+        "name": "Lebensmittelautomat am MühlenMarkt",
+        "alias": ["Lebensmittelautomat", "Lebensmittelautomaten"],
+        "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/muehlenmarkt",
+        "desc": {
+            "Der Automat": [
+                "Der Lebensmittelautomat steht um die Ecke vom Haupteingang des MühlenMarktes, in der Nähe von Buri's Imbiss.",
+                "Dieser steht rund um die Uhr zur Verfügung. Hier können Lebensmittel gekauft werden wenn der MühlenMarkt geschlossen ist."
+            ]
+        },
+        "open": {
+            "": {
+                "Mo - So": "24/7"
+            }
+        },
+        "pics": {
+            "header": "shopping/mühlenmarkt/lebensmittelautomat_am_muehlenmarkt.webp"
+        },
+        "same": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
+        "coords": [619, 3485, 640, 3509],
         "contact": {
             "address": "Unteroblandstraße 11"
         }

@@ -218,7 +218,11 @@
     },
     {
         "name": "<b>Permanent</b> geänderte Öffnungszeiten im Mühlenmarkt",
-        "locations": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
+        "locations": [
+            "MühlenMarkt",
+            "Werkstatt-Laden im MühlenMarkt",
+            "Lebensmittelautomat am MühlenMarkt"
+        ],
         "times": [{ "from": "2026-07-06", "till": "2026-09-06" }],
         "level": "warning",
         "info": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/muehlenmarkt#c23868",
