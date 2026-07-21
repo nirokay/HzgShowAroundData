@@ -5,14 +5,14 @@
     {
         "topic": "Entspannung",
         "desc": "Entspannung und Spannungsbewältigung/-regulation",
-        "on": "2026-01-14",
+        "on": "2026-07-01",
         "by": "Christina Igelmund",
         "required": true
     },
     {
         "topic": "Schlaf",
         "desc": "gesunder Schlaf",
-        "on": "2026-04-15",
+        "on": "2026-08-12",
         "by": "Christina Igelmund",
         "required": true
     },
@@ -24,7 +24,7 @@
     },
     {
         "topic": "Bewegung",
-        "on": "2026-02-25",
+        "on": "2026-10-07",
         "by": "Christina Igelmund",
         "required": true
     },
@@ -56,13 +56,19 @@
     },
     {
         "topic": "Medikamente in der Psychiatrie",
-        "on": "2026-03-11",
+        "on": "2026-07-22",
+        "by": "Richard Flatz",
+        "required": true
+    },
+    {
+        "topic": "Medikamente zur Behandlung von Depressionen",
+        "on": "2026-12-02",
         "by": "Richard Flatz",
         "required": true
     },
     {
         "topic": "Depression",
-        "on": "2026-01-28",
+        "on": "2026-11-25",
         "by": "Ute Seemann"
     },
     {
@@ -84,7 +90,7 @@
     {
         "topic": "Wie kann es nach der Reha weitergehen?",
         "desc": "Zukunftsplanung",
-        "on": "2026-04-01",
+        "on": "2026-08-05",
         "by": "Stefan Rienecker",
         "required": true
     },
@@ -96,17 +102,17 @@
     },
     {
         "topic": "ADHS",
-        "on": "2025-01-22",
+        "on": "2026-08-19",
         "by": "Sonja Zimmermann"
     },
     {
         "topic": "Selbstoptimierung und Körperakzeptanz",
-        "on": "2026-04-25",
+        "on": "2026-09-30",
         "by": "Christina Igelmund"
     },
     {
         "topic": "Selbstfürsorge und Resilienz",
-        "on": "2026-03-27",
+        "on": "2026-10-23",
         "by": "Christine Haberler-Carl"
     },
     {
@@ -116,7 +122,7 @@
     },
     {
         "topic": "Sexualität und Verhütung",
-        "on": "2026-02-04",
+        "on": "2026-07-08",
         "by": "Christina Igelmund",
         "required": true
     },
@@ -126,8 +132,8 @@
         "by": "Sonja Zimmermann"
     },
     {
-        "topic": "Hoffnungen, Wünsche, Sehnsüchte - der Advent",
-        "on": "2025-12-17",
+        "topic": "Hoffnungen und Zuversicht",
+        "on": "2026-12-16",
         "by": "Stefan Rienecker"
     },
     {
@@ -138,12 +144,12 @@
     },
     {
         "topic": "Therapeutisches Klettern",
-        "on": "2026-01-21",
+        "on": "2026-09-02",
         "by": "Stefan Jenuwein"
     },
     {
-        "topic": "Umsetzung und Veränderungsmotivation und Selbstwirksamkeit",
-        "on": "2026-01-07",
+        "topic": "Umsetzung, Veränderungsmotivation und Selbstwirksamkeit",
+        "on": "2026-09-16",
         "by": "Christina Igelmund"
     },
     {
@@ -163,13 +169,13 @@
         "required": true
     },
     {
-        "topic": "Waldboden und Naturtherapie",
-        "on": "2025-08-13",
+        "topic": "Waldbaden und Naturtherapie",
+        "on": "2026-10-14",
         "by": "Christina Igelmund"
     },
     {
         "topic": "Hochbegabung",
-        "on": "2025-07-16",
+        "on": "2026-11-04",
         "by": "Sonja Zimmermann"
     },
     {
@@ -185,18 +191,38 @@
     {
         "topic": "Der Übergang stellt sich vor",
         "desc": "Vorstellung des Übergang(-wohnen)",
-        "on": "2026-03-18",
+        "on": "2026-09-23",
         "by": "Martin Steger & Anne Alftmann"
     },
     {
         "topic": "Mobbing und Cybermobbing",
         "desc": "(Cyber-)Mobbing",
-        "on": "2026-06-24",
+        "on": "2026-11-11",
         "by": "Christina Igelmund"
     },
     {
         "topic": "Hochsensibilität",
         "on": "2026-05-20",
         "by": "Sonja Zimmermann"
+    },
+    {
+        "topic": "Grüne Reha",
+        "on": "2026-07-29",
+        "by": "Tomek Twardowski"
+    },
+    {
+        "topic": "Konsum/Suchtmittel/KI",
+        "on": "2026-08-26",
+        "by": "Matthias Dorner"
+    },
+    {
+        "topic": "Konsum/Suchtmittel/KI",
+        "on": "2026-12-09",
+        "by": "Matthias Dorner"
+    },
+    {
+        "topic": "Tiergestützte Therapie",
+        "on": "2026-10-28",
+        "by": "Tomek Twardowski"
     }
 ]
