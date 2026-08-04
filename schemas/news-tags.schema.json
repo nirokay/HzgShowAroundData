@@ -1,7 +1,7 @@
 {
     "title": "Tag List",
     "type": "array",
-    "properties": {
+    "items": {
         "type": "object",
         "description": "Tag Object",
         "properties": {
@@ -16,8 +16,8 @@
             "color": {
                 "type": "string",
                 "description": "Hex color"
-            },
-            "required": ["name"]
-        }
+            }
+        },
+        "required": ["name"]
     }
 }
