@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Warnung",
+        "desc": "Warnungen sind hervorgehobene Elemente, die besondere Aufmerksamkeit benötigen.",
+        "color": "#FFFF33"
+    },
+    {
+        "name": "Alarm",
+        "desc": "Alarme sind besonders hervorgehobene Elemente, die von äußester Wichtigkeit sind.",
+        "color": "#FF3333"
+    },
+    {
+        "name": "Feiertag",
+        "desc": "Feiertage",
+        "color": "#3399FF"
+    },
+    {
+        "name": "Fest",
+        "desc": "Feste in Herzogsägmühle",
+        "color": "#AF5F9C"
+    },
+    {
+        "name": "Veranstaltung",
+        "desc": "Veranstaltungen in Herzogsägmühle",
+        "color": "#AF5F9C"
+    },
+    {
+        "name": "Sport",
+        "desc": "Sportangebote in Herzogsägmühle",
+        "color": "#AF5F9C"
+    },
+    {
+        "name": "Gesundheitsvortrag",
+        "desc": "Gesundheitsvorträge im Haus 13.",
+        "color": "#86CA7C"
+    },
+    {
+        "name": "Verpflichtend",
+        "desc": "Verpflichtender Termin für Bewohner aus den Häusern 14, 16, und 18 des Latterbachs.",
+        "color": "#FF3333"
+    }
+]

@@ -72,6 +72,24 @@
                         "type": "string",
                         "description": "Link or path to image"
                     },
+                    "tags": {
+                        "type": "array",
+                        "description": "List of Tags",
+                        "items": {
+                            "type": "string",
+                            "description": "Tag",
+                            "enum": [
+                                "Warnung",
+                                "Alarm",
+                                "Feiertag",
+                                "Fest",
+                                "Veranstaltung",
+                                "Sport",
+                                "Gesundheitsvortrag",
+                                "Verpflichtend"
+                            ]
+                        }
+                    },
                     "details": {
                         "type": "array",
                         "description": "Array of strings joined by '<br />'",

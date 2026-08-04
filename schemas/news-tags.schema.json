@@ -1,0 +1,23 @@
+{
+    "title": "Tag List",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "description": "Tag Object",
+        "properties": {
+            "name": {
+                "type": "string",
+                "description": "Tag name"
+            },
+            "desc": {
+                "type": "string",
+                "description": "Optional description of tag"
+            },
+            "color": {
+                "type": "string",
+                "description": "Hex color"
+            },
+            "required": ["name"]
+        }
+    }
+}

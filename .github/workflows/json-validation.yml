@@ -85,6 +85,16 @@ jobs:
                   INPUT_SCHEMA: /schemas/news.schema.json
                   INPUT_JSONS: /json/news/news-repeat.json
 
+    verify-json-news-tags:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v1
+            - name: Validate news tags
+              uses: docker://orrosenblatt/validate-json-action:latest
+              env:
+                  INPUT_SCHEMA: /schemas/news-tags.schema.json
+                  INPUT_JSONS: /json/news/news-tags.json
+
     # Years: ------------------------------------------------------------------
 
     verify-json-news-2028:

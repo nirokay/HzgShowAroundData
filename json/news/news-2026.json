@@ -12,6 +12,7 @@
         "times": [{ "from": "2026-03-14 10:00", "till": "2026-03-14 12:00" }],
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/tischtennisturnier",
+        "tags": ["Veranstaltung"],
         "details": [
             "Zuschauer:innen und Spieler:innen willkommen.",
             "Kleinere Snacks und Getränke sind vorort vorhanden!"
@@ -29,6 +30,7 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/baum-pflanzaktion",
         "image": "seedling.svg",
+        "tags": ["Veranstaltung"],
         "details": [
             "Shuttle-Bus von der Martinskirche am Dorfplatz und vom Herzogsägmühler Friedhof um <time datetime='2026-04-18 08:30'>08.30 Uhr</time>.",
             "Wetterfeste Kleidung und Schuhe mitbringen, falls man einen Spaten hat, wird darum gebeten den auch mitzunehmen.",
@@ -49,6 +51,7 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/ausstellung-willy-zielke",
         "image": "https://www.herzogsaegmuehle.de/fileadmin/Diakoniedorf/Bilder/Erleben/Veranstaltungen/Lernort_Arbeitstreffen_Ausstellung_Willy_Zielke/W_Zielke_PotsdamFilmmuseum_N007_1.jpg",
+        "tags": ["Veranstaltung"],
         "details": [
             "Jede Person ist willkommen dazuzukommen; sei es zum Zuhören, Mitwirken oder zum Inspirieren lassen.",
             "Die Ausstellung soll Werke des Kameramannes und Filmemachers ausstellen, der Opfer der NS-Gesundheitspolitik in der Herzogsägmühle war.",
@@ -62,6 +65,7 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/infoabend-hep-schule",
         "image": "presentation.svg",
+        "tags": ["Veranstaltung"],
         "details": [
             "Alles Wissenswerte zur Heilerziehungspflegen- und Heil<wbr />erziehungs<wbr />pflege<wbr />hilfe<wbr />aus<wbr />bild<wbr />ung sowie zum Heilerziehungspflegerischen Einführungsjahr (HEJ)."
         ]
@@ -79,6 +83,7 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/sportfest",
         "image": "celebration.svg",
+        "tags": ["Veranstaltung", "Sport"],
         "details": [
             "Teammitglieder werden ausgelost und müssen verschiedene Aufgaben erledigen: <b>Torwand schießen</b>, <b>Kegeln</b>, <b>Dosenwerfen</b>, und weiteres.",
             "Als besonderes Event gibt es dieses Jahr wieder die <b>Bogenschützen</b>. Neue Aktivitäten sind dieses Jahr <b>Tischtennis</b>, <b>Slackline</b> und <b>Riesen-XXL-Fußball Dart</b>.",
@@ -91,6 +96,7 @@
         "times": [{ "on": "2026-05-06" }],
         "level": "info",
         "image": "presentation.svg",
+        "tags": ["Veranstaltung"],
         "details": []
     },
     {
@@ -99,6 +105,7 @@
         "times": [{ "from": "2026-05-09 10:30", "till": "2026-05-09 11:30" }],
         "level": "info",
         "image": "celebration.svg",
+        "tags": ["Veranstaltung", "Fest"],
         "details": []
     },
     {
@@ -107,6 +114,7 @@
         "times": [{ "on": "2026-05-09" }, { "on": "2026-05-10" }],
         "level": "warning",
         "image": "generic-warning.svg",
+        "tags": ["Veranstaltung"],
         "details": [
             "Der diesjährige Frühlingsflohmarkt wurde aufgrund der Baustelle am Roten Berg abgesagt."
         ]
@@ -118,6 +126,7 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/machart",
         "image": "art.svg",
+        "tags": ["Veranstaltung"],
         "details": ["Motto: <i>Unter einem Hut</i>"]
     },
     {
@@ -127,6 +136,7 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/machart",
         "image": "art.svg",
+        "tags": ["Veranstaltung"],
         "details": ["Motto: <i>Unter einem Hut</i>"]
     },
     {
@@ -143,6 +153,7 @@
         "locations": ["Brotbackhaus", "Dorfplatz"],
         "times": [{ "from": "2026-06-19 19:00", "till": "2026-06-19 22:00" }],
         "level": "info",
+        "tags": ["Fest"],
         "details": [
             "Ab <time datetime='2026-06-19 19:00'>19.00 Uhr</time> gibt es ein gemütliches Treffen am Brotbackhaus.",
             "Die Werkfeuerwehr bietet Bratwurst und Getränke.",
@@ -174,6 +185,7 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/serenade-in-herzogsaegmuehle",
         "image": "celebration.svg",
+        "tags": ["Fest"],
         "details": []
     },
     {
@@ -206,6 +218,7 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/dorffest",
         "image": "celebration.svg",
+        "tags": ["Fest"],
         "details": []
     },
     {
@@ -241,6 +254,7 @@
         "level": "info",
         "image": "https://www.herzogsaegmuehle.de/fileadmin/Diakoniedorf/Bilder/Erleben/Veranstaltungen/Lernort_Arbeitstreffen_Ausstellung_Willy_Zielke/W_Zielke_PotsdamFilmmuseum_N007_1.jpg",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/ausstellung-willy-zielke",
+        "tags": ["Veranstaltung"],
         "details": []
     },
     {
@@ -264,6 +278,7 @@
         "level": "info",
         "image": "https://www.herzogsaegmuehle.de/fileadmin/Diakoniedorf/Bilder/Erleben/Veranstaltungen/Lernort_Arbeitstreffen_Ausstellung_Willy_Zielke/W_Zielke_PotsdamFilmmuseum_N007_1.jpg",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/ausstellung-willy-zielke",
+        "tags": ["Veranstaltung"],
         "details": [
             "Begleitprogramm: <ul> <li>Offene Sonntagsführungen am <time datetime='2026-07-12 15:00'>12.07.</time> und <time datetime='2026-07-19 15:00'>19.07.</time> jeweils um <time>15.00 Uhr</time> </li> <li>Workshop <i>Verachtet – Verfolgt – Vergessen. Die Opfer der NS-Gesundheitspolitik in Herzogsägmühle</i> am <time datetime='2026-07-15 14:00'>Mittwoch den 15.07. von 14.00 bis 16.00 Uhr</time></li> </ul>"
         ]
@@ -282,6 +297,7 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/erntedankfest",
         "image": "celebration.svg",
+        "tags": ["Fest"],
         "details": [
             "TODO!! Spekulativ (falls du das siehst, upsi lol):",
             "Bustransfer, von der Martinskirche zur Landwirtschaft, ab <time datetime='2026-10-05 09:30'>09.30 Uhr</time>.",
@@ -298,6 +314,7 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/herbstflohmarkt",
         "image": "market.svg",
+        "tags": ["Veranstaltung"],
         "details": [
             "Alle Hilfeberechtigten können kostenlos ihre Waren anbieten und verkaufen.",
             "Zum Essen/Trinken gibt es <b>Kaffee und Kuchen</b> im Cafe und Wirtshaus Herzog und <b>Leberkäse- oder Käsesemmel</b> in der Deckerhalle."
@@ -309,6 +326,7 @@
         "times": [{ "on": "2026-10-27" }],
         "level": "info",
         "image": "presentation.svg",
+        "tags": ["Veranstaltung"],
         "details": []
     },
     {
@@ -336,6 +354,7 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/weihnachtsmarkt",
         "image": "christmas.svg",
+        "tags": ["Fest"],
         "details": [
             "An den Tagen ist der Werkstatt-Laden, MühlenMarkt und der Gärtnerei geöffnet."
         ]
