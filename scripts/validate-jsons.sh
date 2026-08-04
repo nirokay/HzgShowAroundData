@@ -62,6 +62,7 @@ check authors        json/contributors
 check contributors   json/contributors
 check locations      json/locations
 check news-health    json/news
+check news-tags      json/news
 check offerings      json/pages
 check tour_locations json/locations
 check travel         json/pages

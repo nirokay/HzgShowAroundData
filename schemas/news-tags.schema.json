@@ -1,7 +1,7 @@
 {
     "title": "Tag List",
     "type": "array",
-    "items": {
+    "properties": {
         "type": "object",
         "description": "Tag Object",
         "properties": {
