@@ -29,6 +29,7 @@ erklärt!
 >     "name": "Weihnachten",
 >     "times": [{ "from": "*-12-24", "till": "*-12-26" }],
 >     "level": "info",
+>     "tags": ["Feiertag"]
 >     "details": [
 >         "Frohe Weihnachten!"
 >     ]
@@ -39,6 +40,7 @@ erklärt!
 >     "name": "Heilig Abend",
 >     "times": [{ "on": "*-12-24" }],
 >     "level": "info",
+>     "tags": ["Feiertag"]
 >     "details": [
 >         "Frohe Weihnachten!"
 >     ]
@@ -55,6 +57,7 @@ erklärt!
 >         { "from": "2025-11-29 11:00", "till": "2025-11-29 19:00" },
 >         { "from": "2025-11-30 11:00", "till": "2025-11-30 17:00" }
 >     ],
+>     "tags": ["Fest"]
 >     "level": "info",
 >     "details": []
 > }
@@ -67,6 +70,7 @@ erklärt!
 >     "locations": ["Kapellenfeld"],
 >     "times": [{ "from": "2025-09-20 18:30", "till": "2025-09-20 21:00" }],
 >     "level": "info",
+>     "tags": ["Veranstaltung"]
 >     "details": [
 >         "Start is um 18.30 Uhr. Gerne selbstständig Grillgut und Getränke mitnehmen."
 >     ]
@@ -141,6 +145,13 @@ kann weggelassen werden.
 
 Hier kann ein optionaler Link eingefügt werden, der dem Leser mehr Informationen zu dem Event geben soll.
 
+#### Feld `tags`
+
+Das ist eine optionale Liste an Tags. Eine komplette und aktuelle Liste ist [hier](../json/news/news-tags.json) zu finden.
+
+Diese Tags sind kurze, grobe Einordnungen für ein Event: *Warnung, Alarm, Feiertag, Fest, Veranstaltung, Sport,
+Gesundheitsvortrag, Verpflichtend*
+
 #### Feld `details`
 
 Dieses Feld ist eine Liste mit Textzeilen, die den größten Teil des Events ausmacht.
@@ -152,6 +163,7 @@ Dieses Feld ist eine Liste mit Textzeilen, die den größten Teil des Events aus
 >     "name": "Event",
 >     "times": [{ "on": "*-01-01" }],
 >     "level": "info",
+>     "tags": ["Feiertag"],
 >     "details": [
 >         "Frohes Neues Jahr!",
 >         "Ich hoffe du hattest einen guten Rutsch :)"
