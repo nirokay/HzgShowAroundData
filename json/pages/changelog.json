@@ -1,5 +1,13 @@
 [
     {
+        "date": "2026-08-14",
+        "text": {
+            "NewsFeed": [
+                "Tags und die Möglichkeit nach ihnen zu filtern wurden hinzugefügt"
+            ]
+        }
+    },
+    {
         "date": "2026-02-20",
         "text": {
             "Bus und Taxi": ["hinzugefügt"]
