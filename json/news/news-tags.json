@@ -10,8 +10,8 @@
         "color": "#FF3333"
     },
     {
-        "name": "Feiertag",
-        "desc": "Feiertage",
+        "name": "Feiertage und Ferien",
+        "desc": "Feiertage und Ferien",
         "color": "#3399FF"
     },
     {
@@ -38,5 +38,15 @@
         "name": "Verpflichtend",
         "desc": "Verpflichtender Termin für Bewohner aus den Häusern 14, 16, und 18 des Latterbachs.",
         "color": "#FF3333"
+    },
+    {
+        "name": "Vergangen",
+        "desc": "Termin liegt in der Vergangenheit zurück.",
+        "color": "#2F3139"
+    },
+    {
+        "name": "Heute",
+        "desc": "Termin findet heute statt.",
+        "color": "#E8E6E3"
     }
 ]
