@@ -1,0 +1,8 @@
+{
+    "title": "Redirection list",
+    "type": "object",
+    "additionalProperties": {
+        "type": "string",
+        "description": "Redirection location"
+    }
+}

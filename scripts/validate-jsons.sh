@@ -57,6 +57,7 @@ function checkYearNews() {
     validate "${SCHEMA_DIR}/news.schema.json" "${FILE}"
 }
 
+check redirections   json
 check articles       json/pages
 check authors        json/contributors
 check contributors   json/contributors

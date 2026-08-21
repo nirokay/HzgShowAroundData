@@ -3,6 +3,16 @@ name: Validate JSONs
 on: [pull_request, push]
 
 jobs:
+    verify-json-redirections:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v1
+            - name: Validate locations
+              uses: docker://orrosenblatt/validate-json-action:latest
+              env:
+                  INPUT_SCHEMA: /schemas/redirections.schema.json
+                  INPUT_JSONS: /json/redirections.json
+
     verify-json-locations:
         runs-on: ubuntu-latest
         steps:
