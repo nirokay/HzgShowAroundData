@@ -27,7 +27,12 @@
     {
         "name": "Sport",
         "desc": "Sportangebote in Herzogsägmühle",
-        "color": "#AF5F9C"
+        "color": "#0D5A12"
+    },
+    {
+        "name": "Musik",
+        "desc": "Musik und Konzerte",
+        "color": "#EB8E41"
     },
     {
         "name": "Gesundheitsvortrag",

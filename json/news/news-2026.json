@@ -291,6 +291,34 @@
         "details": []
     },
     {
+        "name": "Konzert: <q>Anschi Hacklinger</q>",
+        "locations": ["Rainer-Endisch-Saal"],
+        "times": [{"from": "2026-09-18 19:00", "till": "2026-09-18 20:00"}],
+        "level": "info",
+        "image": "https://www.herzogsaegmuehle.de/fileadmin/_processed_/0/2/csm_teaser_Konzert_Hacklinger_800x530px_528f8c5052.jpg",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/konzert-anschi-hacklinger",
+        "tags": ["Veranstaltung", "Musik"],
+        "details": [
+            "Die Musikkünstlerin Anschi Hacklinger spielt am Flügel, in Begleitung von Marion Dimbath an Posaune und Tuba, eine Sammlung von Musikstücken.",
+            "Diese sind eine Kombination von tiefgründigen Gedanken mit absurden Texten.",
+            "Der Eintritt ist kostenfrei."
+        ]
+    },
+    {
+        "name": "Rockkonzert: <q>Licca</q>",
+        "locations": ["Rainer-Endisch-Saal"],
+        "times": [{"from": "2026-10-02 19:00", "till": "2026-10-02 21:00"}],
+        "level": "info",
+        "image": "https://www.herzogsaegmuehle.de/fileadmin/_processed_/1/c/csm_Teaser_Rockkonzert_Licca_800x530px_bf82557ebe.jpg",
+        "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/rockkonzert-mit-licca",
+        "tags": ["Veranstaltung", "Musik"],
+        "details": [
+            "Einlass um <time datetime='2026-10-02 18:30'>18.30 Uhr</time>, Beginn um <time datetime='2026-10-02 19:00'>19.00 Uhr</time>.",
+            "Die Band <q>Licca</q> spielen Rockcoversongs aus verschiedenen Jahrzehnten.",
+            "Der Eintritt ist kostenfrei, Getränke kosten 1€."
+        ]
+    },
+    {
         "name": "Erntedankfest",
         "locations": ["Landwirtschaft", "Martinskirche"],
         "times": [{ "from": "2026-10-05 10:30", "till": "2026-10-05 15:00" }],
@@ -299,9 +327,8 @@
         "image": "celebration.svg",
         "tags": ["Fest"],
         "details": [
-            "TODO!! Spekulativ (falls du das siehst, upsi lol):",
-            "Bustransfer, von der Martinskirche zur Landwirtschaft, ab <time datetime='2026-10-05 09:30'>09.30 Uhr</time>.",
-            "Beginnt mit einem familienfreundlichen Festgottestdienst.\nSpäter ein gemeinsames Mittagessen, Kaffee, Kuchen und Live-Musik."
+            "Beginn um <time 2026-10-05 10:30>10.30 Uhr</time> mit einem bunten Erntedank-Gottesdienst in der Martinskirche. Es dürfen Ertedankkörbe mitgebracht werden.",
+            "Anschließend das Erntedankfest mit gemeinsamen Mittagessen, Kaffee und Live-Musik in der Landwirtschaft."
         ]
     },
     {

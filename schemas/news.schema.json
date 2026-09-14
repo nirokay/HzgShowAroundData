@@ -81,10 +81,11 @@
                             "enum": [
                                 "Warnung",
                                 "Alarm",
-                                "Feiertag",
+                                "Feiertage und Ferien",
                                 "Fest",
                                 "Veranstaltung",
                                 "Sport",
+                                "Musik",
                                 "Gesundheitsvortrag",
                                 "Verpflichtend"
                             ]
