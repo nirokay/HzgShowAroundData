@@ -130,6 +130,7 @@
             "Denkmal <q>Ort der Erinnerung</q>",
             "Denkmal Ort der Erinnerung"
         ],
+        "link": "https://www.herzogsaegmuehle.de/erleben/gedenkstaette",
         "desc": {},
         "open": {},
         "pics": {},
@@ -730,7 +731,7 @@
     {
         "name": "Alfons-Brandl-Schule",
         "alias": ["Alfons-Brandl Schule"],
-        "link": "https://www.herzogsaegmuehle.de/ort-der-hilfe/schulbildung/kurzinfo-alfons-brandl-schule-foerderzentrum",
+        "link": "https://alfons-brandl-schule.de/",
         "desc": {},
         "open": {},
         "pics": {
@@ -1032,6 +1033,14 @@
         }
     },
     {
+        "name": "Werkfeuerwehr",
+        "link": "https://diewerkfeuerwehr.net/",
+        "desc": {},
+        "open": {},
+        "pics": {},
+        "same": []
+    },
+    {
         "name": "Berufsbildende Maßnahme (BBM)",
         "alias": ["Berufsbildende Maßnahme", "BBM"],
         "link": "https://www.herzogsaegmuehle.de/arbeit-und-qualifizierung/berufliche-orientierung",
@@ -1178,6 +1187,7 @@
             "Reithalle Sternenstunde",
             "Reithalle",
             "Tiergestützte Therapie",
+            "Tiergestützten Therapie",
             "Tiergestützte-Therapie",
             "Pferdetherapie",
             "Reittherapie"
