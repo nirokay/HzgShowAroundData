@@ -6,6 +6,11 @@ CONVERT_TARGET=$2
 [ "$CONVERT_EXTENTION" == "" ] && CONVERT_EXTENTION=jpg
 [ "$CONVERT_TARGET" == "" ] &&    CONVERT_TARGET=webp
 
+if ! ffmpeg --help &> /dev/null; then
+    echo -e "Dependency missing: ffmpeg"
+    exit 1
+fi
+
 echo -e "Converting $CONVERT_EXTENTION to $CONVERT_TARGET!"
 
 printf "Is this correct? [y/N] "
