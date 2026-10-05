@@ -82,7 +82,7 @@
         "times": [{ "from": "2026-05-02 13:00", "till": "2026-05-02 18:00" }],
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/sportfest",
-        "image": "celebration.svg",
+        "image": "sport.svg",
         "tags": ["Veranstaltung", "Sport"],
         "details": [
             "Teammitglieder werden ausgelost und müssen verschiedene Aufgaben erledigen: <b>Torwand schießen</b>, <b>Kegeln</b>, <b>Dosenwerfen</b>, und weiteres.",
@@ -153,7 +153,7 @@
         "locations": ["Brotbackhaus", "Dorfplatz"],
         "times": [{ "from": "2026-06-19 19:00", "till": "2026-06-19 22:00" }],
         "level": "info",
-        "tags": ["Fest"],
+        "tags": ["Veranstaltung", "Fest"],
         "details": [
             "Ab <time datetime='2026-06-19 19:00'>19.00 Uhr</time> gibt es ein gemütliches Treffen am Brotbackhaus.",
             "Die Werkfeuerwehr bietet Bratwurst und Getränke.",
@@ -185,7 +185,7 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/serenade-in-herzogsaegmuehle",
         "image": "celebration.svg",
-        "tags": ["Fest"],
+        "tags": ["Veranstaltung", "Fest"],
         "details": []
     },
     {
@@ -218,7 +218,7 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/dorffest",
         "image": "celebration.svg",
-        "tags": ["Fest"],
+        "tags": ["Veranstaltung", "Fest"],
         "details": []
     },
     {
@@ -325,7 +325,7 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/erntedankfest",
         "image": "celebration.svg",
-        "tags": ["Fest"],
+        "tags": ["Veranstaltung", "Fest"],
         "details": [
             "Beginn um <time 2026-10-05 10:30>10.30 Uhr</time> mit einem bunten Erntedank-Gottesdienst in der Martinskirche. Es dürfen Ertedankkörbe mitgebracht werden.",
             "Anschließend das Erntedankfest mit gemeinsamen Mittagessen, Kaffee und Live-Musik in der Landwirtschaft."
@@ -443,7 +443,7 @@
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/weihnachtsmarkt",
         "image": "christmas.svg",
-        "tags": ["Fest"],
+        "tags": ["Veranstaltung", "Fest"],
         "details": [
             "An den Tagen ist der Werkstatt-Laden, MühlenMarkt und der Gärtnerei geöffnet."
         ]

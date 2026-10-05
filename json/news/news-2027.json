@@ -5,5 +5,43 @@
         "times": [{ "on": "2027-01-02" }],
         "level": "warning",
         "details": []
+    },
+    {
+        "name": "Sporttag der Vielfalt",
+        "locations": [
+            "Sporthalle",
+            "Tennisplatz",
+            "Fußballplatz",
+            "Handball- und Basketballfeld",
+            "Sprintstrecke",
+            "Beach-Volleyballfeld"
+        ],
+        "times": [{ "on": "2027-05-01" }],
+        "level": "info",
+        "image": "sport.svg",
+        "tags": ["Veranstaltung", "Sport"],
+        "details": []
+    },
+    {
+        "name": "Dorffest",
+        "locations": [
+            "Dorfplatz",
+            "Deckerhalle",
+            "Rainer-Endisch-Saal"
+        ],
+        "times": [{ "on": "2026-07-04" }],
+        "level": "info",
+        "image": "celebration.svg",
+        "tags": ["Veranstaltung", "Fest"],
+        "details": []
+    },
+    {
+        "name": "Serenade",
+        "locations": ["Rainer-Endisch-Saal"],
+        "times": [{ "on": "2026-07-24" }],
+        "level": "info",
+        "image": "celebration.svg",
+        "tags": ["Veranstaltung", "Fest"],
+        "details": []
     }
 ]
