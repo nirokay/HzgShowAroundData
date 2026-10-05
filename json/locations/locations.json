@@ -189,6 +189,10 @@
     },
     {
         "name": "Metzgerei und Bäckerei",
+        "alias": [
+            "Metzgerei",
+            "Bäckerei"
+        ],
         "link": "https://www.herzogsaegmuehle.de/laeden-und-betriebe/handwerksbetriebe#c6041",
         "desc": {},
         "open": {},
