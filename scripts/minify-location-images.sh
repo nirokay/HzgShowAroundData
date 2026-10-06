@@ -24,12 +24,12 @@ function convert_subdirectory() {
             if [[ "$ITEM" =~ .*\.webp ]]; then
                 TARGET=${ITEM//.webp/_mini.webp}
                 echo -e "Converting: $ITEM -> $TARGET"
-                ffmpeg -i "$ITEM" -vf scale=640:480 "$TARGET" &
+                ffmpeg -i "$ITEM" -vf scale=600:-1 "$TARGET" &
             fi
             if [[ "$ITEM" =~ .*\.webp ]]; then
                 TARGET=${ITEM//.webp/_nano.webp}
                 echo -e "Converting: $ITEM -> $TARGET"
-                ffmpeg -i "$ITEM" -vf scale=320:240 "$TARGET" &
+                ffmpeg -i "$ITEM" -vf scale=300:-1 "$TARGET" &
             fi
         fi
     done
