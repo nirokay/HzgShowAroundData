@@ -45,4 +45,4 @@ function convert_subdirectory() {
     cd ..
 }
 
-convert_subdirectory "resources/images/locations/"
+convert_subdirectory "resources/images/articles/"

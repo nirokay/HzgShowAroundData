@@ -38,5 +38,6 @@ function convert_subdirectory() {
 }
 
 convert_subdirectory "resources/images/locations/"
+convert_subdirectory "resources/images/articles/"
 
 true
