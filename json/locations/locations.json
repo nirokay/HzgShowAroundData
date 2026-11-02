@@ -99,7 +99,7 @@
             }
         },
         "pics": {
-            "header": "shopping/mühlenmarkt/lebensmittelautomat_am_muehlenmarkt.webp"
+            "header": "shopping/mühlenmarkt/lebensmittelautomat-am-muehlenmarkt.webp"
         },
         "same": ["MühlenMarkt", "Werkstatt-Laden im MühlenMarkt"],
         "coords": [619, 3485, 640, 3509],
