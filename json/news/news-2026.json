@@ -438,7 +438,7 @@
         "times": [
             { "from": "2026-11-27 11:00", "till": "2026-11-27 19:00" },
             { "from": "2026-11-28 11:00", "till": "2026-11-28 19:00" },
-            { "from": "2026-11-29 11:00", "till": "2026-11-29 17:00" },
+            { "from": "2026-11-29 11:00", "till": "2026-11-29 17:00" }
         ],
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/weihnachtsmarkt",
