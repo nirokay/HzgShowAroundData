@@ -436,16 +436,42 @@
             "Gärtnerei"
         ],
         "times": [
-            { "on": "2026-11-27" },
-            { "on": "2026-11-28" },
-            { "on": "2026-11-29" }
+            { "from": "2026-11-27 11:00", "till": "2026-11-27 19:00" },
+            { "from": "2026-11-28 11:00", "till": "2026-11-28 19:00" },
+            { "from": "2026-11-29 11:00", "till": "2026-11-29 17:00" },
         ],
         "level": "info",
         "info": "https://www.herzogsaegmuehle.de/erleben/veranstaltungen/weihnachtsmarkt",
         "image": "christmas.svg",
         "tags": ["Veranstaltung", "Fest"],
         "details": [
-            "An den Tagen ist der Werkstatt-Laden, MühlenMarkt und der Gärtnerei geöffnet."
+            "An allen Tagen des Marktes ist der Werkstatt-Laden, MühlenMarkt und der Gärtnerei geöffnet.",
+            "Die Linienbusse bieten <a href='https://www.herzogsaegmuehle.de/fileadmin/Diakoniedorf/PDFs/Erleben/Veranstaltungen/Weihnachtsmarkt/Linienplan_Weihnachtsmarkt_Herzogsaegmuehle_2026.pdf'>Sonderfahrten zur und vom Markt (Peiting und Schongau)</a> an.",
+            "",
+            "Freitag:",
+            "<time datetime='2026-11-27 11:00'>11.00 Uhr</time>: Eröffnung in der Deckerhalle",
+            "<time datetime='2026-11-27 13:00'>13.00 bis 18.00 Uhr</time>: Kinderkaufmannsladen",
+            "<time datetime='2026-11-27 16:00'>16.00 Uhr</time>: Märchenerzählerin",
+            "<time datetime='2026-11-27 17:00'>17.00 Uhr</time>: Posaunenchor Peißenberg",
+            "<time datetime='2026-11-27 18:00'>18.00 Uhr</time>: Gospelchor",
+            "",
+            "Samstag:",
+            "<time datetime='2026-11-28 11:00'>11.00 bis 18.00 Uhr</time>: Kerzenziehen im Werk 7",
+            "<time datetime='2026-11-28 13:00'>13.00 bis 18.00 Uhr</time>: Kinderkaufmannsladen und PuBalei",
+            "<time datetime='2026-11-28 14:00'>14.00 bis 15.00 Uhr</time>: Plätzchenbacken im Brotbackhaus (max. 10 Kinder)",
+            "<time datetime='2026-11-28 15:00'>15.00 bis 18.00 Uhr</time>: Pferdekutschenfahrten",
+            "<time datetime='2026-11-28 15:30'>15.30 bis 16.30 Uhr</time>: Benefizkonzert in der Martinskirche",
+            "<time datetime='2026-11-28 15:30'>15.30 bis 16.30 Uhr</time>: Plätzchenbacken im Brotbackhaus (max. 10 Kinder)",
+            "<time datetime='2026-11-28 17:00'>17.00 bis 18.00 Uhr</time>: Peitinger Alphornbläser auf dem Dorfplatz",
+            "",
+            "Sonntag:",
+            "<time datetime='2026-11-29 10:00'>10.00 Uhr</time>: Gospelgottesdienst in der Martinskirche",
+            "<time datetime='2026-11-29 11:00'>11.00 bis 16.00 Uhr</time>: Kerzenziehen im Werk 7",
+            "<time datetime='2026-11-29 11:00'>11.00 bis 16.00 Uhr</time>: Kinderkaufmannsladen",
+            "<time datetime='2026-11-29 12:00'>12.00 bis 13.00 Uhr</time>: Plätzchenbacken im Brotbackhaus (max. 10 Kinder)",
+            "<time datetime='2026-11-29 13:00'>13.00 Uhr</time>: Vokalensemble <q>Ammer Cantus</q> in der Martinskirche",
+            "<time datetime='2026-11-29 13:30'>13.30 bis 14.30 Uhr</time>: Plätzchenbacken im Brotbackhaus (max. 10 Kinder)",
+            "<time datetime='2026-11-29 15:00'>15.00 Uhr</time>: Nikolaus mit der Pferdekutsche auf dem Dorfplatz - im Anschluss Pferdekutschenfahrten"
         ]
     },
     {
